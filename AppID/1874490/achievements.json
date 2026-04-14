@@ -1,0 +1,122 @@
+{
+  "Adventure_Complete_MavensTower": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Carnival_Beat_Anubia": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Carnival_Beat_BossFinn": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Carnival_Beat_Corsac": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Carnival_Beat_Robin": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Carnival_Beat_Roxanne": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Carnival_InstantRoundWin": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Debt_Acquired": {
+    "earned": true,
+    "earned_time": 1747658170
+  },
+  "Debt_PaidOff": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Gift_Luna_Bug": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Haggle_StressGameOver": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "IngredientExpansion_100": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "IngredientExpansion_30": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "IngredientExpansion_60": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Money_0": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Money_10000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Money_2500": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Money_500": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MukTuk_Upgrade_Max": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PotionBrew_100": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PotionBrew_300": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PotionBrew_MaxTier": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PotionBrew_MaxTier_All": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Relationship_Decline": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Relationship_Max_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Relationship_Max_10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Relationship_Max_3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Relationship_Max_7": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Relationship_Romantic": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ShopUpgrade_Complete": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

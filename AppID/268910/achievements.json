@@ -1,0 +1,170 @@
+{
+  "ARankWorld1": {
+    "earned": true,
+    "earned_time": 1763499399
+  },
+  "ARankWorld2": {
+    "earned": true,
+    "earned_time": 1763501292
+  },
+  "ARankWorld3": {
+    "earned": true,
+    "earned_time": 1763504118
+  },
+  "ARankWorld4": {
+    "earned": true,
+    "earned_time": 1763504935
+  },
+  "ARankWorldDLC": {
+    "earned": true,
+    "earned_time": 1763562667
+  },
+  "BadEnding": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "BoughtAllItems": {
+    "earned": true,
+    "earned_time": 1763505149
+  },
+  "ChaliceSuperWin": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "CompleteDevil": {
+    "earned": true,
+    "earned_time": 1763504935
+  },
+  "CompleteDicePalace": {
+    "earned": true,
+    "earned_time": 1763504623
+  },
+  "CompleteWorld1": {
+    "earned": true,
+    "earned_time": 1763499399
+  },
+  "CompleteWorld2": {
+    "earned": true,
+    "earned_time": 1763501292
+  },
+  "CompleteWorld3": {
+    "earned": true,
+    "earned_time": 1763504118
+  },
+  "CompleteWorldDLC": {
+    "earned": true,
+    "earned_time": 1763562505
+  },
+  "DefeatAllKOG": {
+    "earned": true,
+    "earned_time": 1763563013
+  },
+  "DefeatBoss": {
+    "earned": true,
+    "earned_time": 1763497990
+  },
+  "DefeatBossAsChalice": {
+    "earned": true,
+    "earned_time": 1763562667
+  },
+  "DefeatBossDLCWeapon": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "DefeatBossNoMinions": {
+    "earned": true,
+    "earned_time": 1763506482
+  },
+  "DefeatDevilPhase2": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "DefeatKOGGauntlet": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "DefeatSaltbaker": {
+    "earned": true,
+    "earned_time": 1763562667
+  },
+  "DefeatXBossesAsChalice": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ExWin": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FoundAllLevelMoney": {
+    "earned": true,
+    "earned_time": 1763504256
+  },
+  "FoundAllMoney": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FoundSecretPassage": {
+    "earned": true,
+    "earned_time": 1763500146
+  },
+  "GoodEnding": {
+    "earned": true,
+    "earned_time": 1763504979
+  },
+  "HP9": {
+    "earned": true,
+    "earned_time": 1763504371
+  },
+  "NewGamePlus": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "NoHitsTaken": {
+    "earned": true,
+    "earned_time": 1763497135
+  },
+  "NoHitsTakenDicePalace": {
+    "earned": true,
+    "earned_time": 1763504623
+  },
+  "PacifistRun": {
+    "earned": true,
+    "earned_time": 1763504256
+  },
+  "Paladin": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ParryApprentice": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ParryChain": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ParryMaster": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SRank": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SRankAnyDLC": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SmallPlaneOnlyWin": {
+    "earned": true,
+    "earned_time": 1763498046
+  },
+  "SuperWin": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "UnlockedAllSupers": {
+    "earned": true,
+    "earned_time": 0
+  }
+}

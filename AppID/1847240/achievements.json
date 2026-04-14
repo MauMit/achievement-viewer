@@ -1,0 +1,26 @@
+{
+  "GAMECLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GAMEDEVELOP": {
+    "earned": true,
+    "earned_time": 1774821070
+  },
+  "GAMEDEVWIN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GAMEMILLION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "JOBMASTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KAIROKUN": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

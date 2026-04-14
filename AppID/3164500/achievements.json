@@ -1,0 +1,54 @@
+{
+  "BIGWIG": {
+    "earned": true,
+    "earned_time": 1767804871
+  },
+  "BUSINESSMAN": {
+    "earned": true,
+    "earned_time": 1767787816
+  },
+  "COMPLETE_PROLOGUE": {
+    "earned": true,
+    "earned_time": 1743618172
+  },
+  "DEALER_RECRUITED": {
+    "earned": true,
+    "earned_time": 1767784091
+  },
+  "FINISHING_THE_JOB": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "INDIAN_DEALER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LONG_ARM_OF_THE_LAW": {
+    "earned": true,
+    "earned_time": 1767703021
+  },
+  "MAGNATE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MASTER_CHEF": {
+    "earned": true,
+    "earned_time": 1743617279
+  },
+  "ROLLING_IN_STYLE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RV_DESTROYED": {
+    "earned": true,
+    "earned_time": 1743618652
+  },
+  "UPSTANDING_CITIZEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "URBAN_ARTIST": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

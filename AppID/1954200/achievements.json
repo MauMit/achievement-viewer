@@ -1,0 +1,166 @@
+{
+  "ACH_ABILITY_ALL": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_ABILITY_BOMB": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_ABILITY_BOW": {
+    "earned": true,
+    "earned_time": 1775128222
+  },
+  "ACH_ABILITY_DASH": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_BOSS_ROT_GOD": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_BOSS_TARO": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_BOSS_TOSHI": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_BOSS_WOODSMITH": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_CHALLENGE_ARROW": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_CHALLENGE_BOMB": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_CHALLENGE_COMBAT_ACTIONS": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_CHALLENGE_CRIT": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_CHALLENGE_DASH_KILL": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_CHALLENGE_MAGE_BOMB": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_CHALLENGE_MOTH": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_CHALLENGE_MULTISHOT": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_CHALLENGE_PARRY_KILL": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_CHALLENGE_SHIELD_STICKS": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_CHESTS_ALL": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_DIFFICULTY_MASTER": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_HATS_ALL": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_HERO_ROT": {
+    "earned": true,
+    "earned_time": 1774723424
+  },
+  "ACH_JIZO_ALL": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_JIZO_FIRST": {
+    "earned": true,
+    "earned_time": 1775127132
+  },
+  "ACH_LOCATION_FARM": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_LOCATION_FOREST": {
+    "earned": true,
+    "earned_time": 1775127390
+  },
+  "ACH_LOCATION_MOUNTAIN": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_LOCATION_VILLAGE": {
+    "earned": true,
+    "earned_time": 1775126567
+  },
+  "ACH_MAIL_ALL": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_MEDITATION_ALL": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_PHOTO_MODE": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_RELIC_FOOD_OFFERING": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_RELIC_HAMMER": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_RELIC_HARPOON": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_RELIC_INCENSE": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_RELIC_KNIFE": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_RELIC_LANTERN": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_RELIC_OX": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_RELIC_VILLAGE_CREST": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_RELIC_VILLAGE_HEART": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACH_ROT_ALL": {
+    "earned": true,
+    "earned_time": 0
+  }
+}

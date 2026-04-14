@@ -1,0 +1,298 @@
+{
+  "MAIN_STORY_1": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAIN_STORY_2": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KASUGA_LEVEL_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAIN_STORY_3": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SUBSTORY_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAIN_STORY_4": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "TOILET": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAIN_STORY_5": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KAONAJIMI_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KASUGA_LEVEL_B": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAIN_STORY_6": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAIN_STORY_7": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SUJIMON_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SUBSTORY_B": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "JOB_MASTER_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAIN_STORY_8": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "JOB_MASTER_B": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAIN_STORY_9": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAIN_STORY_10": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ENDING_MEMORY_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "BUKI_ROMAN_SEISAKUJO": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ACTIVITY_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KIZUNA_TOMIZAWA": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAIN_STORY_11": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "JOB_MASTER_C": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAIN_STORY_12": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SUJIMON_GET": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAIN_STORY_13": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KIZUNA_SONHI": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KIZUNA_NANBA": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAIN_STORY_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SUJIMON_B": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KIZUNA_SAEKO": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KIZUNA_CHITOSE": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ENDING_MEMORY_B": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KASUGA_LEVEL_C": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KIZUNA_ADACHI": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "BUKI_C": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KIZUNA_CHOU": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SUBSTORY_C": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ENDING_STORY_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "QUALIFICATION": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SUJIMON_STORY_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "RESORT_RANK": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "RESORT_STORY_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SUJIMON_LEVEL_MAX": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "RESORT_CM": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "PHOTORALLY_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "PLAY_ALL_SPOT": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KIRYU_LEVEL_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KIZUNA_HAN": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KASUGA_NINGENRYOKU_MAX": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MATCHINGAPP_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "DUNGEON_HAWAII_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "RESORT_DIY": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "DELIHELP_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "DUNGEON_YOKOHAMA_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "RAID_BATTLE_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "DELIVERY_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KASUGA_NINGENRYOKU_ALL_MAX": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KASUGA_LEVEL_D": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "RESORT_GUEST": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SNAP_CLAER": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FINAL_HAWAII_FLOOR1_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FINAL_HAWAII_FLOOR2_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FINAL_HAWAII_FLOOR3_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FINAL_HAWAII_FLOOR4_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FINAL_HAWAII_FLOOR5_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "RAINBOW": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "PNEW_GAME_COME_BACK": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "PNEW_GAME_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "PLATINUM": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "PNEW_GAME_EXHARD_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "PNEW_GAME_HARD_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  }
+}

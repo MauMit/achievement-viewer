@@ -1,0 +1,250 @@
+{
+  "MAIN_STORY_1": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SKILL_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "RANK_FAME_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SKILL_B": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "RANK_FAME_B": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "COORDINATE_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MEMBER_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "RANK_FAME_C": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "DEVIL_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "TREASURE_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KAONAJIMI": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAIN_STORY_2": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SUBSTORY_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "RANK_FAME_D": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "BOUNTY_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SKILL_C": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "RING": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAKE_WEAPON": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MEMBER_B": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ADVENTURER": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAIN_STORY_3": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FOOK_GET": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "PLAY_ALL_SPOT": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "PHOTORALLY": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ARENA_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "GORO_kingdom": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SKILL_D": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "COORDINATE_B": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "DEVIL_B": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAIN_STORY_4": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "GADGET_C": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MAIN_STORY_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FOOK_MOVE": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "GADGET_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "SUBSTORY_B": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "GADGET_B": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "DEVIL_C": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "BANBAN_batting": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "GOLD_BALL": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "QUALIFICATION": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MINATOKU": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "DEVIL_D": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KIZUNA_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "TREASURE_B": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "DEVIL_E": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "BOUNTY_B": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ARENA_B": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ULTIMATE_HACT_B": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KARAOKE_SEA": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "MEMBER_C": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ULTIMATE_HACT_A": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "COORDINATE_C": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "DRAGON_CART": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ARENA_C": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "KIZUNA_B": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "GORO_SHIP": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ROCKET": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "ULTIMATE_HACT_C": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "COOKING": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "AMON": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "DELIVERY_CLEAR": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "PLATINUM": {
+    "earned": true,
+    "earned_time": 0
+  }
+}

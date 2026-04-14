@@ -1,0 +1,70 @@
+{
+  "AD_ASTRA_FINISHED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CAR_CRASH_FINISHED": {
+    "earned": true,
+    "earned_time": 1771628774
+  },
+  "COLLECT_ALL_CLUES": {
+    "earned": true,
+    "earned_time": 1771628379
+  },
+  "DISCO_FINISHED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DRUG_PARTY_FINISHED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINALE_FINISHED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINISH_CASE_WITHOUT_ALL_CLUES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINISH_GAME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HOTEL_FINISHED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KADY_FINISHED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KENNETH_FINISHED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LIGHT_MY_FIRE": {
+    "earned": true,
+    "earned_time": 1771628510
+  },
+  "MANSION_FINISHED": {
+    "earned": true,
+    "earned_time": 1771689701
+  },
+  "NOTEBOOK_WRITER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RADIO_FINISHED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "THEATRE_FINISHED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TUTORIAL_FINISHED": {
+    "earned": true,
+    "earned_time": 1771628436
+  }
+}

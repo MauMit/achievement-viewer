@@ -1,0 +1,282 @@
+{
+  "ACH_AGENT_PLAYER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AMATEUR_PLAYER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ASCENSION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BATTLE_MASTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BOW_SOLDIER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAPTER11_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAPTER12_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAPTER21_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAPTER22_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAPTER23_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAPTER31_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAPTER32_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAPTER33_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAPTER41_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAPTER42_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAPTER51_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAPTER52_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAPTER53_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAPTER61_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAPTER62_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHAPTER63_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHARACTER_COMPLETE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COIN_COMPLETE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMBO_ATTACK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMBO_MASTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMBO_MASTER_DUO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COSTUME_COMPLETE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CRASH_MAKER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CRITICAL_SNIPE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DE_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DE_CLEAR_PRO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DE_CLEAR_S": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EGG_COMPLETE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ELECTRO_SHOCK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EXPLOSION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FATE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FIGURE_COMPLETE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GATLING_SOLDIER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HEAD_HUNTING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HEART_ATTACK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HELPER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HOTSHOT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_INSIGHT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_KILLER_SMELL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_KNIFE_MANIA": {
+    "earned": true,
+    "earned_time": 1755454929
+  },
+  "ACH_LIFESAVER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LN_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LN_CLEAR_PRO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LN_CLEAR_S": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MATERIAL_COMBAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MEAT_SHOWER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NORMAL_PLAYER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PROFESSIONAL_PLAYER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SCORE_ATTACK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SCORE_ATTACK_DUO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SCORE_HANTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SEA_OF_FIRE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SLAYERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_STAND_PLAY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SURVIVORS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TEAM_SLAYERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TEAM_SURVIVORS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_THUNDERBOLT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TREASURE_COMPLETE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TRUE_TRUST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_UPGRADE_COMPLETE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_VAIR_KNUCKLE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_WEAK_POINT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_WEAPON_COMPLETE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_WESKERS_FURY": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

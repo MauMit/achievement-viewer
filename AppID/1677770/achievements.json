@@ -1,0 +1,70 @@
+{
+  "burning_man": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "cabin": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "card_den": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "cultists": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "departure_and_betrayal": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "finale": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "first_case": {
+    "earned": true,
+    "earned_time": 1765586855
+  },
+  "gentleman": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "lighthouse": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "mermaid": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "poisoning": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "rajas_court": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ruins_of_xenopolis": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "salon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "spider_web": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tribunal": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "vampire_strikes": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "BUILD_LEMONADE_STAND": {
+    "earned": true,
+    "earned_time": 1766243440
+  },
+  "COMPLETE_100_ORDERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_10_ORDERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EARN_100_$": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EARN_10_$": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "END_ALIEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIRST_ORDER_MOM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLAY_BASKETBALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RETURN_LOST_CAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SERVED_1_CUSTOMER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TALK_TO_ALIEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TALK_TO_JESSICA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "UNLOCK_COOKIE_RECIPE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "UNLOCK_ORANGEADE_RECIPE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WIN_BIKE_RACE": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "AchievementId_ArrestSuspectsLarge": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_BookCriminalsOneShift": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_BookCriminalsSmall": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_CallUniqueSupportOneSuspect": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_CarJumpsAll": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_CarJumpsSmall": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_ChiefParking": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_CompleteAugustGang": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_CompleteCrimsonSerpents": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_CompleteFirstShift": {
+    "earned": true,
+    "earned_time": 1767625234
+  },
+  "AchievementId_CompleteJawheads": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_CompleteKellySavedPlayer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_CompleteMainStory": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_DriveEveryVehicle": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_DriveGarbageTruck": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_FindAllRareVehicles": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_FlushAllToilets": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_GoldAllRaces": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_GoldAllTimeTrials": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_GoldRace": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_GoldTimeTrial": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_HelicopterHelpArrests": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_OpenAllStashes": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_OpenFirstStash": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_ParkingTicketsLarge": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_ParkingTicketsOneShift": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_ParkingTicketsSmall": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_PoliceRankLarge": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_PoliceRankSmall": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_ReadAllPlaques": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_RespondCallouts": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_SprintNonStop": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_SubmitSomeEvidenceAgainstGangs": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_TimeTrial": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_TopShiftLeaderboard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_UniqueSuspectsInPoliceCar": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_UnlockAllUpgradesInCategory": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_UnlockUpgrade": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "AchievementId_XpOneShift": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

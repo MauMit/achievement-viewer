@@ -1,0 +1,222 @@
+{
+  "ALL_CHARACTERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALL_MONOCO_SKILLS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALL_SONGS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ANCIENT_SANCTUARY": {
+    "earned": true,
+    "earned_time": 1762175601
+  },
+  "BACK_TO_LUMIERE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BREAK": {
+    "earned": true,
+    "earned_time": 1749045483
+  },
+  "CLEA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ENDLESS_TOWER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ESQUIES_NEST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ESQUIE_RELATIONSHIP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ESQUIE_UNLOCK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ESQUIE_UPGRADES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIRST_AXON": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIRST_LUMINA_POINT": {
+    "earned": true,
+    "earned_time": 1753105679
+  },
+  "FLYING_WATERS": {
+    "earned": true,
+    "earned_time": 1753105608
+  },
+  "FORGOTTEN_BATTLEFIELD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GESTRAL_BEACH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GESTRAL_VILLAGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GRANDIS_STATION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GUSTAVE_OVERCHARGE": {
+    "earned": true,
+    "earned_time": 1749045483
+  },
+  "JOURNALS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LEVEL_33": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LEVEL_66": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LEVEL_99": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LOST_GESTRALS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LUMIERE": {
+    "earned": true,
+    "earned_time": 1749046271
+  },
+  "LUMIERE_MIME": {
+    "earned": true,
+    "earned_time": 1749045513
+  },
+  "LUNE_RELATIONSHIP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LUNE_STAINS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LVL3_GRADIENT_ATTACK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAELLE_RELATIONSHIP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAELLE_STANCES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MONOCO_RELATIONSHIP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MONOCO_WHEEL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MONOLITH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NEVRON_QUESTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NO_DAMAGE_BOSS": {
+    "earned": true,
+    "earned_time": 1749123810
+  },
+  "OLD_LUMIERE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "OPTIONAL_CAMP": {
+    "earned": true,
+    "earned_time": 1753105717
+  },
+  "PAINTING_WORKSHOP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PAINTRESS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PAINT_CAGE": {
+    "earned": true,
+    "earned_time": 1753105419
+  },
+  "PETANK_ALPHA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SCIEL_FORETELL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SCIEL_RELATIONSHIP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SECOND_AXON": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SERPENPHARE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SIMON": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPRING_MEADOWS": {
+    "earned": true,
+    "earned_time": 1749213614
+  },
+  "SPRONG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STONE_WAVE_CLIFFS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "THE_END": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VERSO_PERFECTION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WEAPON_FIRST_UPGRADE": {
+    "earned": true,
+    "earned_time": 1753105641
+  },
+  "WEAPON_FULL_UPGRADE": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

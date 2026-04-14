@@ -1,0 +1,126 @@
+{
+  "BEAT_THE_EPILOGUE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_A_MILESTONE_1": {
+    "earned": true,
+    "earned_time": 1766865151
+  },
+  "COMPLETE_A_MILESTONE_2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_A_MILESTONE_3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_A_MILESTONE_4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_A_MILESTONE_5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_A_MILESTONE_6": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DESTROY_2_ASTEROIDS_AT_ONCE": {
+    "earned": true,
+    "earned_time": 1766862783
+  },
+  "DESTROY_A_PLANET": {
+    "earned": true,
+    "earned_time": 1766865178
+  },
+  "DESTROY_A_STAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINISH_A_SESSION": {
+    "earned": true,
+    "earned_time": 1766862791
+  },
+  "GROW_BLACK_HOLE": {
+    "earned": true,
+    "earned_time": 1766863265
+  },
+  "HAVE_100_UPGRADES": {
+    "earned": true,
+    "earned_time": 1767124239
+  },
+  "HAVE_150_UPGRADES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HAVE_200_UPGRADES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HAVE_50_UPGRADES": {
+    "earned": true,
+    "earned_time": 1766864259
+  },
+  "MAIN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MINI_CHALLENGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MONEY_BAGS_0": {
+    "earned": true,
+    "earned_time": 1766863065
+  },
+  "MONEY_BAGS_1": {
+    "earned": true,
+    "earned_time": 1766863323
+  },
+  "MONEY_BAGS_2": {
+    "earned": true,
+    "earned_time": 1766863630
+  },
+  "MONEY_BAGS_3": {
+    "earned": true,
+    "earned_time": 1766863986
+  },
+  "MONEY_BAGS_4": {
+    "earned": true,
+    "earned_time": 1766864424
+  },
+  "MONEY_BAGS_5": {
+    "earned": true,
+    "earned_time": 1766864951
+  },
+  "MONEY_BAGS_6": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MONEY_BAGS_7": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "QUICK_PLAY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "START_RUN_WITH_50_ASTEROIDS": {
+    "earned": true,
+    "earned_time": 1766863085
+  },
+  "THE_LINE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TOO_MANY_CLICKS": {
+    "earned": true,
+    "earned_time": 1766863829
+  },
+  "ZEN_MODE": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "ACH_10_SOUP": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 2
+  },
+  "ACH_10_WATER": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 10,
+    "progress": 3
+  },
+  "ACH_ALL_BROKEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_CRAZY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_ITEMS": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 15,
+    "progress": 3
+  },
+  "ACH_ATOMIC_DRILL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BAD_ENDING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BE_PREPARED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BLUE_HARVEST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BROKEN": {
+    "earned": true,
+    "earned_time": 1771519197
+  },
+  "ACH_BUG_KILLER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CATDOM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CATLADY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CATVSDOG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHALLENGER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEAD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEEDEE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEFEND": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DEFEND_THREE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DISCO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DOCEND": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DOGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_DOLORES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EASY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ENIGMA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_EXPLORE_SHELTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FAMILY_GUY": {
+    "earned": true,
+    "earned_time": 1771518341
+  },
+  "ACH_FIRE_POLICE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FLY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FROSTY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GOOD_ENDING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HARD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HELP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HOLIDAYS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_KAMIKAZE": {
+    "earned": false,
+    "earned_time": 0,
+    "max_progress": 1337,
+    "progress": 5
+  },
+  "ACH_LUMBERSEXUAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MADE_IT": {
+    "earned": true,
+    "earned_time": 1771518329
+  },
+  "ACH_MADHATTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MIB": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MUTANT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NAYSAYER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NORMAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NOT_MADE_IT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PANZER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PAN_KROWA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PRESENT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PRO_GAMER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_RESCUE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_RICK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ROBBERY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ROGUE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SURVIVE_10_DAYS": {
+    "earned": true,
+    "earned_time": 1771518774
+  },
+  "ACH_SURVIVE_111_DAYS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SURVIVE_20_DAYS": {
+    "earned": true,
+    "earned_time": 1771519197
+  },
+  "ACH_SURVIVE_40_DAYS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SURVIVE_5_DAYS": {
+    "earned": true,
+    "earned_time": 1771518543
+  },
+  "ACH_TOILET_BUSTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TRADER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_YESMAN": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

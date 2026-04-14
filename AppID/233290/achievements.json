@@ -1,0 +1,194 @@
+{
+  "FA_BeginEp02_StreetInvestigation": {
+    "earned": true,
+    "earned_time": 1761037100
+  },
+  "FA_BeginEp03_LandedOnStreet": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_BeginEp04_ExitedChurchBackOnStreet": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAll": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAllTypeBaxter": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAllTypeBellKiller": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAllTypeCassandra": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAllTypeGhostGraffiti": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAllTypeGhostStoryApartment": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAllTypeGhostStoryAsylum": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAllTypeGhostStoryChurch": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAllTypeGhostStoryGraveyard": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAllTypeGhostStoryJudgementHouse": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAllTypeGhostStoryMuseum": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAllTypeGhostStoryPoliceStation": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAllTypeGhostStoryTown": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAllTypeHistoricalMarker": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAllTypeJuliaDiary": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAllTypeRex": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAllTypeRonan": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAllTypeWitchTrial": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAny1": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAny10": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAny100": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAny150": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAny25": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAny50": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CollectiblesAcquiredAny75": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CompletedSideQuestGhostStalkingEngagedCouple": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CompletedSideQuestGhostWomanOnBeach": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CompletedSideQuestOldCoupleInApartment": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_CompletedSideQuestSeveralCarsMemoryResidue": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_DefeatedAbigail": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_DefeatedDemon": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_EndEp04_ReExaminedJoy": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_EndEp05_OnStreet_InFrontOfGraveyard": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_EndEp06_ReExaminded_BackOnStreet": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_EndEp07_BackInTown": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_EndEp08_ExitedMuseum_BackInTown": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_EndEp09_ExitedJudgementHouse_BackInTown": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_Ep02_CompletedStreetInvestigation": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_InterrogatedOptionalGhost": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_PossessedCat": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_UsedMindRead": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_UsedPoltergeist": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_UsedRemove": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_UsedReveal": {
+    "earned": true,
+    "earned_time": 0
+  },
+  "FA_UsedTeleport": {
+    "earned": true,
+    "earned_time": 0
+  }
+}

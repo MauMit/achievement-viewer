@@ -1,0 +1,146 @@
+{
+  "ACH_100_THPS1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_100_THPS2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_4MEDALS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_500_OBJECTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_999_JUDGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ALL_GAPS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_AMATEUR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_BAIL_100000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CM_2MIL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COLLIDE_BULL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COLLIDE_CARS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMBO_1MIL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMBO_50000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CREATE_CAP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CREATE_CAS": {
+    "earned": true,
+    "earned_time": 1762206606
+  },
+  "ACH_EARN_MEDAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FIND_PLUSHIE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GET_THERES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GLASS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GRAFFITI_100": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HORSE_50": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LEVEL_10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LEVEL_100": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MP_MATCH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PRO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SCORE_10MIL": {
+    "earned": true,
+    "earned_time": 1762206825
+  },
+  "ACH_SCORE_1MIL": {
+    "earned": true,
+    "earned_time": 1762206825
+  },
+  "ACH_SEMI_PRO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SPEND_10000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_STAT_POINTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TA_5MIL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_UNLOCK_BULL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_UNLOCK_OFFICER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_UNLOCK_ROSWELL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_UNLOCK_SCHOOL1": {
+    "earned": true,
+    "earned_time": 1762206965
+  },
+  "ACH_UNLOCK_SCHOOL2": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
