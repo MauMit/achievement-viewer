@@ -1,0 +1,433 @@
+{
+  "appid": "1105500",
+  "name": "Yakuza 4 Remastered",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105500/header.jpg?t=1763649116",
+  "achievements": {
+    "ACHIEVEMENT_3": {
+      "name": "A Detective's End",
+      "description": "Clear Part 3 of the story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/d14d3f2b58eec0041dcf45d9999b790534704165.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/626b7fc11eb4c569453e29381c414df8c44c3246.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "62.5"
+    },
+    "ACHIEVEMENT_17": {
+      "name": "After-Work Hookup",
+      "description": "Have a hostess invite you on an after-work date.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/54e967aa69e04b4019a8825ec7e0af7411da0375.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/15d8556d52e5cd5f6e1d4421c3e9749a27ce7e55.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.7"
+    },
+    "ACHIEVEMENT_41": {
+      "name": "Akiyama the Hoarder",
+      "description": "Earn 1,000,000 yen playing as Akiyama.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/b19a256a6ac996f7190092c95cad3392682b13ad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/71056ec513165703f7a2e42f1da26744edd9b8eb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "ACHIEVEMENT_30": {
+      "name": "Boiled Turkey",
+      "description": "Achieve a turkey in bowling.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "ACHIEVEMENT_19": {
+      "name": "Business Card Hunter",
+      "description": "Receive business cards from all hostesses, including ones you train in \"Hostess Maker.\"",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/d14d3f2b58eec0041dcf45d9999b790534704165.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/626b7fc11eb4c569453e29381c414df8c44c3246.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "ACHIEVEMENT_36": {
+      "name": "Captain Two-fer",
+      "description": "Successfully hit two panels at once at the batting center.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.6"
+    },
+    "ACHIEVEMENT_32": {
+      "name": "Casino Rookie",
+      "description": "Play all casino gambling games.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "ACHIEVEMENT_20": {
+      "name": "Emblem Collector",
+      "description": "Collect ten emblems from survivors during gang encounters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/54e967aa69e04b4019a8825ec7e0af7411da0375.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/15d8556d52e5cd5f6e1d4421c3e9749a27ce7e55.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "ACHIEVEMENT_18": {
+      "name": "Fashionista",
+      "description": "Gather at least one outfit from each category in \"Hostess Maker.\"",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/47c2f813046178685f9208cf5cb17282c8201cf7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/7cceb67adef543be33bd96b982553d170cc74327.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "ACHIEVEMENT_8": {
+      "name": "Fearsome Foursome",
+      "description": "Max out all characters to level 20.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/702fb47b17c7bdf0defdceea670aa1c430af2b0a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/636d03cb8a8aac21c8ab5dbaf62f24be958013d5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.8"
+    },
+    "ACHIEVEMENT_29": {
+      "name": "First Carom",
+      "description": "Win the first point in Four-Ball billiards.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/43c0777b365a84aef53da2b3f302ac000ba54f85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "ACHIEVEMENT_14": {
+      "name": "Gourmet of Kamurocho",
+      "description": "Order something at least once at each restaurant.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "ACHIEVEMENT_28": {
+      "name": "Hat Trick",
+      "description": "Achieve a hat trick in darts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "ACHIEVEMENT_6": {
+      "name": "Heir to the Legend",
+      "description": "Clear Legend Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/2b4bf803ce5b2e59126305e828b90a05d44089fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/9692deaac096f030178e22f7d5188fb7f37a97d7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "ACHIEVEMENT_9": {
+      "name": "Indomitable",
+      "description": "Clear Normal Mode without reverting to Easy Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/de0e7e9ee3fbd679dcd402e337fac2de00215e40.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/34683c4489600c06f7f8188d0063d25be9c24b23.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.6"
+    },
+    "ACHIEVEMENT_39": {
+      "name": "Kamurocho Iron Man",
+      "description": "Traverse 100 kilometers or more.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.9"
+    },
+    "ACHIEVEMENT_40": {
+      "name": "Kamurocho Stampede King",
+      "description": "Knock over 100 people you pass by.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "ACHIEVEMENT_45": {
+      "name": "Kamurocho Tree Hugger",
+      "description": "Pick up 20 pieces of trash around the city.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/c824da34276f70b358f6e9aa24fe3f15e49e092e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.3"
+    },
+    "ACHIEVEMENT_44": {
+      "name": "Kiryu the Crusher",
+      "description": "Destroy 100 weapons you pick up playing as Kiryu.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/a6cde6a003ec8746a6ff5101f4a3462102e6ab04.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/0c8809b4c5d18e4085a32a58d369ebd1ba7b2f31.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "ACHIEVEMENT_22": {
+      "name": "Master in Training",
+      "description": "Have one of your apprentices win the Rookie Tournament in \"Fighter Maker.\"",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/335a1114e887c2dd22d5abc0cf74c4730d7b4bb9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/bd32989a4e2756acae6eb8a1ad65a2abbfead3d4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.2"
+    },
+    "ACHIEVEMENT_0": {
+      "name": "Master of Kamurocho",
+      "description": "Acquire all achievements in the game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/0817f17632c6426e0162fe71010218990b82b06d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/c968a392f448e2f3b2a027e81b1c344267a35fdd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "ACHIEVEMENT_46": {
+      "name": "Memo Master",
+      "description": "Collect all Memos in the Pause Menu.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "ACHIEVEMENT_37": {
+      "name": "Mr. Outdoors",
+      "description": "Golf and fish five times each.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "ACHIEVEMENT_31": {
+      "name": "Novice Gambler",
+      "description": "Play all non-casino gambling games.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "ACHIEVEMENT_4": {
+      "name": "Only One Thing Left to Do...",
+      "description": "Clear Part 4 of the story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/54e967aa69e04b4019a8825ec7e0af7411da0375.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/15d8556d52e5cd5f6e1d4421c3e9749a27ce7e55.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.6"
+    },
+    "ACHIEVEMENT_2": {
+      "name": "Reunited",
+      "description": "Clear Part 2 of the story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/335a1114e887c2dd22d5abc0cf74c4730d7b4bb9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/bd32989a4e2756acae6eb8a1ad65a2abbfead3d4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "65.8"
+    },
+    "ACHIEVEMENT_24": {
+      "name": "Revelation Seeker",
+      "description": "Acquire three Revelations.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/c824da34276f70b358f6e9aa24fe3f15e49e092e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.5"
+    },
+    "ACHIEVEMENT_42": {
+      "name": "Saejima the Slinger",
+      "description": "Purchase five guns playing as Saejima.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/e1248db24de86a011af8b83db872eb09fd4b099b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/5ad28f8dc021d704a3e2ab33334f17832a2dd55a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "ACHIEVEMENT_35": {
+      "name": "Seven Pairs",
+      "description": "Win a round by forming a concealed hand containing seven unique pairs in mahjong.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "ACHIEVEMENT_34": {
+      "name": "Shogi Promotion",
+      "description": "Achieve a promotion in shogi.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/43c0777b365a84aef53da2b3f302ac000ba54f85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "ACHIEVEMENT_21": {
+      "name": "Star of the Coliseum",
+      "description": "Acquire the title \"Star of the Coliseum.\"",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/335a1114e887c2dd22d5abc0cf74c4730d7b4bb9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/dfc5f01050bcf15efd443ed4c1c12a2ecadfa593.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.0"
+    },
+    "ACHIEVEMENT_13": {
+      "name": "Substory Champion",
+      "description": "Defeat Amon and get through all the substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/2b4bf803ce5b2e59126305e828b90a05d44089fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/9692deaac096f030178e22f7d5188fb7f37a97d7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "ACHIEVEMENT_11": {
+      "name": "Substory Helper",
+      "description": "Complete or finish twenty substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.0"
+    },
+    "ACHIEVEMENT_12": {
+      "name": "Substory Lover",
+      "description": "Complete or finish forty substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/43c0777b365a84aef53da2b3f302ac000ba54f85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.9"
+    },
+    "ACHIEVEMENT_10": {
+      "name": "Substory Novice",
+      "description": "Complete or finish four substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/43c0777b365a84aef53da2b3f302ac000ba54f85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.8"
+    },
+    "ACHIEVEMENT_26": {
+      "name": "Table Tennis Pro",
+      "description": "Smash the ball three times in one match.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.1"
+    },
+    "ACHIEVEMENT_43": {
+      "name": "Tanimura the Gambler",
+      "description": "Acquire 10,000 casino points playing as Tanimura.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/530cf885d99b3e0eb18fd574dafaa83ee5b1c3e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/4c5a5f49b6e9e5ea4c3dbf03929efcf51b1d8793.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "ACHIEVEMENT_5": {
+      "name": "Thank You!",
+      "description": "Clear the Finale.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/2b4bf803ce5b2e59126305e828b90a05d44089fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/9692deaac096f030178e22f7d5188fb7f37a97d7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.0"
+    },
+    "ACHIEVEMENT_27": {
+      "name": "The Human Jukebox",
+      "description": "Sing all songs at karaoke.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "ACHIEVEMENT_16": {
+      "name": "The Joy of Gifting",
+      "description": "Have a hostess wear a present you give her.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/47c2f813046178685f9208cf5cb17282c8201cf7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/7cceb67adef543be33bd96b982553d170cc74327.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "ACHIEVEMENT_1": {
+      "name": "The Plot Thickens",
+      "description": "Clear Part 1 of the story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/47c2f813046178685f9208cf5cb17282c8201cf7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/7cceb67adef543be33bd96b982553d170cc74327.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "69.4"
+    },
+    "ACHIEVEMENT_7": {
+      "name": "Ultimate Challenger",
+      "description": "Clear all Ultimate Skill missions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/702fb47b17c7bdf0defdceea670aa1c430af2b0a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/636d03cb8a8aac21c8ab5dbaf62f24be958013d5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "ACHIEVEMENT_25": {
+      "name": "VIP Member",
+      "description": "Become a VIP member at the massage parlor.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "ACHIEVEMENT_38": {
+      "name": "Walking Bank",
+      "description": "Possess 10,000,000 yen or more.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.4"
+    },
+    "ACHIEVEMENT_15": {
+      "name": "Way of the Key Master",
+      "description": "Open five coin lockers.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.7"
+    },
+    "ACHIEVEMENT_23": {
+      "name": "Weapon Master",
+      "description": "Create one or more weapons for each weapon category.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "ACHIEVEMENT_33": {
+      "name": "Welcome to SEGA",
+      "description": "Play all minigames at Club SEGA.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/ce8b654df9ee204e0c5fdf77e9eb6f91812925c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

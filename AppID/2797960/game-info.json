@@ -1,0 +1,163 @@
+{
+  "appid": "2797960",
+  "name": "Confidential Killings - A Detective Game",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797960/2ebcf0b2a753fb3082056403f339fd090d41e6a2/header.jpg?t=1773111450",
+  "achievements": {
+    "KENNETH_FINISHED": {
+      "name": "Cold, Cold Heart",
+      "description": "Complete Kenneth's interrogation",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/72a2b49ed849d72530f68843a0fc8243e763c794.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/05b56e2ffce443bd9b2aaa3835e377a904352deb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.5"
+    },
+    "CAR_CRASH_FINISHED": {
+      "name": "Dead Man's Curve",
+      "description": "Complete Car Crash",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/f47d8f4db9ce6f4d9a2e7b21d2f1159e0ffdc06b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/15b80f26574b54b4b07cbfb76986bf664e4341cc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "92.3"
+    },
+    "DISCO_FINISHED": {
+      "name": "Disco Inferno",
+      "description": "Complete Disco",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/6197da3b3925bfc0a2310bcd9c7ff7d33b4fa0be.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/55895cda0f806513585382b04b38985e58b4932b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.9"
+    },
+    "HOTEL_FINISHED": {
+      "name": "Heartbreak Hotel",
+      "description": "Complete Hotel",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/0444bda7ee4a109d978c70b96937d83590dcc5a7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/3dd0e0888e1ae0bed1fc1e456b3ad07fa75a470c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.1"
+    },
+    "RADIO_FINISHED": {
+      "name": "I Can Hear the Music",
+      "description": "Complete Radio",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/c3dafbab3db7523e75cf315d7fdf97c8633738e3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/ba4b4a7a3af36f452db1ff806c1a2cf5b4ff3dc3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.1"
+    },
+    "LIGHT_MY_FIRE": {
+      "name": "Light My Fire",
+      "description": "Turn on and off the light in the car 5 times",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/5f07b86dd4db46140a5f183afcaa8cb747357105.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/c802376381182a932fd8426576a90089ddcfde31.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.1"
+    },
+    "NOTEBOOK_WRITER": {
+      "name": "Paperback Writer",
+      "description": "Write 5 notes in the notebook",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/787ca4bab605c8c0fd4903ed86dc016bf904530f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/f7ab78b2d52cdfdf6f5406b0ecfcd2fc0ecbe730.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.0"
+    },
+    "FINISH_CASE_WITHOUT_ALL_CLUES": {
+      "name": "Searchin'",
+      "description": "Finish a case without collecting all clues",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/5448a71c9a4679a70659cc067622d94609db1868.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/c851fcd16d51979e4fe7eb911aab9dfc0718e45f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.4"
+    },
+    "AD_ASTRA_FINISHED": {
+      "name": "Star Man",
+      "description": "Complete Ad Astra",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/b5c598384581fc6defb4633127d619339d34d226.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/d51a66e2e358ca482e5ac74dd150f15bcefee99c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.2"
+    },
+    "KADY_FINISHED": {
+      "name": "The Conversation",
+      "description": "Complete Kady's interrogation",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/89ff66ce8e2398280d103d1cc1ef06b3da511658.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/3489b8f395ae33a06b49315630609db4ffb5a48a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.4"
+    },
+    "MANSION_FINISHED": {
+      "name": "The Crash",
+      "description": "Complete Fraser's Mansion",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/30bd5888e2fc4fb0acfb6594bece6f0722fdfc7e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/82438994b0759819dd15ba79ca3786643533eb0d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "84.0"
+    },
+    "DRUG_PARTY_FINISHED": {
+      "name": "The Drowning Pool",
+      "description": "Complete The Party",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/18d6040fdc6884fe9c803bb855ddf775800d51a2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/def11a3df5c039b1aec2f61fc76b4eaa423ffe23.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "75.5"
+    },
+    "FINISH_GAME": {
+      "name": "The End",
+      "description": "Finish the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/0ad87c9c4b60373d2f18eb80f3c21ba2d38b5c3a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/c2035126c3a17a2704a1845f695b39c468c45c5d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.6"
+    },
+    "FINALE_FINISHED": {
+      "name": "The Fall",
+      "description": "Complete Mansion End",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/7c24c9ef21ab4521bcb05e9c2f5f9ad07763a00c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/658292802145ba7c566cacd89f1d9402e2f41f3d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.6"
+    },
+    "COLLECT_ALL_CLUES": {
+      "name": "The Seeker",
+      "description": "Collect all the clues in a case",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/42fd430305f99ec1a8acd145f0eb0342a4410a15.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/c09fa30c0b0f69bc564a8101798a193452ed8c8a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.4"
+    },
+    "THEATRE_FINISHED": {
+      "name": "Torn Curtain",
+      "description": "Complete Theater",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/e932dc8557a4f60780bfe5881e4f79d7356f8d5d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/ff9df71bfc8d3d88b8131709b2284aba5e40c0d8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.9"
+    },
+    "TUTORIAL_FINISHED": {
+      "name": "Tutorial Complete",
+      "description": "Complete the tutorial",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/2657703d334afd6fa986173f8ab8e84cd30b9aa5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/f6d9df8d9f50607cbebfcc7c269a38d5e3c7a95e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "94.7"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

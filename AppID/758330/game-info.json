@@ -1,0 +1,505 @@
+{
+  "appid": "758330",
+  "name": "Shenmue I & II",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758330/header.jpg?t=1763674637",
+  "achievements": {
+    "SM2_Achievement_Find_Yhunda_Zhu": {
+      "name": "Shenmue II: 5 Star General",
+      "description": "Shenmue II: Find Yuanda Zhu",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/5954ed5783519b32d15e65250fd32e7ba82c6e5e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/3d17488e15b9df2890e3c837f9357a7e6ce2dd6a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "SM2_Achievement_Learn_5_Skills": {
+      "name": "Shenmue II: Adept",
+      "description": "Shenmue II: Learn 5 combat skills",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/f3abb47c5715367ac814d74de8784eec42cf871b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/4e7fabfa36f3d627edfd492b16e52915252ce566.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "SM2_Achievement_Fall_Off_Building": {
+      "name": "Shenmue II: Another Fine Mess",
+      "description": "Shenmue II: Fall off a building with Ren",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/4cf6cb7541c67478a8fd803f56f907af39aefa02.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/09209bdfc6cc4d0052cc4120dfdbdd0e2a5eeb0c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "SM2_Achievement_Learn_New_Skill": {
+      "name": "Shenmue II: Apprentice",
+      "description": "Shenmue II: Learn your first new combat skill",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/9723c97b745d92a8399a9b8ef16bc323be5bb146.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/4e7fabfa36f3d627edfd492b16e52915252ce566.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.9"
+    },
+    "SM2_Achievement_Catch_Leaves": {
+      "name": "Shenmue II: Autumn In Wan Chai",
+      "description": "Shenmue II: Catch the leaves",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/63d5539d2e1dc60c4a23322b5aa9f4e8f4c9a8d3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/180cb17d60953133178dcc6a672498067ded9fb8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "SM2_Achievement_Learn_Wild_Throw": {
+      "name": "Shenmue II: Back To School",
+      "description": "Shenmue II: Master the Wild Throw move from the Kung Fu school in Wan Chai",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/7fb6fb34ee155275d63bb15c0ba104597d3b7fa6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/19b8a60a24b640c642cb72f10ab41d43bf6d879c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "SM2_Achievement_Recover_Bag": {
+      "name": "Shenmue II: Baggage Claim",
+      "description": "Shenmue II: Get your bag back after it is stolen",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/b99d8a4d64203ea5e70a9e733e3847031a2c9bde.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/79ebb6c7662deab5850ab22171b17e3d2b195c57.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.7"
+    },
+    "SM2_Achievement_Low_Money_Bag_Steal": {
+      "name": "Shenmue II: Big Spender",
+      "description": "Shenmue II: Have less than 50 dollars when your bag is stolen",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/a573d1c9fc7819035c202cd7848d911851d52cea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/03ae5cf10836e9b3318f9d2f3e2ac6a013ccc9f9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "SM2_Achievement_Place_Marker": {
+      "name": "Shenmue II: Cartographer",
+      "description": "Shenmue II: Place a map marker",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/4b9494fa33aac9bd7e85bb328443b37b091b75c4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/3de007ffc4122ebfa75413020ae6d9c51550cb80.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "SM2_Achievement_Win_Arm_Wrestle": {
+      "name": "Shenmue II: Challenger",
+      "description": "Shenmue II: Win an arm wrestling match",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/746c9aeed28a5932aaf7abc7fa5c5d40ba66f34a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/14b1205ee9c19e1ae296def201f1b85e6f97620c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.1"
+    },
+    "SM2_Achievement_Defeat_Dou_Niu": {
+      "name": "Shenmue II: David And Goliath",
+      "description": "Shenmue II: Defeat Dou Niu",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/c1a11da2ee96e8030ca3ee3e88f8c4267f6d7678.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/bd8b9315397927ffd7d8bda5c124d1d60bff6e0d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "SM2_Achievement_Learn_10_Skills": {
+      "name": "Shenmue II: Expert",
+      "description": "Shenmue II: Learn 10 combat skills",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/7db03d57bbafd2b636e853d9665f5e3b3de8f632.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/4e7fabfa36f3d627edfd492b16e52915252ce566.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "SM2_Achievement_See_Flowers": {
+      "name": "Shenmue II: Flower Power",
+      "description": "Shenmue II: See the flowers with Shenhua",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/277a11fbc125eb634274d43171c2634e96abc0fd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/017c9f01a2b728abf864f80ed43651ae4bd99d9d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "SM2_Achievement_Straighten_Sign": {
+      "name": "Shenmue II: Good Samaritan",
+      "description": "Shenmue II: Straighten the man's sign near the Come Over Guest House in Wan Chai",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/8d3bc53a5844503a9f894e0bc18b31b067a6fb6f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/19a01ce967f6a877359fd3ac9d7e2d3024afdd40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "SM2_Achievement_Learn_15_Skills": {
+      "name": "Shenmue II: Master",
+      "description": "Shenmue II: Learn 15 combat skills",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/e946335c5a6744716e2e344fd86396dddf47dcc8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/4e7fabfa36f3d627edfd492b16e52915252ce566.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "SM2_Achievement_Give_Money_To_Musicians": {
+      "name": "Shenmue II: Money For Nothing",
+      "description": "Shenmue II: Give money to the musicians at the beginning of the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/b4dc256879047a7cdd81c606a6ac434edfb6fb80.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/1e89c47400e141e0c1de4a03cba2e49525dbd266.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.7"
+    },
+    "SM2_Achievement_Meet_Lishao_Tao": {
+      "name": "Shenmue II: Never Assume",
+      "description": "Shenmue II: Meet Lishao Tao",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/c418b5948295b211f5c201ff6944e1302f4e57ce.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/0934727b026ae557a6db58605267a94758c11907.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "SM2_Achievement_Impress_Yellow_Gang": {
+      "name": "Shenmue II: New Kid On The Block",
+      "description": "Shenmue II: Impress the Yellowhead scout, Yuandao Huo, with your fighting skills",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/5de3beee85b964f34d8f5d8c02383ca49de254a7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/86049f3d2bcf434fcd9bd664013f4da77e393572.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "SM2_Achievement_Leave_Hong_Kong": {
+      "name": "Shenmue II: Nomad",
+      "description": "Shenmue II: Leave Hong Kong",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/1a352bbc19d2e338938a041d11cc9399cfdee31c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/5e828784f28542c7fd3e028de9fa5f0e9304e423.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "SM2_Achievement_Complete_Game": {
+      "name": "Shenmue II: Not Done Yet",
+      "description": "Shenmue II: Complete the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/f1303df09c638ce74293c81735bfc60cabcab4a2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/d3e5cd312655de54f113e64f3d2b2979efaa2c2e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "SM2_Achievement_Catch_Wong": {
+      "name": "Shenmue II: Slippery Like An Eel",
+      "description": "Shenmue II: Chase and catch Wong in QTE",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/de0cf4766c3e2d2afafdc20d040c5876ad21e424.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/af2a4d9869766a5442951377a8a47e9233237d39.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.9"
+    },
+    "SM2_Achievement_Win_5_Arm_Wrestles": {
+      "name": "Shenmue II: Strongarm",
+      "description": "Shenmue II: Win 5 arm wrestling matches",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/dd40dbb0b09758ff7b8ecb4caf4bca0778173db3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/14b1205ee9c19e1ae296def201f1b85e6f97620c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "SM2_Achievement_Say_Goodbye": {
+      "name": "Shenmue II: Sweet Sorrow",
+      "description": "Shenmue II: Say goodbye to the 4 wude masters before leaving Hong Kong",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/f82c68503db2e68d0374a2745f69e36e53e60094.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/7aace4245218c2b87025f0baeeb552b78d6b90d2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "SM2_Achievement_Play_Arcade_Games": {
+      "name": "Shenmue II: To Be This Good Takes Ages",
+      "description": "Shenmue II: Play all 4 arcade games",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/1b8dbc01a1d050adeb9dbd08c109375478e66749.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/d4754ae49995488c0514cb5fab8511f9740e5455.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "SM2_Achievement_Find_Shenmue": {
+      "name": "Shenmue II: Tree Hugger",
+      "description": "Shenmue II: Find the Shenmue Tree",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/9a68cee921773e50253c1035fbfdce07464c5fc9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/924220b22ce2c0e8ca86132a85104ac706c8a149.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "SM2_Achievement_Catch_Yuan": {
+      "name": "Shenmue II: Under Your Nose",
+      "description": "Shenmue II: Catch Yuan and rescue Zhang Shu Qin",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/a4a0ee5d9f22831bf69df824510b6ef803c9eaa9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/e39ed0babc2ef45e54ec4ce0d7af1c7a40e90ce9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "SM2_Achievement_Visit_Fortune_Teller": {
+      "name": "Shenmue II: Unexpected Visit",
+      "description": "Shenmue II: Visit a fortune teller",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/4ba0353031090df54650447e918eeb549ae91127.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/1a50a81f84f5e11e273afcfe8a6b62a0ac43dc94.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.3"
+    },
+    "SM1_Achievement_Call_Police": {
+      "name": "Shenmue: Appropriate Response",
+      "description": "Shenmue: Call the police at the beginning of the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/80eea3e1f7c5c1f407b28e15fd68e91d3d09364d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/40b7521d93df88a7ce539fd2005735c19739de0b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.4"
+    },
+    "SM1_Achievement_Help_Lady_Find_House": {
+      "name": "Shenmue: Boy Scout",
+      "description": "Shenmue: Help the old lady in Sakuragaoka find a specific house",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/f68d2cdf88f17524a8c265d01817d4c68b265cbf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/9163270c99e9882b36cfc9bb906aed646bf637ca.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.1"
+    },
+    "SM1_Achievement_Break_And_Enter": {
+      "name": "Shenmue: Break And Enter",
+      "description": "Shenmue: Get into Warehouse 8 and meet Master Chen",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/f8bd143ad05bc8ee1a2d3ce9e0d413941ff39a56.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/c248b2e2178fc295b9a10d4f415ba956f522fa8e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.7"
+    },
+    "SM1_Achievement_Find_Kitten": {
+      "name": "Shenmue: Cat Burglar",
+      "description": "Shenmue: Find Megumi's kitten when it goes missing",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/ebd26ddf7bc51285e0c7f81013be6b1c8a375ea7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/c3e5190f65e696cd9a008e0ecac7444024226894.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.6"
+    },
+    "SM1_Achievement_Rescue_Nozomi": {
+      "name": "Shenmue: Fallen Angels",
+      "description": "Shenmue: Rescue Nozomi from the Mad Angels ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/5b1dc559ca45c0c78b20415952fb3a67174bfafc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/071b2176457486ee27c5583a1b8b43228ec7f627.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "SM1_Achievement_Buy_Guy_Soda": {
+      "name": "Shenmue: Freeloader",
+      "description": "Shenmue: Buy a soda for thirsty Wang Guang Ji",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/2f6849018001e0d45253549fe1e6a2a05cbfdab4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/66a90a9ed519006a9599c7daf5786e4aba841e08.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.5"
+    },
+    "SM1_Achievement_Collect_Capsule_Toy": {
+      "name": "Shenmue: Gacha Catcha",
+      "description": "Shenmue: Find your first collectable toy",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/65c5d7ca468d333bf3c6691729298d678ef3bda4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/5391730450cd7f1ee5edde1b682c71bd4f87d6a6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.9"
+    },
+    "SM1_Achievement_Collect_25_Capsule_Toys": {
+      "name": "Shenmue: Gacha Catcha II",
+      "description": "Shenmue: Collect 25 Capsule toys",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/a2f8390cbb9d323af9e43468cdc46b0fc1011995.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/5391730450cd7f1ee5edde1b682c71bd4f87d6a6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "SM1_Achievement_Collect_50_Capsule_Toys": {
+      "name": "Shenmue: Gacha Catcha III",
+      "description": "Shenmue: Collect 50 Capsule toys",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/ce6cfe5153d391a1de61b81dd6c77ef7f79e7997.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/5391730450cd7f1ee5edde1b682c71bd4f87d6a6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "SM1_Achievement_Get_A_Job": {
+      "name": "Shenmue: Gainful Employment",
+      "description": "Shenmue: Get a job at the Harbor",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/5ba58663edab3e2ae980987e88f5c1e7840a4faf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/d76e3a4ec9f29f0403a414795d373d8e557a70b6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.6"
+    },
+    "SM1_Achievement_Learn_From_Tom": {
+      "name": "Shenmue: Hot Dog Moves",
+      "description": "Shenmue: Learn a move from Tom at the hot dog stand",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/2fb45b7b9145d2c9055753f68bf511fbd03bc993.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/a276b0558596708358de08ab8bc34c69c095d2d9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.8"
+    },
+    "SM1_Achievement_Learn_New_Move": {
+      "name": "Shenmue: I Know Kung Fu",
+      "description": "Shenmue: Learn a combat move",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/ca20eb039aaf6eb0aab42ffb4cfefa20fa4dd54e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/755c0b43658b0eb390ae34bf892e4f2994edc34e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.1"
+    },
+    "SM1_Achievement_Learn_5_Moves": {
+      "name": "Shenmue: I Know More Kung Fu",
+      "description": "Shenmue: Learn 5 combat moves",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/504ffa028e1457ed93fd5e185542ce676bb1099e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/755c0b43658b0eb390ae34bf892e4f2994edc34e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.9"
+    },
+    "SM1_Achievement_Win_Forklift_Race": {
+      "name": "Shenmue: Mark's Favorite",
+      "description": "Shenmue: Win a forklift race",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/95723b0263bb9f1ca3f2fbc30dac1f24765c0265.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/8d2315aea98eed72a52f585ce4361f37e51645b8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.4"
+    },
+    "SM1_Achievement_Translate_Letter": {
+      "name": "Shenmue: Mirror, Mirror",
+      "description": "Shenmue: Get the letter from Yuanda Zhu translated in Dobuita",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/d5699db0bed7916411b7ad7fe9bf3340d7916107.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/4e0bd0e0dcc3de0baaee77bc49bd17ec3a3ca4f7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.9"
+    },
+    "SM1_Achievement_Meet_Charlie": {
+      "name": "Shenmue: Needle In A Haystack",
+      "description": "Shenmue: Find Charlie in the tattoo parlor in Dobuita",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/b749650246ca15abba0fd1b06db8c8809fa014f5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/639eabdfd4c9ea804d926bdd76fe20acb31a0ab1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.5"
+    },
+    "SM1_Achievement_Beat_Chai_Harbor": {
+      "name": "Shenmue: Next Stop Hong Kong",
+      "description": "Shenmue: Complete the game",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/1aa44fc958287f3bfebadc0df8b07c282de64e18.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/eb31e5379af5a6d6e77756339b8f9a9d483fd30c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.9"
+    },
+    "SM1_Achievement_Reach_Harbor": {
+      "name": "Shenmue: One Step Closer",
+      "description": "Shenmue: Reach New Yokosuka Harbor",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/8f302815af7cf4fa4f6517486201421547db97de.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/3d3884c64f41a096b64400f214066f5013b23428.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.8"
+    },
+    "SM1_Achievement_Teach_Fuku_San": {
+      "name": "Shenmue: Practise Makes Perfect",
+      "description": "Shenmue: Practise your Kung Fu in the Dojo with Fuku-san",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/60593afaec43222fba0313a9402a8997f87ecd8e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/3d8deb09bfb752d9ef8f46c3f6d4740362c1c482.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "SM1_Achievement_Tree_Flashback": {
+      "name": "Shenmue: Simpler Times",
+      "description": "Shenmue: Find the flashback in the Yard ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/cdc6138f54250db4f6421607ab813f2151b5745f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/2452d564a32eac4e4b167b6b41975e5aaa1764d2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.4"
+    },
+    "SM1_Achievement_Brawl": {
+      "name": "Shenmue: Sore Knuckles",
+      "description": "Shenmue: Beat the 70 Man Battle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/8ffd1a0bd69d55eae88fe5b70e8002e49851efcf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/65eefc6d367c92283dcc9cabaa38ae730d795a6f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.0"
+    },
+    "SM1_Achievement_Find_Phoenix_Mirror": {
+      "name": "Shenmue: Stab In The Dark",
+      "description": "Shenmue: Find the Phoenix Mirror in the Hazuki Basement",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/d81a78e0571cad8526130fb386a915428abc5ad0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/f9500b29a548b38feb327c62af6c8c7a57cf7e7a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.4"
+    },
+    "SM1_Achievement_Win_Game": {
+      "name": "Shenmue: Stay Down!",
+      "description": "Shenmue: Beat Chai in the Harbor",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/1aa44fc958287f3bfebadc0df8b07c282de64e18.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/1e0608b7cd343b2528b1c32df220d841a6972377.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.9"
+    },
+    "SM1_Achievement_Play_An_Arcade_Game": {
+      "name": "Shenmue: To Be This Good Takes Ages",
+      "description": "Shenmue: Play Hang-On or Space Harrier",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/4d83ee275beb4bbfd800e57815af5dbc44a681dc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/2a7ffb211c2043fd34a5285d9a4ce84fa1bf22e8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.4"
+    },
+    "SM1_Achievement_Dojo_Flashback": {
+      "name": "Shenmue: Treasure Your Friends",
+      "description": "Shenmue: Find the flashback in the Dojo",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/7adb2ca6c2f6e2680e983d5d88483003468488df.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/b07312a3a5232c3406d58f40433a3a7447ef45ad.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "SM1_Achievement_Visit_Fortune_Teller": {
+      "name": "Shenmue: Unexpected Visit",
+      "description": "Shenmue: Visit the fortune teller",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/4ba0353031090df54650447e918eeb549ae91127.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/1a50a81f84f5e11e273afcfe8a6b62a0ac43dc94.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "SM1_Achievement_Take_Mirror_To_Antiques": {
+      "name": "Shenmue: What's It Worth?",
+      "description": "Shenmue: Take the Phoenix Mirror to the two antique shops in Dobuita",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/7c6bc6c9226271f91b9512b494fde12ac340b334.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/4b5a5718a8f2234ce67042ea8d1c5c37a6d5ddd5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "SM1_Achievement_Kitchen_Flashback": {
+      "name": "Shenmue: Yummy Meal",
+      "description": "Shenmue: Find the flashback in the Kitchen",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/d97300764a38ebc0ac6115666c490548cc49a2eb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/758330/26ed32e25c91e686f61fc8cdc69dfd5f87fda4c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.6"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

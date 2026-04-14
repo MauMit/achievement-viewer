@@ -1,0 +1,370 @@
+{
+  "appid": "2508780",
+  "name": "STORY OF SEASONS: Grand Bazaar",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2508780/677824c9ff62d7a20678ff5583592c1d89de1b57/header.jpg?t=1773945077",
+  "achievements": {
+    "ACHIEVEMENT_100002": {
+      "name": "A Perfect City Bazaar!",
+      "description": "Reach the 4th bazaar rank.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.1"
+    },
+    "ACHIEVEMENT_100004": {
+      "name": "A Perfect National Bazaar!",
+      "description": "Reach the 6th bazaar rank.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.1"
+    },
+    "ACHIEVEMENT_100003": {
+      "name": "A Perfect Regional Bazaar!",
+      "description": "Reach the 5th bazaar rank.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.0"
+    },
+    "ACHIEVEMENT_100001": {
+      "name": "A Perfect Town Bazaar!",
+      "description": "Reach the 3rd bazaar rank.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "69.2"
+    },
+    "ACHIEVEMENT_100000": {
+      "name": "A Perfect Village Bazaar!",
+      "description": "Reach the 2nd bazaar rank.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "80.3"
+    },
+    "ACHIEVEMENT_100005": {
+      "name": "A Perfect World Bazaar!",
+      "description": "Reach the 7th bazaar rank.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/fc44a8054be894867bc5b7137c24577634a7cd30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.4"
+    },
+    "ACHIEVEMENT_115000": {
+      "name": "Barrel Booster",
+      "description": "Spring off of barrels 50 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.4"
+    },
+    "ACHIEVEMENT_101000": {
+      "name": "Bazaar Headliner",
+      "description": "Earn 100,000G at the bazaar.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.0"
+    },
+    "ACHIEVEMENT_101001": {
+      "name": "Bazaar Tycoon",
+      "description": "Earn 10,000,000G at the bazaar.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/fc44a8054be894867bc5b7137c24577634a7cd30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.9"
+    },
+    "ACHIEVEMENT_106000": {
+      "name": "Bug Collector",
+      "description": "Catch 10 different types of bugs or critters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.9"
+    },
+    "ACHIEVEMENT_106001": {
+      "name": "Bug Voyager",
+      "description": "Catch all types of bugs and critters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/fc44a8054be894867bc5b7137c24577634a7cd30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ACHIEVEMENT_109000": {
+      "name": "Cherished Memories",
+      "description": "Collect 10 mementos.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.0"
+    },
+    "ACHIEVEMENT_105001": {
+      "name": "Consummate Chef",
+      "description": "Learn 150 recipes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/fc44a8054be894867bc5b7137c24577634a7cd30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.4"
+    },
+    "ACHIEVEMENT_105002": {
+      "name": "Culinary Connoisseur",
+      "description": "Learn all recipes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/a374fdb5d7d823d0b6e102c34838983cde8cb3c5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/735a202a8be7d9b71e24b8cab5a9e6721bdc2f0d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ACHIEVEMENT_121000": {
+      "name": "Dearly Beloved",
+      "description": "Get married.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/fc44a8054be894867bc5b7137c24577634a7cd30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.0"
+    },
+    "ACHIEVEMENT_103000": {
+      "name": "Field Fanatic",
+      "description": "Harvest 30 types of crops.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.1"
+    },
+    "ACHIEVEMENT_103001": {
+      "name": "Field Specialist",
+      "description": "Harvest all types of crops.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/fc44a8054be894867bc5b7137c24577634a7cd30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "ACHIEVEMENT_107000": {
+      "name": "Fish Enthusiast",
+      "description": "Catch 10 different types of fish.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.0"
+    },
+    "ACHIEVEMENT_105000": {
+      "name": "Foodie",
+      "description": "Learn 50 recipes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.0"
+    },
+    "ACHIEVEMENT_109002": {
+      "name": "Forget-Me-Not",
+      "description": "Collect all mementos.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/a374fdb5d7d823d0b6e102c34838983cde8cb3c5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/735a202a8be7d9b71e24b8cab5a9e6721bdc2f0d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "ACHIEVEMENT_121001": {
+      "name": "Fruits of Love",
+      "description": "Become a parent.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/fc44a8054be894867bc5b7137c24577634a7cd30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "ACHIEVEMENT_114000": {
+      "name": "Full of Heart",
+      "description": "Reach maximum friendship level with a resident.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.6"
+    },
+    "ACHIEVEMENT_111000": {
+      "name": "Full Power!",
+      "description": "Eat a power berry 10 times to increase your maximum stamina.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "ACHIEVEMENT_112000": {
+      "name": "Fungal Nobility",
+      "description": "Harvest a rare mushroom.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.0"
+    },
+    "ACHIEVEMENT_119000": {
+      "name": "Green Thumb",
+      "description": "Harvest a rare crop.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.4"
+    },
+    "ACHIEVEMENT_120000": {
+      "name": "Guardian Angler",
+      "description": "Catch a guardian fish.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.5"
+    },
+    "ACHIEVEMENT_102000": {
+      "name": "Helping Hand",
+      "description": "Complete 10 requests from residents.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.2"
+    },
+    "ACHIEVEMENT_107001": {
+      "name": "Master Angler",
+      "description": "Catch all types of fish.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/fc44a8054be894867bc5b7137c24577634a7cd30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "ACHIEVEMENT_104001": {
+      "name": "Orchard Guardian",
+      "description": "Harvest all types of tree crops.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/fc44a8054be894867bc5b7137c24577634a7cd30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "ACHIEVEMENT_104000": {
+      "name": "Orchard Keeper",
+      "description": "Harvest 10 types of tree crops.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.3"
+    },
+    "ACHIEVEMENT_102001": {
+      "name": "People Person",
+      "description": "Complete all requests from residents.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/fc44a8054be894867bc5b7137c24577634a7cd30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "ACHIEVEMENT_117000": {
+      "name": "Prismatic Farmer",
+      "description": "Harvest a crop of 7-star quality.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.7"
+    },
+    "ACHIEVEMENT_118000": {
+      "name": "Prismatic Spatula",
+      "description": "Make a recipe of 7-star quality.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.5"
+    },
+    "ACHIEVEMENT_116001": {
+      "name": "Professional Farmer",
+      "description": "Start your fourth year as a farmer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/fc44a8054be894867bc5b7137c24577634a7cd30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "ACHIEVEMENT_116000": {
+      "name": "Prospective Farmer",
+      "description": "Start your second year as a farmer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.1"
+    },
+    "ACHIEVEMENT_116002": {
+      "name": "Prosperous Farmer",
+      "description": "Start your sixth year as a farmer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/a374fdb5d7d823d0b6e102c34838983cde8cb3c5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/735a202a8be7d9b71e24b8cab5a9e6721bdc2f0d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "ACHIEVEMENT_113000": {
+      "name": "Royal Indulgence",
+      "description": "Harvest a rare honeycomb.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.1"
+    },
+    "ACHIEVEMENT_108000": {
+      "name": "Ultimate Master of Tools",
+      "description": "Upgrade your hoe, watering can, sickle, fishing rod, and hatchet to their Ultimate level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/fc44a8054be894867bc5b7137c24577634a7cd30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "ACHIEVEMENT_109001": {
+      "name": "Unforgettable",
+      "description": "Collect 30 mementos.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/fc44a8054be894867bc5b7137c24577634a7cd30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "ACHIEVEMENT_110000": {
+      "name": "Zookeeper",
+      "description": "Own a total of 9 pets—including dogs, cats, and horses—at once.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/2cdb27920aff8e53c4a9bfccf36677df9b022a13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

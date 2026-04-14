@@ -1,0 +1,505 @@
+{
+  "appid": "12210",
+  "name": "Grand Theft Auto IV: The Complete Edition",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
+  "achievements": {
+    "ASSASSIN": {
+      "name": "Assassin's Greed",
+      "description": "Complete all 9 assassin missions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/3e8aef9cca264ec1db355003e420ae8456a5dac1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/3e8aef9cca264ec1db355003e420ae8456a5dac1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "CHAINREACTION": {
+      "name": "Chain Reaction",
+      "description": "You must blow up 10 vehicles in 10 seconds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/8f8be64bcf435beaf34d301b4322d2b723d02d15.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/21e917fa1cb01d68b8c091f4e9e7d990f1071fa6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "VIGILDONE": {
+      "name": "Cleaned The Mean Streets",
+      "description": "Capture 20 criminals through the police computer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/4e16125cecf255e3020dc103af9bb4b5f428b0c9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/4e16125cecf255e3020dc103af9bb4b5f428b0c9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "DRUGDONE": {
+      "name": "Courier Service",
+      "description": "Complete all 10 package delivery jobs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/ba1756f809c3d59cc2dc4b86981e3fbd4e9fbd40.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/ba1756f809c3d59cc2dc4b86981e3fbd4e9fbd40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "USJDONE": {
+      "name": "Dare Devil",
+      "description": "Complete 100% of the unique stunt jumps.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/4cc1dd23f1450e75d138a9736f917287d72e236e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/6f4a6cf7535e5840072b391c9b878b75002eb600.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "SABOMBCAR": {
+      "name": "Dial B For Bomb",
+      "description": "Unlock the special ability of phoning for a bomb to be placed.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/15f22e6e22decc66ce08d65cdd833ecc6ca26e6c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/15f22e6e22decc66ce08d65cdd833ecc6ca26e6c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "SATAXI": {
+      "name": "Driving Mr. Bellic",
+      "description": "Unlock the special ability of taxi.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/621296470dad1f9bb93cb37f88ba09b57b238621.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/621296470dad1f9bb93cb37f88ba09b57b238621.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.2"
+    },
+    "HIDDENPACKAGES": {
+      "name": "Endangered Species",
+      "description": "Collect every hidden package in the game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/1f39cbe22611a5975642b0d980ba324892ba0719.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/1f39cbe22611a5975642b0d980ba324892ba0719.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "KEYMISSION0": {
+      "name": "Fed The Fish",
+      "description": "Complete the mission \"Uncle Vlad\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/441d8620aeffa8f1cd36f42f4f26c6237494d1b7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/441d8620aeffa8f1cd36f42f4f26c6237494d1b7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.9"
+    },
+    "MELEECOUNTER": {
+      "name": "Finish Him",
+      "description": "Complete 10 melee counters in 4 minutes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/f34037f7d575a80f0ef3812b8c2db2faf6de7d45.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/f34037f7d575a80f0ef3812b8c2db2faf6de7d45.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "OPENEDALDERNEY": {
+      "name": "Full Exploration",
+      "description": "Unlock all the islands.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/9f160f70988784c09ef67ff66076e207219286f4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/9f160f70988784c09ef67ff66076e207219286f4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.4"
+    },
+    "STREETRACE": {
+      "name": "Genetically Superior",
+      "description": "Come first in 20 singleplayer street races.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/7b1cfbba8d6c1b34c9bdb98e66f38eb093bfd655.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/7b1cfbba8d6c1b34c9bdb98e66f38eb093bfd655.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "TURKEY": {
+      "name": "Gobble Gobble",
+      "description": "Score 3 strikes in a row, a turkey, in 10-pin bowling.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/787d54cda636cd56bc368f94d5be4c00282f5a7e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/787d54cda636cd56bc368f94d5be4c00282f5a7e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "KEYMISSION3": {
+      "name": "Gracefully Taken",
+      "description": "Complete mission \"I'll Take Her\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/85a196680279187ebfa3f53f57ae2c5673a273a1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/85a196680279187ebfa3f53f57ae2c5673a273a1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.9"
+    },
+    "HALFMILLION": {
+      "name": "Half Million",
+      "description": "Reach a balance of $500,000.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/f6bee887d01060b677b0a684d66fb37c4724ec1a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/f6bee887d01060b677b0a684d66fb37c4724ec1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.8"
+    },
+    "KEYMISSION2": {
+      "name": "Impossible Trinity",
+      "description": "Complete mission \"Museum Piece\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/df483630cdb9731ec12296df9b29a96fa6004421.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/c2d5258a296bdcdf56c11b6d3fd76bc1595a5b5f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.4"
+    },
+    "TAXIPASSANGER": {
+      "name": "It'll Cost Ya",
+      "description": "Complete a taxi ride without skipping from one island to another.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/c2f5151d2a1b098b3bb3fbc298da91b4ab7e7ec7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/c2f5151d2a1b098b3bb3fbc298da91b4ab7e7ec7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "GAMECOMPLETION100": {
+      "name": "Key To The City",
+      "description": "Achieve 100% in \"Game progress\" statistic.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/1ac0280f7a2998f4c489aeaee46c96b6da1f45c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/1ac0280f7a2998f4c489aeaee46c96b6da1f45c8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "QUBBEAT": {
+      "name": "King of QUB3D",
+      "description": "Beat the High Score in QUB3D.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/44441ac92bd14d000e1652088754170ffc01f8a0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/44441ac92bd14d000e1652088754170ffc01f8a0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "FRIENDSLIKEYOU": {
+      "name": "Liberty City (5)",
+      "description": "After meeting all possible friends, the ones left alive all like you above 90%.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/5fbeb12c559976865d37b99f4b2198ddb68102ef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/5fbeb12c559976865d37b99f4b2198ddb68102ef.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "STREETLIGHTSDOWN": {
+      "name": "Liberty City Minute",
+      "description": "Complete the story missions in less than 30 hours.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/ea8e60a4ce5c3db9178965e769c79eb1c8621b90.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/ea8e60a4ce5c3db9178965e769c79eb1c8621b90.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "KEYMISSION1": {
+      "name": "Lowest Point",
+      "description": "Complete mission \"Roman's Sorrow\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/471de4bf9da7159480c39118a9a950dcfc475736.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/471de4bf9da7159480c39118a9a950dcfc475736.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.5"
+    },
+    "WANTEDDONE": {
+      "name": "Manhunt",
+      "description": "Complete the most wanted side missions from the police computer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/44bc46b3ca4fbd6c1ff0fe27ffaec29d34ff83c3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/4f29144f9fbb7cf13d021b37f5b0d2db493629d8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "METRANDOM": {
+      "name": "No More Strangers",
+      "description": "Meet all random characters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/b7e8f0287a7b401513f4eef436d956de99a6c0f7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/b7e8f0287a7b401513f4eef436d956de99a6c0f7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "THETOUR": {
+      "name": "Off The Boat",
+      "description": "Complete the first mission.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/3cf9bfd3542c40e8beaee532cb17a638494c078d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/3cf9bfd3542c40e8beaee532cb17a638494c078d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.9"
+    },
+    "SCOREDARTGAME": {
+      "name": "One Hundred And Eighty",
+      "description": "In a darts game score 180 with 3 darts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/d1d38882d661effb347ef7a7a914dd0841b57b9a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/d1d38882d661effb347ef7a7a914dd0841b57b9a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "WANTEDLEVEL6STARSURVIVAL": {
+      "name": "One Man Army",
+      "description": "Survive 5 minutes on 6 star wanted level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/07a08b86cb43f4fdf1822a18672aae3494fb9b1b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/07a08b86cb43f4fdf1822a18672aae3494fb9b1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "IMPORTDONE": {
+      "name": "Order Fulfilled",
+      "description": "Complete all 10 Exotic Export orders.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/b2a0a11f7cb422bf562312487ce1ee343428d9c9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/b2a0a11f7cb422bf562312487ce1ee343428d9c9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "POOLWIN": {
+      "name": "Pool Shark",
+      "description": "Beat a friend at pool.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/ad1551dae54f35af35004c52731d68597f2c4cb1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/ad1551dae54f35af35004c52731d68597f2c4cb1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "SAGUNCAR": {
+      "name": "Retail Therapy",
+      "description": "Unlock the special ability of buying guns from a friend.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/d460952859934dc9bc93f31e9cd93baf2c1e7488.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/d460952859934dc9bc93f31e9cd93baf2c1e7488.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "CARROLLS": {
+      "name": "Rolled Over",
+      "description": "Do 5 car rolls in a row from one crash.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/f3c2b019137dc067df60f7c345cee5d3db9ea5f5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/f3c2b019137dc067df60f7c345cee5d3db9ea5f5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "ALLHELITOURTAKEN": {
+      "name": "Sightseer",
+      "description": "Fly on all helicopter tours of Liberty City.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/e3ea75d8e1e2febeeea20f59c27fdfb421fcbbc4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/e3ea75d8e1e2febeeea20f59c27fdfb421fcbbc4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "E2FREEFALL": {
+      "name": "TBoGT: Adrenaline Junkie",
+      "description": "Freefall for the longest possible time. (The Ballad of Gay Tony)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/85e7c59e57590a49811e38c3e02403780dc1c3f4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/85e7c59e57590a49811e38c3e02403780dc1c3f4.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.9"
+    },
+    "E2FIGHTC": {
+      "name": "TBoGT: Bear Fight",
+      "description": "Win the L.C. Cage Fighters championship. (The Ballad of Gay Tony)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/80721555143d3e094ac0790d9ea406b80d40b464.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/80721555143d3e094ac0790d9ea406b80d40b464.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.6"
+    },
+    "E2DANCE": {
+      "name": "TBoGT: Catch the Bus",
+      "description": "Dance perfectly in both Tony's nightclubs. (The Ballad of Gay Tony)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/d2e476b2bcbd166bd205a3edf213625751228c13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/d2e476b2bcbd166bd205a3edf213625751228c13.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.3"
+    },
+    "E2TRINITY": {
+      "name": "TBoGT: Diamonds Forever",
+      "description": "Complete the Trinity. (The Ballad of Gay Tony)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/1d787bdad3b54e5746a4cfec07d5bcd011c1fa07.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/f2cc6b416e794f97f776d577205fefe53e64f6b4.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "5.3"
+    },
+    "E2GOLF": {
+      "name": "TBoGT: Four Play",
+      "description": "Hit a flag with a golf ball four times. (The Ballad of Gay Tony)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/8eb7168d0487a8a4f50b954a9bc0ed03eca26edf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/8eb7168d0487a8a4f50b954a9bc0ed03eca26edf.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.6"
+    },
+    "E2ALLFLAIR": {
+      "name": "TBoGT: Gold Star",
+      "description": "Score 100% in all missions. (The Ballad of Gay Tony)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/a4caa2e4c6d7a4235bd07458abc4e6116bb38908.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/a4caa2e4c6d7a4235bd07458abc4e6116bb38908.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.0"
+    },
+    "E2BASEJUMP": {
+      "name": "TBoGT: Gone Down",
+      "description": "Complete all base jumps. (The Ballad of Gay Tony)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/4e23b928b1b4c69714040ac4c355fa81a6882fa4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/4e23b928b1b4c69714040ac4c355fa81a6882fa4.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.4"
+    },
+    "E2STORY": {
+      "name": "TBoGT: Maestro",
+      "description": "Finish the Ballad. (The Ballad of Gay Tony)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/56bd2ce67336f2a4081e4fbb2a93e9a3063b1ad5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/56bd2ce67336f2a4081e4fbb2a93e9a3063b1ad5.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "4.6"
+    },
+    "E2FAIRFLAIR": {
+      "name": "TBoGT: Past the Velvet Rope",
+      "description": "Score 80% or above in all missions. (The Ballad of Gay Tony)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/593166768e0608db30306e7bfefd9e9120147463.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/593166768e0608db30306e7bfefd9e9120147463.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.0"
+    },
+    "E2DRUGS": {
+      "name": "TBoGT: Snow Queen",
+      "description": "Complete 25 drug wars. (The Ballad of Gay Tony)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/52d58d300e42e5324e435283323662f91079c6d3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/fcc2273f032acdcea5e64b2fe7d78f4f05ef6a47.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.9"
+    },
+    "KEYMISSION4": {
+      "name": "That Special Someone",
+      "description": "Complete mission \"That Special Someone\".",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/266f796aec2ca36e3cb1a9138709c1b4915d4ad2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/54a2a3e7513c9e4867414e3cf90040e21b6b5042.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.9"
+    },
+    "SAHELI": {
+      "name": "That's How We Roll!",
+      "description": "Unlock the special ability of helicopter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/773ee77f5594ea067730eff69bd5134000041365.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/773ee77f5594ea067730eff69bd5134000041365.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "E1FINISHSTORY": {
+      "name": "TLAD: Easy Rider ",
+      "description": "Finish the story. (The Lost and Damned)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/8a72778b9ede9c31a444cdf493666457b8238718.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/8a72778b9ede9c31a444cdf493666457b8238718.jpg",
+      "hidden": false,
+      "group": "Update 2",
+      "percent": "5.1"
+    },
+    "E1BUDDYSTAT": {
+      "name": "TLAD: Full Chat",
+      "description": "Build Terry and Clay's toughness to 100%. (The Lost and Damned)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/dab0e2596564a1a0e0f3bcae074d53b7ab0b444c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/dab0e2596564a1a0e0f3bcae074d53b7ab0b444c.jpg",
+      "hidden": false,
+      "group": "Update 2",
+      "percent": "2.7"
+    },
+    "E1KNOCKOFF": {
+      "name": "TLAD: Get Good Wood",
+      "description": "In the bike races, whack off 69 bikers with a bat. (The Lost and Damned)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/b3b9cddd9bf33c7c9ab165bc3ae2145cf38b90ca.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/b3b9cddd9bf33c7c9ab165bc3ae2145cf38b90ca.jpg",
+      "hidden": false,
+      "group": "Update 2",
+      "percent": "1.3"
+    },
+    "E1INTRO": {
+      "name": "TLAD: One Percenter",
+      "description": "Help Billy get his bike back. (The Lost and Damned)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/a294ea30566c7ea28b0c7d2363d1d49931bdda8f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/a294ea30566c7ea28b0c7d2363d1d49931bdda8f.jpg",
+      "hidden": false,
+      "group": "Update 2",
+      "percent": "12.5"
+    },
+    "E1BECOMELEADER": {
+      "name": "TLAD: The Lost Boy",
+      "description": "Become leader of The Lost. (The Lost and Damned)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/b92def85fc767187651fe35a0002bf0f3f802298.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/bc18218fcf27917140146dbba1fc03619f8e48ee.jpg",
+      "hidden": false,
+      "group": "Update 2",
+      "percent": "6.2"
+    },
+    "UNDERALLBRIDGES": {
+      "name": "Under The Radar",
+      "description": "Fly underneath the main bridges in the game that cross water with a helicopter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/bb23bcec3777f440027a60a559cf22efcb33f4c2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/bb23bcec3777f440027a60a559cf22efcb33f4c2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "LOSERATING": {
+      "name": "Walk Free",
+      "description": "Lose a 4 star wanted rating by outrunning the cops.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/679e9e88bcceb727ff1257b9afcc627af831c136.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/679e9e88bcceb727ff1257b9afcc627af831c136.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "DATING": {
+      "name": "Warm Coffee",
+      "description": "Successfully date a girl to be invited into her house.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/df94723887681699e317fbdbfbab5b1936824168.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/e527d43bc43da8cd90fac4a3283728b04790fc8d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.2"
+    },
+    "BIKEWHEELIE": {
+      "name": "Wheelie Rider",
+      "description": "Do a wheelie lasting at least 500 feet on a motorbike.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/4274f78f2e525b45332909be5cfc057a7262db46.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/4274f78f2e525b45332909be5cfc057a7262db46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "SMSTHEFTDONE": {
+      "name": "You Got The Message",
+      "description": "Deliver all 30 cars ordered through text message.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/d4e63a36ada7b568b4a0b2780c0a71f13e8a37b0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/d4e63a36ada7b568b4a0b2780c0a71f13e8a37b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "STORYDONE": {
+      "name": "You Won!",
+      "description": "Complete the final mission.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/388c7163a2d372f2d065d0764e051fac948f4aad.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/388c7163a2d372f2d065d0764e051fac948f4aad.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.6"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

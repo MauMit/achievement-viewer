@@ -1,0 +1,568 @@
+{
+  "appid": "3061810",
+  "name": "Like a Dragon: Pirate Yakuza in Hawaii",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3061810/header.jpg?t=1763646676",
+  "achievements": {
+    "ARENA_B": {
+      "name": "Ace of the Coliseum",
+      "description": "Won 20 different matches in the Pirates' Coliseum.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/be2d6547a6e7c7d603467f2d5310548f37a119f8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.4"
+    },
+    "BANBAN_batting": {
+      "name": "Barrel Basher",
+      "description": "Destroyed a total of 1,500 barrels at the Bang Bang Batting Center.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/f9753e1cb2f4f6a926cb66108867d061352aba28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.1"
+    },
+    "KIZUNA_A": {
+      "name": "Bonds Between Boys",
+      "description": "Viewed all of Noah's Drink Links.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/65124393d1158cb340b01bd6fe2ea7a4775bbad1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.2"
+    },
+    "KIZUNA_B": {
+      "name": "Bonds Between Men",
+      "description": "Viewed every Drink Link with the crew.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/7966e20c2796046fbcf1cb2feec94e2f56074a97.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.9"
+    },
+    "GADGET_A": {
+      "name": "Boomerang Lover",
+      "description": "Used the cutlass boomerang on enemies 100 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/2c1fd60ec607eddb28b4e22b039d9b143f0826fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.0"
+    },
+    "BOUNTY_A": {
+      "name": "Bounty Hunter",
+      "description": "Completed 20 bounty missions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/fb00fd523f031601c51a90bc2455474a4fe615c4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.8"
+    },
+    "RANK_FAME_C": {
+      "name": "Buccaneer Bigshots",
+      "description": "Achieved the rank of Buccaneer Bigshots.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/941aa592dde99f106d19f9f0ef2d40a058069404.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.3"
+    },
+    "FOOK_MOVE": {
+      "name": "By Hook or By Crook",
+      "description": "Traveled using the chain hook 20 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/62ee901e969355263ddbd265eb73327acb625bd4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.5"
+    },
+    "GADGET_B": {
+      "name": "Chain Hook Expert",
+      "description": "Used the chain hook on enemies 50 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/bbbd72d925649660dc2dcec37e3aaeb23497c8d3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.1"
+    },
+    "DELIVERY_CLEAR": {
+      "name": "Crazy Captain",
+      "description": "Completed all Crazy Delivery courses.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/d9c12fcc8857f75823dcf4a85189c4f5fb04525b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.7"
+    },
+    "ULTIMATE_HACT_C": {
+      "name": "Divine Intervention",
+      "description": "Summon the gods with dark instruments 30 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/ce20e0143aeb373e83efd8cb53c240a81fa7b607.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "COOKING": {
+      "name": "Domestic Pirate",
+      "description": "Cooked all recipes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/e844b7188916e61a40a7360f1513a6c0071d8710.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.5"
+    },
+    "QUALIFICATION": {
+      "name": "Erudite Pirate",
+      "description": "Obtained 5 certificates from the Ounabara Vocational School.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/b4975dd534783ee7b6f0087e5b5ddb2c2f9fe6af.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.8"
+    },
+    "TREASURE_B": {
+      "name": "Expert Treasure Hunter",
+      "description": "Obtained 40 different treasures.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/3cffe46e48604dead038226bda4f059894484eb2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.9"
+    },
+    "KAONAJIMI": {
+      "name": "Extreme Extrovert",
+      "description": "Befriended 50 people through Aloha Links.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/f002fd1481df330c41252baa91b1c40f9cbc0bb2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.0"
+    },
+    "RING": {
+      "name": "Fashionable Fingers",
+      "description": "Equipped rings on all ten fingers at once.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/49c548b0fa09ed49e68c80a340c9fcdace8e45db.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.4"
+    },
+    "COORDINATE_B": {
+      "name": "Fashionista",
+      "description": "Obtained 50 types of clothing items.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/1e6676bb6997bcd9e52373eee04878c28de8aa68.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.5"
+    },
+    "SKILL_C": {
+      "name": "Ferocious Mad Dog",
+      "description": "Obtained 40 abilities.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/0957a070c9a2bda7451916f71a66000e2260ce15.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.9"
+    },
+    "SKILL_A": {
+      "name": "Fledgling Mad Dog",
+      "description": "Obtained 10 abilities.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/20a1bdb191438b490589faaee76e8e8570b26364.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.6"
+    },
+    "COORDINATE_A": {
+      "name": "Goodbye, Old Me",
+      "description": "Obtained 20 types of clothing items.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/a8b9f88ebdbf8ffbe15276fdff6ccacb4d0e7597.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.0"
+    },
+    "MEMBER_C": {
+      "name": "Goro Pirates, Go Go Go!",
+      "description": "Recruited 80 members to the Goro Pirates.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/e0efe8e659c7a983a3d37790ec8e2b5ec7b1efda.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.4"
+    },
+    "MAIN_STORY_2": {
+      "name": "Heart of Darkness",
+      "description": "Completed Chapter 2.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/8b8c264b4254f231fa97e932dc888988beb5c81d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.5"
+    },
+    "DRAGON_CART": {
+      "name": "High-Speed Pirate",
+      "description": "Won 3 different cups in Dragon Kart.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/966fdb146739c5e7d3b3e70d4bdaef2d9830ce10.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.2"
+    },
+    "FOOK_GET": {
+      "name": "Hooking and Gathering",
+      "description": "Captured 30 fish and bugs with the chain hook.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/ae7ea78ee17b98c6e6b8830d315331a631d657e2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.9"
+    },
+    "ADVENTURER": {
+      "name": "Island Adventurer",
+      "description": "Completed 10 different islands.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/9f00f57dfc1a7279b3cf1eb8d69e705180ee4f22.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.7"
+    },
+    "MAKE_WEAPON": {
+      "name": "Julie-chan's Biggest Fan",
+      "description": "Created three different cannons at Julie's Gearworks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/ee799124931f49b063acffedf54fa12245219212.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.7"
+    },
+    "AMON": {
+      "name": "Legend of the Coliseum",
+      "description": "Defeated the Amon Pirates.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/99438ffe287370f49cfae61dcdfec4c5a09c346f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.1"
+    },
+    "SKILL_D": {
+      "name": "Legendary Mad Dog",
+      "description": "Obtained 60 abilities.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/988985cc416e1ed7f13d6bca2d58a3f5e055c1b4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.5"
+    },
+    "RANK_FAME_D": {
+      "name": "Legends of the Sea",
+      "description": "Achieved the rank of Legends of the Sea.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/7bcf87c8922ffba079bdcc39337e8d4296f444ef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.8"
+    },
+    "SUBSTORY_B": {
+      "name": "Main Story? What's That?",
+      "description": "Completed 20 substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/f8e1da632b953a7d65f44894a686a6c6a8b7f315.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.2"
+    },
+    "ULTIMATE_HACT_A": {
+      "name": "Majima Everywhere",
+      "description": "Created a total of 56 doppelgangers.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/6b84ac8239b0b2a4c2363b802d32f48a637918d6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.6"
+    },
+    "GORO_kingdom": {
+      "name": "Making a Menagerie",
+      "description": "Obtained 7 pets.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/21e99b28754b497236da8416ad6bb5807f2fdbd8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.3"
+    },
+    "ARENA_C": {
+      "name": "Master of the Coliseum",
+      "description": "Won 30 different matches in the Pirates' Coliseum.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/525bed30bae627ae3eee9adb24e141d073fef41e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.0"
+    },
+    "PHOTORALLY": {
+      "name": "Memories of Honolulu",
+      "description": "Took 30 different photos for the Photo Rally.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/4c5e30fd01c023a334d047277ca391163b2df597.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.8"
+    },
+    "MINATOKU": {
+      "name": "My Dream Minato Girl",
+      "description": "Partied with the Minato Girls and found true love.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/07e525897eee559e44ab0d9f9fad993184f08f17.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.5"
+    },
+    "GORO_SHIP": {
+      "name": "My Glorious Goromaru",
+      "description": "Obtained 50 customization parts for the Goromaru.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/eaef112e8ebd0d2bab6f6e83065a99bd9b59c93b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.2"
+    },
+    "ARENA_A": {
+      "name": "New Star of the Coliseum",
+      "description": "Won 10 different matches in the Pirates' Coliseum.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/5374ee80d62ce2c1e7a7255f43f40289d0cca9b5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.7"
+    },
+    "GOLD_BALL": {
+      "name": "Not Counting the Usual Ones",
+      "description": "Obtained 2 balls.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/58010ec54e23ae2e9d274ea98f943689d675c2ee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.7"
+    },
+    "TREASURE_A": {
+      "name": "Novice Treasure Hunter",
+      "description": "Obtained 10 different treasures.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/b11ef2781c1d547a443861c59f8e100762afe77c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.7"
+    },
+    "PLAY_ALL_SPOT": {
+      "name": "Party Pirate",
+      "description": "Played 10 different minigames.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/65c3932fbdbd4c811e85746b8d7d3063890b67e0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.9"
+    },
+    "PLATINUM": {
+      "name": "Pirate Yakuza in Hawaii",
+      "description": "Obtained all achievements.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/ce695bfdf035c586699b233846ac4722bbb2a8ba.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.6"
+    },
+    "GADGET_C": {
+      "name": "Pistol Aficionado",
+      "description": "Used the pistol on enemies 50 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/9f7c45ba0c6a7b121a8671bcb3339ff7213d5041.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.6"
+    },
+    "RANK_FAME_B": {
+      "name": "Popular Picaroons",
+      "description": "Achieved the rank of Popular Picaroons.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/bdfde18866aadc5daf57692709d649d5a724de55.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.8"
+    },
+    "SKILL_B": {
+      "name": "Powerful Mad Dog",
+      "description": "Obtained 20 abilities.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/432e950c8d66cf45a6bb81270dfd544d494a047e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.0"
+    },
+    "DEVIL_E": {
+      "name": "Remember the Goro Pirates!",
+      "description": "Defeated the leader of the Devil Flags.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/1d26c4aacc85edd33064212b8ee1ee7638c5d191.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.8"
+    },
+    "ROCKET": {
+      "name": "Rocket Sniper",
+      "description": "Sunk 5 enemy ships with the rocket launcher.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/a535aa45ab9ef0ab025640fde1ea7904ca8c08fd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.4"
+    },
+    "RANK_FAME_A": {
+      "name": "Sea Legs-Havers",
+      "description": "Achieved the rank of Sea Legs-Havers.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/5d7fc859e6addbbf7c7f24487e584b8516c81f3e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.4"
+    },
+    "KARAOKE_SEA": {
+      "name": "Sea Shanties",
+      "description": "Enjoyed karaoke on the deck of the Goromaru.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/8c3d154e2544769489f7cf790e0ba51c1ff778d5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.3"
+    },
+    "MAIN_STORY_1": {
+      "name": "Shipwrecked",
+      "description": "Completed Chapter 1.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/3f48bc68eb9f0b1d630af06c70d18ea5bd13d25c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "87.1"
+    },
+    "DEVIL_C": {
+      "name": "Showdown in Flame Heaven",
+      "description": "Defeated the second Devil Flags officer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/3e68e114b4a56e87ff6a80a6d9ecfe65b95825bb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.6"
+    },
+    "DEVIL_D": {
+      "name": "Showdown in Frost Heaven",
+      "description": "Defeated the third Devil Flags officer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/b5a2f87837bd90170fac7d864e57ba53e5469177.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.8"
+    },
+    "DEVIL_B": {
+      "name": "Showdown on Atali Island",
+      "description": "Defeated the first Devil Flags officer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/9be1b4652254b6ef655af20d5b604573e391b992.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.3"
+    },
+    "DEVIL_A": {
+      "name": "Showdown on Rokka Island",
+      "description": "Won the battle on Rokka Island.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/549775b386d516212557e9a796aaa3b751c5e785.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "64.3"
+    },
+    "BOUNTY_B": {
+      "name": "Super Bounty Hunter",
+      "description": "Completed 50 bounty missions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/06b2991aca43a1ead07bde47525c10a00c27da6d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.0"
+    },
+    "SUBSTORY_A": {
+      "name": "Taking the Scenic Route",
+      "description": "Completed 10 substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/ec08fb24af246c63283ac4735b69234c373167c9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.0"
+    },
+    "MEMBER_B": {
+      "name": "The Goro Pirates Set Sail!",
+      "description": "Recruited 50 members to the Goro Pirates.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/8bbb351e723d7df615d42902da60a3f78b9d6d49.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.0"
+    },
+    "ULTIMATE_HACT_B": {
+      "name": "The Man Who Summoned the Gods",
+      "description": "Played every dark instrument.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/0913773b196606fb4aec2b666ce10510c6495eab.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.7"
+    },
+    "MAIN_STORY_3": {
+      "name": "The Old Man and the Sea",
+      "description": "Completed Chapter 3.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/1d8cd07c47994d81f6d80e4895f42697ee05bef2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.4"
+    },
+    "MAIN_STORY_4": {
+      "name": "Treasure Island",
+      "description": "Completed Chapter 4.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/3185456699ac74bbc7544ee3494a244aee1db087.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.1"
+    },
+    "COORDINATE_C": {
+      "name": "Trendsetter",
+      "description": "Obtained 100 types of clothing items.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aeb15111be69c66d32764efd25cb23d341959301.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.4"
+    },
+    "MEMBER_A": {
+      "name": "Welcome to the Goro Pirates!",
+      "description": "Recruited 30 members to the Goro Pirates.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/00962ba01f60c541fadfc724a1ae6ea384d31733.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.6"
+    },
+    "MAIN_STORY_CLEAR": {
+      "name": "Ya Gotta Keep Livin'",
+      "description": "Completed the final chapter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/a49783ef3f431efc4a54a2b6edd489068fe28b7b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.1"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

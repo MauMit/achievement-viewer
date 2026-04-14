@@ -1,0 +1,460 @@
+{
+  "appid": "2527390",
+  "name": "Dead Rising Deluxe Remaster",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527390/header.jpg?t=1768869459",
+  "achievements": {
+    "48": {
+      "name": "3 Day Survivor",
+      "description": "Survive for at least 72 hours.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/857f2d8aa0f5a3cfc7c3a5471f34c6dc3d73b23c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.4"
+    },
+    "49": {
+      "name": "5 Day Survivor",
+      "description": "Survive for at least 5 days.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/d13fee86873c1379d5f77e602abf4f69073fb963.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "50": {
+      "name": "7 Day Survivor",
+      "description": "Survive for at least 7 days.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/e71b1c697aac2cc12963910558ba4e82a4e684f4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "47": {
+      "name": "∞ MODE",
+      "description": "Get the true ending.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/f868d8ae0ca391f7f610dbd7872ffb998ed18911.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.5"
+    },
+    "27": {
+      "name": "Bullet Point",
+      "description": "Fire at least 300 bullets.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/e58851358e7255da0a3aacac2449426229aa7585.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.2"
+    },
+    "38": {
+      "name": "Carjacker",
+      "description": "Steal the convicts' vehicle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/f0efe63179548d4a14a79c47a1061a4b4e8c7f0a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.8"
+    },
+    "19": {
+      "name": "Census Taker",
+      "description": "Photograph at least 30 survivors.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/bfb2c1addeb516b91e6fc74e34fd60120dca9dc1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.7"
+    },
+    "24": {
+      "name": "Clothes Horse",
+      "description": "Change into all costumes available in the mall.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/29b4365af77235767dc13a2ff056850d3cf6bcb6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.6"
+    },
+    "33": {
+      "name": "Costume Party",
+      "description": "Place novelty masks on at least 10 zombies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/3d561a7bdb565aaad62dad812f4b43672b27b249.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.8"
+    },
+    "30": {
+      "name": "Freefall",
+      "description": "Drop from a height of at least 16 feet (5 meters).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/3927d9cb52247353616cf14963f52c647a440fc1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.3"
+    },
+    "12": {
+      "name": "Full Set",
+      "description": "Collect all portraits in the NOTEBOOK.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/2944cb9ed9714d98b1aa115f00519d8913bc2835.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.7"
+    },
+    "17": {
+      "name": "Group Photo",
+      "description": "Get 50 Target Markers with the camera.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/5c479cc2ef3f0f4b2ee54eb03c98b8656298530c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.3"
+    },
+    "9": {
+      "name": "Hella Copter",
+      "description": "Successfully repel a helicopter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/0470c37bab6a8aafa7477e9c7ba0826616690d7e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.0"
+    },
+    "13": {
+      "name": "Humanist",
+      "description": "Get at least 10 survivors out of the mall.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/5fb41e20ac232464f56e8c964da0615ad6aa0af0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.2"
+    },
+    "26": {
+      "name": "Item Smasher",
+      "description": "Break at least 30 items.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/5549ca91f80c3b75088d05176d2a628e3948a410.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.0"
+    },
+    "25": {
+      "name": "Juice Freak",
+      "description": "Create all types of mixed juice.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/687fde98a1aa8fba17b51cd5abef6870ee47c88b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "36": {
+      "name": "Karate Champ",
+      "description": "Defeat at least 30 special forces barehanded.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/a019cdbe730bd2795b4257ab3c4495919ca4fe7d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.9"
+    },
+    "8": {
+      "name": "Legendary Soldier",
+      "description": "Defeat at least 10 special forces soldiers.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/eac107abe266f7dbb11423cc19bbd86e237e206d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.4"
+    },
+    "45": {
+      "name": "Level Max",
+      "description": "Reach Lv. 50.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/3a59694834fd0f714249f1e61f45981afb5fc1fa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.9"
+    },
+    "42": {
+      "name": "Mall Worker",
+      "description": "Find the secret passageway.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/d441ab0ecc2618e96d13e7cfae948e9bdb2b70eb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.8"
+    },
+    "31": {
+      "name": "Marathon Runner",
+      "description": "Cover a distance of 26.2 miles (42.195 km).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/75b4c16256c8494b313de271c80bc47615e3cfbd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.5"
+    },
+    "41": {
+      "name": "Never Give Up",
+      "description": "Restart from the first day with Frank's current status.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/7ab93ace900100182d35e6192b945627d02364d1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.4"
+    },
+    "40": {
+      "name": "Nice Shot!",
+      "description": "Send a golf ball flying for at least 100 meters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/34271cf642922590155d2db3476fca277c99fdc7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.8"
+    },
+    "7": {
+      "name": "No, Thank You",
+      "description": "Defeat at least 100 cultists.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/a67c0aee8893a680a8925b49829dcc4bfea90dbd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.9"
+    },
+    "46": {
+      "name": "OVERTIME MODE",
+      "description": "Unveil all CASES and be at the heliport at noon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/14278ecc9eeda7b772610373e2cd5f135a487c86.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.0"
+    },
+    "15": {
+      "name": "Photojournalist",
+      "description": "Take your first photograph.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/caf9221cb5ab337741d6dcd1bddf02dacbff42c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "96.9"
+    },
+    "18": {
+      "name": "Portraiture",
+      "description": "Photograph at least 10 survivors.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/1bdc67aab5f5619bafc43ec5e20f30525cb44ecf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.3"
+    },
+    "22": {
+      "name": "PP Collector",
+      "description": "Photograph all PP Stickers.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/4b6e16e91edf0be52b395612bf678047f5e5a1cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "21": {
+      "name": "PP Photo",
+      "description": "Photograph 10 types of PP Stickers.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/81c56f8f2f70473427c0a4c2e910dbacba9ed739.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.0"
+    },
+    "20": {
+      "name": "Psycho Photo",
+      "description": "Photograph at least 4 psychopaths.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/dc2fc7ddc1bfbe7c209f72418977d93af13b3ef9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.8"
+    },
+    "6": {
+      "name": "Punisher",
+      "description": "Defeat at least 10 psychopaths.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/fc490299417067a14a222107eae5f79818a5b6ef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.3"
+    },
+    "34": {
+      "name": "Raining Zombies",
+      "description": "Knock at least 10 zombies aside with a parasol.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/ec859e23430d9af13869b167a2341711572b1373.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.1"
+    },
+    "35": {
+      "name": "Rampage",
+      "description": "Defeat at least 100 enemies with a rocket launcher.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/cfb1a72f810d874f20b176e9e5a569c990623f4a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.7"
+    },
+    "29": {
+      "name": "Road Rage",
+      "description": "Defeat at least 500 zombies with vehicles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/7d98b245cfc07b736a4c516c47ec3aeab3e09725.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.6"
+    },
+    "14": {
+      "name": "Saint",
+      "description": "Get at least 50 survivors out of the mall.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/cf11d56f97e0767acb2ee22a88d6a9b19b799458.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "5": {
+      "name": "Self Defense",
+      "description": "Defeat at least 1 psychopath.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/d085a4b824d17c60a627ad0c05f5b824f23c0eec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.1"
+    },
+    "23": {
+      "name": "Sharp Dresser",
+      "description": "Change into at least 5 different costumes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/37486a922c3a69a20c7ee4e46d06a84e399006f8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.2"
+    },
+    "43": {
+      "name": "Snuff Shot B",
+      "description": "Encounter zombie Brad.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/fb79ef1332c7de84e6cbf0eb68a13758059e42ec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.0"
+    },
+    "44": {
+      "name": "Snuff Shot J",
+      "description": "Encounter zombie Jessie.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/7fb0e73fb32571fe59d0945f0c85611c2bc5fb8b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.5"
+    },
+    "32": {
+      "name": "Strike!",
+      "description": "Send at least 5 zombies flying with one bowling ball.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/703afdf0bf390920ff5bb41434e37e7c900a34e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.2"
+    },
+    "39": {
+      "name": "Stunt Rider",
+      "description": "Jump a car or motorcycle at least 33 feet (10 meters).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/4ea5bcde7b52e2b19a78d939335a0e9bb7de6318.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.5"
+    },
+    "16": {
+      "name": "The Artiste",
+      "description": "Score at least 10,000 PP from a single photo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/820bc56d2ac1c2c8d42d9fb9d08d3c9d42e40b34.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.5"
+    },
+    "11": {
+      "name": "The Grateful Eight",
+      "description": "Simultaneously escort 8 female survivors.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/2b36e47a460d990ec1ca35b5d237dc3373c434fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "10": {
+      "name": "Tour Guide",
+      "description": "Escort 8 survivors at once.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/aa199da7c7ea66742226198a44cd76f5d9f1c81f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.4"
+    },
+    "28": {
+      "name": "Transmissionary",
+      "description": "Answer 30 calls.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/c4c0beae934c571e146c32385b6f5f9d608ef789.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.3"
+    },
+    "1": {
+      "name": "Welcome to Hell",
+      "description": "Visit the Willamette Parkview Mall.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/ebe517eddb07bd5786e28fcf9c51323ff00860af.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.0"
+    },
+    "4": {
+      "name": "Zombie Annihilator",
+      "description": "Defeat at least 53,594 zombies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/c4f4a2798e92da775e3eccc092d0743aacfeff64.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.9"
+    },
+    "2": {
+      "name": "Zombie Hunter",
+      "description": "Defeat at least 1,000 zombies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/2412787cfd2548c5c3c499a6c764bebb3834e1a4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.7"
+    },
+    "3": {
+      "name": "Zombie Killer",
+      "description": "Defeat at least 10,000 zombies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/33041ec78952053a1ad851715fce25176e269f8c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.3"
+    },
+    "37": {
+      "name": "Zombie Road",
+      "description": "Walk over 10 meters in total on the backs of zombies using the Zombie Ride.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/df3fbbd9911a328dd571c7e4129f6f443c12e592.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2527390/9eb1a79b8861ab7f4ecd2e7f86aee4a569d50625.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.6"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,460 @@
+{
+  "appid": "939960",
+  "name": "Far Cry® New Dawn",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939960/header.jpg?t=1750925197",
+  "achievements": {
+    "FCNewDawn_Ach_6": {
+      "name": "A Graceful Return",
+      "description": "Recover Grace's prototype gun and welcome her back to Prosperity for good. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/c5778715f836f6cc7001d8003d0d4d46039d2098.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/1705c4f6e1ff11df44eafd90e70dff0d6a9c02b2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.4"
+    },
+    "FCNewDawn_Ach_30": {
+      "name": "All Your Bases",
+      "description": "Liberate all Outposts at least once on Rank III.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/0e84ab6894d3963fc0ebbf15ae12f5f339f603cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/f72077ce5e6c8efb29853ea0b824bfd16c5854ee.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "FCNewDawn_Ach_45": {
+      "name": "Anger Management",
+      "description": "Eliminate 10 enemies within a single activation of Wrath.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/f0937cc2b29248e4bd801a3d49b6adac2557962b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/a0b2f006e4576eaa701505280b4ecfe875998596.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "FCNewDawn_Ach_48": {
+      "name": "Archery Expert",
+      "description": "Kill an enemy more than 100m away with a basic arrow.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/122fb14d9642cda1475bb8053ef3100078271e08.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/67539397d0ccd38c9b225e9c3769395c4550771a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "FCNewDawn_Ach_25": {
+      "name": "Audiophile",
+      "description": "Rediscover some sweet tunes for the new world. Find all hidden MP3 players. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/219495f8835333af30834801fcc394809d5af183.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/0c084c8b5ef141b8c3823876ed33fc7333905f46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "FCNewDawn_Ach_24": {
+      "name": "Before",
+      "description": "Find all the Dear Photograph locations and see Hope County as it used to be. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/821ee3a699fd3638f42abcc4418df91c57e2f9cf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/e53070252d4ff9e2fab707f701532c6550f1239e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "FCNewDawn_Ach_37": {
+      "name": "Bring a Knife to a Gun Fight",
+      "description": "Kill 25 enemies using any type of takedown. Put that railroad spike to good use!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/61878b957019737de0fe229456729521797d7c14.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/6dc46e5382db5c227fcfb9cb6561fc819ec9ac98.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "FCNewDawn_Ach_42": {
+      "name": "Buzzkill",
+      "description": "Kill 10 brawlers with any saw launcher. They never saw it coming.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/43441c820a8af3666cead0fcab8830430bc5cf79.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/ceabc0e8fdaaae49f140912da4a71c130fd8be51.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "FCNewDawn_Ach_38": {
+      "name": "Captain's Courageous",
+      "description": "Kill your first Enforcer. I'm sure this will send the Highwaymen a good message.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/579dffad6059573afd163822a0965672866b50d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/cd9fdb6e5a3b01fad3d4247f6f8ddc1934cf7521.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.8"
+    },
+    "FCNewDawn_Ach_20": {
+      "name": "Closed for Applications",
+      "description": "Recruit all Guns For Hire. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/2dc7bc7d21d25d5a438b37909626a5f8523cd4ee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/d98acaeaddcd9d55c1a8b83fa34e19ac17883771.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "FCNewDawn_Ach_7": {
+      "name": "Coming Up With the Goods",
+      "description": "Return Selene's valuable stash. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/6f09624316142149c13e874572fd6da110dbfec1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/fe671c3663b6e857605f3904164ce72f06edc508.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.7"
+    },
+    "FCNewDawn_Ach_10": {
+      "name": "Expeditious Retreat",
+      "description": "Complete your first Expedition to force the Highwaymen out of a stronghold.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/6908489304e59e02dac6cb0292598f1392a19a64.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/b8e731a7eb0cbcb750a13d03454b190f794b0f60.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "FCNewDawn_Ach_18": {
+      "name": "Finders Keepers",
+      "description": "Complete 3 Treasure Hunt missions. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/c4fabf1aed11308007809f8615bf870a80f3715d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/45d7c48bf619c89bb9c39f1f5425bc7c8eb1537f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.6"
+    },
+    "FCNewDawn_Ach_41": {
+      "name": "Fly, You Fools!",
+      "description": "No wings means less drag, right? Take a short flight in the wingless plane.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/404d970209911f44c776225dfab6d2de9434ff5b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/5aaaf5c1c8a64f4cff22d903b2ee0dff395d3f40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "FCNewDawn_Ach_13": {
+      "name": "Forager",
+      "description": "Gather 15 plants growing in Hope County. It's the closest thing to a pharmacy we have nowadays.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/a30e0ede2be1ceae44f7059f7b1f1378bcdf2681.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/10420a4e5c21427f41b31b9bf74598632654ac79.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.2"
+    },
+    "FCNewDawn_Ach_49": {
+      "name": "Get to the Point",
+      "description": "Finish off an Enforcer with a bayonet.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/90520e13b9d7564a03b6d477a04ea9644a8d0ebe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/1c371b853dfde3bcc56e1320a62ef7a720b15f90.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "FCNewDawn_Ach_39": {
+      "name": "Good Job, Cap",
+      "description": "Kill 5 enemies by throwing a shield at them.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/271b22972df9522ba4b3c4904fbca0a05d57417d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/bf9b26fcdb4eace7b83f9d2cfd2181734812f823.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "FCNewDawn_Ach_36": {
+      "name": "Have Buddy, Will Travel",
+      "description": "Complete 3 Expeditions with a co-op partner.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/d54a640aa4eebbb164fbd717ff3cc8ffc928f45f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/019f37a3a4bea653455398b06da91a6487ad7b83.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "FCNewDawn_Ach_46": {
+      "name": "Hey Father, Watch This",
+      "description": "Perform an Aerial Takedown after using Leap of Faith.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/32e9da5758a9ff61a6e26e87315f53ab8d097ae2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/5afe74a1f865a0623b521b5b145b073cf6f568de.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "FCNewDawn_Ach_28": {
+      "name": "Hit the Road",
+      "description": "Complete 7 unique Expeditions on the Rank III difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/008d2074007fd2cc9e22094bca71b82b02dbcb7a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/1095b0059d311a4115d994e5b3406a788aecf002.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "FCNewDawn_Ach_15": {
+      "name": "Home is Where the Part Is",
+      "description": "Upgrade Prosperity's infrastructure for the first time by investing in the right parts. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/41ac110b631203f60a30cd6208e0fbc52a44c732.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/97101bb36b35b8552f4d42f958e1cc32045438c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.0"
+    },
+    "FCNewDawn_Ach_11": {
+      "name": "Honorary Scout",
+      "description": "Gather intel 10 times by talking to Wiki-Bean-ia scouts. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/c98e55f7d013bbd8e7c361e041fe885ac3aa9fe2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/d40e09f42e585e773e13fff35f34be0b2b48ca1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "FCNewDawn_Ach_21": {
+      "name": "How's it Look, Doc?",
+      "description": "Craft 10 Medkits. They'll definitely come in handy.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/2ab1a85beafe0c7aa0d44b5497e84da0f773b83d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/54de040ae31b2aa7d36db32ecf3564ceef9bc588.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "FCNewDawn_Ach_35": {
+      "name": "It's Super Effective!",
+      "description": "Headshot an Enforcer with Piercing Ammo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/1d0b732ebaada9905380714f883e862a70914859.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/82d4243523fcd460121a1449ba1a1e9df3f8ef71.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.7"
+    },
+    "FCNewDawn_Ach_22": {
+      "name": "Kill or Be Killed",
+      "description": "Kill a Monstrous animal. It'd do the same to you given half the chance.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/a0c41618fea0d9ee8616ea45c3907e0f61628475.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/43a4e26e1faff560ca1656243d2fab7f4d7a1624.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.5"
+    },
+    "FCNewDawn_Ach_43": {
+      "name": "Legend Has It",
+      "description": "Craft your first Legendary Weapon or Vehicle and start a legend of your own.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/f1c58e5d2c1f5f0e1c82ca5c4385278a3a24da73.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/44bfd804b6c593d4df690ce83cc968afea87194a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.9"
+    },
+    "FCNewDawn_Ach_27": {
+      "name": "Master Skinner",
+      "description": "Collect at least one skin from every type of animal in Hope County. Not creepy at all.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/17120b8ab5e4a36bcd50447fef80fcd9145b5398.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/4acf52bd8403f046cbec2cd9c9078c63fddaeabd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "FCNewDawn_Ach_26": {
+      "name": "My Little Fortress",
+      "description": "Make Prosperity better than ever! Build all Infrastructure upgrades available. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/8a9300ebd282274117a150a75034b63182857ea5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/ab6a039b32c7565e779bc75d2d93788362ce1a55.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "FCNewDawn_Ach_23": {
+      "name": "Paladin’s Secret",
+      "description": "Find Sam Fisher’s outfit in the Government Plane Wreck expedition",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/bb58afeb5333ce790bcf9b7bc2130e414ec489fa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/6673995affcb35adfa1d296c33b2bb3523588689.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "FCNewDawn_Ach_47": {
+      "name": "Perk-olate",
+      "description": "Unlock the first level for all Perks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/3e54ff2dd5d949bde8146802ea2d0ffa961fb247.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/1e08bdb1c424b36c5b997662465eff1c826dc51e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "FCNewDawn_Ach_34": {
+      "name": "Poof!",
+      "description": "Use 3 smoke grenades.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/c41b411b7daee9b88232ad2e77b9e61b5cac0c44.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/25de3318d10feab055feeea25ebd0948d2015572.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "FCNewDawn_Ach_4": {
+      "name": "Problem Solver",
+      "description": "Solve the biggest problem in Hope County by defeating the Twins. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/f6f5722eecf5f2c852ddc62be78d7bbb15c5dd9c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/7baf870c40ca01499a39b3b079498cd63d991dfd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "FCNewDawn_Ach_2": {
+      "name": "Prospering",
+      "description": "Upgrade and secure Prosperity. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/d43619c7904f79e3512e9255850f7f6463c1cdd4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/f1059d533cb90bcc55870c7154ff8228a0940188.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.0"
+    },
+    "FCNewDawn_Ach_29": {
+      "name": "Pure Ninja",
+      "description": "Liberate a Rank III Outpost while staying undetected.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/d2d1bb47a5aba1425cc4f7fea2e8624c2a4c278e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/d19141e3e497492b9dad68fe8be3cf6b254019ba.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "FCNewDawn_Ach_14": {
+      "name": "Reduce, Reuse, Recycle",
+      "description": "Scavenge an Outpost. You can always reclaim it. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/8b22d021a7ca44490e29f50a058a01d22b3985b9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/d6f9a2e0687984d3deb2e877a86c39dc5dc75943.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.6"
+    },
+    "FCNewDawn_Ach_3": {
+      "name": "Return to Eden",
+      "description": "Bring the Father back to New Eden. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/5d13e38753b430e7f7a365da6ea8acac9320ff97.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/47dbe94cff6ffcca5597b836a2fe37b188eb1351.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "FCNewDawn_Ach_19": {
+      "name": "Safekeeping",
+      "description": "Picklock 5 safes. With no more banks, it's the closest thing you'll get to experiencing a heist.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/dd7da00b06cbc4aa8f29a667d93b34031f890fd1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/e913f6dd37241535f0ef3d34a502ed9690ceca60.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "FCNewDawn_Ach_33": {
+      "name": "Save Your Bacon",
+      "description": "Recruit Horatio. Don't mind his temper, he can be pig-headed sometimes. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/3166701078b999544f2b3c6eb6f4fa5f77efb8cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/66518012425ae0390f0e280ce9be7183b5a61907.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "FCNewDawn_Ach_16": {
+      "name": "Sidecar Sidekick",
+      "description": "Drive with Timber for a total of 5 minutes. Just don't take him to the vet.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/87adb80b52d72c92cfd4eb695cda91aded299eee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/c07d0011070ab14c30ae575ee63dddfc9a78b2ac.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "FCNewDawn_Ach_50": {
+      "name": "Springboard",
+      "description": "Survive a 30m fall using only Leap of Faith to nullify the impact.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/726507d9efe3edc502d7c070782263332e50ab30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/85096c84aedc8862cc3d1fc3da93230b8579b70a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "FCNewDawn_Ach_40": {
+      "name": "Stack 'em Up",
+      "description": "Purchase the 5th tier of a stackable perk. You can never have enough.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/9a5917fe941ff6822abf54298eb2ae8573a6f9e9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/4e8f4970c11f158057a63e6af2130c95e0c7a40a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "FCNewDawn_Ach_5": {
+      "name": "The End of Eden",
+      "description": "Decide the fate of the Father. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/a21dd3a0f8a03dabbf4d2c2cdc8b1775fa94dcd3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/37ed887a73132ed925e65a7162522ea5913c2941.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "FCNewDawn_Ach_1": {
+      "name": "The Meaning of Prosperity",
+      "description": "Help Carmina get back to her mother in Prosperity. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/7d4b8d94e672998f59d1250b11f2bdf3c2a709c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/816bf80453149c5e8d4e317f08c333b8d3f73e21.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.6"
+    },
+    "FCNewDawn_Ach_9": {
+      "name": "The Ryeunion",
+      "description": "Reunite Nick Rye with Carmina and Kim. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/b518b6a7ac99051172aa6a1a7003f52fc10a2369.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/469aa3d3b7667b6077b810db57aa9fc4cc79a0cd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "FCNewDawn_Ach_44": {
+      "name": "Tip o' the Hat",
+      "description": "Knock an enemy's helmet off with a charged melee attack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/3ad03f1c215a14c70b43da57ff3d35ab02a2efb8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/95c42f0350757d73fa49a5227d12801d91b262e6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "FCNewDawn_Ach_31": {
+      "name": "Weaponsmith",
+      "description": "Craft 3 weapons. They don't need to look good, they just need to get the job done!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/aa79fcc6da8969c49c295164120751179337c4d5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/56acfe84840f130b1837a4beb555959966e0774a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.3"
+    },
+    "FCNewDawn_Ach_17": {
+      "name": "White Gold",
+      "description": "Commandeer an Ethanol tanker and bring it back to one of your outposts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/6b50e7d187c05b9e6fbe68176a373ecf1ee2ee56.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/c62c4a3f10630cfc2a27595aac3b35cf05049cce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.7"
+    },
+    "FCNewDawn_Ach_8": {
+      "name": "Wiki-Bean-ia in Business",
+      "description": "Help Bean get back his business plan so he can set up his intel network in Prosperity. Host only.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/d6908289c3d3664c066c2aaaeb300a85510e8e29.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/9a0dbd7ad15758dc2d1c6c68de30e73588b5ab98.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.6"
+    },
+    "FCNewDawn_Ach_12": {
+      "name": "Yoink",
+      "description": "Loot a Highwaymen Supply Drop. Be careful, it won't be unguarded!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/efbef0aa478e109d57736847a0f8d24fcb1830de.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/5078a1882900499a082eebebe352791449fe2b9d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.7"
+    },
+    "FCNewDawn_Ach_32": {
+      "name": "You're a Catch",
+      "description": "Successfully catch one of every type of fish in Hope County. Get those omega-3s.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/55da3317098be6c88d3fef9a8f25db8a9dc3988b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/333466c97732da8e6f9b1de49f91ee6540145b69.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

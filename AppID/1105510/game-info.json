@@ -1,0 +1,514 @@
+{
+  "appid": "1105510",
+  "name": "Yakuza 5 Remastered",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105510/header.jpg?t=1763648749",
+  "achievements": {
+    "ACHIEVEMENT_17": {
+      "name": "A Bond Between Dancers",
+      "description": "Settle things with Akari at the Dance Battle Summit.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/4e8bc84b95851fe760eac6ac99b610babf74b2d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/abcd7be5e844f9280ea22038d19868fe4bc76383.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.6"
+    },
+    "ACHIEVEMENT_47": {
+      "name": "A Hearty Bowl",
+      "description": "Play Tatsu-ya Noodles 3 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/37e2c9a3be8928708c76ea11e58acf13666c4f51.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/76e957feda62383bd15386d30eaabb2026e2444c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "ACHIEVEMENT_29": {
+      "name": "A Toast Together",
+      "description": "Finish the final cabaret club event.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/9ab4f352c868b48457104f65567f0ef48fe01eb8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/a88fa3836e38297968e91e0a3472ff554f5b695f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "ACHIEVEMENT_2": {
+      "name": "Back into the Fray",
+      "description": "Clear Part 1 of the story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/eea4c1f038c08068bfc198321852a54c384a4524.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/f091a783c57b199a19b657b3e614b56454497d0a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "73.3"
+    },
+    "ACHIEVEMENT_52": {
+      "name": "Benevolent Dragon",
+      "description": "Send a total of 5 million yen to Morning Glory via ATM.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/eea4c1f038c08068bfc198321852a54c384a4524.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/f091a783c57b199a19b657b3e614b56454497d0a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.3"
+    },
+    "ACHIEVEMENT_19": {
+      "name": "Big Hitter",
+      "description": "Complete 10 baseball sub missions in Shinada's Side Story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/8722114b5093056183a64a9b97eaf40868a32bfa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/999010004cd834295b2b972f9a8d0c5ca51f9c83.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.6"
+    },
+    "ACHIEVEMENT_11": {
+      "name": "Devil Killers Defeated",
+      "description": "Defeat the leader of the Devil Killers.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/2e3eecb0a77c1ea1e8cb2fba30adfbfa0c2a64a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/576f06ab23086e52972174bb6986bd0177f58ed2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.5"
+    },
+    "ACHIEVEMENT_38": {
+      "name": "Dragon Fury",
+      "description": "Defeat 50 enemies with Dragon Spirit.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/eea4c1f038c08068bfc198321852a54c384a4524.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/f091a783c57b199a19b657b3e614b56454497d0a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.0"
+    },
+    "ACHIEVEMENT_51": {
+      "name": "Dream Ride",
+      "description": "Buy the Otaku decal.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/da26b14b2ae036c7e8e7130a1c872b20a6075060.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/14d2120202e8df377e04cb3636ae2258f5a55ff2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "ACHIEVEMENT_18": {
+      "name": "End of the Line",
+      "description": "Win the final showdown against Shirakawa in Shinada's Side Story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/2ff646c5ef4de0514d202318c2ad64bfb4980683.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/561ce80a3e9f66337b373d0891346959038aa31d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.4"
+    },
+    "ACHIEVEMENT_27": {
+      "name": "Eyes on the Ground",
+      "description": "Find a total of 100 pieces of garbage, map scraps, drawing tickets, and locker keys.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/f266261adb2ec751064bdab4103d855a6770a8e0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/9eb808b532fff8df112d78c2ff8d95094a3788b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "ACHIEVEMENT_46": {
+      "name": "Fish for Dinner",
+      "description": "Catch 5 fish while river fishing.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/7bbc767a4d2efd435311f45adefb9d02fdfe0513.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/2c0ec71ab34b721e93966365ef451e1e72685300.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.2"
+    },
+    "ACHIEVEMENT_14": {
+      "name": "Full-fledged Hunter",
+      "description": "Complete 5 contract missions in Saejima's Side Story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/3076787581a5b5cfe03ed809b6aa91982c214c7b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/56e7b89e87114652d602e3c2451c67044636cb85.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.7"
+    },
+    "ACHIEVEMENT_53": {
+      "name": "Good Communicator",
+      "description": "Strike up a conversation with townspeople a total of 50 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/2e3eecb0a77c1ea1e8cb2fba30adfbfa0c2a64a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/576f06ab23086e52972174bb6986bd0177f58ed2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.0"
+    },
+    "ACHIEVEMENT_25": {
+      "name": "Gourmet Dragon",
+      "description": "Order food at all eateries.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/067b9a87e9d48d7d50b6e283d41d14114dfc9f35.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/8157a331da3fa6c9627a687352bb4a508a0a8555.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "ACHIEVEMENT_20": {
+      "name": "Hall of Famer",
+      "description": "Achieve 100% on your Completion List.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/6f83d4f529cc64b66a754745696ba3698064c5b6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/0a4aac816591f5f08d54c7b3a391f349986e2c6b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "ACHIEVEMENT_8": {
+      "name": "Heir to the Legend",
+      "description": "Clear Legend Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/cc7dd92ed0fb145ac47c348ad939da302406018f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/9144c46fa429feaf2b314e4705d45c65b0c21bf6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "ACHIEVEMENT_5": {
+      "name": "Japan Dome Awaits",
+      "description": "Clear Part 3 of the story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/4175a085cdeb9454b84ac4a8430b1a224bc34532.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/39de9cc27e4d305594566e867b00cd73ad174c90.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.9"
+    },
+    "ACHIEVEMENT_50": {
+      "name": "King of Cochin",
+      "description": "Win the Cochin Cup Classic for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/fa85dbe271d662ae3a2dc4cd95de51716de92798.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/7c680570d75ac58d12665c018a30df61fb0ccf51.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.3"
+    },
+    "ACHIEVEMENT_34": {
+      "name": "Kitted Out",
+      "description": "Get Kamiyama Works to level 5.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/79b66289e33d46979904e77e44640589bf14066f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/7da09df7c778504e333238a5285f43f1cedc569b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.2"
+    },
+    "ACHIEVEMENT_40": {
+      "name": "Launch Striker",
+      "description": "Defeat 50 enemies with Launch Strike.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/4175a085cdeb9454b84ac4a8430b1a224bc34532.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/39de9cc27e4d305594566e867b00cd73ad174c90.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "ACHIEVEMENT_30": {
+      "name": "Life is About Learning",
+      "description": "Complete a training mission with each master.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/067b9a87e9d48d7d50b6e283d41d14114dfc9f35.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/8157a331da3fa6c9627a687352bb4a508a0a8555.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.2"
+    },
+    "ACHIEVEMENT_42": {
+      "name": "Life is Entertainment",
+      "description": "Play all minigames (excluding special contents).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/90f6c477fbee0088143ad74ee747ac24142b415b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/f44d7ac8cba373870f0c04dfac6db732de52a859.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "ACHIEVEMENT_44": {
+      "name": "Local Framer",
+      "description": "Use a local PrintCircle frame in all cities.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/c0fced4b1f9f7736f8c8a104a884b601f079d4c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/272158685ab205e0aa189f0b95fde56bf42d9674.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "ACHIEVEMENT_35": {
+      "name": "Major Revelation",
+      "description": "Complete all Revelations.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/06c42d9baf5c6cc3cc06f2732d77615eb7f72d51.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/158e94e6d852fd70cce3b4b3d63a47a1dbd860d4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.3"
+    },
+    "ACHIEVEMENT_37": {
+      "name": "Mr. Climax",
+      "description": "Trigger all Climax Heat variations for Kiryu, Saejima, Akiyama, and Shinada.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/ca3cc9c1849373d59d1ca22c2439008bd0d0b090.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/eef983fe757581ae4ad3941250c8c76ab5f83be4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "ACHIEVEMENT_10": {
+      "name": "No Easy Way Out",
+      "description": "Clear Normal Mode without changing difficulty to Easy.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/ca3cc9c1849373d59d1ca22c2439008bd0d0b090.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/084dcc856fba35e26f69b7633a80efe16f7eb2ce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.7"
+    },
+    "ACHIEVEMENT_3": {
+      "name": "No Prison Can Hold Me",
+      "description": "Clear Part 2 of the story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/aa6ebf469c3e6648482a4fd368fa87bc98231483.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/1157901d50aad9a77442d2ee4d3b73e4a98078bd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "66.0"
+    },
+    "ACHIEVEMENT_48": {
+      "name": "Novice Snowball Fighter",
+      "description": "Win the Winter Combat Battle Royale Beginner.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/870c5650bd9569d782831fd6f6768e2ebe1280f0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/7ba7ae966698a68b760e63cfc557c786be0e2737.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "ACHIEVEMENT_45": {
+      "name": "Old-school Gamer",
+      "description": "Play Taiko No Tatsujin and Virtua Fighter 2 two times or more at Club SEGA.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/54ee9948e048bf20c1b68e2cdc06e626d0a14f7e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/3ee29017f6cbc231ea4a2e32537ddc269aac97f7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.6"
+    },
+    "ACHIEVEMENT_6": {
+      "name": "Out of the Park",
+      "description": "Clear Part 4 of the story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/79b66289e33d46979904e77e44640589bf14066f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/7da09df7c778504e333238a5285f43f1cedc569b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.9"
+    },
+    "ACHIEVEMENT_43": {
+      "name": "Puck Deflector",
+      "description": "Play air hockey 3 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/7be7ab31795d257ce0875da3bc64183a73d82545.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/11dbc371802dcec004f40422fbeb74a54336be01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "ACHIEVEMENT_39": {
+      "name": "Puppet Master",
+      "description": "Defeat 50 enemies with Tiger Puppetry.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/aa6ebf469c3e6648482a4fd368fa87bc98231483.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/1157901d50aad9a77442d2ee4d3b73e4a98078bd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "ACHIEVEMENT_31": {
+      "name": "Reaching the Limit",
+      "description": "Raise all player characters to level 20.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/1b8e256889de147086c6451d4c5ea5c574b968b1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/10be3793a46e60ad5c7df95c70d689a813083d36.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.4"
+    },
+    "ACHIEVEMENT_4": {
+      "name": "Reunited",
+      "description": "Akiyama and Haruka reunited.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/3a1a200a10aa3a83cefd70a6adf2c2a0b952de64.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/58ba2e9b1f883bcdddf70c8ca4b0e8333cb13716.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "62.8"
+    },
+    "ACHIEVEMENT_26": {
+      "name": "Sightseeing Dragon",
+      "description": "Shoot a picture of at least 1 tourist spot in each city.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/b560e9cd4f229491c630d2daa2f388a307a7d3df.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/5f05cabe5baad8b63418d8e606a7782494cb0014.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.5"
+    },
+    "ACHIEVEMENT_36": {
+      "name": "Singled Out",
+      "description": "Win 100 fights against enemies in town.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/eea4c1f038c08068bfc198321852a54c384a4524.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/f091a783c57b199a19b657b3e614b56454497d0a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.9"
+    },
+    "ACHIEVEMENT_21": {
+      "name": "Substory Baby",
+      "description": "10 substories complete or finished.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/2e3eecb0a77c1ea1e8cb2fba30adfbfa0c2a64a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/576f06ab23086e52972174bb6986bd0177f58ed2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.7"
+    },
+    "ACHIEVEMENT_24": {
+      "name": "Substory God",
+      "description": "Defeat Amon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/6634cade89e2fd251c398650ef23c631e13d1b85.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/9fff1306fb2a6e4a96e70058a3c3466f0e2c238c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.7"
+    },
+    "ACHIEVEMENT_23": {
+      "name": "Substory King",
+      "description": "50 substories complete or finished.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/2ff646c5ef4de0514d202318c2ad64bfb4980683.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/561ce80a3e9f66337b373d0891346959038aa31d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.8"
+    },
+    "ACHIEVEMENT_22": {
+      "name": "Substory Prince",
+      "description": "30 substories complete or finished.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/480207099cb28d9681d70e24c968ae2e5aacb5be.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/2afca4ad483515fbcfa248bc1d7643f4f6c0aed0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.8"
+    },
+    "ACHIEVEMENT_41": {
+      "name": "Tackler",
+      "description": "Defeat 50 enemies with My Meteor Tackle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/79b66289e33d46979904e77e44640589bf14066f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/7da09df7c778504e333238a5285f43f1cedc569b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.6"
+    },
+    "ACHIEVEMENT_7": {
+      "name": "Thank You!",
+      "description": "Clear the Finale.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/1b8e256889de147086c6451d4c5ea5c574b968b1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/10be3793a46e60ad5c7df95c70d689a813083d36.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.2"
+    },
+    "ACHIEVEMENT_32": {
+      "name": "The Chosen One",
+      "description": "Complete a Victory Road event for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/fd74eb78426410d8076530829940d54cb9d98ebe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/c0d932d19537dd357d6428a67ceb3b2f3c9b9e72.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.9"
+    },
+    "ACHIEVEMENT_0": {
+      "name": "The Dream, Fulfilled",
+      "description": "Acquire all achievements in the game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/c2838b0ef97645c260d95b9b5f3df548b47b65d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/9a3286863408d21bd97180fafb8ba2c89d36c947.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "ACHIEVEMENT_28": {
+      "name": "Thrilling First Date",
+      "description": "Take a hostess on an after-hours date for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/9ab4f352c868b48457104f65567f0ef48fe01eb8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/a88fa3836e38297968e91e0a3472ff554f5b695f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.5"
+    },
+    "ACHIEVEMENT_33": {
+      "name": "Top Ten",
+      "description": "Rank in the top 10 at the Coliseum for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/fd74eb78426410d8076530829940d54cb9d98ebe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/c0d932d19537dd357d6428a67ceb3b2f3c9b9e72.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "ACHIEVEMENT_15": {
+      "name": "Trendy Idol",
+      "description": "Play all job types in Haruka's Side Story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/480207099cb28d9681d70e24c968ae2e5aacb5be.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/7bc0cd1072f7dd3415a6871faa8fc4b8e5f00bd7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.7"
+    },
+    "ACHIEVEMENT_9": {
+      "name": "Ultimate Heir",
+      "description": "Clear all Ultimate Matches.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/ad031d07f1675f16678a18800b227d7ffa1ad4f8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/283a5c011234c8b9b92261577d4cf51fb9184140.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "ACHIEVEMENT_49": {
+      "name": "Up-and-Coming Comedian",
+      "description": "Play a routine in Comedy Team.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/e6ec3989a8ec867c6614b81474334ec85de1470e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/61a68f0a58c887c4762424a82efab41e6d866b48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.3"
+    },
+    "ACHIEVEMENT_54": {
+      "name": "Useful Features",
+      "description": "Check the additional info for the first time when a tip appeared.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/fd74eb78426410d8076530829940d54cb9d98ebe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/c0d932d19537dd357d6428a67ceb3b2f3c9b9e72.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "85.6"
+    },
+    "ACHIEVEMENT_12": {
+      "name": "Veteran Driver",
+      "description": "Complete 10 taxi missions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/da26b14b2ae036c7e8e7130a1c872b20a6075060.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/14d2120202e8df377e04cb3636ae2258f5a55ff2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.7"
+    },
+    "ACHIEVEMENT_55": {
+      "name": "Watch for Cars",
+      "description": "Get hit by a regular car for the first time (excluding event scenes).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/da26b14b2ae036c7e8e7130a1c872b20a6075060.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/14d2120202e8df377e04cb3636ae2258f5a55ff2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.5"
+    },
+    "ACHIEVEMENT_1": {
+      "name": "Welcome to Nagasugai",
+      "description": "Visit Nagasugai for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/eea4c1f038c08068bfc198321852a54c384a4524.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/f091a783c57b199a19b657b3e614b56454497d0a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "88.8"
+    },
+    "ACHIEVEMENT_13": {
+      "name": "Yama-oroshi Defeated",
+      "description": "Defeat Yama-oroshi in Saejima's Side Story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/7ffbf24235e601b5e6dd5395717aaec8f430807e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/bcf1d1a0176e8810abe058aa7e33ea32cd7f83fa.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.6"
+    },
+    "ACHIEVEMENT_16": {
+      "name": "You're the Princess",
+      "description": "Win against T-Set in the Princess League Finals.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/480207099cb28d9681d70e24c968ae2e5aacb5be.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/7bc0cd1072f7dd3415a6871faa8fc4b8e5f00bd7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.8"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

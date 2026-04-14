@@ -1,0 +1,64 @@
+{
+  "appid": "1847240",
+  "name": "Game Dev Story",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1847240/header.jpg?t=1743067346",
+  "achievements": {
+    "JOBMASTER": {
+      "name": "All good Job.",
+      "description": "Proof of mastering all occupations.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1847240/b2207338061bbd01859755beffa12eaa9a89e488.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1847240/e14a311443139945cde1c240b827465188b45fec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.5"
+    },
+    "GAMEMILLION": {
+      "name": "Dream of million hit just came true.",
+      "description": "Proof that 1 million copies were sold.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1847240/b2207338061bbd01859755beffa12eaa9a89e488.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1847240/e14a311443139945cde1c240b827465188b45fec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.4"
+    },
+    "GAMEDEVWIN": {
+      "name": "Global Game Awards winner ! !",
+      "description": "Proof of winning the Global Game Awards.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1847240/b2207338061bbd01859755beffa12eaa9a89e488.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1847240/e14a311443139945cde1c240b827465188b45fec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.9"
+    },
+    "GAMEDEVELOP": {
+      "name": "Just started a game company.",
+      "description": "Proof of developing the first game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1847240/14bffbe3997e1ea2408efaf63ae4af6bd4c9446f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1847240/3f46d7de1eacbbf483e753ea56f8b6895937d933.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.3"
+    },
+    "KAIROKUN": {
+      "name": "The company that Kairobot works !",
+      "description": "Proof of hiring Kairobot.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1847240/e1900352bbd374a9a0a34b76451cd908d1b2760a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1847240/844ef9eb071d9635e73ef8b14f1ed42b8e4b2506.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "GAMECLEAR": {
+      "name": "What a great game company.",
+      "description": "Proof of running a company for many years.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1847240/e1900352bbd374a9a0a34b76451cd908d1b2760a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1847240/844ef9eb071d9635e73ef8b14f1ed42b8e4b2506.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

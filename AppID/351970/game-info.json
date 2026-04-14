@@ -1,0 +1,514 @@
+{
+  "appid": "351970",
+  "name": "Tales of Zestiria",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/351970/header.jpg?t=1718967588",
+  "achievements": {
+    "TROPHY_ID_020": {
+      "name": "36 Challenges",
+      "description": "This is proof that you've collected all 36 anomalous orbs. You've poked around in every nook and cranny, you've laughed, you've cried, you've questioned your assumptions... But you made it!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/9b64fc7c821e9d77e713d6880068599861a8e320.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.2"
+    },
+    "TROPHY_ID_035": {
+      "name": "A Double Take",
+      "description": "This is proof that you've acquired equipment with a doubled skill from an enemy drop. Very difficult unless you're playing in Hard difficulty or higher! There's a rumor that offering sanctified equipment to a Lord of the Land may increase the chances...",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/7eb11f21b73867c0901a0b0805f9696f74e87958.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "TROPHY_ID_031": {
+      "name": "A Knack for Stacks",
+      "description": "This is proof that you've created an item of equipment with the same skill in all four slots. That's at least a Stack 4 bonus skill right there! You can do the Bonus Dance. We won't judge you.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/cfa38814170824b992456b6975a52c47de443123.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "TROPHY_ID_017": {
+      "name": "A Life Facing Malice",
+      "description": "Either on (at least) your 4th playthrough or in Intense (or greater) difficulty, win the final battle without retrying! Play long enough in Hard to unlock this more challenging difficulty setting.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/6531ce86d65c5d5ed92d2531360b7b8049014663.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "TROPHY_ID_015": {
+      "name": "A Life of Moderation",
+      "description": "Either on (at least) your 2nd playthrough or in Moderate (or greater) difficulty, win the final battle without retrying! If you're familiar with the game, why not start your first playthrough in Moderate right away? You'll earn more Grade than in Normal!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/128b590b49748fc2e3c34ebbfa922b49208eafbe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "TROPHY_ID_016": {
+      "name": "A Life of Struggle",
+      "description": "Either on (at least) your 3rd playthrough or in Hard (or greater) difficulty, win the final battle without retrying! If you can't feel alive without the icy glare of death at your back, we recommend you start the game in Hard right away! Playing in Hard or higher increases your likelihood of obtaining double-skill equipment!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/8f7db13ba7c61d9e5c4687c653c07d8087588d08.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "TROPHY_ID_018": {
+      "name": "A Life Torn Between Order and Chaos",
+      "description": "Either on (at least) your 5th playthrough or in Chaos difficulty, win the final battle without retrying! Play long enough in Intense to unlock this ghastly difficulty setting. It's the only difficulty that offers a chance of obtaining triple-skill equipment!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/78dd4bb44fcb8f6aae1c5680cf87aacbc77d17fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "TROPHY_ID_014": {
+      "name": "A Non-Specific Tale",
+      "description": "You defeated some sort of people who came from some sort of place using some sort of means. This is some sort of proof of that. Sort of.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/a6cf315923d3b63faee03acc49446ff71e219d1b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "TROPHY_ID_021": {
+      "name": "An 'undred Herbs",
+      "description": "This is proof that you've picked more than 100 herbs. Don't hesitate to use them when your initial SC gets low and you're stranded far from town.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/0967065d2e77d037345249484817bd9c85906c30.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "TROPHY_ID_049": {
+      "name": "Bested the Worst",
+      "description": "This is proof that you've defeated a certain powered-up \"someone\". Nothing more can be said, nor does it need to be.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/66cd9722fbc470777d35ea4e4e4f4701027ff5ac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "TROPHY_ID_046": {
+      "name": "Bookwyrm",
+      "description": "This is proof that you've become quite familiar with the Library. How to obtain this is kind of a secret, but if you take the time to do a bit of reading now and then, you should be pleasantly surprised.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/c7ea094cd10598b27aee6bd2b86f907793033a57.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "TROPHY_ID_027": {
+      "name": "Boss of the G-Union",
+      "description": "This is proof that you've equipped items that activate a Group Union bonus skill. Each basic skill group has a skill corresponding to each of the five elements. It doesn't matter where on your equipment you have the skills equipped; just equip all five skills in a group to form a Group Union!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/9b223be5064e65832ee6b3a6803b314b4b44cf65.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.8"
+    },
+    "TROPHY_ID_043": {
+      "name": "Chatterbox",
+      "description": "Sometimes, after you've found a discovery point or when you're at a save point, you have the opportunity to press Enter/Back to initiate a conversation between your companions. This is proof that you've experienced many Things and had a lot of Opinions about them.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/bf434a3f3bbe10379d35cedafbe651b780f7e93d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "TROPHY_ID_022": {
+      "name": "Checking Inn",
+      "description": "This is proof that you've stayed at inns for a total of 10 nights. Resting at inns can give you extra skill effects in battle thanks to mysterious ingredients in the meals you're served. You can also engage in chitchat with your companions and restore your initial SC to 100. Such hospitality!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/21fbc68b88c9bc1cc22332f68df616e98119cafd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.5"
+    },
+    "TROPHY_ID_045": {
+      "name": "Cruisin' for a Bruisin'",
+      "description": "This is proof that you've battled a wide swath of enemies. By the way, the more of the same enemy you defeat, the more likely that enemy becomes to drop equipment with skills attached. Time for some population control!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/6b820355ca91ca8648e0a0f816ef99059de2ea29.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "TROPHY_ID_001": {
+      "name": "Dawn of the Shepherd",
+      "description": "This is proof that you've formed the pact and earned the power of the Shepherd. Now your journey and trials really begin!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/6ee1b4ba1363affde4dfc8e9211766bdc23c3aee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.2"
+    },
+    "TROPHY_ID_040": {
+      "name": "Dietician's Nightmare",
+      "description": "This is proof that you've prepared all available snacks. \"The people in my video game eat nothing but cake all day, so I'm sorry, Doctor, you're full of it.\"",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/7429b812cae8ddd1cf35dd937631fd8394afb991.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "TROPHY_ID_032": {
+      "name": "Divine Intervention",
+      "description": "This is proof that you've equipped every skill for a certain element to achieve an E-Union 10 bonus skill. That strange buzzing you hear? It's your enemies quivering in fear.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/3e370e19f9db54943903325f723647844b97b4de.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "TROPHY_ID_005": {
+      "name": "Dusk of the Shepherd",
+      "description": "This is proof that you've witnessed the resolution of this story. Now you can try playing again with various changes to the gameplay, or you might venture into the daunting bonus dungeons.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/5664c187b42d60672c4985545f2bda481ee575b7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.2"
+    },
+    "TROPHY_ID_047": {
+      "name": "Eight Dates With Hate",
+      "description": "This is proof that you've returned alive from challenging all eight Malevolent Crucibles. Since each one only allows certain characters to enter, you'll need mastery of techniques and knowledge for each one of them.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/1321777b6cd766bf38df396c7582a689e0efca45.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "TROPHY_ID_028": {
+      "name": "Elle Mental Marta",
+      "description": "This is proof that you've equipped items that activate an Elemental Union bonus skill. Basic skills all correspond to one of five different elements. Equip skills of the same element that line up directly adjacent to each other, and you'll form an Elemental Union based on how many skills are in the line. Check it out on the skill sheet!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/6c05b977f33b4fb72b80a089c041c2884c0bfb60.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.9"
+    },
+    "TROPHY_ID_008": {
+      "name": "Fiery Trial",
+      "description": "Either on (at least) your 2nd playthrough or in Hard (or greater) difficulty, conquer the fierce battle at Igraine, the Shrine of the Fire Trial, without using any items!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/d3ae986a3e4321906e785ea3eac22e79b9da3cbf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "TROPHY_ID_030": {
+      "name": "Having a Blast",
+      "description": "This is proof that you've reached the maximum Blast Gauge of 9. You can increase your BG using the Stack 3 bonus skill \"Blasst\". Coordinate your equipment just right, and you can blast off to new heights.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/d463d392968e8c3f3109475f8fb3dbe91e498650.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.0"
+    },
+    "TROPHY_ID_041": {
+      "name": "I Am the Wind",
+      "description": "This is (WHOOSH) proof that you've attained (NEEEAAAROOOOMMM) maximum speed with the (BEEEOOOWWWWWWWW) Windstepping talent.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/de082b2829fdef642669529ed4f221f46431226b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.4"
+    },
+    "TROPHY_ID_006": {
+      "name": "In Shreds and Tatters",
+      "description": "Either on (at least) your 2nd playthrough or in Hard (or greater) difficulty, conquer the fierce battle at Falkewin Hillside without using any items! It's a steep challenge, but you've got what it takes!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/5b26113c126d73ff443db6632fed1587af08959a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "TROPHY_ID_004": {
+      "name": "It All Ends Here",
+      "description": "This is proof that you're committed to engaging in the final battle. There's no going back. Onward to the place where it all ends!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/477cd1c29f84e50d8fc9305813f48568e257fde0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.1"
+    },
+    "TROPHY_ID_013": {
+      "name": "Killing with Kindness",
+      "description": "Either on (at least) your 2nd playthrough or in Hard (or greater) difficulty, conquer the fierce battle at the Spiritcrest Rayfalke without using any items!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/24beeed461b286eac7f79beeed9496e9e3103293.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "TROPHY_ID_026": {
+      "name": "Landed Gentry",
+      "description": "This is proof that at least one Lord of the Land has reached Blessing Level 20. Even when they pass to the stars, they find it hard to abandon those over whom they watch. It seems some remnant of their blessing remains even after you finish the game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/d65de3fa2b073b5f68d433ef4ee3505e573d7b8c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "TROPHY_ID_036": {
+      "name": "Last Stop on the Fusion Train",
+      "description": "This is proof that you've acquired a piece of equipment with a +99 modifier. Sanctify it, and a whole new life awaits you. Aim for 9900 fusions! No, wait, that's probably not necessary.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/3c03e36e7939b282cba90022b2c9bf5ed2491a2f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "TROPHY_ID_039": {
+      "name": "Making the Grade",
+      "description": "This is proof that you've received over 50 Grade from one battle. Everyone's amazed that you didn't buckle under the pressure. You've come so far.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/086cce9a3e45b2a5ff95ba4fb3e9235767db9848.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "TROPHY_ID_000": {
+      "name": "Master of Zestiria",
+      "description": "This is proof that you've obtained all trophies. We're thrilled you like the game so much, and we hope to meet you again in future titles!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/cabfe62dab566b27627fc70f53112bb0c633a4dd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "TROPHY_ID_042": {
+      "name": "Micromanager",
+      "description": "This is proof that you've fought many battles while controlling many characters. You can take it slow by changing characters in the Top Menu, but if you want to kick it into high gear, there are battle actions that let you switch in battle on the fly!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/07056379fc195edd2eea8ad9628b346588e15748.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "TROPHY_ID_024": {
+      "name": "Monolith Monomania",
+      "description": "This is proof that you've found all the stone monoliths and ruminated on their author. Use the battle actions you've acquired to unleash the ultimate mystic artes!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/fd4f4272bb525a62a067ec67c6b4cc0dd31e473b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "TROPHY_ID_011": {
+      "name": "Newcomer Challenge",
+      "description": "Either on (at least) your 2nd playthrough or in Hard (or greater) difficulty, conquer the fierce battle at Guinevere, the Shrine of the Wind Trial, without using any items!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/029971509adfbe3fbb73d18e684d6c0ab847092a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "TROPHY_ID_019": {
+      "name": "No Ordinary Customer",
+      "description": "Shop Level will increase when you buy, sell, or fuse equipment at shops. This is proof that you've fist-bumped the invisible hand of capitalism enough to achieve maximum Shop Level. Secret menus unleashed!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/60f6ebf9d9f0ad1294abfa881c4e47f6b7985e21.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "TROPHY_ID_025": {
+      "name": "Normin Tamer",
+      "description": "This is proof that you've found at least 40 normin and convinced them to help out. You're great at making new friends! But remember, there's more to come.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/b50ebb7ba7ca13317211129b1affac3ab4668ed4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "TROPHY_ID_052": {
+      "name": "Reencounter with Karma",
+      "description": "It wasn't quite what you'd expected, was it? Nevertheless, this proves you survived a certain battle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/d69bff9ae4bf076c9ce8875b76969dfbf589d58f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Tales of Zestiria - Additional Chapter: Alisha's Story",
+      "percent": "3.0"
+    },
+    "TROPHY_ID_010": {
+      "name": "Rest Azure'd",
+      "description": "Either on (at least) your 2nd playthrough or in Hard (or greater) difficulty, conquer the fierce battle at Lefay, the Shrine of the Water Trial, without using any items!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/1852dd4a3f56d6fa18be3938846e8e8d3732a55c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "TROPHY_ID_051": {
+      "name": "Severing the Bonds of the Past",
+      "description": "The time, place, and opponent are different, but the same score has been settled again. This is proof of your efforts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/562feab081603ca720f1d989ff86a05170135531.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Tales of Zestiria - Additional Chapter: Alisha's Story",
+      "percent": "3.4"
+    },
+    "TROPHY_ID_023": {
+      "name": "Show of Talent",
+      "description": "This is proof that you've honed a certain Support Talent enough to be able to teach it to others at the inn. Those who can, do. Those who can even better, teach!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/e09e6291692c7ad19a40f0bc8f6a51927eb482a4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.1"
+    },
+    "TROPHY_ID_029": {
+      "name": "Stacking the Deck",
+      "description": "This is proof that you've equipped items that activate a Stack bonus skill. You can get Stack bonuses by equipping more than one copy of the same skill at once. The more copies of that skill you equip, the cooler your Stack bonus will be!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/b786be14c15730c5bb5def29e2dffc617d7e40db.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.4"
+    },
+    "TROPHY_ID_007": {
+      "name": "Super Collision Course",
+      "description": "Either on (at least) your 2nd playthrough or in Hard (or greater) difficulty, conquer the fierce battle at Glaivend Basin without using any items!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/94a4dbfb45bf7655a498cc7709f507ab92638b20.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "TROPHY_ID_033": {
+      "name": "Sweet 16",
+      "description": "This is proof that you've achieved the Stack 16 bonus skill, the highest echelon of Stack bonuses. Whether this is the end or just the beginning is up to you.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/10148eeae690e3f184feb93cb5cca8e4a546be01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "TROPHY_ID_038": {
+      "name": "Talent Management",
+      "description": "This is proof that you've mastered at least one of the Support Talents. Slow and steady. You can do it. We believe in you.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/0fa14a94facc2e73e5f878e360ba02e3d3ee1768.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.3"
+    },
+    "TROPHY_ID_012": {
+      "name": "Tear-Soaked Battlefield",
+      "description": "Either on (at least) your 2nd playthrough or in Hard (or greater) difficulty, conquer the second fierce battle at Glaivend Basin without using any items!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/9093af3c9818e4572ed014342bba366494b18292.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "TROPHY_ID_034": {
+      "name": "The Blessing Bell",
+      "description": "This is proof that you've sanctified at least one piece of equipment. A super deal that doubles the effect of the skill in the first slot! Of course, if you're particularly devout, you can also offer this item to the Lord of the Land and secure a more blessed future for our children.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/bdb18f9d29573c48731c68bfd9c391a2242f91e7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "TROPHY_ID_053": {
+      "name": "The Dynamic Duo",
+      "description": "Proof that you've cleared Naraka in the Malevolent Crucible. You and your partner make quite a team!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/453f93bc6d6622160584e6a21b1c860d4ddf3364.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Tales of Zestiria - Additional Chapter: Alisha's Story",
+      "percent": "2.6"
+    },
+    "TROPHY_ID_055": {
+      "name": "The Eleventh Duo",
+      "description": "Proof that you've cleared Naraka in the Malevolent Crucible 11 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/cd39ed48d9c2a5381698535895512b707316a6f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Tales of Zestiria - Additional Chapter: Alisha's Story",
+      "percent": "1.1"
+    },
+    "TROPHY_ID_044": {
+      "name": "The Item Collector",
+      "description": "This is proof that you've collected all items, most of which is equipment. The core concept of equipment is the combination of stat boosts and embedded skills. Items you initially dismissed might in fact hold the key to defeating the most formidable foes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/259f2a1114d7a071cc3792a8f34213674686a3a2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "TROPHY_ID_048": {
+      "name": "The Sky's the Limit",
+      "description": "This is proof that you've completed all the extra dungeons at difficulty level Normal or above. But further challengers await you, in places you've been and places you have yet to be.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/f3d8ffb8d3f0f8e1f840e93a6e114f760a4a4f1e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "TROPHY_ID_054": {
+      "name": "The Speedy Duo",
+      "description": "Proof that you've cleared Naraka in the Malevolent Crucible in a short amount of time. You speed demon, you!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/1c806c17873de3a7c38dda9a5513803bd6cfa877.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Tales of Zestiria - Additional Chapter: Alisha's Story",
+      "percent": "1.2"
+    },
+    "TROPHY_ID_050": {
+      "name": "The Squire's Pact Renewed",
+      "description": "The squire's pact you'd remembered so fondly is enacted again. What kind of journey will await you this time?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/f0a9e252569c150a0e375b3eb3f1672a55735657.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": false,
+      "group": "Tales of Zestiria - Additional Chapter: Alisha's Story",
+      "percent": "3.6"
+    },
+    "TROPHY_ID_003": {
+      "name": "Trials Overcome",
+      "description": "This is proof that you've earned the means to stand up against those whom you must. But beware... Your enemies are more powerful than you can imagine. There's no way to know whether you can triumph without confronting them directly.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/da567a5a2e082210f5aeb53e684c04bb7862774c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.7"
+    },
+    "TROPHY_ID_037": {
+      "name": "Wishes Transferred",
+      "description": "This is proof that you've reacquired the equipment you carried over from your last playthrough in Lakehaven Heights. Future You is cheering you on, waiting to meet you at the end of the game once more.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/595501b0da0aec077c8cf95ebc79b09803e17c70.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "TROPHY_ID_009": {
+      "name": "Writhe in Agony",
+      "description": "Either on (at least) your 2nd playthrough or in Hard (or greater) difficulty, conquer the fierce battle at Morgause, the Shrine of the Earth Trial, without using any items!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/6049ab6f362ff5d721c059193220886824caa6ac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "TROPHY_ID_002": {
+      "name": "Youth",
+      "description": "You've been through a lot, but this is proof that you're still on the right track. Or in the right vessel. Or something. Youth can be tumultuous.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/dc83a0d11a50e25bd1772b7bff9e6e7ded7bc007.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/351970/2f783c7e4310fbf1bb920c43678c6d0c3273438d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.8"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

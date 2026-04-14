@@ -1,0 +1,460 @@
+{
+  "appid": "2658450",
+  "name": "LOLLIPOP CHAINSAW RePOP",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2658450/header.jpg?t=1732876695",
+  "achievements": {
+    "ACHIEVEMENT_036": {
+      "name": "Accidental Vandalism",
+      "description": "Destroyed 300 objects in the game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/8810ad0d6290684f6ed4467aecc1a18d6ec4a08c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/34210c307e84ad2a15d75d22eeb946270ded414c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.7"
+    },
+    "ACHIEVEMENT_041": {
+      "name": "Aced Auto-shop Class",
+      "description": "Clear all the Kill Car QTE's in a row.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/d67bdf5fdd1cbd3538a5d76adc9f847df0cebd3b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/317e328635f2c94e16dd9127fb9febf11be54bd1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.4"
+    },
+    "ACHIEVEMENT_045": {
+      "name": "Advanced Zombie Hunter",
+      "description": "You beat Dad's Stage3 Clear time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/77e8452316a35af2bfdd677c303a45629bdc2907.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/a72196dd34ef4ed195780ad787bfe2f6870dc74f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "ACHIEVEMENT_024": {
+      "name": "Always On The Phone",
+      "description": "Collected all telephone messages.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/7722ebe883ef37043901b05f9ea806d2b3955ad7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/4a5275cc097324788f67da82cfd6d184917c8db3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.0"
+    },
+    "ACHIEVEMENT_043": {
+      "name": "Beginner Zombie Hunter",
+      "description": "You beat Dad's Stage1 clear time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/7771a1c5ff665918ac66a6831d4ac934dd2ad11d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/01cf6017bf38030b019e2e0decd8ae73b7072e10.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "ACHIEVEMENT_030": {
+      "name": "Cheerleader Overboard!",
+      "description": "Succeed in QTE at edge of Vikke's ship.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/2ddc3cbf047e1d98a26c91056c4a420713ed0b0c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/f906b82c0cffc33c0b66e1cc8581f3b51cd0ca82.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "ACHIEVEMENT_049": {
+      "name": "Congratulations! Happy Birthday!",
+      "description": "Watched the happy ending.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/adb4c32dd86138b65571c09bc458451de2a29aac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/9317712817fb145540c9de4a43e85462600c3534.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.6"
+    },
+    "ACHIEVEMENT_032": {
+      "name": "Critical UFO Finish",
+      "description": "Funk Josey in the last 10 seconds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/93665d2356cfcf369bc1bf56a171961b097dd730.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/809b0e1c914150d14fce808470081eacdd34cba9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "ACHIEVEMENT_005": {
+      "name": "Dirty Hippy",
+      "description": "Defeated Mariska.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/7b779ee252a1f74d65e0dbbc9baa08892c532cff.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/d96b2cd0b9b6a8a30bc967b22cd6f997cc3addab.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.9"
+    },
+    "ACHIEVEMENT_006": {
+      "name": "Disco's Dead",
+      "description": "Defeated Josey.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/eb4fd62188db680443b3665b20a97e5bea6d1d58.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/b93ea570fc9277de599793b637d2ce5b3df876c8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.7"
+    },
+    "ACHIEVEMENT_033": {
+      "name": "Elephant Tamer",
+      "description": "Counter Lewis' attack 10 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/7077fbb44e03ccd8d3c7c107edd86c78fb92a7f0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/eca41e787828c88d924dc19f4831dfecf0766eb4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "ACHIEVEMENT_011": {
+      "name": "Endorsed by Cordelia",
+      "description": "Get 30 headshots.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/5c86cc22d0b59e3766014780a40264d7dc434cf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/4edf984835422e531807df73893ff592d7dc9a86.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "ACHIEVEMENT_047": {
+      "name": "Excellent Zombie Hunter",
+      "description": "You beat Dad's Stage5 clear time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/cfef03f803cd0fa555d1f43050d4eba99a983cd3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/22a869ec47cda784201b0d3e46640368bc4412ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "ACHIEVEMENT_034": {
+      "name": "Fingered",
+      "description": "Cut off 20 fingers during Killabilly's fight!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/3044065ad86bf2d5676ac88d1fa80d9ebdc11e1e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/90fd81904add6acb1a9c5b15d9411ed11484dd67.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.7"
+    },
+    "ACHIEVEMENT_037": {
+      "name": "Go, Medal Racer, Go!",
+      "description": "Picked up all zombie medals on the rooftop with Chainsaw Dash.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/607a19c1ba48126233bd612e879f3a53133c435f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/9a13a213dfec20835b257af31c59002e32a86dde.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.2"
+    },
+    "ACHIEVEMENT_018": {
+      "name": "Groovy Hunter",
+      "description": "Kill 500 zombies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/688c14544cc47189c4925d698e56f39201f09b00.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/5e0e0cde06fe94586099021f615c862f3c1735c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.1"
+    },
+    "ACHIEVEMENT_013": {
+      "name": "Gunn Struck",
+      "description": "Struck by lightning 10 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/37c61ae4030538e3da5676ce9171b1eb5b65bbdc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/fa177e26bb17b7cf13726080a82afbccaf7328b9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "ACHIEVEMENT_050": {
+      "name": "Horrid Birthday",
+      "description": "Watched the bad ending.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/db1e308c9b29bf62aad215975ed77be9e6c95542.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/3c8dbc725f905d7406f68334be76b1ddeab9bc31.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.8"
+    },
+    "ACHIEVEMENT_008": {
+      "name": "I Came, I Saw, I Kicked Its Ass",
+      "description": "Defeated Killabilly.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/39b9a14fa567272243be8b0c2f5c6267292dd60c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/6eebac13fc6d23975f7c6a13908f89d89e5a2914.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.0"
+    },
+    "ACHIEVEMENT_010": {
+      "name": "I Swear! I Did It By Mistake!",
+      "description": "Peeped under Juliet's skirt once.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/17c7e7fc3039997b380d82c0fe9dc3713c036595.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/ddbed1ce5214ea240cb61fe9a4ef9049c716834b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.9"
+    },
+    "ACHIEVEMENT_044": {
+      "name": "Intermediate Zombie Hunter",
+      "description": "You beat Dad's Stage2 clear time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/e47f6a98ad138d97b1f18e502584939ab296e3a3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/ea1c73dba301eba5279a0a8f43db73803249fb5a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "ACHIEVEMENT_016": {
+      "name": "JULIET51",
+      "description": "51 successful dropkicks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/64fb5c0b98df362d2ced9c7d978e4726bb42ff73.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/423dfaab8314236d1d08e04b77ef742b1f2276c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.0"
+    },
+    "ACHIEVEMENT_009": {
+      "name": "Leapfrog girl",
+      "description": "Leapfrogged 10 times in a row.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/4466b708a8ebde046195457e8f2ebcb0563c912e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/e4dbbaf4c633ba8047b512630a438dc13b347d3b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "ACHIEVEMENT_038": {
+      "name": "Legendary harvester",
+      "description": "Harvested all crops in the 1st field with the combine in Stage 3.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/8b1f688ec5973525e8f56e084c045c45896c9f0d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/54be3299c3eb4f2cea52f323877691276291d77c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.9"
+    },
+    "ACHIEVEMENT_035": {
+      "name": "Life Guard",
+      "description": "Rescued all classmates in Prologue.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/b0b914cfad324b5a85d6ec859dd86aeabb15fb97.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/a42172000707ba62056ef4a317865eb0d111ee27.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "88.0"
+    },
+    "ACHIEVEMENT_040": {
+      "name": "Little Sisters Are The Worst!",
+      "description": "Do not get hit by Rosalind's wrecking ball.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/b3f570dd4a9ed170fdd00da30e542a2ea4bba828.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/5a7bccb2c06c5533a7366aca5b7ad6f74d74b171.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.7"
+    },
+    "ACHIEVEMENT_023": {
+      "name": "Lollipop Addict",
+      "description": "Collected all lollipop wrappers.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/59b9c13bbfc33337df2aaaf1bb790e8828aafc40.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/ce5dcb6534f4bb7a978e3c350b9022cd48212977.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "ACHIEVEMENT_015": {
+      "name": "Love Nick",
+      "description": "Kissed Nick 100 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/bb2eb8a6696f9e7974345bb6594c0418b41a659c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/2755d2917c4eec4de530d4a86961c7998836710c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "ACHIEVEMENT_028": {
+      "name": "Master Sushi Chef",
+      "description": "Collected all combos.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/463aca9e8857ab66c529b3aefdd0d3e537440f32.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/85ce6dc3adb2ba4d3085a3f312862bd3e0d7085e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.1"
+    },
+    "ACHIEVEMENT_048": {
+      "name": "Master Zombie Hunter",
+      "description": "You beat Dad's Stage6 clear time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/27b9f841e9a4b0724b8679b376ca566aaa30be4e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/746ee506cf431a5bf130d13827b9e372d03051b2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "ACHIEVEMENT_021": {
+      "name": "Millionaire Hunter",
+      "description": "Pick up 10,000 zombie medals.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/a4970f599fad24c59d9bd4775bda89d70ba2cc57.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/7905e4fd05464cb0b735878d1a4823e1a9b5c55d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.6"
+    },
+    "ACHIEVEMENT_042": {
+      "name": "n00b Zombie Hunter",
+      "description": "You beat Dad's prologue stage.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/dea5def0b0ba41ac7edc79fdeac7fc2d3123d317.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/25b861263b2deae12a3452d643686bd909f50059.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "ACHIEVEMENT_039": {
+      "name": "No Fear Of Heights",
+      "description": "Beat the Gondola game without shooting.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/5d892f1995c99a647899d1f92fbef425aa5bd11c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/00f3199ee8377738ccda263f915c5bc1fa0519d2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "ACHIEVEMENT_026": {
+      "name": "OMG, Music Is Soooo Coooool",
+      "description": "Collected all BGM.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/c4350b47a5f8b1acada92f22c265135a47cf3b91.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/8d8e903d6b53bf8effdd04adab3bba8130f78a5b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.2"
+    },
+    "ACHIEVEMENT_027": {
+      "name": "Perfect Body",
+      "description": "Completely level up Juliet.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/7c88e47b6919bf3dd1b29b8496321fc1d6293cd9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/9a5d67bc080fae152acafd1ba8f01e472ccc8487.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.9"
+    },
+    "ACHIEVEMENT_020": {
+      "name": "Rich Hunter",
+      "description": "Pick up 1,000 zombie medals.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/85d2c0ac773ef78f0571bf46bd2ac8a6a6b31cc7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/492ade5542e26b96a0fde9b2ab3e74bf145df1f8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.0"
+    },
+    "ACHIEVEMENT_007": {
+      "name": "Rock'n Roll Isn't Here Anymore",
+      "description": "Defeated Lewis LEGEND.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/e72eb5db061946418fc5bd04877fcb2edc7cdd1f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/cdb30e11461fec98d215b6b2485aa36d95b4a493.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.9"
+    },
+    "ACHIEVEMENT_022": {
+      "name": "San Romero Knights Savior",
+      "description": "Rescued All Classmates.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/bb9f1754ab6e67e8743c669d123a1102f97c26b4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/e3f859a970cd0eacbc2daaee9a647535afe348c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.7"
+    },
+    "ACHIEVEMENT_012": {
+      "name": "Sparkle Hunting Master",
+      "description": "Succeed in 7 zombie Sparkle Hunting.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/b8b4b17dc7ae5e6bd9e0fad03d5d626556a46aa4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/18aab2a144f58f9afa7f55f4f12ba420dcd4a33b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.7"
+    },
+    "ACHIEVEMENT_014": {
+      "name": "Super Shopper",
+      "description": "Spend 10,000 medals at Chop2Shop.Zom.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/e41b536fcf6b6e4cad155682f3e6c6a2058c546f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/78204457ecd3e87cfa9c03d9c6c02140e1c085ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "ACHIEVEMENT_046": {
+      "name": "Super Zombie Hunter",
+      "description": "You beat Dad's Stage4 clear time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/13a54032e82edd814c424285bae35d889e0a07c4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/3f422776ada66b05220f71b81246ff470fab343e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "ACHIEVEMENT_031": {
+      "name": "Third Eye",
+      "description": "Dodge all balloon attacks in Mariska battle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/2a064137befc0cd6164e5b86b2dfd19661211fe7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/f81e7e8bd4a99eec7c7eaa9c6a9c7efd76e95717.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "ACHIEVEMENT_017": {
+      "name": "Time Attack Zombie Hunter",
+      "description": "Time Attack Cleared.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/a59d234def0d4add6f65e77613a639127f9c82d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/3c250903dde0db3a2fc0a54087e42ebcdff2134c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "ACHIEVEMENT_002": {
+      "name": "Unclean and Uncool",
+      "description": "Defeated Hazmat in Prologue.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/3c71799d777fdcf3c064b0ff2e13ba2ffef3ad04.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/d740a7940e6adb435552e5f47d1070eda1b67c09.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.8"
+    },
+    "ACHIEVEMENT_004": {
+      "name": "Viking Metal Rules!",
+      "description": "Defeated Vikke.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/bceb774ec060de7a1051cae8774fa7db18f0e435.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/f153789c7728cc56e858a1a0a1c034bd305afc72.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.0"
+    },
+    "ACHIEVEMENT_029": {
+      "name": "Watch Out For The Balls",
+      "description": "Dodge & Counter Zed's Electric Balls 15 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/92e90a4352185e95476b5e54dfbd115bc212299f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/4e135ec4ab28bb035d6e8ee236b589532bc4b74b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ACHIEVEMENT_003": {
+      "name": "Zed’s Dead, Baby, Zed’s Dead",
+      "description": "Defeated Zed.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/e53e0ccad42333ff04ac5ef7ed07d44b3d10f721.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/bc189dc7922e69115e3ac08397f4248a8399eaa0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.9"
+    },
+    "ACHIEVEMENT_025": {
+      "name": "Zombie Fancier",
+      "description": "Completed the zombie album.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/a979faba67598c3adf95a4b6a37e281d1546e996.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/3f07320b9b6b9b441c705d747deb7ef4ec6269d9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "ACHIEVEMENT_001": {
+      "name": "Zombie Hunter Apprentice",
+      "description": "Buy a combo at Chop2Shop.Zom and use it.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/d9fabe2faf83bb55ad759ec4b6dc0782e3cf6044.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/fa3978cbd929af5d873b1efd5c1cb2a9af3aff71.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.3"
+    },
+    "ACHIEVEMENT_019": {
+      "name": "Zombie Slayer?!",
+      "description": "Kill 3,000 zombies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/141e1f088ae0dfb43b4d737464530e2d26750880.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/64ad935f6a8b582bdae52c518746d3a085490f20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

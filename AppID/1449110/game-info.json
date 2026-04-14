@@ -1,0 +1,442 @@
+{
+  "appid": "1449110",
+  "name": "The Outer Worlds 2",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/fe273e39cbaf4997d1c8e53879800f07dba0ee03/header.jpg?t=1761760147",
+  "achievements": {
+    "NEW_ACHIEVEMENT_3_0": {
+      "name": "A Journey Of A Thousand Miles",
+      "description": "Collected 1 Pitch/Tossball card",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/b2201ed9be7f9d0385572e1dbf4f0bfbba083cb9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/844864bcadd3ae908eafe75d0bb9f63893c68362.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "85.2"
+    },
+    "NEW_ACHIEVEMENT_1_22": {
+      "name": "A Stiff In The Rift",
+      "description": "Jumped into a rift (and died)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/4cd4a4d15b9a77d3e32bc823a981709dd7f78bdb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/405433ab64236c35cce4508f70b4502dfe23b496.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "59.0"
+    },
+    "NEW_ACHIEVEMENT_1_20": {
+      "name": "AC: All Complete",
+      "description": "Completed all faction quests for Auntie's Choice",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/c2c85706762a37e08f72324e807f6565e9b70974.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/f59ce85c3358daeff3641ec0759d2b117abb3b45.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "NEW_ACHIEVEMENT_1_27": {
+      "name": "Ad Hominem Homicide",
+      "description": "Killed 10 enemies that are taunted by the Popup Gun's Ad Drones",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/2b49fa8f4441aa5b4c657861fd1e943c06d7edfe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/4e8e23511a06bbf3c52fee3cd7d066ad00935476.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "NEW_ACHIEVEMENT_1_16": {
+      "name": "All for None",
+      "description": "Had every living companion die or abandon you for good",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/a0987fce5e4aea56cddaf3f1eac9b6ebe2fdad48.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/c7f066d0481c176e4567cbe24bc06d3ae6f3a809.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "NEW_ACHIEVEMENT_1_15": {
+      "name": "All for One",
+      "description": "Completed all companion quests",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/723c6bbde9b1a933fd13289dc485bc784ec54956.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/96a4600377d185ec8a6ea5642563335f697394e2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.8"
+    },
+    "NEW_ACHIEVEMENT_3_7": {
+      "name": "Anti-Consumerist",
+      "description": "Completed the game without spending a single bit",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/6ab0bf59b0bd9dccd6598d0c139286856b4408a0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/4e9639e614a137fd16896db7a1f445fe0bee706f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "NEW_ACHIEVEMENT_3_2": {
+      "name": "Auntie's Old Acquaintance",
+      "description": "Met Amos",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/a8d10fcb7d2149e457311cfcff1972f9debd2813.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/636e0d5ceb10c583dbe240ee0332cd917eda5678.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.3"
+    },
+    "NEW_ACHIEVEMENT_1_11": {
+      "name": "Capture The Archive The Hard Way",
+      "description": "Took control of the Archive without any backup",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/258fc248a08e0b7a01d1f8ff4457f5c8fa537dcf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/04aa9b867e2024eaeb88ad54cc7e64dd3d8a5d2d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.0"
+    },
+    "NEW_ACHIEVEMENT_1_31": {
+      "name": "Chemically Dependent",
+      "description": "Crashed 20 times with the Medical Inhaler",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/a51e0e767f4ccaf34f387b7e2124f2e1ba8792fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/e5ab333f30f0878784cca01a184b9b1a1fa6c7c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.3"
+    },
+    "NEW_ACHIEVEMENT_3_11": {
+      "name": "Cloister Excogitation Logs CEL-ebration",
+      "description": "Found all of the Excogitation audio logs on Cloister",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/0f68d8c8ad560adef9d0448b973c2bdde0003942.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/af27de1479e58adf6a029cded1edc6af2678d5bb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "NEW_ACHIEVEMENT_1_21": {
+      "name": "Corporation Cooperation",
+      "description": "Convinced Auntie's Choice and the Order of the Ascendant to work together",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/f94361d0925f58f7718a4e4ec6ed1f2f286f2e2d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/68dc536b9f3a66d1d3efe17f4037fb999aeca50e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.5"
+    },
+    "NEW_ACHIEVEMENT_3_6": {
+      "name": "Corpse Warper",
+      "description": "Melted 20 bodies with Auntie's Acidic Dematerializer",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/f651e271de21bc56d230a9d7e2092cedde4d3153.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/429df04113ee76a4d64da144742fbb862b2ff19b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.4"
+    },
+    "NEW_ACHIEVEMENT_1_26": {
+      "name": "Dance Dance Disfiguration",
+      "description": "Killed 10 enemies with the Spectrum Dance Saber while in Spectrum Rainbow mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/28904ac973c97de360b7c12d5ec38df18cb27181.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/414bb2588379903072084a756c74d0f270458fcc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "NEW_ACHIEVEMENT_1_3": {
+      "name": "Desperate Times Call For Monastic Measures",
+      "description": "Stopped de Vries' conspirators in Alexandra Monastery",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/c2775c8942faf7ab9bfe6a695a5023b83d590a51.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/39502b8845a64a362e97b9ebf6c075566c6fba55.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.0"
+    },
+    "NEW_ACHIEVEMENT_3_13": {
+      "name": "Destroyer of Worlds",
+      "description": "Reached the lowest possible standing with Auntie's Choice and the Order of the Ascendant",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/7db2ca85a5b5d12bd52319a53f490aeee32cee01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/d5a779aaa3715e8349cd09d187325d9b36a2f08d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "NEW_ACHIEVEMENT_1_8": {
+      "name": "Elemental Maelstrom",
+      "description": "Killed a single enemy that has been affected by all possible damage types",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/6166db5be69ae757bd906677da84e088e3e36ad0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/f8a376aff55d894465854fae450ba1b53e1432b8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "NEW_ACHIEVEMENT_3_14": {
+      "name": "Everything Must Go",
+      "description": "Earned 50,000 bits by selling items to vendors",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/f6eb532799e0abb68138dd5286a8db2bd4282414.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/eab6bd7ce130c3ca76e2ba3f03528ee6efa6106b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.7"
+    },
+    "NEW_ACHIEVEMENT_1_9": {
+      "name": "Flawed Hero",
+      "description": "Accepted 3 Flaws",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/d1874ec2d3c85ed3ea5d145239f3bea7909ce705.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/0de1410a8c2c84f3616423920c7cd8f3cd7c77c7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.9"
+    },
+    "NEW_ACHIEVEMENT_1_24": {
+      "name": "Float Like A Butterfly, Sting Like A Bee",
+      "description": "Killed 5 enemies while hovering in the Zyranium Automech Suit",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/9e4b69c9293db089916e457995cd720bbd6d2abb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/145875d5b6041a1c79ad082c1eda8208ae323b6e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "NEW_ACHIEVEMENT_1_23": {
+      "name": "Go Out With A Bang",
+      "description": "Killed 3 enemies with a single shot of the Big Bang",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/a6d389d6acb375e91aef71e18119c24ff7ae672f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/145e2e8f533b2ce711456a6619a592933b397325.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "NEW_ACHIEVEMENT_3_9": {
+      "name": "Golden Ridge Murals In Plural",
+      "description": "Found all of the mural pieces on Golden Ridge",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/0740bcb2ba640715dd0521683d28e5b5a229a8ac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/96e4da3fc9963e960b145677de054603630237da.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.8"
+    },
+    "NEW_ACHIEVEMENT_1_6": {
+      "name": "Hard",
+      "description": "Completed the game on Hard difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/58f7d1d57e3f0bb9c3bbb312a7f4aa4881446c16.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/93844ecfc1532c16fa83025ee5470d79d60ba986.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "NEW_ACHIEVEMENT_3_3": {
+      "name": "Hatchling Catcher",
+      "description": "Collected 5 pets for your ship",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/b0c4d4b3d918df8369352343f877b93697f563e4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/b36aea2769dc4636e552f3d26a8f220545bbba74.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.8"
+    },
+    "NEW_ACHIEVEMENT_3_4": {
+      "name": "Hatchling Hunter",
+      "description": "Killed a total of 50 Raptidon Juveniles, Crabble Hatchlings, Mantiwasps, Spiderlings, or Critters",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/bd150758c47b42489a39eee323ded5c29eea98f5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/9c38b89caf89fdb9122b7015497abae9afcebba2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.1"
+    },
+    "NEW_ACHIEVEMENT_1_4": {
+      "name": "Left To Your Own Device",
+      "description": "Acquired the Rift Anomaly Modulator",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/d8ebda395e2f02f64629f9295fc9be5b473712e6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/4863555602eef5dc3867b443687c7749ab3789b4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.2"
+    },
+    "NEW_ACHIEVEMENT_1_10": {
+      "name": "Level 30",
+      "description": "Reached Level 30",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/b6f06bbfa59e36ddafadb060858c23d5750de44a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/c7d3c82859b118728568ac65618d42670b838136.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.5"
+    },
+    "NEW_ACHIEVEMENT_1_18": {
+      "name": "Maximum Gun",
+      "description": "Fully leveled-up Rookie's Reward",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/d1ca2afa17d2f9c5a3edc96b3f7d522091b09a65.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/370c0b3505497142b03ba26abd1690e6c8499ac9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "NEW_ACHIEVEMENT_1_12": {
+      "name": "Never Seen",
+      "description": "Killed 50 enemies with Sneak Attacks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/7862932e6b37089270c4445ac6c6da35ca4a8ced.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/90aa81b1bd9fea2943d4f5a7d3164123d7cd494a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.7"
+    },
+    "NEW_ACHIEVEMENT_1_19": {
+      "name": "OA: Objectives Accomplished",
+      "description": "Completed all faction quests for the Order of the Ascendant",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/e195bdaee92bb7745facf9e6fee73fc590ba6fbf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/0fadaf99434d20c72b783c5dccf958a2d6abc5dc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "NEW_ACHIEVEMENT_1_14": {
+      "name": "One for All",
+      "description": "Recruited all companions",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/4e1108be50d3d850369c04667cdffe826544b408.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/e118319e27a65561ed462b55096231aaf40e233f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.7"
+    },
+    "NEW_ACHIEVEMENT_3_10": {
+      "name": "Praetor Towers Powered",
+      "description": "Recalibrated all of the grounding stations on Praetor",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/58c15591f8d95e2274f55d1691ce3436e825bdeb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/fced8ed443d05d1f85396f30c8ce79234c054057.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.3"
+    },
+    "NEW_ACHIEVEMENT_1_5": {
+      "name": "Revive The Archive",
+      "description": "Restored the Archive to its fully functional state",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/813d277e49a889cb872154014d8223803676bf55.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/3c094cc307a13055bc477f227037d629c549de5a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.1"
+    },
+    "NEW_ACHIEVEMENT_1_17": {
+      "name": "Rift Drifter",
+      "description": "Explored all of the localized rifts around Arcadia",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/729c87d60e339e0b913b568687789966546e3b0b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/c04801e3a11b26c7174206730536a03ed291d331.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "NEW_ACHIEVEMENT_3_8": {
+      "name": "SA Quarterlies Quantified",
+      "description": "Found all volumes of Science Adventures Quarterly on Paradise Island",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/46691fa5f0d3776a37b83de0179907eb5a51c3fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/f3c150f7f425602d9a5735ba133612e045dc34d3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.5"
+    },
+    "NEW_ACHIEVEMENT_1_25": {
+      "name": "Scary GARY Adversary",
+      "description": "Killed 5 enemies with Gary's tendrils",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/e33f21dbd59e8d4be55fced09873617afaef5ecc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/032cff21b24434db79ae9db930212a1199c75466.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "NEW_ACHIEVEMENT_1_13": {
+      "name": "Skilled",
+      "description": "Raised a Skill to level 20",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/e7edb5f737095dd13b495a937a4c08374aee1938.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/ce70387b9b3d2ba47234dd414ff3030ae9528ae6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.1"
+    },
+    "NEW_ACHIEVEMENT_1_29": {
+      "name": "Stompy",
+      "description": "Killed 5 enemies by stomping on them after hitting them with the Shrink Ray",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/0fc277b69f14d0689d8f6064b1ae02845b850015.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/c7c9aee9718a3797da920aa99643f68ee2fd1d03.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "NEW_ACHIEVEMENT_1_28": {
+      "name": "Stop Hitting Yourself",
+      "description": "Killed 15 enemies using only Armageddon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/6678ed8f5038a0b1c8db8a927b4c813f0bb22327.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/15218abb84cbd551f40def39f033b64e7f95f6fd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "NEW_ACHIEVEMENT_1_0": {
+      "name": "The Outer Worlds 2",
+      "description": "Completed the game on any difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/80c0ca3909833f3cd2bbda5fde79fb03cd32cf50.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/a2037f8e80aad282904c56ba207fe1323da3a8d4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.8"
+    },
+    "NEW_ACHIEVEMENT_3_15": {
+      "name": "Upgrades Available",
+      "description": "Applied modifications to 10 weapons or armors",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/dcaf8e7bf7b7050c9efd61d3c8f4422a1b541855.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/c610cf96befcd38e83dcf40bf26a9f5097bdd3c1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.8"
+    },
+    "NEW_ACHIEVEMENT_1_7": {
+      "name": "Very Hard",
+      "description": "Completed the game on Very Hard difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/174a58d49c0c9d53b85808f9584d38ee47781288.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/295dfae3f25d5ef4bec40134562aa4c0eb2eda0c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "NEW_ACHIEVEMENT_1_2": {
+      "name": "Vexed the Vox",
+      "description": "Infiltrated and escaped the Vox Relay",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/6c93a7f0f49515601fbcedd78ab9aa3d96bebf35.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/c5f54951374cc370d307dd6aac6d61f4f445558d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.2"
+    },
+    "NEW_ACHIEVEMENT_1_30": {
+      "name": "Waylaid Grenades",
+      "description": "Shot 3 grenades out of the air",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/23746f6410cd352b8099274dca21b39b7f9ca458.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/b5c7ddae079af7a364eca7330a2b7a53e67e1b31.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.5"
+    },
+    "NEW_ACHIEVEMENT_1_1": {
+      "name": "Welcome to Paradise Island",
+      "description": "Landed on Paradise Island",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/54e8a966fad0c5f2adfadd2988defca8f19493c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/41a528e1a81eb2949202e93d4abbb9ce9008565b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.1"
+    },
+    "NEW_ACHIEVEMENT_3_12": {
+      "name": "Well Dressed",
+      "description": "Defeated the Consul while wearing clothing instead of armor",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/e6094e56e6a2cb72476650a2fc07cec75a7821d2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/10ba5e67ed7a8f9af76a7dcc65d4eb78e502c59d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "NEW_ACHIEVEMENT_3_1": {
+      "name": "Whew, That’s Enough!",
+      "description": "Collected 100 Pitch/Tossball cards",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/eb530d4ded4522034d7e98452fb56a0c94712455.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/897b7c12103689b48dffad917c22cc782729be12.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "NEW_ACHIEVEMENT_3_5": {
+      "name": "Winning Hearts and Heads",
+      "description": "Collected 20 human hearts",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/3ef02b784f011bd2cb67e75b21beb12a29484495.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/813ab3b043ccc2287ea46b57c0574fdaf72406ed.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

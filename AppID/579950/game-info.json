@@ -1,0 +1,280 @@
+{
+  "appid": "579950",
+  "name": "Marvel's Guardians of the Galaxy: The Telltale Series",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/579950/header.jpg?t=1560522214",
+  "achievements": {
+    "ACH_103_2": {
+      "name": "A Kind of Magic",
+      "description": "Complete Chapter 2 of Episode 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/e1838576b5620b5f8f6a3c8b4cfe7f6a2f6c30e3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.3"
+    },
+    "ACH_103_4": {
+      "name": "A Momentary Lapse of Reason",
+      "description": "Complete Chapter 4 of Episode 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/53b45e3a7359063a20eba2e6e1ea4d68c50fa9a3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.0"
+    },
+    "ACH_105_5": {
+      "name": "All Things Must Pass",
+      "description": "Complete Chapter 5 of Episode 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/60fcc6ff42f4d39494eecf75d337efbaea3eef66.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.1"
+    },
+    "ACH_101_1": {
+      "name": "Appetite for Destruction",
+      "description": "Complete Chapter 1 of Episode 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/24a73edf13508cca727c259a8e23379e0805e72b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.2"
+    },
+    "ACH_103_5": {
+      "name": "Blood on the Tracks",
+      "description": "Complete Chapter 5 of Episode 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/f23cad06d2ff966b4ed87cb9837f47a29bae800a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.1"
+    },
+    "ACH_104_6": {
+      "name": "Bridge Over Troubled Water",
+      "description": "Complete Chapter 6 of Episode 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/72fd2ecfebcb0fea1fc13e9c3230bb1440086844.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.0"
+    },
+    "ACH_105_4": {
+      "name": "Bringing It All Back Home",
+      "description": "Complete Chapter 4 of Episode 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/6c5ee811acb76b1c55f7540fd4ba9f2db10596c9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.3"
+    },
+    "ACH_105_6": {
+      "name": "Brothers in Arms",
+      "description": "Complete Chapter 6 of Episode 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/2fab01316f3062f6cad526d2309547962515b9d3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.0"
+    },
+    "ACH_102_2": {
+      "name": "Creatures of the Night",
+      "description": "Complete Chapter 2 of Episode 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/1871e8408bc6c6bd65070cc7066ae51415dd245c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.1"
+    },
+    "ACH_104_2": {
+      "name": "Darkness on the Edge of Town",
+      "description": "Complete Chapter 2 of Episode 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/541d8ee66183e4fe35852121109f6add22901557.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.5"
+    },
+    "ACH_105_3": {
+      "name": "Diary of a Madman",
+      "description": "Complete Chapter 3 of Episode 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/c6ff31a9a988c79cffc892aae76b2fcfd02ec99a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.5"
+    },
+    "ACH_102_1": {
+      "name": "Double Fantasy",
+      "description": "Complete Chapter 1 of Episode 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/91d7c69f963783cef0eac6ab7452e03d78763652.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.7"
+    },
+    "ACH_101_5": {
+      "name": "Electric Warrior",
+      "description": "Complete Chapter 5 of Episode 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/26d0bc28f47dadca42d1d2e93097cedba7bd993e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.8"
+    },
+    "ACH_102_3": {
+      "name": "Every Picture Tells A Story",
+      "description": "Complete Chapter 3 of Episode 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/0ecbd7db9f8fdf2f5e974a3f17d2133c43db86f1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.7"
+    },
+    "ACH_104_5": {
+      "name": "Everybody Knows This is Nowhere",
+      "description": "Complete Chapter 5 of Episode 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/8e155156b572a934a914d301163b08f097fba1aa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.1"
+    },
+    "ACH_105_1": {
+      "name": "Everything Changes",
+      "description": "Complete Chapter 1 of Episode 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/5a00aa0ad8630281369d35b85501658ce6135456.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.8"
+    },
+    "ACH_102_5": {
+      "name": "Fly By Night",
+      "description": "Complete Chapter 5 of Episode 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/df2487281b0dce717c202b54e9b3356453baba81.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.0"
+    },
+    "ACH_101_3": {
+      "name": "Goodbye Yellow Brick Road",
+      "description": "Complete Chapter 3 of Episode 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/3008efcb6af0e8d661773a373b6916e7b8170160.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.8"
+    },
+    "ACH_101_6": {
+      "name": "It's Only Rock n' Roll",
+      "description": "Complete Chapter 6 of Episode 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/8c4af211a156a4b1f16d3ca12b8218f7b4e7063f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.7"
+    },
+    "ACH_103_1": {
+      "name": "Living in the Past",
+      "description": "Complete Chapter 1 of Episode 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/7855cda25f65a1cef385d5ad5b1a6d19d2018913.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.7"
+    },
+    "ACH_103_3": {
+      "name": "Masters of Reality",
+      "description": "Complete Chapter 3 of Episode 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/ee53da1c8782c58a6006f8176a8505e6aa2c1ea1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.0"
+    },
+    "ACH_104_4": {
+      "name": "Obscured by Clouds",
+      "description": "Complete Chapter 4 of Episode 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/dab159f8748164161f16f24ad4a34e06ea0ad366.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.5"
+    },
+    "ACH_104_3": {
+      "name": "Out of Our Heads",
+      "description": "Complete Chapter 3 of Episode 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/2d3c27aaf7211397521838c5aa58af8cc46c41d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.2"
+    },
+    "ACH_101_2": {
+      "name": "Permanent Waves",
+      "description": "Complete Chapter 2 of Episode 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/49d854140a1da45f30778d9e9b2146e7a929c2f2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.6"
+    },
+    "ACH_102_6": {
+      "name": "Space Oddity",
+      "description": "Complete Chapter 6 of Episode 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/32c42af598cce555a67bcbcaba90876fd291844d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.3"
+    },
+    "ACH_103_6": {
+      "name": "The Dark Side of the Moon",
+      "description": "Complete Chapter 6 of Episode 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/920d96ee2760b3791f3b80c0715c530072bffe39.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.1"
+    },
+    "ACH_102_4": {
+      "name": "Too Fast For Love",
+      "description": "Complete Chapter 4 of Episode 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/6d6f785147a8c91c065625ba9406d931bb58594a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.0"
+    },
+    "ACH_101_4": {
+      "name": "We're Only In It For the Money",
+      "description": "Complete Chapter 4 of Episode 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/90ac640cb76559470faa94e8a56980adc8919759.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "74.0"
+    },
+    "ACH_105_2": {
+      "name": "Wish You Were Here",
+      "description": "Complete Chapter 2 of Episode 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/408e35e247c150fb540eb741745e1da44dc4cdf9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.6"
+    },
+    "ACH_104_1": {
+      "name": "Women and Children First",
+      "description": "Complete Chapter 1 of Episode 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/f35980c88d50d6071dc8ff2c17d90af325269825.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/579950/084fb6a0be9f695a1de7c071a8ba01b5ba754f7c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.2"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

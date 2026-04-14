@@ -1,0 +1,676 @@
+{
+  "appid": "2072450",
+  "name": "Like a Dragon: Infinite Wealth",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2072450/header.jpg?t=1763646953",
+  "achievements": {
+    "DELIVERY_CLEAR": {
+      "name": "30 Mins or It's Free",
+      "description": "Completed all Crazy Delivery courses.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a1cfa2ad1545cc9e35debec0d56ac30abddfa27f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.6"
+    },
+    "ENDING_MEMORY_B": {
+      "name": "Abundant Memories",
+      "description": "Gathered 70 Memoirs of a Dragon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/c46c49d1d2145553dfbaa9f8b31e2f13e07d7570.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.9"
+    },
+    "ACTIVITY_CLEAR": {
+      "name": "Alo-Happy as Can Be",
+      "description": "Experienced 8 activities offered by Alo-Happy Tours.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/097306492d1d2d6e8a03cea0c106564cbf32a379.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.8"
+    },
+    "KASUGA_LEVEL_C": {
+      "name": "Apex Dragon",
+      "description": "Reached level 50 with Kasuga.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/eb67c2bc47a451a04f108b6edeabb1ff79ae0752.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.1"
+    },
+    "MAIN_STORY_1": {
+      "name": "Back in Action",
+      "description": "Completed Chapter 1.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/0bcb340e7e808c25f7354f7c8fc9eab566d4717c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "87.4"
+    },
+    "RESORT_RANK": {
+      "name": "Basking in Glory",
+      "description": "Transformed Dondoko Island into a 4-star resort.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/b761b50994a5e9ec58d1c2cc963059b750bf7e62.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.6"
+    },
+    "RAID_BATTLE_A": {
+      "name": "Break It Up!",
+      "description": "Won 20 raids.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/f1e51c5f0a9641d7d73793a1532eecaaedbf9a68.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.4"
+    },
+    "KIZUNA_HAN": {
+      "name": "Breaking Free",
+      "description": "Viewed all of Joongi's Drink Links.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a953e061b50bef5412db34d3efab5e530e95c5d1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.3"
+    },
+    "FINAL_HAWAII_FLOOR1_CLEAR": {
+      "name": "Building Bonds and Making Gains",
+      "description": "Celebrated your victory over sector one of the Big Swell.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/abdba1bfbcc664dee52d00468dcaad0915aa8fc9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Like a Dragon: Infinite Wealth - Master Vacation Bundle",
+      "percent": "12.8"
+    },
+    "KIZUNA_SONHI": {
+      "name": "Commanding Respect",
+      "description": "Viewed all of Seonhee's Drink Links.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/fcc86f5c6533a2a51d4be0db2c065511657886ac.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "54.6"
+    },
+    "RESORT_DIY": {
+      "name": "Craftaholic",
+      "description": "Crafted 100 different pieces of DIY furniture.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/61e73da36c62d9fc0203305631f2853525fb48de.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.1"
+    },
+    "RESORT_CM": {
+      "name": "Dondoko A-Go-Go!",
+      "description": "Ran a TV ad on Dondoko Island.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/8ac1fbd73d54973b086e77a66542b2f850b17277.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.9"
+    },
+    "RESORT_STORY_CLEAR": {
+      "name": "Dondoko Denouement",
+      "description": "Completed the Dondoko Island story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/5e853592467c3373ae631a991fe5d1f61fd9dbf7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.6"
+    },
+    "MATCHINGAPP_A": {
+      "name": "Don't Hate the Player",
+      "description": "Met up with 5 people from Miss Match.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/7da9b84f009c33b6f3eed7b0a0846d97c07f78a4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.8"
+    },
+    "MAIN_STORY_4": {
+      "name": "Down and Out",
+      "description": "Completed Chapter 4.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/76381f6b8b8807167c204a751e7646998088667c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "75.7"
+    },
+    "DUNGEON_YOKOHAMA_CLEAR": {
+      "name": "Dungeon Sweeper",
+      "description": "Conquered the Yokohama Underground.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/1599eef8f76b10324d282074d30da738c8e237f0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.3"
+    },
+    "MAIN_STORY_10": {
+      "name": "Dying Breed",
+      "description": "Completed Chapter 10.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/9f383f80302e0919762a8735a75a7a206c48d7f6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.0"
+    },
+    "PNEW_GAME_CLEAR": {
+      "name": "Endless Vacation",
+      "description": "Completed New Game+.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/e5416a562a4a00704d0f5a40dc51cb34b6e270ee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/98e0f021a4fd883340e35f00454aba33adbd331f.jpg",
+      "hidden": false,
+      "group": "Like a Dragon: Infinite Wealth - Master Vacation Bundle",
+      "percent": "4.8"
+    },
+    "MAIN_STORY_2": {
+      "name": "Fish Out of Water",
+      "description": "Completed Chapter 2.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/33b442f803e993e3340fc4992f31740210e12337.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "85.1"
+    },
+    "MAIN_STORY_9": {
+      "name": "Found and Lost",
+      "description": "Completed Chapter 9.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/81a37af34d5814349d55df82fbc1ffebf9064af8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.4"
+    },
+    "KIRYU_LEVEL_A": {
+      "name": "Funk Goes On",
+      "description": "Pushed Kiryu's Soul, Tech, or Body to the max.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/523456d2929d80040f7534fe4f7ef34c5f4283e1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.6"
+    },
+    "PLAY_ALL_SPOT": {
+      "name": "Having Fun Yet?",
+      "description": "Played 10 different minigames.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/646898e1b44eb62e2ca2bc3e7f4d42193dbed5cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.7"
+    },
+    "MAIN_STORY_6": {
+      "name": "Hiding in Plain Sight",
+      "description": "Completed Chapter 6.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/874ee9372e206ad8f6198645cfc11c5e276e9b79.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "67.0"
+    },
+    "MAIN_STORY_12": {
+      "name": "Holding the Line",
+      "description": "Completed Chapter 12.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/bd2aac2be206cae8f004be481455dfae416f7f23.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "57.2"
+    },
+    "PLATINUM": {
+      "name": "Infinite Wealth",
+      "description": "Obtained all achievements.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/c054777cb189a67a52c7a5510042db703e4150dc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/48056e54ecfd291041e28a725e7a0a33b24df5ee.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "BUKI_ROMAN_SEISAKUJO": {
+      "name": "Investing in the Future",
+      "description": "Completed all of Julie's investments.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/ef7bccbbde50b0621d0fb3897c4972f3cfae10a2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.2"
+    },
+    "RESORT_GUEST": {
+      "name": "Island Hospitality",
+      "description": "Welcomed 100 guests to Dondoko Island.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/c4baa9f0600c6212f8c23e8914bad0632b290d49.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.9"
+    },
+    "FINAL_HAWAII_FLOOR3_CLEAR": {
+      "name": "Kei is for Kinship",
+      "description": "Celebrated your victory over sector three of the Big Swell.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a51f1855513332b6d8cc2c1c29cead3e0ffc7c2e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Like a Dragon: Infinite Wealth - Master Vacation Bundle",
+      "percent": "10.6"
+    },
+    "MAIN_STORY_8": {
+      "name": "Layered Lies",
+      "description": "Completed Chapter 8.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/15ba0584cbd3bafd8740a86b4a6aa0985679db1d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "62.5"
+    },
+    "KASUGA_LEVEL_D": {
+      "name": "Legendary Dragon",
+      "description": "Reached level 70 with Kasuga.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/db98b26c700915b6efd3210722eb6562054c592e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.6"
+    },
+    "KIZUNA_TOMIZAWA": {
+      "name": "Letting Go",
+      "description": "Viewed all of Tomizawa's Drink Links.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/90f354d36c2977418417b66a3f902ace39c3ce4b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.8"
+    },
+    "QUALIFICATION": {
+      "name": "License to Skill",
+      "description": "Obtained 10 certificates from the Ounabara Vocational School.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/ae08f81f4638166d02925be4298ca1c559f71bc5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.7"
+    },
+    "SUBSTORY_C": {
+      "name": "Living Your Best Life",
+      "description": "Completed 40 substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/e9700c8060b77715963303d8cdfe88ecf2edf7fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.4"
+    },
+    "JOB_MASTER_B": {
+      "name": "Mad Hustle",
+      "description": "Raised 3 jobs to rank 30.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/43535261c36e97a074d8760f29bcdd0db92317b7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.9"
+    },
+    "KASUGA_NINGENRYOKU_ALL_MAX": {
+      "name": "Metahuman",
+      "description": "Raised all of Kasuga's personality stats to max.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/de027d751fdf1022b973c4ab36cfa6777aa98a98.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.1"
+    },
+    "MAIN_STORY_5": {
+      "name": "Misgivings",
+      "description": "Completed Chapter 5.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/08b4876705f5cbe53b7abd4fb0bba09ef4bd23d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "72.1"
+    },
+    "KIZUNA_SAEKO": {
+      "name": "Missing Words",
+      "description": "Viewed all of Saeko's Drink Links.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/635a07400a0c98d9e8e7b22cbabea78e6757b3d1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.9"
+    },
+    "KIZUNA_ADACHI": {
+      "name": "No Regrets",
+      "description": "Viewed all of Adachi's Drink Links.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/334a99b28acb7d77d95fb825ae8d7c7b42dc4c9d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.2"
+    },
+    "TOILET": {
+      "name": "Not a Total Waste",
+      "description": "Obtained an item from a toilet bowl.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/076e246a6272ca1b7a0582cd4704b74385761de5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "72.3"
+    },
+    "PHOTORALLY_A": {
+      "name": "Photo Hunter",
+      "description": "Took 30 different photos for the Photo Rally.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/2601dbbd08f652c1b14b9871b08d18095535a4b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.3"
+    },
+    "DELIHELP_A": {
+      "name": "Pound for Pound",
+      "description": "Dialed up Poundmates 30 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/93c53043fc3f8360306c0d8103319f277c2ae63f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.4"
+    },
+    "ENDING_MEMORY_A": {
+      "name": "Precious Memories",
+      "description": "Gathered 30 Memoirs of a Dragon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/8fd2f788fad7db812c875dd5cfbdf9dfa880bee6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.2"
+    },
+    "SUJIMON_LEVEL_MAX": {
+      "name": "Prize Fighter",
+      "description": "Maxed out a Sujimon's level and friendship.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/d57c16f4e5f97d3c4485b776b16c0791cc628510.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.4"
+    },
+    "ENDING_STORY_CLEAR": {
+      "name": "Renewed Purpose",
+      "description": "Completed all Life Links.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/6f02128418cb1bcad1e6c4f8127145d355e27b21.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/98e0f021a4fd883340e35f00454aba33adbd331f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.8"
+    },
+    "KASUGA_LEVEL_B": {
+      "name": "Resolute Dragon",
+      "description": "Reached level 30 with Kasuga.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/dbbcd948d2a30d05bffd831965c77b632d7ce3a2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.1"
+    },
+    "KIZUNA_CHITOSE": {
+      "name": "Rest Assured",
+      "description": "Viewed all of Chitose's Drink Links.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/ac32e9e8c6b81253730709d19782a708a1337022.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.9"
+    },
+    "MAIN_STORY_11": {
+      "name": "Reunion",
+      "description": "Completed Chapter 11.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/e19f4fddce61b998a6e636618cca032523a3fbfb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.8"
+    },
+    "DUNGEON_HAWAII_CLEAR": {
+      "name": "Ruffians Beware",
+      "description": "Conquered the Hawaiian Haunt.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a452a17be21ecf6220fdf65a0d6042bd2a81fe89.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.3"
+    },
+    "SUBSTORY_B": {
+      "name": "Saving Lives",
+      "description": "Completed 20 substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/c7c6b6f86806035ff3a31ac7b1de7ad6113a7af9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.8"
+    },
+    "MAIN_STORY_7": {
+      "name": "Separate Ways",
+      "description": "Completed Chapter 7.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/681ef3b9689b253a17cc6a75eda6076ac4321aa2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "65.3"
+    },
+    "SNAP_CLAER": {
+      "name": "Sicko Stopper",
+      "description": "Completed all Sicko Snap courses.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/ec82f8849184d6ea956901683df9e9dd7f5bfd2a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.1"
+    },
+    "JOB_MASTER_A": {
+      "name": "Side Hustle",
+      "description": "Raised a job to rank 30.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/c11c181d73846c347bf7712fa1ea29c4624e0d49.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.0"
+    },
+    "BUKI_C": {
+      "name": "Something from Nothing",
+      "description": "Made 10 pieces of gear at Julie's Gearworks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/f863d1aae2a2c5ffc94dff38fd9437b9aed71619.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.3"
+    },
+    "RAINBOW": {
+      "name": "Somewhere Over the Rainbow",
+      "description": "Photographed a rainbow in the skies of Hawaii.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/d74b939b7a879cf5279cc97eb2fb7d57a40afd19.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "KAONAJIMI_A": {
+      "name": "Spirit of Aloha",
+      "description": "Befriended 50 people through Aloha Links.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/98388b5b60b96899415f5786583d30efe247f08d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.3"
+    },
+    "KIZUNA_NANBA": {
+      "name": "Squared Away",
+      "description": "Viewed all of Nanba's Drink Links.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/865286cf43e58aeeb63682cfac30c103cd11367a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.4"
+    },
+    "KIZUNA_CHOU": {
+      "name": "Starting Fresh",
+      "description": "Viewed all of Zhao's Drink Links.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/62751adf56bbc391cfbf6655a8307a0c9fcdbe44.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.9"
+    },
+    "SUJIMON_STORY_CLEAR": {
+      "name": "Suji League Champion",
+      "description": "Completed all Sujimon-related substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/73461ff3b024c94d0586910fb6e7c2ea239c5351.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.0"
+    },
+    "SUJIMON_A": {
+      "name": "Sujimaniac",
+      "description": "Registered 100 Sujimon to the Sujidex.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/ccbc43119517575fc8313768349ac219c33d7d23.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.3"
+    },
+    "SUJIMON_B": {
+      "name": "Sujimon Sensei",
+      "description": "Registered 200 Sujimon to the Sujidex.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/8139a9cd7c1ec0179fe23bb5179ac0fea611e1e0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.9"
+    },
+    "SUJIMON_GET": {
+      "name": "Sujimon Snag 'Em",
+      "description": "Recruited 10 Sujimon from battle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/8bb4d86c69508a8bf324f7fdda1454b19625fb8d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.9"
+    },
+    "KASUGA_NINGENRYOKU_MAX": {
+      "name": "Superhuman",
+      "description": "Raised one of Kasuga's personality stats to max.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/e35a54ccb07807ea3cc0d0fa500a4aea575a5491.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.0"
+    },
+    "PNEW_GAME_COME_BACK": {
+      "name": "The Hero Returns",
+      "description": "Took up the Hero's mantle in New Game+.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/d58c5cf4f51af7aac85713484c06c6d7eb5f231f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Like a Dragon: Infinite Wealth - Master Vacation Bundle",
+      "percent": "8.4"
+    },
+    "MAIN_STORY_CLEAR": {
+      "name": "The Man Who Regained His Name",
+      "description": "Completed the final chapter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/dba9e3f5967957cc61161b7260a61ea1e8744f56.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/377cd313f9edb3a7c245a7b86cec4e4727c3492b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.2"
+    },
+    "MAIN_STORY_3": {
+      "name": "Time Marches On",
+      "description": "Completed Chapter 3.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/0f068ccb31ce8b16648c5cb68a10ab38605bc1d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "79.4"
+    },
+    "FINAL_HAWAII_FLOOR2_CLEAR": {
+      "name": "Titillating Teamwork",
+      "description": "Celebrated your victory over sector two of the Big Swell.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/87ad0bbb909a24d8a8780f0964a956ce99158bf7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Like a Dragon: Infinite Wealth - Master Vacation Bundle",
+      "percent": "11.3"
+    },
+    "SUBSTORY_A": {
+      "name": "Touching Lives",
+      "description": "Completed 10 substories.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/9197f835c6e453dca677edbf2dea995f7cb5dc3f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.2"
+    },
+    "MAIN_STORY_13": {
+      "name": "Turning the Tides",
+      "description": "Completed Chapter 13.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/f429d1beaf7719d41f7493b4ed7047dcb87f1f26.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "55.1"
+    },
+    "JOB_MASTER_C": {
+      "name": "Ultimate Hustle",
+      "description": "Raised 7 jobs to rank 30.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/5e607b3776b798721f3f9850d185b7b781770a99.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.6"
+    },
+    "FINAL_HAWAII_FLOOR4_CLEAR": {
+      "name": "Unboxed Brotherhood",
+      "description": "Celebrated your victory over sector four of the Big Swell.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/d74daadc0ed7512f4c45d10ac361fcacaa45488d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Like a Dragon: Infinite Wealth - Master Vacation Bundle",
+      "percent": "10.3"
+    },
+    "KASUGA_LEVEL_A": {
+      "name": "Wandering Dragon",
+      "description": "Reached level 10 with Kasuga.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/6e253a633226c104f6a81145fe773514205a4ee3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.5"
+    },
+    "FINAL_HAWAII_FLOOR5_CLEAR": {
+      "name": "We Did It?",
+      "description": "Celebrated your victory over the fifth and final sector of the Big Swell.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/3a39cbd6c9d70196656d83d2875d97c73bf7d3fa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/98e0f021a4fd883340e35f00454aba33adbd331f.jpg",
+      "hidden": false,
+      "group": "Like a Dragon: Infinite Wealth - Master Vacation Bundle",
+      "percent": "10.1"
+    },
+    "PNEW_GAME_EXHARD_CLEAR": {
+      "name": "We're Definitely the Best!",
+      "description": "Completed New Game+ on Legend difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/8b810384d8e859cefd55544239c082a7d1579215.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/98e0f021a4fd883340e35f00454aba33adbd331f.jpg",
+      "hidden": false,
+      "group": "Like a Dragon: Infinite Wealth - Master Vacation Bundle",
+      "percent": "4.1"
+    },
+    "PNEW_GAME_HARD_CLEAR": {
+      "name": "We're Probably the Best!",
+      "description": "Completed New Game+ on Hard difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a4ac338e96fd64bcf4aaca21ad28bf97a435126c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/98e0f021a4fd883340e35f00454aba33adbd331f.jpg",
+      "hidden": false,
+      "group": "Like a Dragon: Infinite Wealth - Master Vacation Bundle",
+      "percent": "4.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,18 @@
+{
+  "appid": "1849",
+  "name": "Game 1849",
+  "icon": "",
+  "achievements": {
+    "null": {
+      "name": "Western 1849 Reloaded",
+      "description": " ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1849/901d66487082aad7c16789d1ce57e0ae908d0349.jpg",
+      "icongray": "https://MauMit.github.io/achievement-viewer/default_icon.png",
+      "hidden": false,
+      "group": "Base Game"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

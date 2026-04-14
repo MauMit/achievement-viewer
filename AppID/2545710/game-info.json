@@ -1,0 +1,298 @@
+{
+  "appid": "2545710",
+  "name": "Tony Hawk's™ Pro Skater™ 3 + 4",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545710/header.jpg?t=1771354447",
+  "achievements": {
+    "ACH_17": {
+      "name": "3rd Time’s the Charm",
+      "description": "Complete every goal in THPS3 and earn all medals.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/acc5b53d43b2091ad36d2f54e7d956283feaed75.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/9c0cd775aac0c1861cd2a18f1f5d96d9f1ece67a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.9"
+    },
+    "ACH_12": {
+      "name": "900 the 900",
+      "description": "Perform Tony Hawk’s 900 with a 900 spin.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/5f602884d459daf4dfdfe0869586d85c3f78688d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/c8026b2024ef713ddc337e8a179030f680bcf6a4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "ACH_34": {
+      "name": "Chaos Reigns",
+      "description": "Destroy 500 breakable objects.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/d56790785be926b1594cce9d2604991d928de2fd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/62fe304501f5a539a1b761b02d12542052205cb8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.1"
+    },
+    "ACH_11": {
+      "name": "Do a Kickflip!",
+      "description": "Perform a combo worth 7,500 or more, exclusively using flip tricks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/87c0ccf29d392b867ec823037fd9dbd3d249db0b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/f59467fdde9f30e53f5af65275b5d32815018ef4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "85.7"
+    },
+    "ACH_23": {
+      "name": "Expert Challenger",
+      "description": "Complete every Expert Challenge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/5378bd7fbf5b0f5c0ef8a6336bdf8c824f9e5ab3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/62fe304501f5a539a1b761b02d12542052205cb8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "ACH_29": {
+      "name": "Extra Ball",
+      "description": "Without Assist Mods, score 1,000,000 or over in Pinball.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/6454c5e404e09d82266d369c89853f40a12e5207.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/62fe304501f5a539a1b761b02d12542052205cb8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "ACH_27": {
+      "name": "Final Form",
+      "description": "Collect all the Stat Points.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/d0ee1f0c6f9b956f3a75480154b4a68337b7b5fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/00fd496489d3dea50801827d43a15a32718e97a3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.9"
+    },
+    "ACH_25": {
+      "name": "Fine Feathered Friends",
+      "description": "Scare 120 clusters of birds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/3b64e862b43e9c35b0a0c06fb66aa42c8241fe90.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/62fe304501f5a539a1b761b02d12542052205cb8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.3"
+    },
+    "ACH_06": {
+      "name": "Flying Solo",
+      "description": "Complete every Solo Tour.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/352994ec875f163fc8424103229811cdcd139217.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/62fe304501f5a539a1b761b02d12542052205cb8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "ACH_07": {
+      "name": "In It for the Long Haul",
+      "description": "Skitch any vehicle for 15 seconds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/8dd95120c5714af526f7dd5af38949569073e087.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/5c9f703b23a900d79c63a37f368025a71d76be34.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.4"
+    },
+    "ACH_09": {
+      "name": "It’s Not Too Grindy",
+      "description": "Successfully land 500 grinds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/4dc3ebb7843b8fd8eb7ba4a927795578f1c11eaf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/1c1d0636cf87ac6a2855966ea1e6a6ff2eeb76d4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.6"
+    },
+    "ACH_15": {
+      "name": "Kickflip the Abyss",
+      "description": "Perform a kickflip in the Abyss.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/cd029ff8a77b71b480b94bc5aee4f76b2db3e48e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/2592da5de560f47ee88cc21ded6959fe8bf905d3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.4"
+    },
+    "ACH_33": {
+      "name": "Multiplication",
+      "description": "Land a combo of at least 75 tricks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/14d2c7512e1b2e1e552fd55e2f8f77f8aa8dd7b4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/b9bb452bf56138b5c7da0cc9fa1355654b06f9a6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.3"
+    },
+    "ACH_01": {
+      "name": "OBMOC",
+      "description": "Complete a COMBO goal, in reverse.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/b89a0b83dc8288e2b710846fa2a48a00ef67a96a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/277496caf3870bea542755d47663e99c555059d1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "ACH_08": {
+      "name": "Ok NOW You’re Ready for the Skate Shop",
+      "description": "Free skate for 5 minutes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/34ed5f287a97181bd80634b3f370347f72d3513f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/2f5eb0fcd3d87a2783b2d1cfa32a93c7d92b9815.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.6"
+    },
+    "ACH_24": {
+      "name": "Omelette du Fromage",
+      "description": "Try out all the different filters in photo mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/a03b726d4e6cab83edddf365091e60b17677cefd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/62fe304501f5a539a1b761b02d12542052205cb8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.0"
+    },
+    "ACH_19": {
+      "name": "Skater Challenger",
+      "description": "Complete every Skater Challenge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/f59f9fd26dfa5f80bae70bc53fb941551cdb8771.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/62fe304501f5a539a1b761b02d12542052205cb8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "ACH_31": {
+      "name": "Taxi! Taxi!",
+      "description": "Skitch twice in a single Combo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/a4c9358264816c12a82a5a15452ffada70458a00.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/0df80acaf1a7a35b849d5edc1350db0406cfca3c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.5"
+    },
+    "ACH_18": {
+      "name": "Thanks 4 the Memories",
+      "description": "Complete every goal in THPS4 and earn all medals.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/8651254651ef31f3e11639b779aacc86a84f61fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/cf46ddd580fc38c3ca697ec3ad26445b4b2c0793.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.7"
+    },
+    "ACH_03": {
+      "name": "That Was a Nice One",
+      "description": "Complete a speedrun without bailing.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/a541e53e6d28ba12b20e44987f7084e3b3b38b87.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/f60bede8b54b279fd6aec36172af608a421907b9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "ACH_05": {
+      "name": "The Solo Acts Begin",
+      "description": "Unlock Solo Tour.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/a77aa6e51641179fe6f9f34d08bb79c2e2aecf77.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/62fe304501f5a539a1b761b02d12542052205cb8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "ACH_04": {
+      "name": "There’s More?",
+      "description": "Unlock Pro Goals.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/2605452e3d60862ad5186c8fd91f68dacfaa0a15.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/62fe304501f5a539a1b761b02d12542052205cb8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.3"
+    },
+    "ACH_21": {
+      "name": "THPS3 Challenger",
+      "description": "Complete every THPS3 Challenge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/177b034ce951c57af082afc4e3719b2049c67326.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/62fe304501f5a539a1b761b02d12542052205cb8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "ACH_22": {
+      "name": "THPS4 Challenger",
+      "description": "Complete every THPS4 Challenge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/5a912e72bf3d72670a8254afa142aab8a37ea400.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/62fe304501f5a539a1b761b02d12542052205cb8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "ACH_16": {
+      "name": "Tilt",
+      "description": "Unlock Pinball.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/d0669ac6ab1dfc326a6b35d42c0f0fa4327b72cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/62fe304501f5a539a1b761b02d12542052205cb8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.2"
+    },
+    "ACH_20": {
+      "name": "Tricks Challenger",
+      "description": "Complete every Trick Challenge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/6fb2c7b2429eb73624660938dfeb80b00af8ca06.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/62fe304501f5a539a1b761b02d12542052205cb8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "ACH_32": {
+      "name": "Tutorialized",
+      "description": "Complete the skating tutorial.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/62f1dfa97b06621a1c87931102f02bea600fd229.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/77dd79f784d0592c1eecf632a4b961fea4aaf44e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.4"
+    },
+    "ACH_30": {
+      "name": "Unprecedented",
+      "description": "Without Assist Mods, earn a score of 10,000,000 in any park in a 2 minute session or single combo.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/9696393ea0532805fa42b2f6c656abe323366234.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/12253e96733230b15f8c2a5835d1d359fbc018f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "ACH_28": {
+      "name": "Versatile",
+      "description": "Land a 150,000+ point combo including a Flip, Grab, Manual, Wall, Grind and Special trick.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/56092a514ea7f383dd17f1b0385d95b9ce419de0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/0f511f480e2408081804f627ced061e2fcd0c80c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.9"
+    },
+    "ACH_10": {
+      "name": "Wall to Wall",
+      "description": "Successfully perform 100 combos incorporating either a wallride or wallplant.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/dc339f598c1b64f3b3982d274463295bd1506c3b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/92984e20c38e25abb199b6831072b3ab18d5a8a3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.1"
+    },
+    "ACH_26": {
+      "name": "Wizard Mode",
+      "description": "Complete \"Wallplant the Multiball Targets\" in Pinball.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/c0346074be928da2f649aec54ff1cb330ed5f614.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/62fe304501f5a539a1b761b02d12542052205cb8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.4"
+    },
+    "ACH_02": {
+      "name": "You Look Like Tony Hawk",
+      "description": "Enter photo mode while skating as Tony Hawk.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/8c8fa837d0f2dac6ccdc45d7ea88978d7361b1c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2545710/e1d64f6f4bdafe5f4ad85f34d17aaa7493e5ea09.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.4"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

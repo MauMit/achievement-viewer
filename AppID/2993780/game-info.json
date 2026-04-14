@@ -1,0 +1,433 @@
+{
+  "appid": "2993780",
+  "name": "FANTASY LIFE i: The Girl Who Steals Time",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2993780/header.jpg?t=1749900924",
+  "achievements": {
+    "ACHIEVEMENT_0024": {
+      "name": "A Fledgling Beginning",
+      "description": "Promoted to Fledgling rank in a Life.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "91.4"
+    },
+    "ACHIEVEMENT_0022": {
+      "name": "A New Life",
+      "description": "Unlocked your first Life.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "94.0"
+    },
+    "ACHIEVEMENT_0025": {
+      "name": "A True Life Master!",
+      "description": "Promoted to Master rank in a Life.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.6"
+    },
+    "ACHIEVEMENT_0036": {
+      "name": "Adapt on the Fly",
+      "description": "Completed an Area Challenge for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.1"
+    },
+    "ACHIEVEMENT_0023": {
+      "name": "All Lives",
+      "description": "Unlocked every Life.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.6"
+    },
+    "ACHIEVEMENT_0039": {
+      "name": "Archaeological Prestige",
+      "description": "Accepted Edward's research request and discovered a recipe in the slate.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.9"
+    },
+    "ACHIEVEMENT_0007": {
+      "name": "Best Bro",
+      "description": "Repaired Clefton.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.7"
+    },
+    "ACHIEVEMENT_0031": {
+      "name": "Best Buddies",
+      "description": "Reached maximum affinity with an islander.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/7344703c81410b2ca5900f7b5bf861d595b05a39.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.8"
+    },
+    "ACHIEVEMENT_0013": {
+      "name": "Boss Slayer",
+      "description": "Defeated your first boss.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.6"
+    },
+    "ACHIEVEMENT_0034": {
+      "name": "Bustling Island",
+      "description": "Registered over 30 islanders.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/7344703c81410b2ca5900f7b5bf861d595b05a39.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.1"
+    },
+    "ACHIEVEMENT_0033": {
+      "name": "Changing Strangeling!",
+      "description": "Helped a Strangeling regain their human form.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "79.7"
+    },
+    "ACHIEVEMENT_0005": {
+      "name": "Demolition Expert!",
+      "description": "Dealt with the boulder in The Depths.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "75.1"
+    },
+    "ACHIEVEMENT_0000": {
+      "name": "Dream-like Fantasy Life",
+      "description": "Earned all achievements.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/8304f624e1380ff8759710735ee6a22d3b133a71.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/f723ee81cf325ef53d58a71f55bf49c2eeb7755b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "ACHIEVEMENT_0016": {
+      "name": "Excellent Technique",
+      "description": "Executed your first Excellent gathering.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "82.3"
+    },
+    "ACHIEVEMENT_0017": {
+      "name": "Eye for High Quality",
+      "description": "Gathered materials from a boss gathering spot for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.1"
+    },
+    "ACHIEVEMENT_0041": {
+      "name": "Found a Spirit!",
+      "description": "Unearthed a Leafe in Ginormosia for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.7"
+    },
+    "ACHIEVEMENT_0028": {
+      "name": "Gaining Knowledge",
+      "description": "Learned a skill on the Skill Board.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "84.9"
+    },
+    "ACHIEVEMENT_0038": {
+      "name": "Greased and Ready",
+      "description": "Unlocked all Hagram Build features.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.7"
+    },
+    "ACHIEVEMENT_0018": {
+      "name": "Handicraft Worker",
+      "description": "Crafted an item for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.2"
+    },
+    "ACHIEVEMENT_0001": {
+      "name": "Hello, World of the Past!",
+      "description": "Traveled back in time to the past.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "97.7"
+    },
+    "ACHIEVEMENT_0035": {
+      "name": "Helping Hand",
+      "description": "Completed a personal request for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "85.8"
+    },
+    "ACHIEVEMENT_0010": {
+      "name": "Hero of Time",
+      "description": "Destroyed the Cog and saved the world.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/0d95448058498eb62d6473cf326cd8982b54355c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.4"
+    },
+    "ACHIEVEMENT_0009": {
+      "name": "Interfere Gear Completed",
+      "description": "Crafted the Interfere Gear.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.9"
+    },
+    "ACHIEVEMENT_0002": {
+      "name": "It's Been 1,000 Years...",
+      "description": "Reunited with Edward.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "82.3"
+    },
+    "ACHIEVEMENT_0045": {
+      "name": "Legendary Inspiration",
+      "description": "Crafted a special piece of equipment using legendary materials.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/7344703c81410b2ca5900f7b5bf861d595b05a39.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.3"
+    },
+    "ACHIEVEMENT_0027": {
+      "name": "Master of all Trades",
+      "description": "Promoted to Hero rank in every Life.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/0d95448058498eb62d6473cf326cd8982b54355c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "ACHIEVEMENT_0015": {
+      "name": "Material Collector",
+      "description": "Gathered your first material.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "85.2"
+    },
+    "ACHIEVEMENT_0014": {
+      "name": "Mighty Strike",
+      "description": "Landed a single attack dealing at least 1,000 damage.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "63.2"
+    },
+    "ACHIEVEMENT_0012": {
+      "name": "Novice Hunter",
+      "description": "Defeated your first monster.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "96.7"
+    },
+    "ACHIEVEMENT_0004": {
+      "name": "Operation Rescue Edward—Begin",
+      "description": "Set out to rescue Edward.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "79.7"
+    },
+    "ACHIEVEMENT_0037": {
+      "name": "Phantom Friendship",
+      "description": "Traveled with Phantom characters at least 10 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "ACHIEVEMENT_0026": {
+      "name": "Power of a Hero",
+      "description": "Promoted to Hero rank in a Life.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/7344703c81410b2ca5900f7b5bf861d595b05a39.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.2"
+    },
+    "ACHIEVEMENT_0008": {
+      "name": "Rampaging Robot",
+      "description": "Defeated the rampant Guardian Hagram.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "53.4"
+    },
+    "ACHIEVEMENT_0006": {
+      "name": "Salt, Anyone?",
+      "description": "Handled the Polturnip in The Depths.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "68.5"
+    },
+    "ACHIEVEMENT_0020": {
+      "name": "Thanks for the Veggies",
+      "description": "Received your first thank-you letter from the Evershop.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.5"
+    },
+    "ACHIEVEMENT_0032": {
+      "name": "The Goddess Approves",
+      "description": "Reached maximum Island Rating.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/7344703c81410b2ca5900f7b5bf861d595b05a39.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.3"
+    },
+    "ACHIEVEMENT_0011": {
+      "name": "The Pure-Hearted Girl",
+      "description": "Completed the butterfly's request.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/7344703c81410b2ca5900f7b5bf861d595b05a39.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.5"
+    },
+    "ACHIEVEMENT_0043": {
+      "name": "Time Capsule",
+      "description": "Aged a weapon or Life tool.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.2"
+    },
+    "ACHIEVEMENT_0044": {
+      "name": "Time Rusts No Gear",
+      "description": "Aged a weapon or Life tool for 1,000 years.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/7344703c81410b2ca5900f7b5bf861d595b05a39.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "ACHIEVEMENT_0019": {
+      "name": "Top Creation",
+      "description": "Obtained your first Perfect rating in the Crafting mini-game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "63.8"
+    },
+    "ACHIEVEMENT_0040": {
+      "name": "Tour Guide",
+      "description": "Cleared every quest from a Bulletin Board.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.5"
+    },
+    "ACHIEVEMENT_0030": {
+      "name": "Treasure Grove Conqueror",
+      "description": "Cleared the 1,000-year floor of a Treasure Grove.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.9"
+    },
+    "ACHIEVEMENT_0029": {
+      "name": "Treasure Grove Explorer",
+      "description": "Cleared a Treasure Grove for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.3"
+    },
+    "ACHIEVEMENT_0046": {
+      "name": "True Radiance",
+      "description": "Obtained a sparkling piece of special equipment!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/0d95448058498eb62d6473cf326cd8982b54355c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "ACHIEVEMENT_0003": {
+      "name": "Vast! Endless! Ginormous!",
+      "description": "Arrived in Ginormosia.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "82.0"
+    },
+    "ACHIEVEMENT_0042": {
+      "name": "Weaponry Grilled to Perfection",
+      "description": "Obtained a special weapon, crisped to golden perfection yet irresistibly tender.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/7344703c81410b2ca5900f7b5bf861d595b05a39.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "ACHIEVEMENT_0021": {
+      "name": "What a Connoisseur!",
+      "description": "Someone purchased an item from your Gallery.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/dcefd0e32d10de489b3e62d10782129187d4c075.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2993780/ed1b7cb6281905df130433f950a16c393077f045.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.2"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

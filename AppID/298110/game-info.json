@@ -1,0 +1,523 @@
+{
+  "appid": "298110",
+  "name": "Far Cry® 4",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/header.jpg?t=1764168324",
+  "achievements": {
+    "FarCry4_Ach_10": {
+      "name": "All Clear",
+      "description": "Liberate all Outposts (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/a7f90e10be215479dec08c27bb668c8a42217436.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/5de1c733eadfedf2c3dc03e150eabf6d6d088c64.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.6"
+    },
+    "FarCry4_Ach_58": {
+      "name": "Awakened!",
+      "description": "Complete The Valley Of The Yetis Campaign (Valley Of The Yetis).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/5b0e0099a58eca1935d2c294bd42ce4ed23fcf12.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/525537d789fbaade14a9f2d8dc5d269f74db962a.jpg",
+      "hidden": false,
+      "group": "Far Cry® 4 Valley of the Yetis",
+      "percent": "1.1"
+    },
+    "FarCry4_Ach_21": {
+      "name": "Brother In Arms",
+      "description": "Liberate 1 Outpost playing as Hurk (Campaign Co-op only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/ae80eb6179e3f7702dc632822d94fc155b3d0485.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/6d5e401481e42b6bd20b81cfddf22bac42b222b8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "FarCry4_Ach_56": {
+      "name": "Builder",
+      "description": "Complete One Relay Station Upgrade Quest (Valley Of The Yetis, Single Player Only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/6867fe0c65012ab706503202b6ca7b3fba799ccf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/0f29a48c3af9c9b88d4aa39780b4cfa5eb1ad4e8.jpg",
+      "hidden": false,
+      "group": "Far Cry® 4 Valley of the Yetis",
+      "percent": "1.4"
+    },
+    "FarCry4_Ach_27": {
+      "name": "Caretaker Of Memory",
+      "description": "Find 10 Lost Letters (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/3289210bf5e7e7dca4bda709ce7ae71339ae81e5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/b99ffad4a950f630837e74d24d167d52ed8b0f59.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "FarCry4_Ach_23": {
+      "name": "Changing Lanes",
+      "description": "Perform a Vehicle Takedown from the passenger seat of a vehicle (Campaign Co-op only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/c318608ea6472f104f9e823baf72c4725a7b5537.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/1b81a25e496a18a0206d699f4a4a21851ffd0070.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "FarCry4_Ach_52": {
+      "name": "Community Surprise",
+      "description": "Play a Top Rated map in the Map Browser (Map Browser only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/d706ce974af08e9960ae60eb67a23032862e1706.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/64e517eb02dd0298153799f678ec3c359f4f67e5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "FarCry4_Ach_36": {
+      "name": "Custom-Fitted",
+      "description": "Buy all attachments and paint schemes for a single weapon (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/4acd700ced11cf9045db813fc32efaddc4ef543a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/6dd1d0308de0b65b5315437af16c473f49ade8ec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "FarCry4_Ach_18": {
+      "name": "Defender",
+      "description": "Repel 3 Outpost Retaliation Parties (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/c9ebf7f3a8f21e7fa8b98e69d44f637520106b42.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/8655f869c72ecf2f9913fc75267e9992e46b58ef.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "FarCry4_Ach_22": {
+      "name": "Defuser",
+      "description": "Complete 3 Bomb Defusal quests (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/9cdc09bf33a181585ad4407822c5f87ab610ca89.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/c04a352cb55d23bbc51a7a2b8d96698c0837aa39.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "FarCry4_Ach_9": {
+      "name": "Deliver Us From Evil",
+      "description": "Liberate 12 Outposts (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/7e81efcb5a0b93a5be855a498b5c83175a0b2dfc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/6ec34e71e01fa311faaab07ae1f7c3d118fc0780.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "FarCry4_Ach_13": {
+      "name": "Display Of Fortitude",
+      "description": "Conquer 2 Fortresses (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/3c589b82ab23433ef8822a7f30524918823a6a3c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/53ae957cc8ff94763faf4eb99799d17188d2bdb7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "FarCry4_Ach_34": {
+      "name": "Dr. Feelgood",
+      "description": "Craft 15 syringes (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/d95605250669c26cc3f05c5546e90b4f6568c44f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/67b67fb3e417bf86edb44f17a9bb94b9e50a7261.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "FarCry4_Ach_46": {
+      "name": "Drive-By",
+      "description": "Kill 25 enemies while shooting and driving (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/c7c0f9e05c5a404e469011110350471e2a5993d9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/1e1a3be0aa88862e6a8bbfcc2e32b6ed1a5c46dd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "FarCry4_Ach_12": {
+      "name": "End Transmission",
+      "description": "Liberate 8 Bell Towers (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/032f590ebf95dc65ad7652c36dcb38c76c008b6e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/e9ed3b73262f75172ff607651a4ff553e7f8f2bd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.2"
+    },
+    "FarCry4_Ach_25": {
+      "name": "Exorcist",
+      "description": "Destroy 15 Masks of Yalung (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/899c82ea3593624dfad4ca1f772e84c432c2e53a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/25daef888cc7b8a5bf23c6d696a91d6d1d66476a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "FarCry4_Ach_24": {
+      "name": "Fixer-Upper",
+      "description": "Purchase 3 items for the Ghale Homestead (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/203e800fe412b8f6815abde808c7d6a3cccc454f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/a23964d029ff3959f40faa19294d2c396630650d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.3"
+    },
+    "FarCry4_Ach_45": {
+      "name": "Flame On!",
+      "description": "Kill 50 enemies with fire (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/9dfe1b2bedd77a1ef9d9f893fff0a8e306c7eace.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/4a944faa1a3905e31f3fc4369f00f4e8f9ef9579.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "FarCry4_Ach_42": {
+      "name": "From A Distance",
+      "description": "Kill a target from 60m or more with an arrow or bolt (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/6f3da7c657ae5d6d74b739ae7e7b2afb83bdb742.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/6f4350861555fe6b71aa73341af3e21a40cb86a7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "FarCry4_Ach_32": {
+      "name": "Fully Loaded",
+      "description": "Learn all skills (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/5b9fa14f8c7a27ad5e20371f077152286fffcdfb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/474c74057e1783c676417546b2e6abf4ba3779ff.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "FarCry4_Ach_17": {
+      "name": "Gearhead",
+      "description": "Complete 3 Kyrati Films: Racing or Kyrati Films: Survival activities (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/a2e449027d1565c15dda675aad25c70a66d95bb1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/4e365c7661c97c6deaaaf1c69092afcfffd54ca8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.2"
+    },
+    "FarCry4_Ach_20": {
+      "name": "Hand Of Justice",
+      "description": "Eliminate 3 Pagan's Wrath convoys (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/a916d59b4c1f77bca167ad57c64d2224509ff9b1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/4e717a02178088d5c8608b2b22b05b6cd5c49c16.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.5"
+    },
+    "FarCry4_Ach_7": {
+      "name": "Hat-Trick",
+      "description": "Decide Yuma's fate (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/f96351ce0f2b660400fc7a043f1e4c0ad064b54d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/ceedc0884c94d31de710e041c8ba7468c7253518.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "FarCry4_Ach_54": {
+      "name": "Home Sweet Home",
+      "description": "Occupy The Relay Station (Valley Of The Yetis).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/bf4ed81bc725284b76be6a2307bb5d0a9ff802ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/16a18949dfad5f71eea071d24c0a9c5075ed0d48.jpg",
+      "hidden": false,
+      "group": "Far Cry® 4 Valley of the Yetis",
+      "percent": "1.6"
+    },
+    "FarCry4_Ach_48": {
+      "name": "Like A Bird",
+      "description": "Fly 5000m total in the Wingsuit (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/468400a28fe534fab2b669ec823299a84510ec48.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/282b854a5d547b428c5ae598998146d82ee3ce0c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "FarCry4_Ach_35": {
+      "name": "Make It Rain",
+      "description": "Spend 500,000 rupees total at Trading Posts (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/55ffd18966e49313015790bebc905830dc13ab11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/66be2636def979546bf675cd7b2552076b5fbc81.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.5"
+    },
+    "FarCry4_Ach_57": {
+      "name": "Master Builder",
+      "description": "Complete All Relay Station Upgrade Quests (Valley Of The Yetis, Single Player Only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/fea904b701616973f8882cb1499cc1feed2bb74c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/0115b2f1f3a408d2330d92db1dbbd3dd1f49e99e.jpg",
+      "hidden": false,
+      "group": "Far Cry® 4 Valley of the Yetis",
+      "percent": "1.0"
+    },
+    "FarCry4_Ach_60": {
+      "name": "Master of the Awakened",
+      "description": "Kill 5 Yetis (Valley Of The Yetis, Single Player Only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/2f375462927b30fef9f72e1dd6e0cfb4370ea38e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/5e04ab7cb4845741397df6a6e4fc2e59366882db.jpg",
+      "hidden": false,
+      "group": "Far Cry® 4 Valley of the Yetis",
+      "percent": "1.2"
+    },
+    "FarCry4_Ach_39": {
+      "name": "Misdirection",
+      "description": "Distract 15 enemies with rocks (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/630396abf63428d6c00c7b134f8d08ed7c74b087.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/9353b83d9db4f1d8aeeb6a6d595990c213dec692.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "FarCry4_Ach_55": {
+      "name": "Night Survivor",
+      "description": "Defend The Relay Station And Survive The First Night (Valley Of The Yetis).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/4083c5a57d3f46c4cf9d7bab45260a3839a1e3e3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/9784fa679eb590eb3172d4a7419dfc261564af45.jpg",
+      "hidden": false,
+      "group": "Far Cry® 4 Valley of the Yetis",
+      "percent": "1.5"
+    },
+    "FarCry4_Ach_16": {
+      "name": "No One Left Behind",
+      "description": "Rescue 15 hostages in Hostage Rescue quests (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/11fcea111144261869a43bf80bf42068ea81352a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/1159d89d6c0412213a5e3acf564318b6e598d0ef.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.8"
+    },
+    "FarCry4_Ach_2": {
+      "name": "One Down",
+      "description": "Decide De Pleur's fate (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/54c5690c11126614ba349cbaa9d6d6db84fa7b0b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/f6d5d76043a06cc5243cc3fe86258d4aca61c4a2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.9"
+    },
+    "FarCry4_Ach_3": {
+      "name": "Overdose",
+      "description": "Discover Shangri-La (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/e8d22fe08f3595819ad4c4d2378010e5d592708d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/6cb75adc7473612d963ade08ed2f13e1efd1b538.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "FarCry4_Ach_38": {
+      "name": "Quad Kill",
+      "description": "Kill 4 enemies simultaneously with a single explosion (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/a3939878a3539a01b37616fc29e2694aa9e9f64e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/dc6ab99433633bb52d5f36632823b75e461c6ef3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.9"
+    },
+    "FarCry4_Ach_31": {
+      "name": "Quick Learner",
+      "description": "Learn 10 skills (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/325b9bacf483ab470a25a3e22884cffe5ad50932.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/9b0b686b531cccfb1ab7a07bcd5aef6d6e98ceac.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.0"
+    },
+    "FarCry4_Ach_41": {
+      "name": "Reign Of Death",
+      "description": "Kill 30 enemies with Mortar rounds (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/6d847a26a181cae47e9d1264318e47ab9e533a8d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/df2833a3c9399b68756bed538fca57dd339e5eea.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "FarCry4_Ach_51": {
+      "name": "Renaissance Man",
+      "description": "Finish a public match of each game type in the Battles of Kyrat game mode (Battles of Kyrat only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/93df2f958988e47bf05dc6568ee2dd4d426df603.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/8d740098c9225900793f233a28c24692014bb3e8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "FarCry4_Ach_26": {
+      "name": "Rewriting History",
+      "description": "Remove 30 Propaganda Posters (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/e8728ebefadfb921eefb584a87b66bd2eb6d5efb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/f734e05538148b50b98fba541a67b49a4b22cd8d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.7"
+    },
+    "FarCry4_Ach_28": {
+      "name": "Right Tributes",
+      "description": "Spin 10 Mani Wheels (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/3849acc665b0ec04720a3926dabdf11599878780.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/caa9c2377a2fa10fc2eba56e72a2c99382bdfa10.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "FarCry4_Ach_49": {
+      "name": "Roadkill",
+      "description": "Run over 25 people (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/62f3011272682d27fa45872fb01ec40869928ba8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/a00bd1d4dffc7ecd67bb5219aaa36cd25495fa9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "FarCry4_Ach_19": {
+      "name": "Robin Hood",
+      "description": "Hijack 3 Royal Cargo Trucks and return them to a liberated Outpost (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/37cdd2ed9c765d53d84bb3605234913b44140a29.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/5e95185923c3315d31e5cfa00a6c681f9699d099.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "FarCry4_Ach_40": {
+      "name": "Shutterbug",
+      "description": "Tag 25 enemies using the camera (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/36c5d6d188916fd92479c75b3448489767bb34c0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/b02727319fd07fa5d4dad5a4b5afa1d7ba2bf596.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.0"
+    },
+    "FarCry4_Ach_59": {
+      "name": "Spiritual Hunter",
+      "description": "Kill A Yeti (Valley Of The Yetis, Single Player Only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/823ded0bb9f0370d9acb90d218dc2164c2fac2e7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/bb94fba0fb0f63b8c290e1ab41f13011761cdf78.jpg",
+      "hidden": false,
+      "group": "Far Cry® 4 Valley of the Yetis",
+      "percent": "1.3"
+    },
+    "FarCry4_Ach_47": {
+      "name": "The Good Fight",
+      "description": "Reach Karma Level 2, and purchase any Guns For Hire upgrade (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/a075f74e746371b40448588600f181d525c33c5e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/1bcebd0569bfd346460a6b0bdf01a685a311fb44.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "FarCry4_Ach_8": {
+      "name": "The King Is Dead",
+      "description": "Decide Pagan Min's fate (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/7b3e65e01def9b0b8f16ff3b8787e409e2dee599.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/1211d83a06c0df3a34a57d2a48c34332173c03c2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "FarCry4_Ach_50": {
+      "name": "The People's Champ",
+      "description": "Reach Arena Rank 5 (Campaign Arena only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/b663d05a537778e9c11f460f98e4a28c6802134d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/7aad2a28628dab2c89b54be3c73705c41f7d91dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "FarCry4_Ach_29": {
+      "name": "The Rarest Game",
+      "description": "Complete 3 Kyrat Fashion Week quests (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/fd8183f4b0d9f16b34ded40b8b92c16621b36387.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/c857ca8568e86a06b8008295d634352982028de5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "FarCry4_Ach_44": {
+      "name": "The Sky Is Falling",
+      "description": "Perform a takedown from a Buzzer (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/25772bd9f4e4d1f8370b46a3e78801dd3f3002fe.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/ac9714ce700455215efc9102d29c6d66835699d5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "FarCry4_Ach_11": {
+      "name": "Tread Lightly",
+      "description": "Liberate any Outpost without triggering an alarm in any mode (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/1cdcedba225ade93c58db9e0890d16b96d30b57d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/00f35fdbe890375665bd55ced1eb27883cc7d330.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.8"
+    },
+    "FarCry4_Ach_33": {
+      "name": "Tricked Out",
+      "description": "Craft 5 upgrades for your equipment (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/537ae9378fc6235dad16ed440629086b843a0ae5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/c296161f9afbcc7d4576c32f8309be0ab2b1bfa8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.3"
+    },
+    "FarCry4_Ach_15": {
+      "name": "Trigger-Man",
+      "description": "Complete 3 Assassination or Eye for an Eye quests (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/e5f9b8424e04036d874d86e00d400767141c9e2e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/61e1f4822c8e1af06623c6115f06533360d4b72a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.2"
+    },
+    "FarCry4_Ach_37": {
+      "name": "Tusker",
+      "description": "Kill 30 enemies with an elephant (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/ffbedb1dea8ce1b116c77a6c72f3f32926abef11.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/fbdec80c78adf3dd8368b2a3839835daec5580de.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "FarCry4_Ach_43": {
+      "name": "Two Birds",
+      "description": "Using a sniper rifle, kill 2 targets with a single shot (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/f423d2e0f8301bcaa13888e08af31b53c6030514.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/071a58914bf54239efa0ad191ef3b687ce3b720c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "FarCry4_Ach_5": {
+      "name": "Two Down",
+      "description": "Decide Noore's fate (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/ebdd92c3f7931f0e812143a973f59876323d2216.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/68e4e09062e54ff5f6db4e75436841d92cbdf355.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "FarCry4_Ach_1": {
+      "name": "Welcome to Kyrat",
+      "description": "Join the Golden Path (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/57cb125b728bd159e9a56d336c58a13b7589a0ee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/f41b24d0ccd8168bcb6e243d42ccae1af38ff3a1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.0"
+    },
+    "FarCry4_Ach_30": {
+      "name": "Well Read",
+      "description": "Read 10 notes (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/8949c1f2ccea08cd198bc2ac4ccf11dbcc1586b5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/2df3dd06d405a5b45b748958565614f1e91b1c78.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.4"
+    },
+    "FarCry4_Ach_14": {
+      "name": "Well-Rounded",
+      "description": "Complete any 6 Hunting quests (Supplies, Control, Survival) (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/85f373ff98716cd71a25945659493549d042d843.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/ae981b3c7899083ebd45c066b4627e5e84c30f3f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

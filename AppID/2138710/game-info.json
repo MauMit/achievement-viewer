@@ -1,0 +1,559 @@
+{
+  "appid": "2138710",
+  "name": "Sifu",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/header.jpg?t=1754555101",
+  "achievements": {
+    "Arena_Randomizer": {
+      "name": "A Bit Of Everything, Simultaneously",
+      "description": "Attempt to clear any level with the Modifiers Randomizer enabled.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/fbd3f92ed3a611002ba656afb9fdb1d0cfb1170f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/ec60ebe27cf881bdda95c5aac2df8dc346a53767.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.9"
+    },
+    "Vengeance_H3": {
+      "name": "A Lady's Blood in the Snow",
+      "description": "Kill Kuroki at the end of the Museum.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/44390fd4f8b43ef092a612fb1c628c53dcedd82b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.5"
+    },
+    "Arena_GoldTimePerf": {
+      "name": "A Touch of Acumen",
+      "description": "Get gold stamps in a Time Attack or Performance arena challenge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/6f734ffc30607a3cccad4a1e9a0186c3b129dcdf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/6ef9a501eb54c2840a0051a9afeeb78347ec743a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.3"
+    },
+    "CustomTrophy_H3": {
+      "name": "Be like water my friend",
+      "description": "In the Museum, throw an enemy into the fountain from a higher floor.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/129d84aef092d13a6d8a4098f1fe2312754a2b90.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "Arena_Music": {
+      "name": "Beatmaker",
+      "description": "Col pugno",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/6fd7256007b0d95ea044418c0c2824f7b986f562.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/ec60ebe27cf881bdda95c5aac2df8dc346a53767.jpg",
+      "hidden": true,
+      "group": "Update 1",
+      "percent": "1.7"
+    },
+    "Arena_25Challenges": {
+      "name": "Bloody Sport",
+      "description": "Clear 25 different arena challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/9b04e621a2e15252f952052562e9c6427d30ad27.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/6ef9a501eb54c2840a0051a9afeeb78347ec743a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "Arena_Car": {
+      "name": "Bonus Stage",
+      "description": "Oh! My car",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/5a0ea6095d7dfa165318fb15f67f99ef33fac053.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/ec60ebe27cf881bdda95c5aac2df8dc346a53767.jpg",
+      "hidden": true,
+      "group": "Update 1",
+      "percent": "1.5"
+    },
+    "PhotoMode_Trophy": {
+      "name": "Come Snap With Me",
+      "description": "Give the Photo Mode a shot!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/fa543d129665b85ccd41c0e9f551b980379301e6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "Arena_TigerAll": {
+      "name": "Crouching Tiger",
+      "description": "Clear all tiger arena challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/aab79bc7f9cc3a0f8d00b4b27f941183f29e1c51.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/ec60ebe27cf881bdda95c5aac2df8dc346a53767.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.2"
+    },
+    "ThrowAI_Trophy": {
+      "name": "Dance of the Praying Mantis",
+      "description": "Throwing enemies around makes handling big groups easier. (Ignored in training mode.)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/019782edeb330ed4c2c76d39471434f89ce07975.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.8"
+    },
+    "Arena_GoldManhunt": {
+      "name": "Deadly Venom",
+      "description": "Get gold stamps in a Manhunt arena challenge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/1ccfee41b50e1fac80d1c516f36d9f5869bb5801.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/6ef9a501eb54c2840a0051a9afeeb78347ec743a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "Detective_H1": {
+      "name": "Detective Story",
+      "description": "Complete the Squats' detective board.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/feae2791fe39a6c7b804d18f8b95602118b76e99.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "Arena_3Stamps": {
+      "name": "Diligence as a goal",
+      "description": "Get 3 stamps in any arena challenge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/d55eb690d1a72f947c1a76e323888a44efb9f1b7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/6ef9a501eb54c2840a0051a9afeeb78347ec743a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.0"
+    },
+    "Detective_H2": {
+      "name": "Drunken Fighter",
+      "description": "Complete the Club's detective board.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/a6b590a5b1ec5b7b5f31303973b68dc8f28c051d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "ComboHigh": {
+      "name": "Ferocity, speed, strength, accuracy",
+      "description": "Reach a level score of 20 000.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/7eb576dd02037a715f4fdc7fe59d4654c9c65944.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "Arena_CustomMode": {
+      "name": "Fight the way you practice",
+      "description": "Clear an arena challenge with the Custom Mode enabled.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/7b650bd8b4324ed57eb6df670274d8ab295ef695.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/ec60ebe27cf881bdda95c5aac2df8dc346a53767.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "4.7"
+    },
+    "Arena_LakeKill": {
+      "name": "Fighter in the Pond",
+      "description": "Throw the Disciple in the lake in the \"Bellowing Mountains\" arena challenge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/a7f95266d1fefe2081757c01d2b8112689461531.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/ec60ebe27cf881bdda95c5aac2df8dc346a53767.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.2"
+    },
+    "SifuPlatinum": {
+      "name": "Fist of the Immortal",
+      "description": "All achievements unlocked! Thank you for playing.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/eaad2a846643f50c37fe50bf9ff40c8f166d8c8b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "Vengeance_H5": {
+      "name": "Furious Fists",
+      "description": "Exact your vengeance (kill Yang at the end of the Sanctuary).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/2ac1eacce0e37861ceb6fd052226c2dad48e2ac7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.3"
+    },
+    "Detective_H5": {
+      "name": "Healing Memory",
+      "description": "Complete the Sanctuary's detective board.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/05c088760f4e0a7e03a8c532bb9c057183f7340a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "Arena_SnowballKill": {
+      "name": "Here Cometh the Iceman",
+      "description": "Finish the target with a snowball in the \"Cyclone\" arena challenge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/9db6e3e67a56ed49db9493eb18b4c57627f77caf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/ec60ebe27cf881bdda95c5aac2df8dc346a53767.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.5"
+    },
+    "Arena_DragonAll": {
+      "name": "Hidden Dragon",
+      "description": "Clear all dragon arena challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/c9d7ee4341603cb94632f4622592f1aed0868dc5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/ec60ebe27cf881bdda95c5aac2df8dc346a53767.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.9"
+    },
+    "ComboMid": {
+      "name": "I know Kung-Fu",
+      "description": "Reach a level score of 10 000.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/b80e4497addd5d861efb45eb9c1efb0f41c824dc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.4"
+    },
+    "Wude_H4": {
+      "name": "Iron Money",
+      "description": "Obtain the Metal talisman.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/36442a9995dbb52f0238cfe305ca33c08f96a5e7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "DeathlessBoss_Trophy": {
+      "name": "Kill Nil",
+      "description": "Beat any boss without dying.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/0a1084cbf6b7d305f269f3f801d8523aabd1b6e0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.0"
+    },
+    "Detective_H4": {
+      "name": "Knowledge Greed",
+      "description": "Complete the Tower's detective board.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/5887b38245da4a29d9d82bfc8c3b49ca13239173.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "WideStrike": {
+      "name": "Kung-Fu Tussle",
+      "description": "Hit 3 enemies in a single strike. (Ignored in introduction level.)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/45d413c99c24526dcad43aa4402996fc909369a4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.2"
+    },
+    "Vengeance_H4": {
+      "name": "Lady Wing Chun",
+      "description": "Kill Jinfeng at the end of the Tower.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/262d2e0c3e3a7098d9c95a869bf4096b696b4532.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.3"
+    },
+    "Wude_H5": {
+      "name": "Legendary Talismans of Wuxing",
+      "description": "Obtain the Earth talisman and attain Wude.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/2e1a292d532f1420b0896fd8675ea44c0c476d5c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.4"
+    },
+    "AnySkill_Trophy": {
+      "name": "Life is your teacher",
+      "description": "Unlock your first skill.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/e3af2ef5cfb59a051ca5af8b8ede2a6fa6213a60.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.7"
+    },
+    "TimedTakedown": {
+      "name": "Lightning Hands",
+      "description": "Perform 3 takedowns within 12 seconds. (Ignored in introduction level.)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/033c0c5d13b82c164cd6d574bf5f7d05e11a78c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.7"
+    },
+    "Detective_H3": {
+      "name": "Martial Artist",
+      "description": "Complete the Museum's detective board.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/e4f83331c3d4e4cbbca05950a2411df984ffb093.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "Arena_45Challenges": {
+      "name": "Martial Hub",
+      "description": "Clear 45 different arena challenges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/fabc9860208c78e34aff065c1a61e0db7d0ee9cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/6ef9a501eb54c2840a0051a9afeeb78347ec743a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "Arena_HeliportAllOut": {
+      "name": "Master of the Flying Assassins",
+      "description": "Clear any challenge of the Heliport arena by throwing all enemies out.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/c3f448f49eacfaf3dbde69056858f1ee37ff52a3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/ec60ebe27cf881bdda95c5aac2df8dc346a53767.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.3"
+    },
+    "FocusAttack_Trophy": {
+      "name": "Master of the Phoenix Eye Fist",
+      "description": "Use each Focus Attack at least once. (Ignored in introduction level.)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/7b106f739af1a2a2be4619f32e0cb0ceebd2f42d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "Wude_H1": {
+      "name": "Muk Yan Master",
+      "description": "Obtain the Wood talisman.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/f0f0efb6ba4ebb950ec60c6fce15e526059034c9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.6"
+    },
+    "ReachMaxAge": {
+      "name": "Old Child",
+      "description": "Reach your oldest appearance. Will you still have enough strength left to reach your goal?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/7c50e622742c9c329e4a92446f4e24d2b1400904.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.8"
+    },
+    "Calbot_Trophy": {
+      "name": "Path of the Prospect",
+      "description": "Unlock the mighty Calbot move.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/5a135b813b6718c338a734a743986b0f115a3916.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.3"
+    },
+    "LowAge": {
+      "name": "Prodigal Child",
+      "description": "Beat the game while being 25 years old or less.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/fa04fbe302b8d0ffab3121027dfc034b49416dc0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.8"
+    },
+    "Arena_UnlockPack": {
+      "name": "Project Arena",
+      "description": "Unlock a new arena pack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/2e038ab1dfd95891506e690c213bd83617113fe3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/6ef9a501eb54c2840a0051a9afeeb78347ec743a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.4"
+    },
+    "ShrineSpirit": {
+      "name": "Qi Gong: Breath",
+      "description": "Receive the highest score-based shrine reward for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/467eeedde2b014f397f0074b3bb4e4037aff64e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.1"
+    },
+    "ShrineBody": {
+      "name": "Qi Gong: Essence",
+      "description": "Receive the highest age-based shrine reward for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/d329c27f95747a07753a47bf5b8fb0aa1d10d478.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.7"
+    },
+    "ShrineMind": {
+      "name": "Qi Gong: Mind",
+      "description": "Receive the highest XP-based shrine reward for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/0a420c31f0482820529e9b848d86eced9d121980.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.5"
+    },
+    "CustomTrophy_H1": {
+      "name": "Rumble in the Hangar",
+      "description": "In the Squats, clear the hangar in less than 1 minute 20 seconds after being detected by the main group.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/761d48700714a1c73b93c91e7e334c8c8b1fb8ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.0"
+    },
+    "MidAge": {
+      "name": "Scareless",
+      "description": "Beat the game while being 50 years old or less.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/66885a74dfb781b62e7a8c9b87c5c7b0c6231c96.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.6"
+    },
+    "Arena_GoldCapture": {
+      "name": "Secure, Protect, Leave",
+      "description": "Get gold stamps in a Capture arena challenge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/0ad7f998836e819d3828213698174de52e8ee449.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/6ef9a501eb54c2840a0051a9afeeb78347ec743a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.5"
+    },
+    "Arena_HighStamps": {
+      "name": "Skill and an even stronger will",
+      "description": "Collect 240 stamps in arenas.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/034b7608b88e1f6a22be2ffb06218ceb1f9eb2d3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/ec60ebe27cf881bdda95c5aac2df8dc346a53767.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.3"
+    },
+    "Wude_H3": {
+      "name": "Source of Flying Daggers",
+      "description": "Obtain the Water talisman.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/1e5228531e6bcc586e8b9721260c5b9d9838e9d0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "PermaSkill_Trophy": {
+      "name": "State of constant learning",
+      "description": "Permanently unlock a skill for the first time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/c327c1db2ec0eb3be7b2723031e1956850031aeb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.9"
+    },
+    "ThrowEE_Trophy": {
+      "name": "Street Fighting",
+      "description": "Anything can be a weapon, so keep using your environment to your advantage. All is fair in such fights! (Ignored in training mode.)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/9e6397265bf4d2493b0bff33837a77cd9529d9ea.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.9"
+    },
+    "Traversal_Trophy": {
+      "name": "Stuntmaster",
+      "description": "Climbing and going across the environment allows you to control the flow of the fight.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/8be2166c6915f5c522229a62dabcf6abad9518fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.7"
+    },
+    "BladeOneShot": {
+      "name": "Sword Stained With Blood",
+      "description": "Successfully use a blade weapon's one-shot attack on an enemy. (Ignored in training mode.)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/ba7a4e5605e92c152792360fa99aaeead5bc9cb1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "CustomTrophy_H4": {
+      "name": "Take damage to save time",
+      "description": "In the Tower's caves, drop from a high point to get deeper faster.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/c990a1b68be48e9bbeace77fae2267209b17b9e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.5"
+    },
+    "Takedown_Trophy": {
+      "name": "The 36th Chamber of Kung-Fu",
+      "description": "Bare handed or with a weapon, standing up, against a wall, a ledge, or on the ground... Perform each takedown type at least once.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/90753e410a7750afbb5e5cfb336ce9c9f3afc5da.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "Vengeance_H1": {
+      "name": "The Assault",
+      "description": "Kill Fajar at the end of the Squats.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/4dc56b51eab675b1ada9aec03517d80077e18ce6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "71.9"
+    },
+    "Arena_GoldSurvival": {
+      "name": "The best strikes are the ones we avoid",
+      "description": "Get gold stamps in a Survival arena challenge.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/e9c2e10da9807cdaff9e9420cb50eac485d20ced.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/6ef9a501eb54c2840a0051a9afeeb78347ec743a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "Vengeance_H2": {
+      "name": "The Hateful Pole Fighter",
+      "description": "Kill Sean at the end of the Club.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/a5b6aa6c5d625ccee52b58c784a81bd70bde6f57.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.3"
+    },
+    "Prologue": {
+      "name": "The Old Grandmaster",
+      "description": "Clear the prologue.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/7ba28c776de1066c89cde64874d8747b23908e2d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "95.4"
+    },
+    "CustomTrophy_H2": {
+      "name": "The Pit Protector",
+      "description": "In the Club's pit, beat the Juggernaut before any other enemy is beaten.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/26857945aa609f2b839cc71a59f83a490f80df8b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "Wude_H2": {
+      "name": "Tiger on Fire",
+      "description": "Obtain the Fire talisman.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/84edf689d433c65ef849183a91dc8676d710e61b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.1"
+    },
+    "CustomTrophy_H5": {
+      "name": "Warriors from the Mountain",
+      "description": "In the Sanctuary, throw an enemy into the mountains.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/8e74af1595f924d160d3114876729f686ce52ccd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,244 @@
+{
+  "appid": "3035120",
+  "name": "Is This Seat Taken?",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3035120/header.jpg?t=1773667153",
+  "achievements": {
+    "ACH_SPECIAL_CITY_02": {
+      "name": "A day at the park",
+      "description": "Unlock Brussels's special level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/3d764312175c9797a2500fe4aaba706065aefd83.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/c126d618e43cb1a25139bb61a4928ccf39f8a514.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "70.9"
+    },
+    "ACH_COM_CITY_01": {
+      "name": "A tour of Barcelona",
+      "description": "Complete 5 levels in Barcelona",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/265d3a98c63eef95b45c05c32971033e5a707a56.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/63585987ae3a530b0617c8acc338aba914178af6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "93.5"
+    },
+    "ACH_COM_CITY_02": {
+      "name": "A tour of Brussels",
+      "description": "Complete 5 levels in Brussels",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/92edbedb092985e7bf5d6107fdf50633d0a7e21e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/8f1533bf6aade4899c18db4b29da2ce4ec1bdd79.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "73.4"
+    },
+    "ACH_COM_CITY_03": {
+      "name": "A tour of London",
+      "description": "Complete 6 levels in London",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/47c3fc191f4d3c7b6e646bce9d4f0f8a3c6851f0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/a37723f25a8759dc519829f33d7654da832b1d47.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.6"
+    },
+    "ACH_COM_CITY_04": {
+      "name": "A tour of New York",
+      "description": "Complete 6 levels in New York",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/cc05dee155f88f51b43079c6fa6f8ec4291f5cd2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/b7fd552ce78b7d9d5a4132f4b47f51210c001236.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.2"
+    },
+    "ACH_SPECIAL_CITY_01": {
+      "name": "Another level? Cool!",
+      "description": "Unlock Barcelona's special level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/47b690cd4573c2e5f58be84527eb070f7ce20086.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/c18d442661a123a0ce6aec0c2f85afa35cadcb30.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "91.6"
+    },
+    "ACH_WAKE_UP": {
+      "name": "Are we there yet?",
+      "description": "Wake a sleeping person",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/e7139320481006467fe0a75d80dc332f05d8d610.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/897515d5b597d05da56daa18987d60db1ab0e529.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "93.5"
+    },
+    "ACH_TOUCH_INT": {
+      "name": "Boing!",
+      "description": "Interact with an object",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/7994d8e5d281227dc1529035d7303d51c6a8f616.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/ac74dde027a09b4ca799fbe04d016aa52cb772b1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.7"
+    },
+    "ACH_SANDCASTLE": {
+      "name": "Do you wanna build a sandcastle?",
+      "description": "Build a sandcastle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/f042b1de1fe26fc21b2d9b173e2dfd9287d8925b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/9a14989c6580399214ab36b3a52ff3c077328126.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.7"
+    },
+    "ACH_DUCK": {
+      "name": "Duck, duck, goose!",
+      "description": "Turn the duck around",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/edd78841282e6490cca282f952056bc63cb13931.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/5e82bd1477dcee254c3f6e5831f0c507c4f2c370.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.6"
+    },
+    "ACH_SPECIAL_CITY_04": {
+      "name": "First dates",
+      "description": "Unlock New York's special level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/d6bb1e0673731f2f6b87b5caa37fb3004d875e81.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/6ff03f1dfbca57df537c2aaf0d7ffcc509000617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.8"
+    },
+    "ACH_DRAWER": {
+      "name": "Grab a pen",
+      "description": "Open the desk drawer in the classroom",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/e1eae50b6ff8f2bcfcd91ffd1cae0acc6fb37cbf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/d344d1d9c8574252c45bead2edfc62fb2857716d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.7"
+    },
+    "ACH_MUSIC_BAD": {
+      "name": "Make some noise!",
+      "description": "Make the concert sound bad",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/59d81202d3bb09acef7706dc89a345b68541449b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/529b9df9754eeb0c6488aeeec660d0357cefc791.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.1"
+    },
+    "ACH_SPECIAL_CITY_05": {
+      "name": "Mediterranean",
+      "description": "Unlock the final city's special level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/07437596f330a6bb2995fd18708ac51b49a38609.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/9266e42fbbdb5b46e05db0b390175a881b9c661f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.5"
+    },
+    "ACH_MEET_ALEXIS": {
+      "name": "Meet Alexis!",
+      "description": "View any scene with Alexis",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/9b9b95e1d9d66c7179923e3fc1d07802f0f118b7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/23aba66fa8237ded722d4b121d5dcebe7f6b249e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "96.5"
+    },
+    "ACH_MEET_DREW": {
+      "name": "Meet Drew!",
+      "description": "View any scene with Drew",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/8aaa244d85a2577ea2583046ab8fa929890b1c1b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/6c9723eba4beca7ac37134fbaad15987e538f65e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.4"
+    },
+    "ACH_MEET_KODA": {
+      "name": "Meet Koda!",
+      "description": "View any scene with Koda",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/bc7c8b42c12083aa8536a1e10ebc293a8912d2ce.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/cd2131c3975a3013fdb0d803e4bceaff9f5f943f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "54.8"
+    },
+    "ACH_MEET_LUCA": {
+      "name": "Meet Luca!",
+      "description": "View any scene with Luca",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/80a4730c05699f66a042493b7fda7547ad2a4313.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/b5f1d07b1c7e648866d166772a825726b42fc5ba.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "81.8"
+    },
+    "ACH_MEET_NAT": {
+      "name": "Meet Nat!",
+      "description": "View any scene with Nat",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/df1930023f037ca1d61b73a3a5f5f4ce3637605a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/1fbce77ff3f22523d4c520be406b979c4ee5aaa6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "97.7"
+    },
+    "ACH_MEET_VAL": {
+      "name": "Meet Val!",
+      "description": "View any scene with Val",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/934353de59b464dbd4acaa3a39ae9a7faecd3ed5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/71a1679585fca505366e58d0afce7114449f2993.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "81.1"
+    },
+    "ACH_ALLPERFECT": {
+      "name": "Movie star!",
+      "description": "Complete all levels with a perfect score",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/87db6c666e83d5079e7ab89252e3a6c988bd684d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/72ed314cef80be2de258410082deba1ae6b14173.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.1"
+    },
+    "ACH_COM_CITY_05": {
+      "name": "My first movie!",
+      "description": "Complete all main story levels",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/b6ab007956e9a5c61612693225804facb024eaa3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/e8a721f116905df50cd3e72e5f58e9609a8ff580.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.3"
+    },
+    "ACH_SPECIAL_CITY_03": {
+      "name": "Night at the Museum",
+      "description": "Unlock London's special level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/d4ed28e4f037ff0d9dcf914117e19839711ae3bb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/9e34d114cf3eb41dbe0ebae33635af2f65533fd1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.3"
+    },
+    "ACH_TRASH": {
+      "name": "Time to take out the trash!",
+      "description": "Interact with a trash can repeatedly",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/019bad5b2b0d93ee4c24b17fd0f4fd2eddacb405.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/35bfc5914cacc1619caaaa0ef2a9efb024e7138e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.7"
+    },
+    "ACH_WINE": {
+      "name": "Whoops!",
+      "description": "Knock over a bottle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/0bbd5e019b602449a567856c69573c85ca81c0c1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/6a6d10d1c20444b3465ed88c175a6b7b4d5c7015.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.7"
+    },
+    "ACH_BALL": {
+      "name": "You'll never walk alone",
+      "description": "Make the fans chant and kick the ball",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/45fefa7d021a9f0f8be33eba89402f3e33476aab.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/dfaf739840f12114c5924a24e05b06be4a91c72d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.1"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

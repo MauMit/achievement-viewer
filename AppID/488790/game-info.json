@@ -1,0 +1,325 @@
+{
+  "appid": "488790",
+  "name": "South Park™: The Fractured But Whole™",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488790/header.jpg?t=1765228312",
+  "achievements": {
+    "spc_18": {
+      "name": "#followbacks",
+      "description": "Become mutual followers with 10 people in South Park",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/d674555aaf1351ad9998bc8a801ebb16a07a23c4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/39deeca46639ecacfe15000e293d30715687cb9a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.1"
+    },
+    "spc_04": {
+      "name": "An End to Racism",
+      "description": "Stop racism in South Park",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/f0f0a754c4c719cc99a50a13918b460e7150ef63.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/cf260432b5c436bb3a15d385b708d7f15f3f3336.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.3"
+    },
+    "spc_31": {
+      "name": "Big Knocker",
+      "description": "Kill an enemy by knocking another enemy into them",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/9a08d85a474ffd078de873829bb6bec11d12121c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/c3e2bdea13ecbbf2c7102ac07ffe84e129795ce1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "75.7"
+    },
+    "spc_03": {
+      "name": "Boy Love Aficionado",
+      "description": "Find all Yaoi art pieces",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/4452fa9ae12c73f52c55b6394cf774a7f36302d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/c9b06abea3601e20a0e4d07d645a0b73acb2a1d5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "spc_24": {
+      "name": "Call in a Favor",
+      "description": "Use a Summon",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/8088505f3d96cbbdb3a078db896254cf114c77f1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/8d9e35cfb2113d6f2f789f09a2d29ed3db5b113f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.6"
+    },
+    "spc_23": {
+      "name": "Chaos Controlled",
+      "description": "Foil the plans of Professor Chaos",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/7af8014ca14f516cb4cf35e02f4ba5844a07effa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/1128cdd40fbb8e430360a1a69c9ab6adf5a518ef.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.7"
+    },
+    "spc_32": {
+      "name": "Character Sheet Elite",
+      "description": "Reach the highest rank on 5 titles in your Character Sheet",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/cee1471d56a571c3bb2d9c9dd6bfe63c3311e55d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/febef178a52355672619f791bfb2a81e3f8498f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.6"
+    },
+    "spc_13": {
+      "name": "Class Warfare",
+      "description": "Equip powers from 2 different classes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/44a499c41290289ba3e2444b1ef3d0f14b32924a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/ee9afdafa0781bbc41ae2de231aa6b1dc108cad4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.0"
+    },
+    "spc_17": {
+      "name": "Corporate Wolf",
+      "description": "Reach the highest economic value on your Character Sheet",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/dfbd75d1f06ff7184c70f379fff25d862c4a7097.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/b1e4f1504dc4e63f9ec3862f9d5a93f0fb1d3014.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.0"
+    },
+    "spc_22": {
+      "name": "Cosplay Curious",
+      "description": "Wear costume pieces from 3 different sets at once",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/7fcd006d10ffd085fa1edeb0c2cf7d4e5a2effa5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/f99ca79ed538414c89fde032a2fc06ff53ddae9f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.4"
+    },
+    "spc_02": {
+      "name": "Crappin' Forte",
+      "description": "Use every available toilet in South Park and achieve the highest mastery level for each",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/f7154672adfdd67671a8424039149839d4fd4c6a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/c785465207444e1c3ee584df499561c45ba58ea5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "spc_11": {
+      "name": "Death Dodger",
+      "description": "Keep an Ally alive for an entire combat while they take twice their max Health in damage",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/38dddb514ded4e4c47a468feb72e84e6b4bd7910.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/25910270e133d52f2ef500782e92a5d7d999983c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.7"
+    },
+    "spc_12": {
+      "name": "Deep Seated Power",
+      "description": "Obtain and equip Artifacts to reach 600 Might",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/a078238b4aa6e9a4701c0468b7e4d0dfc8f2bb51.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/797a0db5964698fca17904d07667f99f692f1589.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.4"
+    },
+    "spc_30": {
+      "name": "Diabetes Defender",
+      "description": "Defend a helpless child from a drunk lunatic",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/4953f90526a9ad286c41a81f857fb8f6af64f117.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/231a1ec0744ec1b551c51da7cec6cea617b862a6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.1"
+    },
+    "spc_19": {
+      "name": "Divine Wind",
+      "description": "Successfully Fartkour to the Lofts at SoDoSoPa rooftop and back down again",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/9211bc52549e1d9aa9560ab8ef40004305f04f85.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/61da43e32d8bd60ad889c6815e8afeb749f85650.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.3"
+    },
+    "spc_27": {
+      "name": "Epic Artificer",
+      "description": "Craft an Artifact with a Might value of 75 or more",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/da429f8a2de889e8af049379c593197c4651e3ef.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/4ac701655a64df83d3c7733e133a272f00c86ced.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.9"
+    },
+    "spc_14": {
+      "name": "Farts over Freckles",
+      "description": "Pick a fight with Morgan Freeman and defeat him",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/3db891cb2aa83b74a9fb41254a6824141d64f19d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/2fef962e73016354a41dec0e307f53c6a9ef43a0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "spc_09": {
+      "name": "Fashionista",
+      "description": "Find 10 costume pieces",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/3ccd43c0a7d6735ec062ecc5b3ff35a4aa83c049.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/d68aed00e66992ff09d548d9f1de82a08c58625e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.6"
+    },
+    "spc_34": {
+      "name": "Friend Finder",
+      "description": "Acquire and unlock all Summons",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/d549f0a62b0439fb178d170f421e8037142e3074.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/0aedfb81244e4568cb285f67967bd1507d4a45f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.4"
+    },
+    "spc_08": {
+      "name": "Fully Bloated",
+      "description": "Unlock all combat TimeFarts",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/652117cff6c7f3c9e6cde3674ed2beb3b17cbdb4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/fa41630aac6c5cca9ec5bd09bb8758050f7e42a6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.8"
+    },
+    "spc_28": {
+      "name": "Glitch of Death",
+      "description": "Use TimeFart Glitch to cause a status-effected enemy to lose their turn and die at turn's end",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/75c48035d3002c3348b6afa5bb0586f702582f36.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/e6f22b11c7411717b8e8a4139e75cbfbe087b58a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.1"
+    },
+    "spc_25": {
+      "name": "Invasive Tumor Removal",
+      "description": "Defeat Mutant Cousin Kyle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/17fee966680e129f978412c4cf14e4829741dcb6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/0bc9b7d2e43068acfa3684fcf5804ea1b942f71f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.7"
+    },
+    "spc_10": {
+      "name": "Junksmith",
+      "description": "Craft 10 distinct recipes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/e7ee548c319aab5a03ff43088b577a83f24277e3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/8cd2415ea9d6e08e7c7c41b94352711b1d9bc2e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.2"
+    },
+    "spc_20": {
+      "name": "Last Kid Standing",
+      "description": "Win while 3 Allies are downed at the end of combat",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/29850632eecfbead316bcd15fc7a26ccc77e8835.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/4cf4a57558018ba4688de8d155952e9eceddd503.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.6"
+    },
+    "spc_26": {
+      "name": "Master Classed",
+      "description": "Equip powers from 4 different classes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/df5a12c93043490cdf350efba10a47cd8cbc1d49.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/f5221461288ce68adf1c6c26723d23abe54d8f47.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.0"
+    },
+    "spc_33": {
+      "name": "Master Manipulator",
+      "description": "Confuse or charm an enemy into defeating another enemy",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/6944b077c3bb5f77f389985c01b215be9ec97697.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/56d87dbf1bc43ffc40dadf9c4e14dc4e848bbaca.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.1"
+    },
+    "spc_05": {
+      "name": "Orgy of Power",
+      "description": "Use all Allies' Ultimate powers once during the game, except the Coon's",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/2cb3a98bba18a6f53d17248500c75d05eae51d72.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/4e8d5f3f99e21ba04f95754fd1422774e2558e45.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.7"
+    },
+    "spc_16": {
+      "name": "Pasta of Prophets",
+      "description": "Craft a macaroni picture for Moses",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/fd323e11ec47cc0e85fd5524b7bedc66b0334f0f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/d7e2b747c25f69ee0bcc95064b7754c606e44913.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.6"
+    },
+    "spc_36": {
+      "name": "Pick Yourself up by Your Bootstraps",
+      "description": "Collect all loot in the Homeless Camp at SoDoSoPa",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/07bd6faa82b5975eba9dd78efd98e750b9475203.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/33e5e7cd4d65f78f224ca6bffde8668a66eb0363.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "spc_35": {
+      "name": "Potty Trained",
+      "description": "Use a toilet and achieve the highest mastery level",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/dde8c0f315fb076fe54c5d86d2cc08bf43cdc9ab.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/6684d5500a4e8a5057c8bad4a9c6a4ec23489f26.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "92.6"
+    },
+    "spc_06": {
+      "name": "Stop, Drop and Roll",
+      "description": "Win a combat by using TimeFart Pause to kill all remaining enemies at once before time resumes",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/5dab530ee149e07b9221f57441b228533d7d899f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/4269c8776cf3de27ee2978283a88542932577779.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.9"
+    },
+    "spc_07": {
+      "name": "The Token Experience",
+      "description": "Create a Black character and complete the game on Mastermind Difficulty",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/8726a9a59db6ac6c4af70945f4d7eacbbb6db7b1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/07115921dcf3bf44d837eacf73c0d8d5f2a2200d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "spc_29": {
+      "name": "Through the Bowels of Time",
+      "description": "Survive the farts of future past",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/a2f6006e124c48dcf6c0d707045ea9a7ef3dd573.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/746976bc9f1f9d8d0d473b01516b7e23de6ecf1d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.1"
+    },
+    "spc_21": {
+      "name": "Titleist",
+      "description": "Reach the highest rank on 1 title in your Character Sheet",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/9a8269af071e24c2ae92dbaeec0636db842da16c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/4a35b2ac34faa17ecedd2594013498078d7c5afb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.5"
+    },
+    "spc_15": {
+      "name": "Toxic Environment",
+      "description": "Loot 100 Biohazard items",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/ac9f47a135d17c2594d86a68c559d0feb54ec8bd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/488790/e5aa98f425a3513402d8347c9f607c4fd3665568.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.7"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
