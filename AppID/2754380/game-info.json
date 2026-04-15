@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/85c861889afd1391f668b0c54eb3f6a784fe99ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.4"
+      "percent": "68.3"
     },
     "AFFAIR2": {
       "name": "Extracurricular Activities",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/c7cf2905a00104f31e43bc82560ca61a4cd66b3a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.3"
     },
     "OUTSIDE_BOX": {
       "name": "Thinking Outside the Box",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/f7395e6fe64711385d5ed3fe6e5847106072cf15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.3"
+      "percent": "72.2"
     }
   },
   "platform": null,
