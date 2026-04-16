@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/1705c4f6e1ff11df44eafd90e70dff0d6a9c02b2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.5"
     },
     "FCNewDawn_Ach_30": {
       "name": "All Your Bases",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/b8e731a7eb0cbcb750a13d03454b190f794b0f60.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "FCNewDawn_Ach_18": {
       "name": "Finders Keepers",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/10420a4e5c21427f41b31b9bf74598632654ac79.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.2"
+      "percent": "14.3"
     },
     "FCNewDawn_Ach_49": {
       "name": "Get to the Point",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/97101bb36b35b8552f4d42f958e1cc32045438c7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "15.1"
     },
     "FCNewDawn_Ach_11": {
       "name": "Honorary Scout",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/43a4e26e1faff560ca1656243d2fab7f4d7a1624.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "FCNewDawn_Ach_43": {
       "name": "Legend Has It",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/85096c84aedc8862cc3d1fc3da93230b8579b70a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "FCNewDawn_Ach_40": {
       "name": "Stack 'em Up",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/816bf80453149c5e8d4e317f08c333b8d3f73e21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.7"
     },
     "FCNewDawn_Ach_9": {
       "name": "The Ryeunion",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/95c42f0350757d73fa49a5227d12801d91b262e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "FCNewDawn_Ach_31": {
       "name": "Weaponsmith",

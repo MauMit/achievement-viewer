@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/f85d11250570017e72918f7d3735428658ae288b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.0"
     },
     "PERFORM_ALL_BIGFIG_TRANSFORMS": {
       "name": "Alter Ego",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/7db0122be2e76377f777056ed9750700d27d2c82.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.8"
+      "percent": "43.7"
     },
     "GET_BILLIONS": {
       "name": "Billionaire Philanthropist",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/293649aeab5a2eee3fd710534ce13050d015d354.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "COLLECT_ALL_XMEN_BADDIES": {
       "name": "Brotherhood",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/3c09562d86da95166564df8145070cd705db9ad8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.3"
     },
     "COMPLETE_STORYEVENT9": {
       "name": "Doctor in the House",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/a5a30b1780e288194c9db99e8198aa15c5db2eb4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.6"
     },
     "HULK_UP_100_TIMES": {
       "name": "I'm Always Angry!",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/9bbe4a747a2c800ab089be40c36bb325560f8676.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "20.8"
     },
     "COMPLETE_STORYEVENT4": {
       "name": "Rock up at the Lock up",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/28861a28edd475e96251fb7da5902ea8a6a2dc97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.2"
+      "percent": "66.1"
     },
     "COLLECT_ALL_XMEN_GOODIES": {
       "name": "To Me, My X-Men",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/4e799c5c3c22e6e2ad9cb352254f4a2250cfcf75.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "24.9"
     },
     "GET_100_PERCENT": {
       "name": "You Win a No-Prize!",
