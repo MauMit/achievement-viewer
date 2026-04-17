@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/7ef7f7438b645e02bf40b35069a5acc0acff4230.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "ACH_INSIGHT": {
       "name": "Be the Knife",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/bcf27fe90cb96afb8caea2f0971d6222e79f6e31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.6"
+      "percent": "65.7"
     },
     "ACH_CHAPTER21_CLEAR": {
       "name": "Completed Chapter 2 - 1",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/12faf468f7021d6a0d4b3f55c6d4995ead19cf3f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.2"
+      "percent": "58.3"
     },
     "ACH_CHAPTER22_CLEAR": {
       "name": "Completed Chapter 2 - 2",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/a843ce9a03dcf2480a10513dba4f77b14e78a80c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.7"
+      "percent": "53.8"
     },
     "ACH_CHAPTER31_CLEAR": {
       "name": "Completed Chapter 3 - 1",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/20edf0794a5741c20d952855411e4b81a5371662.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.4"
+      "percent": "47.5"
     },
     "ACH_CHAPTER33_CLEAR": {
       "name": "Completed Chapter 3 - 3",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/cf013c80f67c54a71b89ea054fb0ae10602297ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.7"
     },
     "ACH_CHAPTER42_CLEAR": {
       "name": "Completed Chapter 4 - 2",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/3c65d5e092473ab1a45342dcca6dc866117b546f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "ACH_CHAPTER51_CLEAR": {
       "name": "Completed Chapter 5 - 1",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/9a39712d3da4ed0c06d59a2044ddcd84de377fda.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.2"
     },
     "ACH_CHAPTER63_CLEAR": {
       "name": "Completed Chapter 6 - 3",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/bee2d9ae8f21dbee1763d843fdc4498c1b61c99e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.5"
+      "percent": "56.6"
     },
     "ACH_MATERIAL_COMBAT": {
       "name": "Get Physical",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/bd6f4b5e5e8c8626ee5c6015db1c8d074b1bd5d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.6"
+      "percent": "28.7"
     },
     "ACH_WEAPON_COMPLETE": {
       "name": "Stockpile",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/c18be8c42aaa7f01ec77e5b25762ea6546ea907f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.8"
+      "percent": "3.7"
     },
     "ACH_PROFESSIONAL_PLAYER": {
       "name": "Veteran",

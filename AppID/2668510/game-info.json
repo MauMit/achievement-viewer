@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2668510/63edeaf71547bcf6cb32ea192c15b743299138ac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "35.7"
     },
     "ACH20": {
       "name": "Dastardly",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2668510/63edeaf71547bcf6cb32ea192c15b743299138ac.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "ACH13": {
       "name": "Evil Spirits",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2668510/63edeaf71547bcf6cb32ea192c15b743299138ac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "ACH35": {
       "name": "Mowing Them Down",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2668510/63edeaf71547bcf6cb32ea192c15b743299138ac.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.9"
     },
     "ACH46": {
       "name": "Spinning Plates",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2668510/63edeaf71547bcf6cb32ea192c15b743299138ac.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.3"
     },
     "ACH42": {
       "name": "The Downward Spiral",

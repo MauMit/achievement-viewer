@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/b01aec7bfe4ba65352bff6d4f9d1b79916db48f7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.0"
     },
     "ACHIEVEMENT_11": {
       "name": "Mama Said",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/b5575fe956baf34ca9bdcff885ae34f28b45cc2a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.5"
     },
     "ACHIEVEMENT_33": {
       "name": "The Early End",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/ae718e93b14ed458c298a11637ebdc06682ebbbf.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.5"
+      "percent": "23.4"
     },
     "ACHIEVEMENT_17": {
       "name": "Ugly Duckling",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/f06151e26dfef182445d24b063311195ba702534.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.9"
+      "percent": "75.8"
     },
     "ACHIEVEMENT_35": {
       "name": "War Has Changed",

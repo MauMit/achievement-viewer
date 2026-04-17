@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/114715fb125153d4607cd5c98fdbd2c4c5a32c41.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.9"
+      "percent": "62.0"
     },
     "ACH_46": {
       "name": "All-rounder",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/c43043bc08bbad6bf6cb5f71e4303dbbb330db17.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "ACH_24": {
       "name": "Bishop",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/fe93126c49b90f58bcebc5a14953edccc693b679.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.3"
     },
     "ACH_43": {
       "name": "Blademaster",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/09f145067e544bf5079b16fab4cc4f1f3f78ba93.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "ACH_30": {
       "name": "Centurion",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/00f01d1a7db7be3c7a949ef2380ee68d4cb0d2aa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "ACH_39": {
       "name": "Full Course",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/b362409c4d4a9d32af915733d1e2df05d44d1c46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.6"
+      "percent": "48.7"
     },
     "ACH_21": {
       "name": "Heartbound",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/8a92f8a6b442a1b04a80210efe35275ce0ca3166.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.3"
     },
     "ACH_04": {
       "name": "Inseparable Friends",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/c4f5948b31b8bfd982a234c84ed0ed560d33b884.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "27.1"
     },
     "ACH_45": {
       "name": "Leveled Out",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/e7d8e5f26f2e4f83a558d39ffd6bc2e2a7a510ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.3"
     },
     "ACH_09": {
       "name": "Making a Difference",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/8ebbfadb032628bb6b6df8600cf0d6ea38c087ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "35.1"
     },
     "ACH_40": {
       "name": "Master Chef",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/59f95545498c8de364c2409ab8993e3e5ae9361c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.9"
+      "percent": "33.0"
     },
     "ACH_17": {
       "name": "No Stone Unturned",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/dd206702d73b876c152be078947b540b4a431ea6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "ACH_47": {
       "name": "Risk-taker",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/9893d829d2c22802d6bfd372b7485996a84a2890.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.7"
     },
     "ACH_29": {
       "name": "Thermosphere",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/4fd868cf1f4bb6ae3e9c7d0ea06a3e5dfc7ebda1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "36.1"
     }
   },
   "platform": null,

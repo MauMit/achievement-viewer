@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/216bc4ffb33647d38ab7d2140c7ba975cc16c31a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.3"
+      "percent": "61.4"
     },
     "CH2_COLLECT": {
       "name": "Amateur Archaeophile",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/adfc0d7eb0b3e58482302eccb6b4d480f1312d2c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "COLLECT_ALL": {
       "name": "Haven Historian",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/f047ffe86b01b63670217155808176065765f01e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "CH1_S5A_C_HELMET": {
       "name": "Head Count",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/003a61c4ce71c14810142fbecb938ce8097cd953.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.5"
+      "percent": "70.6"
     },
     "CH2_S2D_C_TSHIRT": {
       "name": "Team Chomp-Bot",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/5c820c6ab926c6c9a85ed36eaf69e5464d9e6796.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.5"
+      "percent": "63.6"
     },
     "CH5_COMPLETE": {
       "name": "The Only Promise is The Adventure",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/a1510e2f97ebd1c05a1bb6d3b899d67e528f66a4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.9"
     },
     "CH2_S2C_C_UMBRELLA": {
       "name": "Umbrella",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/21faffb0980ec74b090bb99972da83afc1c9a031.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "37.1"
     },
     "CH5_S3A_C_LOCKET": {
       "name": "Where The Devil Sleeps",
