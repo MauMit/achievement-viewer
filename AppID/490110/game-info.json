@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/ce007e70f671a7124468328526e84ba3f978513f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "29.8"
     },
     "AchievementId_BookCriminalsSmall": {
       "name": "Book 'Em, Cordell",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/09481046e9fb9b50f56a9d29416d9a694fddabbc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.3"
+      "percent": "70.2"
     },
     "AchievementId_ChiefParking": {
       "name": "Career Limiting Move",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/117b8b567d9fb795690124ca8669d0f657f241d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.0"
+      "percent": "30.9"
     },
     "AchievementId_XpOneShift": {
       "name": "Employee of the Day",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/8d8c5458fa60a94202136e61cd2882b8de5a45e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.2"
     },
     "AchievementId_GoldAllTimeTrials": {
       "name": "Fast Responder",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/f2c1294f9411cee160a017f1b07fdbb2a01a3fec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.4"
     },
     "AchievementId_FindAllRareVehicles": {
       "name": "Hidden in the Hood",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/345604f04e10aae246ae20e918150a9c42e0e8a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.2"
     },
     "AchievementId_GoldAllRaces": {
       "name": "I'm Fast, I'm Very Fast",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/241af95fd45d177f7333ae21438f6d1acf9846d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.7"
+      "percent": "63.6"
     },
     "AchievementId_UnlockAllUpgradesInCategory": {
       "name": "Maxed Out",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/2d6ae8faff58d14d09bfed063d3f98f3c1161337.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.1"
+      "percent": "57.0"
     },
     "AchievementId_TopShiftLeaderboard": {
       "name": "On Top Form",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/d86300623fb88d5a49edf6db23dfb917a1b2b6bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.0"
     },
     "AchievementId_CompleteKellySavedPlayer": {
       "name": "Partner in Law",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/2019c3c57ec31a0143cd29549a89c471859bdf60.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "51.9"
     },
     "AchievementId_TimeTrial": {
       "name": "Ready for the Real Thing",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/45e5eca078d74c9674312295bc4a8c55b3c88c53.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.4"
+      "percent": "90.3"
     },
     "AchievementId_UnlockUpgrade": {
       "name": "Self Improvement",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/6e80c40cae753e5ba712aaf93a64a275c2780175.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.4"
+      "percent": "64.3"
     },
     "AchievementId_DriveGarbageTruck": {
       "name": "Taking Out the Trash",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/8dce19c408250638f1454ab2ae08e060290c7005.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.2"
     },
     "AchievementId_ParkingTicketsLarge": {
       "name": "The Most Hated Person in Averno City",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/51f1f6fe02b006a5955594d1b85835642dbb3081.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.8"
     },
     "AchievementId_ArrestSuspectsLarge": {
       "name": "There's Gonna Be a Lot of Paperwork",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/f9df32cb978af90772d2113de4f1d410048d56ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.0"
     },
     "AchievementId_CompleteFirstShift": {
       "name": "Thrown in the Deep End",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/8f10ecf46166b3c963707c58f315bbdcc65b661f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "93.9"
+      "percent": "93.8"
     },
     "AchievementId_SprintNonStop": {
       "name": "Track Star",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/7bc598fc887daeb33d4edb160dc9b97cc91d7b74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "26.8"
     },
     "AchievementId_CompleteJawheads": {
       "name": "Unlucky, Punk",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/0aa2b00733ff672ba2553497f4273b85c09a9b7f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.2"
+      "percent": "72.1"
     }
   },
   "platform": null,

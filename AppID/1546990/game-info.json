@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/3744cc5cfbe04a1e9660d5a554e195c4e5a78209.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.3"
     },
     "ACH28": {
       "name": "Bloodstained Hands",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/8f8c4c13a6374a14509813ebe0db17b3985452c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.5"
+      "percent": "13.6"
     },
     "ACH01": {
       "name": "Born in the 80’s",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/e1a3cc60ff832036ecf5139d0c287c3c1fa8c80f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.4"
     },
     "ACH31": {
       "name": "Chopper’d Up",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/412737712d1501785d6429bf001760ed2fe6c9f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "ACH32": {
       "name": "City Sleuth",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/c166a6f12c5b1765e2e1577f8054cf9c3f747ae4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "ACH20": {
       "name": "Daredevil",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/84d9fa45df9c3f9d7cac3c7d600586fa52dfb53d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "7.1"
     },
     "ACH33": {
       "name": "Done it All",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/488c693836882724cbf12d20212df9150f65c218.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "ACH19": {
       "name": "Don't Need Roads",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/8544e293da2fbb7b7c2522d0c80a02ce0e3cc97a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.6"
+      "percent": "47.7"
     },
     "ACH17": {
       "name": "Gun for Hire",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/37b3af46ea61c9e269cb520275ad239dd357a7e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.2"
     },
     "ACH07": {
       "name": "High Quality H2O",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/086d3a4c75490820da802a9a6dbae8e922cbc81b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "ACH18": {
       "name": "I'm Famous!",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/3e00344919be260fa8208b8abfb038cd2ceebc5b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.7"
     },
     "ACH30": {
       "name": "Mischief Managed",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/a7442561756fdd42a94b2d5fbbe7bb40710a5e7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.2"
     },
     "ACH04": {
       "name": "Not my First Time",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/8ee7163c0ffd9eae477be6d2edccc630594f10f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.6"
     },
     "ACH05": {
       "name": "One is Better Than Two",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/f5087c9fdf62d28149472f2b2470148f285400f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.2"
     },
     "ACH11": {
       "name": "Salutations My Little Friend",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/191625e3592a574f5d0892087de0fca6149d75c3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "ACH13": {
       "name": "Somebody Call the Wambulance?",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/1a7e3d7b53ee3612cf590e70e5910d356b6ecc5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "ACH26": {
       "name": "Tommy Two-Wheels",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/ef2fd3efad8e6ab4a57da88fbdecdf526bdbc78b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.7"
+      "percent": "24.8"
     },
     "ACH10": {
       "name": "Vice City Mogul",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/0a069c036f5706130aaa1768fcc92df85d1e16f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.7"
     }
   },
   "platform": null,

@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/9688ed30602b88e3383e59ecd0e4fc6c70f79825.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.2"
     },
     "Arena_Bloodletter": {
       "name": "Bloodletter, Arena",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/195b0aa718fdd9345cb9c19c5a74c2f2779dcdb0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "Fighter_Master": {
       "name": "Master, Fighters Guild",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/98cf2084aa42b6de96748cf25b2ae0f87e48924d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.4"
     },
     "Thief_Pickpocket": {
       "name": "Pickpocket, Thieves Guild",

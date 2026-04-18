@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/2a92aaf5eb7e2c6177744685856902d057d241fa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.9"
+      "percent": "43.0"
     },
     "NEW_ACHIEVEMENT_1_27": {
       "name": "A Little Tumble",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/362439f58bf1edb979dfd8df15ea90a4a4c3e797.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.5"
     },
     "NEW_ACHIEVEMENT_2_6": {
       "name": "A Study in Fear",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/215065eb0623c492f9fb431077ea5a538134da95.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.6"
     },
     "NEW_ACHIEVEMENT_1_26": {
       "name": "Apple of Discord",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/f7c5717848403c03bef382f09728fb1479241170.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.3"
     },
     "NEW_ACHIEVEMENT_1_19": {
       "name": "Beneath the Surface",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/9cd127c7a700156c3fd2e93b844056baec97fc6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.3"
+      "percent": "44.4"
     },
     "NEW_ACHIEVEMENT_2_9": {
       "name": "Bread is Life",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/3a9c9dfba53aa22c04ce146548922cd8bc72a0ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "NEW_ACHIEVEMENT_1_29": {
       "name": "Offensive Defense",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/599324f403cc93291f7a4c18b926ad22d3d3666b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "32.0"
     },
     "NEW_ACHIEVEMENT_1_25": {
       "name": "Pest Control",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/f31ecf2fa2cb1dd136b76adc2c37c6e57b5c94fe.jpg",
       "hidden": false,
       "group": "Indiana Jones and the Great Circle™: The Order of Giants",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "NEW_ACHIEVEMENT_2_3": {
       "name": "Sanctuary of the Guardians",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/424448c5fade9cfc43120eb473acac90d68322f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.2"
+      "percent": "49.3"
     },
     "NEW_ACHIEVEMENT_2_18": {
       "name": "Symbol of Initiation",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/faad76d7343175540824b900a6c4a315ab96c3e4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "NEW_ACHIEVEMENT_2_5": {
       "name": "The Kid Who Vanished",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/cefc5a40a4e0b669af362e5d0a566f88b5116c3a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.6"
+      "percent": "43.7"
     },
     "NEW_ACHIEVEMENT_2_15": {
       "name": "The Order of Giants",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/7545a6fa30394edcecf795828a8444bf35563e3f.jpg",
       "hidden": true,
       "group": "Indiana Jones and the Great Circle™: The Order of Giants",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "NEW_ACHIEVEMENT_1_24": {
       "name": "The Right Note",

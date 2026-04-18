@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/71a10fb1abfd805a093ec141ad457b219371a678.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.6"
     },
     "ACHIEVEMENT_46": {
       "name": "FOXHOUND",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/87ff1478d8dd47778f012081878b5e641be7b773.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.1"
+      "percent": "75.0"
     },
     "ACHIEVEMENT_18": {
       "name": "Ralph Called",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/b5b3156b88d7bb13f36330a66bdb6fe51d616591.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "27.9"
     },
     "ACHIEVEMENT_7": {
       "name": "River of Pain",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/6b9e75811636cb174dc61d28a3ee42981e18072f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.4"
     },
     "ACHIEVEMENT_20": {
       "name": "Snake Eater",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/99921dbc275247bbc9cc1024ca627c729ff9d252.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "ACHIEVEMENT_2": {
       "name": "Young Gun",

@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/a37723f25a8759dc519829f33d7654da832b1d47.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.6"
+      "percent": "51.7"
     },
     "ACH_COM_CITY_04": {
       "name": "A tour of New York",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/b7fd552ce78b7d9d5a4132f4b47f51210c001236.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.3"
     },
     "ACH_SPECIAL_CITY_01": {
       "name": "Another level? Cool!",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/c18d442661a123a0ce6aec0c2f85afa35cadcb30.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "91.6"
+      "percent": "91.7"
     },
     "ACH_WAKE_UP": {
       "name": "Are we there yet?",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/ac74dde027a09b4ca799fbe04d016aa52cb772b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.7"
+      "percent": "82.8"
     },
     "ACH_SANDCASTLE": {
       "name": "Do you wanna build a sandcastle?",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/9a14989c6580399214ab36b3a52ff3c077328126.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.8"
     },
     "ACH_DUCK": {
       "name": "Duck, duck, goose!",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/6ff03f1dfbca57df537c2aaf0d7ffcc509000617.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.8"
+      "percent": "35.9"
     },
     "ACH_DRAWER": {
       "name": "Grab a pen",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/d344d1d9c8574252c45bead2edfc62fb2857716d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.8"
     },
     "ACH_MUSIC_BAD": {
       "name": "Make some noise!",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/9266e42fbbdb5b46e05db0b390175a881b9c661f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.6"
     },
     "ACH_MEET_ALEXIS": {
       "name": "Meet Alexis!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/6c9723eba4beca7ac37134fbaad15987e538f65e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.5"
     },
     "ACH_MEET_KODA": {
       "name": "Meet Koda!",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/cd2131c3975a3013fdb0d803e4bceaff9f5f943f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.8"
+      "percent": "54.9"
     },
     "ACH_MEET_LUCA": {
       "name": "Meet Luca!",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/72ed314cef80be2de258410082deba1ae6b14173.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.2"
     },
     "ACH_COM_CITY_05": {
       "name": "My first movie!",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/9e34d114cf3eb41dbe0ebae33635af2f65533fd1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "ACH_TRASH": {
       "name": "Time to take out the trash!",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/35bfc5914cacc1619caaaa0ef2a9efb024e7138e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.7"
+      "percent": "42.8"
     },
     "ACH_WINE": {
       "name": "Whoops!",

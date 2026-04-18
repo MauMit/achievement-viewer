@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/5e0e0cde06fe94586099021f615c862f3c1735c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.1"
+      "percent": "50.2"
     },
     "ACHIEVEMENT_013": {
       "name": "Gunn Struck",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/423dfaab8314236d1d08e04b77ef742b1f2276c7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "27.1"
     },
     "ACHIEVEMENT_009": {
       "name": "Leapfrog girl",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/78204457ecd3e87cfa9c03d9c6c02140e1c085ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.2"
     },
     "ACHIEVEMENT_046": {
       "name": "Super Zombie Hunter",

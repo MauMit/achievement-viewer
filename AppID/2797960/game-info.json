@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/15b80f26574b54b4b07cbfb76986bf664e4341cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "92.3"
+      "percent": "92.4"
     },
     "DISCO_FINISHED": {
       "name": "Disco Inferno",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/55895cda0f806513585382b04b38985e58b4932b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.9"
+      "percent": "50.8"
     },
     "HOTEL_FINISHED": {
       "name": "Heartbreak Hotel",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/ba4b4a7a3af36f452db1ff806c1a2cf5b4ff3dc3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.0"
     },
     "LIGHT_MY_FIRE": {
       "name": "Light My Fire",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/c802376381182a932fd8426576a90089ddcfde31.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.1"
+      "percent": "29.0"
     },
     "NOTEBOOK_WRITER": {
       "name": "Paperback Writer",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/c09fa30c0b0f69bc564a8101798a193452ed8c8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "95.4"
+      "percent": "95.5"
     },
     "THEATRE_FINISHED": {
       "name": "Torn Curtain",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/f6d9df8d9f50607cbebfcc7c269a38d5e3c7a95e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "94.7"
+      "percent": "94.8"
     }
   },
   "platform": null,

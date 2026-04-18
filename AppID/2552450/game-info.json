@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/45c6765371f3c87a2365c60b394f63e055f9eb0b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.2"
     },
     "ACH_50": {
       "name": "Analysis Complete",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/9bcd05b7fb1d0fc02de7091800b14021e3812447.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.4"
     },
     "ACH_48": {
       "name": "Behind the Curtain",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/f9329dcc4a649565425972f87a21d3e451721321.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "ACH_31": {
       "name": "Festive Dancer",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/b75d92beab98d3963fe37f3ed4d212ce21377349.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.2"
+      "percent": "51.3"
     },
     "ACH_15": {
       "name": "Hidden Kings",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/c73ebe1b594516ff6f65de9674d8853d574bdc67.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.2"
     },
     "ACH_12": {
       "name": "No Matter What",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/3c2364e3cb0e7db3d682641901a4845c213f510f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.7"
     },
     "ACH_27": {
       "name": "Salvager",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/bd815505c62b8514cd5184c9b15cb615db30806a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.9"
+      "percent": "61.0"
     },
     "ACH_32": {
       "name": "Shield Shredder",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/3bb868ce5046b3288be5ef2a89bd466131850f9e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.3"
     },
     "ACH_06": {
       "name": "The Power of Laughter",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552450/2593bc35f82635071094d310c51674f15b23847f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "ACH_44": {
       "name": "Ultima Weapon",

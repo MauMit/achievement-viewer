@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3164500/11755d6fc2c6b33488c33ca6011b8a949cc8f0dd.jpg",
       "hidden": true,
       "group": "Update 1",
-      "percent": "7.1"
+      "percent": "7.2"
     },
     "INDIAN_DEALER": {
       "name": "Indian Dealer",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3164500/e47615970ceef1e1362994fae76d8ce572f220d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.4"
+      "percent": "5.5"
     },
     "MASTER_CHEF": {
       "name": "Master Chef",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3164500/3b981839f2e7fa0d8926d6a8d410acc1cf76b171.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.2"
+      "percent": "71.3"
     },
     "UPSTANDING_CITIZEN": {
       "name": "Upstanding Citizen",

@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/216bc4ffb33647d38ab7d2140c7ba975cc16c31a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.4"
+      "percent": "61.3"
     },
     "CH2_COLLECT": {
       "name": "Amateur Archaeophile",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/adfc0d7eb0b3e58482302eccb6b4d480f1312d2c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.4"
+      "percent": "49.3"
     },
     "COLLECT_ALL": {
       "name": "Haven Historian",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/5c820c6ab926c6c9a85ed36eaf69e5464d9e6796.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.6"
+      "percent": "63.5"
     },
     "CH5_COMPLETE": {
       "name": "The Only Promise is The Adventure",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/a1510e2f97ebd1c05a1bb6d3b899d67e528f66a4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.9"
+      "percent": "47.8"
     },
     "CH2_S2C_C_UMBRELLA": {
       "name": "Umbrella",
