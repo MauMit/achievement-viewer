@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/729040/77d05fcb6e6939ffe608ebbfa68157b725a01595.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "8.8"
     },
     "Achievement_18": {
       "name": "Ding! Sleepless",
@@ -721,7 +721,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/729040/efaaac3491be63b50a79556dde3e8e96e9c93db3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.4"
     }
   },
   "platform": null,

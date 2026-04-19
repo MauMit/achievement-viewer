@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "ACHIEVEMENT_GOD_OF_SUPER_LIFE": {
       "name": "God of Super Life",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/6537b240c451c19f85f6e6345b1b888c257052e2.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "10.3"
+      "percent": "10.2"
     },
     "ACHIEVEMENT_INFLUENCER": {
       "name": "Influencer",

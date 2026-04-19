@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2001120/2993fb271787f33b3acbb752f7054026baf36473.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.0"
     },
     "CompleteSideStories": {
       "name": "Bookworms",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2001120/b3aeabaee9be1e54ace41ed87eda8a379218add1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "LockedInCell": {
       "name": "Locked Up",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2001120/57a62a7d74971dee85a383e1221acd3bcada2aa1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.3"
     },
     "FindCakeRoom": {
       "name": "The Cake is Not a Lie",

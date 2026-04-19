@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/7ee9a71ecb5a8e501b3df3bcc8ba3694bc7d6f5a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "ACH_ApplesVases": {
       "name": "All Your Vase Are Belong to Us",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/a33b2df426f8f4d059a8c13df91ab43f6135f8ed.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "78.8"
+      "percent": "78.7"
     },
     "ACH_MurderMysterySolved": {
       "name": "Columbo in Space",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/ba826c1e48e1dcbfbd66f0546918606f9dd981df.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.4"
+      "percent": "45.3"
     },
     "ACH_AllGurgulaTransmissions": {
       "name": "Dr. Gurgula Will Return...",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/252bd3210fb27637a1d4a7c4e6c119b2fea07c9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.5"
     },
     "ACH_FlushSomeone": {
       "name": "Fare Thee Well",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/5a66187f0f8d74d818c9d887a3d4efbe46052a27.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "4.9"
     },
     "ACH_GP_FoundEroticWorms": {
       "name": "Romanced All 34 Erotic Worm Monsters",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/70dd35525c083da51c3769f7f10a56a46e1260b1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "34.8"
     },
     "ACH_GP_KillKregButtons": {
       "name": "Smash That Kreg Button",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/3e9d224d350d75a5452aa15e83130e31555bcf1e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.5"
     },
     "ACH_SpareBronkinBucko": {
       "name": "Starstruck",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/c3822d9cee1bb64363467c12df2ac3fafefd9e2d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "ACH_GP_KillNipulon": {
       "name": "Trial of the Century",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/072845f28000d0f6802bfb0c3bd749e3183e4f1f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "34.8"
     },
     "ACH_SlashAllWantedPosters": {
       "name": "Unwanted",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/12616bad06c1132b49f53cf915bd8f75c437d57a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.6"
     }
   },
   "platform": null,

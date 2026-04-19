@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/b9481f087315c9fca8fcad7a3ac036487cd48b64.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.6"
+      "percent": "50.5"
     },
     "CREATE_A_CUSTOM_CHARACTER": {
       "name": "Cosplay",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/bd205807d8b594e75e8d4c2e538380d4821156ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.2"
     },
     "TEAM_CAPAMERICA_WITH_TORCH": {
       "name": "Don't I Know You?",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/0ceeeeeb08ef7c4e8c497230faa5b7cebeba4eb0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "33.9"
     },
     "DRIVE_TO_BAXTERBUILDING_IN_MAGNETOMOBILE": {
       "name": "Menace of Magneto",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/9501ae64f45efa3f5500f45eb994eb9b67b0623a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.0"
     },
     "PERFORM_HULK_SPECIALMOVE_ON_LOKI": {
       "name": "Puny God",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/5060bdef4e3cca3b06d47f42902d7a45e56b1e62.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "51.9"
     },
     "COMPLETE_STORYEVENT1": {
       "name": "Sand Central Station",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/3dec43f344305afa79125bdb667c5d4fa4888bf1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.1"
     },
     "COMPLETE_STORYEVENT10": {
       "name": "That Sinking Feeling",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/ca4a3b58e4f324b2f3d1dc5ef34a8eace00833da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.6"
     },
     "COMPLETE_STORYEVENT15": {
       "name": "The Good, the Bad and the Hungry",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/a72eae88b1593ef4dc146ef18640997a0de849d3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.1"
     },
     "CREATE_TREVOR_CUSTOM_CHAR": {
       "name": "The Toast of Croydon",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/207451a2b49a2ebe4b201f27689fc53c28483467.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.8"
+      "percent": "11.7"
     },
     "GET_TRUEHERO_ALL_LEVELS": {
       "name": "Ultimate True Believer",

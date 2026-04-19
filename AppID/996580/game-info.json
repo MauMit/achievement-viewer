@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/f598410db295e5214e77d287724250c4ec35fc82.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.4"
     },
     "ACHIEVEMENT_92": {
       "name": "A Dozen Cold Ones",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/9861205e0a560fb00c2cd973ce1911a2a8c245d3.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "14.9"
     },
     "ACHIEVEMENT_29": {
       "name": "All Puffed Up",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/bb5aa9ffa67777df6e285e5eca23049fc72130c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.9"
+      "percent": "67.8"
     },
     "ACHIEVEMENT_84": {
       "name": "Bottled Curiosity",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/2612d4ed92da860756d729575f8cb829d883b158.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.2"
     },
     "ACHIEVEMENT_43": {
       "name": "Exterminate",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/fc7fae529fe7962400fed8c2e48002339b7334dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.2"
     },
     "ACHIEVEMENT_55": {
       "name": "Ganked",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/957e971de6c2885b448277d21f2e1fc01d0e909f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.1"
     },
     "ACHIEVEMENT_20": {
       "name": "Gatherer",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/646078a02e4d496a45a115c94a31e40b3cfddaf4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "ACHIEVEMENT_37": {
       "name": "Hoarder",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/94b2ff1948849d46c9af26ff999ba25368ca6b4a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.6"
     },
     "ACHIEVEMENT_16": {
       "name": "Pops of the Tops",
@@ -847,7 +847,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/e4a4fc09de390ba02dd1be7be72c3957a9179ecd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.5"
     },
     "ACHIEVEMENT_93": {
       "name": "Twin Dragon Destruction",
@@ -910,7 +910,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/cd9908ed901a5e75fb295f382a67b29714c2412f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.2"
     },
     "ACHIEVEMENT_35": {
       "name": "What Really Grinds My Gears",
@@ -919,7 +919,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/cd70afefabc89c94b0c4232847b1559724ebe457.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "ACHIEVEMENT_14": {
       "name": "What's in the Box?",
