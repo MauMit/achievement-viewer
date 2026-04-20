@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874490/922b7bf6491d077a5bc5fe86737b814224eccd15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "Relationship_Decline": {
       "name": "Just Friends",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874490/65292f35e17a8db6d20c2c0257ac1526f87520f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.6"
     },
     "MukTuk_Upgrade_Max": {
       "name": "Right Tools for the Job",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874490/c71a335cf2da724efd5b03d9cc659ecd416012af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "Haggle_StressGameOver": {
       "name": "Stress Test",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874490/0daea5adb363356ed5eecfd6edfa1662b59c495f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "9.0"
     },
     "Carnival_Beat_Robin": {
       "name": "Toppled the Monarch",

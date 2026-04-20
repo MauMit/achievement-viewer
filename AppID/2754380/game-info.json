@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/85c861889afd1391f668b0c54eb3f6a784fe99ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.3"
+      "percent": "68.4"
     },
     "AFFAIR2": {
       "name": "Extracurricular Activities",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/c83b6572f7f728b90c768d38bac777c4f9931ff5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "EVIDENCE2": {
       "name": "Loose Ends: Part Two",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/6c4b4235a6ef43e73ab251b321309bf8e8d47372.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.2"
     },
     "FREE_SPIRITS": {
       "name": "Take My Hand Beneath the Tree",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/c7cf2905a00104f31e43bc82560ca61a4cd66b3a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.4"
     },
     "OUTSIDE_BOX": {
       "name": "Thinking Outside the Box",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/f7395e6fe64711385d5ed3fe6e5847106072cf15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.2"
+      "percent": "72.3"
     }
   },
   "platform": null,

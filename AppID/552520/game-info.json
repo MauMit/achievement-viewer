@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/5c81dc202d57501043dd4e0d3cb2a9d1cac7fec5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.2"
+      "percent": "0.3"
     },
     "FC5_Ach_24": {
       "name": "ARCADE Player",
@@ -631,7 +631,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/8e4e47a80d9335935fa9fa2fdf0d94bc5c6cc018.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.5"
     },
     "FC5_Ach_44": {
       "name": "Where's the Beef?",

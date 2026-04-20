@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.7"
+      "percent": "46.6"
     },
     "TROPHY_ID_SUB_QUEST_YRA": {
       "name": "Drink 'til You Drop",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.7"
     },
     "TROPHY_ID_ACCESSORY_COMBINED_MANY": {
       "name": "Jeweler",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.6"
+      "percent": "21.5"
     },
     "TROPHY_ID_DEFEAT_UNDINE": {
       "name": "Raging Current",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.4"
+      "percent": "47.3"
     },
     "TROPHY_ID_COOKING_FIRST": {
       "name": "Speedy Chef",

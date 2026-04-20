@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/527d63701595c366141bf3aa1e6a2707e4d95a10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.5"
     },
     "ClearCase8": {
       "name": "Eighth Case Solved",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/a4087bde753c1de78f360c1270b025b28eefe74d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.0"
     },
     "ClearCase9": {
       "name": "Ninth Case Solved",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/a4087bde753c1de78f360c1270b025b28eefe74d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.4"
     },
     "SaraWish": {
       "name": "Sara's Wish",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/7e59b5f43acceba81f69d3a9245a1e1321e2a04f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.0"
+      "percent": "86.1"
     },
     "CompleteCase7": {
       "name": "Seventh Case 100% Completion",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/c6bb034957c2a725fcf36263c0e3751300f8a1b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.4"
     },
     "ClearCase6": {
       "name": "Sixth Case Solved",

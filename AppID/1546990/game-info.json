@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/3744cc5cfbe04a1e9660d5a554e195c4e5a78209.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.1"
     },
     "ACH28": {
       "name": "Bloodstained Hands",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/b2851e8c7ccb260f205bc64478bec1f02ab6558a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.5"
+      "percent": "7.4"
     },
     "ACH09": {
       "name": "Bull in a China Shop",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/c0e3d1325ace116b4a2f8f1f7de4fdfa202b713c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "ACH34": {
       "name": "Kingpin",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/94f0ab4491d5fc8229abe9a0fa6a175c95c15fb6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "50.9"
     },
     "ACH22": {
       "name": "Life of the Party",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/ca10c6e50041da558fe9e68fba601a6352deceab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "ACH06": {
       "name": "Point A to Point B",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1546990/83a2a67ca43d528d5f11466da5b1ac0840bc983a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.8"
+      "percent": "34.7"
     },
     "ACH29": {
       "name": "Take the Cannoli",
