@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/72bd9eea67e041026c9718f7f2f0e5fe2c3642ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "ACH_VAIR_KNUCKLE": {
       "name": "Bringing the Pain",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/974b4dd243a27aaa8aa9e04f9094d51db97e5891.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.6"
+      "percent": "40.7"
     },
     "ACH_CHAPTER53_CLEAR": {
       "name": "Completed Chapter 5 - 3",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/9a39712d3da4ed0c06d59a2044ddcd84de377fda.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.3"
+      "percent": "40.4"
     },
     "ACH_CHAPTER63_CLEAR": {
       "name": "Completed Chapter 6 - 3",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/2df473e0731750d5d1182b50ce8828f66668ac9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "36.1"
     },
     "ACH_GATLING_SOLDIER": {
       "name": "Crowd Control",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/297186e3845a46aedaf5e40b527536e1ff634e6d.jpg",
       "hidden": false,
       "group": "Resident Evil 5 - UNTOLD STORIES BUNDLE",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "ACH_COMBO_ATTACK": {
       "name": "The Works",

@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/621296470dad1f9bb93cb37f88ba09b57b238621.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "HIDDENPACKAGES": {
       "name": "Endangered Species",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/441d8620aeffa8f1cd36f42f4f26c6237494d1b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "32.0"
     },
     "MELEECOUNTER": {
       "name": "Finish Him",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/9f160f70988784c09ef67ff66076e207219286f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "STREETRACE": {
       "name": "Genetically Superior",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/471de4bf9da7159480c39118a9a950dcfc475736.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.6"
     },
     "WANTEDDONE": {
       "name": "Manhunt",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/3cf9bfd3542c40e8beaee532cb17a638494c078d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.9"
+      "percent": "53.0"
     },
     "SCOREDARTGAME": {
       "name": "One Hundred And Eighty",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/80721555143d3e094ac0790d9ea406b80d40b464.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "1.6"
+      "percent": "1.7"
     },
     "E2DANCE": {
       "name": "TBoGT: Catch the Bus",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/54a2a3e7513c9e4867414e3cf90040e21b6b5042.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "SAHELI": {
       "name": "That's How We Roll!",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/bc18218fcf27917140146dbba1fc03619f8e48ee.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "UNDERALLBRIDGES": {
       "name": "Under The Radar",

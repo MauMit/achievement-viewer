@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.1"
+      "percent": "60.0"
     },
     "NEW_ACHIEVEMENT_1_17": {
       "name": "Appellatrix (50 titles)",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.4"
     },
     "NEW_ACHIEVEMENT_1_15": {
       "name": "Captain Ephinea (100 titles)",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.1"
+      "percent": "74.0"
     },
     "NEW_ACHIEVEMENT_2_11": {
       "name": "Dis Paters in 60 Seconds",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.6"
     },
     "NEW_ACHIEVEMENT_1_18": {
       "name": "Epithetologist (100 titles)",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.2"
+      "percent": "62.1"
     },
     "NEW_ACHIEVEMENT_1_6": {
       "name": "Flower Power (100 Titles)",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.3"
     },
     "NEW_ACHIEVEMENT_2_16": {
       "name": "Fodra Queen in 60 Seconds",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.5"
+      "percent": "58.4"
     },
     "NEW_ACHIEVEMENT_2_13": {
       "name": "Polycarpus in 60 Seconds",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.6"
     },
     "NEW_ACHIEVEMENT_2_10": {
       "name": "Richard in 60 Seconds",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.3"
+      "percent": "43.2"
     },
     "NEW_ACHIEVEMENT_1_21": {
       "name": "Richard the Redeemed (80 Titles)",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.2"
+      "percent": "59.1"
     },
     "NEW_ACHIEVEMENT_2_1": {
       "name": "Terma-nated",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.9"
+      "percent": "66.7"
     },
     "NEW_ACHIEVEMENT_1_27": {
       "name": "The Other Side of the Sky",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "41.1"
     },
     "NEW_ACHIEVEMENT_1_25": {
       "name": "The Sands of Strahta",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.5"
+      "percent": "52.4"
     },
     "NEW_ACHIEVEMENT_1_1": {
       "name": "Title Fighter (20 Titles)",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.4"
+      "percent": "67.2"
     },
     "NEW_ACHIEVEMENT_1_2": {
       "name": "Title Holder (50 Titles)",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.0"
+      "percent": "55.9"
     },
     "NEW_ACHIEVEMENT_1_0": {
       "name": "True Grace",

@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874490/91c7852fdebdbf8317e0edf41949aef5ca403688.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "IngredientExpansion_30": {
       "name": "A Taste of Success",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874490/7bfe76b83e3c19ac62a7673f4723f5179b484397.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.4"
     },
     "Money_10000": {
       "name": "Big Bucks",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874490/922b7bf6491d077a5bc5fe86737b814224eccd15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.9"
+      "percent": "17.0"
     },
     "Relationship_Decline": {
       "name": "Just Friends",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874490/173b553af7bb30ad67e28f81f970ea091d4328b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.3"
+      "percent": "46.4"
     },
     "Debt_PaidOff": {
       "name": "Out of Debt",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874490/2cb8f4d74134ec2f3b2af0cea93a8768512c27b3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.1"
+      "percent": "47.2"
     },
     "PotionBrew_300": {
       "name": "Potion Master",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874490/65292f35e17a8db6d20c2c0257ac1526f87520f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.6"
     },
     "MukTuk_Upgrade_Max": {
       "name": "Right Tools for the Job",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874490/c71a335cf2da724efd5b03d9cc659ecd416012af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "Haggle_StressGameOver": {
       "name": "Stress Test",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1874490/0daea5adb363356ed5eecfd6edfa1662b59c495f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.9"
+      "percent": "9.0"
     },
     "Carnival_Beat_Robin": {
       "name": "Toppled the Monarch",

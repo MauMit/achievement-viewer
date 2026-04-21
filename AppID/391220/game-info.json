@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/391220/3038eecae53275b3e697bb61d6c395ecea9f6337.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.6"
+      "percent": "51.7"
     },
     "NEW_ACHIEVEMENT_21_6": {
       "name": "A Moment of Clarity",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/391220/b41da4c58841c6ffb6970f8686dba5bbd3deca6e.jpg",
       "hidden": false,
       "group": "Baba Yaga",
-      "percent": "42.9"
+      "percent": "43.0"
     },
     "NEW_ACHIEVEMENT_30_17": {
       "name": "A Snack for Two",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/391220/80a41eae7953ea79c3c217a3cc46d1de2bda95e3.jpg",
       "hidden": false,
       "group": "Endurance",
-      "percent": "1.0"
+      "percent": "1.1"
     },
     "NEW_ACHIEVEMENT_30_5": {
       "name": "Complete Family History",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/391220/51100160e4ab6859fdafe8de25d654ea32efb39d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "NEW_ACHIEVEMENT_3_6": {
       "name": "Craftswoman",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/391220/9dccc2c1c79094222956da46f47e346d564e9add.jpg",
       "hidden": false,
       "group": "Endurance",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "NEW_ACHIEVEMENT_21_1": {
       "name": "Great Outdoors",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/391220/66e166d24dcd10b57566c246ae4ca2b6c2eb9596.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.6"
     },
     "NEW_ACHIEVEMENT_30_29": {
       "name": "Master and Apprentice",
@@ -928,7 +928,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/391220/3201342c1089c9548773e21e38b1184bf510a3b6.jpg",
       "hidden": false,
       "group": "Endurance",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "NEW_ACHIEVEMENT_17_7": {
       "name": "Strange Acquaintance",
@@ -937,7 +937,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/391220/6c97f6c1335bf730bdc027371b2d786425a62753.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.3"
+      "percent": "66.4"
     },
     "NEW_ACHIEVEMENT_30_14": {
       "name": "Sweet Dreams",
@@ -955,7 +955,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/391220/e63d5390236d66b18d9ffd9538760eec15b63ece.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "53.9"
+      "percent": "54.0"
     },
     "NEW_ACHIEVEMENT_30_22": {
       "name": "Team Survival",

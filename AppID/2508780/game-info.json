@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.4"
+      "percent": "38.5"
     },
     "ACHIEVEMENT_101000": {
       "name": "Bazaar Headliner",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "18.0"
     },
     "ACHIEVEMENT_106000": {
       "name": "Bug Collector",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "ACHIEVEMENT_109000": {
       "name": "Cherished Memories",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.6"
+      "percent": "13.7"
     },
     "ACHIEVEMENT_111000": {
       "name": "Full Power!",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.5"
+      "percent": "33.6"
     },
     "ACHIEVEMENT_102000": {
       "name": "Helping Hand",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.1"
+      "percent": "29.2"
     },
     "ACHIEVEMENT_116002": {
       "name": "Prosperous Farmer",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.5"
+      "percent": "11.6"
     }
   },
   "platform": null,

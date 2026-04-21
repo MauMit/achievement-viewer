@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/6b34dafd7df7d98fa077afa8c09f63c6495a8a7b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.3"
     },
     "ACHIEVEMENT_45": {
       "name": "A Snake Has Many Skins",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/7817e097321004975aa5241900b248b6efb709e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.3"
+      "percent": "70.2"
     },
     "ACHIEVEMENT_39": {
       "name": "Believe It or Not",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/0b032901602ee0e2c418acfaa8bdf3f0e60e0183.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.0"
     },
     "ACHIEVEMENT_19": {
       "name": "Can I Keep It?",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/c321abcba6e5e9111d3ca5a757c4759ba93784ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.3"
+      "percent": "62.2"
     },
     "ACHIEVEMENT_21": {
       "name": "Foodie",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/71a10fb1abfd805a093ec141ad457b219371a678.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.6"
     },
     "ACHIEVEMENT_46": {
       "name": "FOXHOUND",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/14cc5d6686ad14bb9b5995b9a78cdeea1c66149c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.3"
     },
     "ACHIEVEMENT_15": {
       "name": "Ocelot Always Gets His Man",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/fa843c6aaf0f8c0adc0ba18389f93566cd54cc67.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.2"
+      "percent": "60.1"
     },
     "ACHIEVEMENT_37": {
       "name": "Paparazzo Snake",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/c8566ab3a0a4464d3135b23a7d30e45e6d56dd7f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.4"
     },
     "ACHIEVEMENT_16": {
       "name": "Prince Charming",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/87ff1478d8dd47778f012081878b5e641be7b773.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.1"
+      "percent": "75.0"
     },
     "ACHIEVEMENT_18": {
       "name": "Ralph Called",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/b5b3156b88d7bb13f36330a66bdb6fe51d616591.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.0"
+      "percent": "27.9"
     },
     "ACHIEVEMENT_7": {
       "name": "River of Pain",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/c17bb2940bbef9848269107bfc5a9cef66f15a49.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "17.4"
+      "percent": "17.3"
     },
     "ACHIEVEMENT_5": {
       "name": "The End",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/99921dbc275247bbc9cc1024ca627c729ff9d252.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "ACHIEVEMENT_2": {
       "name": "Young Gun",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/2f73f77b0e941bded0cae007d288437de5d048f2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "79.2"
+      "percent": "79.1"
     }
   },
   "platform": null,

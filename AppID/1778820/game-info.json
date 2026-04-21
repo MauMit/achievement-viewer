@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/1310fcead95aab953460d7da43f988fa8a7e5359.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "17.9"
     },
     "BattleRageArts": {
       "name": "(That's how a true champion fights!)",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/8049bef5b0e0e88f2e5549d058e7eeea79a8a14b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.4"
     },
     "WinGhostPlayer": {
       "name": "All is vanity.",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/4c92de877e980bb69a1ed2590c609cbb5e3b4d28.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.0"
     },
     "StoryModeClearKazuya": {
       "name": "Despair",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/78c4cf59eb0bc01bed92ed8a373b5fbca0e18a67.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.2"
     },
     "PlayerMatchWin": {
       "name": "I'll give you a rematch anytime, guv.",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/428158d78b9c066a0b2f3ec0a9a5147c29cfdcdd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "50.5"
     },
     "RankMatchWin": {
       "name": "Just relax. You can do it.",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/469b79a29c81d05a5db83cbbfe7e32a35e5af63a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.4"
+      "percent": "61.5"
     },
     "BattleTornado": {
       "name": "Let the blistering sands consume you.",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/67b53f8a13147ea97259bd4ce03c9c85046044f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.6"
+      "percent": "77.7"
     },
     "GroupMatchWin": {
       "name": "Please don't tell my father.",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/eef0bdca57bb220adbefefdda7200933488384f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.1"
+      "percent": "54.2"
     },
     "WallBound": {
       "name": "Sorry for getting rough back there.",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/daeb42bdfe1fb6472951cd10d8aa89eb89e21763.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.7"
+      "percent": "61.8"
     },
     "BattlePerfect": {
       "name": "That was too easy!",

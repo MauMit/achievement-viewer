@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/05b56e2ffce443bd9b2aaa3835e377a904352deb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.5"
+      "percent": "48.6"
     },
     "CAR_CRASH_FINISHED": {
       "name": "Dead Man's Curve",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/15b80f26574b54b4b07cbfb76986bf664e4341cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "92.3"
+      "percent": "92.5"
     },
     "DISCO_FINISHED": {
       "name": "Disco Inferno",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/55895cda0f806513585382b04b38985e58b4932b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.9"
+      "percent": "51.0"
     },
     "HOTEL_FINISHED": {
       "name": "Heartbreak Hotel",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/ba4b4a7a3af36f452db1ff806c1a2cf5b4ff3dc3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.1"
+      "percent": "53.2"
     },
     "LIGHT_MY_FIRE": {
       "name": "Light My Fire",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/c851fcd16d51979e4fe7eb911aab9dfc0718e45f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.5"
     },
     "AD_ASTRA_FINISHED": {
       "name": "Star Man",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/d51a66e2e358ca482e5ac74dd150f15bcefee99c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.2"
+      "percent": "49.4"
     },
     "KADY_FINISHED": {
       "name": "The Conversation",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/3489b8f395ae33a06b49315630609db4ffb5a48a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.4"
+      "percent": "55.5"
     },
     "MANSION_FINISHED": {
       "name": "The Crash",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/82438994b0759819dd15ba79ca3786643533eb0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.0"
+      "percent": "84.1"
     },
     "DRUG_PARTY_FINISHED": {
       "name": "The Drowning Pool",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/def11a3df5c039b1aec2f61fc76b4eaa423ffe23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.5"
+      "percent": "75.6"
     },
     "FINISH_GAME": {
       "name": "The End",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/c09fa30c0b0f69bc564a8101798a193452ed8c8a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "95.4"
+      "percent": "95.5"
     },
     "THEATRE_FINISHED": {
       "name": "Torn Curtain",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/ff9df71bfc8d3d88b8131709b2284aba5e40c0d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.9"
+      "percent": "64.0"
     },
     "TUTORIAL_FINISHED": {
       "name": "Tutorial Complete",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/f6d9df8d9f50607cbebfcc7c269a38d5e3c7a95e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "94.7"
+      "percent": "94.8"
     }
   },
   "platform": null,

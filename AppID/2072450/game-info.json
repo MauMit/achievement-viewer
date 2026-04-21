@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.9"
+      "percent": "49.0"
     },
     "ACTIVITY_CLEAR": {
       "name": "Alo-Happy as Can Be",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.1"
+      "percent": "49.2"
     },
     "MAIN_STORY_1": {
       "name": "Back in Action",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "87.4"
+      "percent": "87.5"
     },
     "RESORT_RANK": {
       "name": "Basking in Glory",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "KIZUNA_HAN": {
       "name": "Breaking Free",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.7"
     },
     "MATCHINGAPP_A": {
       "name": "Don't Hate the Player",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.8"
+      "percent": "26.9"
     },
     "MAIN_STORY_4": {
       "name": "Down and Out",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.0"
+      "percent": "60.1"
     },
     "PNEW_GAME_CLEAR": {
       "name": "Endless Vacation",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Like a Dragon: Infinite Wealth - Master Vacation Bundle",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "MAIN_STORY_8": {
       "name": "Layered Lies",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.5"
+      "percent": "62.6"
     },
     "KASUGA_LEVEL_D": {
       "name": "Legendary Dragon",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.7"
+      "percent": "37.8"
     },
     "SUBSTORY_C": {
       "name": "Living Your Best Life",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.1"
+      "percent": "20.2"
     },
     "MAIN_STORY_5": {
       "name": "Misgivings",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.3"
     },
     "TOILET": {
       "name": "Not a Total Waste",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.2"
+      "percent": "59.3"
     },
     "SUJIMON_LEVEL_MAX": {
       "name": "Prize Fighter",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.9"
+      "percent": "51.0"
     },
     "MAIN_STORY_11": {
       "name": "Reunion",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.8"
+      "percent": "58.9"
     },
     "DUNGEON_HAWAII_CLEAR": {
       "name": "Ruffians Beware",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.9"
+      "percent": "43.0"
     },
     "SUJIMON_STORY_CLEAR": {
       "name": "Suji League Champion",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "52.0"
     },
     "SUJIMON_GET": {
       "name": "Sujimon Snag 'Em",

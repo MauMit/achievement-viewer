@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/6ace59f9e993b5b2634953608c0fc91f4bcd6558.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.3"
+      "percent": "18.4"
     },
     "ACH_Play8BitNipulon": {
       "name": "8-Bit Warrior",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/216196c1d457b936abc434a1194e43cd315a79ef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.3"
+      "percent": "9.4"
     },
     "ACH_ReuniteBALLGuys": {
       "name": "B.A.L.L. In The Family",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/ba826c1e48e1dcbfbd66f0546918606f9dd981df.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.4"
+      "percent": "45.5"
     },
     "ACH_AllGurgulaTransmissions": {
       "name": "Dr. Gurgula Will Return...",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/252bd3210fb27637a1d4a7c4e6c119b2fea07c9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.5"
     },
     "ACH_FlushSomeone": {
       "name": "Fare Thee Well",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/43f39580e652c6f4548d7a141b62942a91eb8fe7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "ACH_GP_KillMuppyDoo": {
       "name": "Invasive Procedure",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/c120c10a6e14a217c15e1d4990e6c8dcbc311c7b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.6"
+      "percent": "56.7"
     },
     "ACH_HalfCourtWin": {
       "name": "Kobe!",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/f68481dcad05c5cd4d88604f694dec1b153e4393.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "ACH_JeppyPlaydate": {
       "name": "Nice Day With Jeppy",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/2cb8cb01c77fa5fec7f4ebd6db9eabbc436311c4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.9"
+      "percent": "15.0"
     },
     "ACH_CompleteSkateRaces": {
       "name": "Phony Hawk",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/70dd35525c083da51c3769f7f10a56a46e1260b1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "35.1"
     },
     "ACH_GP_KillKregButtons": {
       "name": "Smash That Kreg Button",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/567a04acff3ba3ef20d48fc3fa2c0f691d09e251.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.8"
+      "percent": "59.0"
     },
     "ACH_GP_KillBerkel": {
       "name": "So Long, and Thanks For All The Ghosts",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/3e9d224d350d75a5452aa15e83130e31555bcf1e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.7"
     },
     "ACH_SpareBronkinBucko": {
       "name": "Starstruck",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/631b211dc70537c01907aa925f3f4e77d4089983.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.5"
     },
     "ACH_KillLizzieEnding": {
       "name": "The Good Ending",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/072845f28000d0f6802bfb0c3bd749e3183e4f1f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "35.1"
     },
     "ACH_SlashAllWantedPosters": {
       "name": "Unwanted",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/047bcdc87c5c96eacc547503d2c596ea9db5aa5b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.7"
+      "percent": "58.8"
     },
     "ACH_FrasierCraneMachine": {
       "name": "Where's Maris?",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/614cb4d0a920ae6d8b6629b7f867b49cb1c5e9e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "ACH_BurnKregsClothes": {
       "name": "Witness the Burning Bush",

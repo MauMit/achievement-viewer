@@ -1,7 +1,7 @@
 {
   "appid": "3419520",
   "name": "Quarantine Zone: The Last Check",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419520/c8562f1c2f8f054e5f8efeb536a0ba2490905033/header.jpg?t=1774024021",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419520/c8562f1c2f8f054e5f8efeb536a0ba2490905033/header.jpg?t=1776787391",
   "achievements": {
     "ACH_06": {
       "name": "Ain't That a Kick?",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/b4a59439d5d589cb6cc2ac40aafea7f3191dedfd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "ACH_07": {
       "name": "Can't Touch This",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/33a672473680452652ad17bec3b3a70945f54a41.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.3"
+      "percent": "59.4"
     },
     "ACH_23": {
       "name": "Certified Next-Shouter",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/34a6ad1d3f70e326f0bfec6811a4a36dded59176.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.3"
+      "percent": "90.2"
     },
     "ACH_22": {
       "name": "Dinner Is Served",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/1f74117dc1d11c54155a0d1ccd36c0b4ac622a90.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "94.3"
+      "percent": "94.2"
     },
     "ACH_18": {
       "name": "Good Work, Son",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/fced934fe4bd4a38592725e1214d2f76792b5381.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.4"
     },
     "ACH_20": {
       "name": "Headhunter",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/169956bc66079bcba1d8d2444fc7e012df8287a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.2"
+      "percent": "74.1"
     },
     "ACH_14": {
       "name": "I Can Read",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/90f987e15fb1e7eb77ee62794860ca094c35433f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.2"
+      "percent": "51.3"
     },
     "ACH_09": {
       "name": "Light My Fire",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/b70becd2e2c69a418fc34d6056675b77db177d35.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.1"
+      "percent": "87.0"
     },
     "ACH_24": {
       "name": "Lights Out",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/21ac36d090c168110a30187883206907908473b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "ACH_03": {
       "name": "Master Evacuator",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/0a51c30ef90901e2885f988b867182e6a265d676.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.4"
     },
     "ACH_13": {
       "name": "Perfect Day",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/2d4e74bf9828249b508068c6b3410b12fcacb796.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.2"
+      "percent": "70.5"
     },
     "ACH_11": {
       "name": "Rat Slayer",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/1f44d1ca15d2305b949ed8f6dbea4416a23e3474.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.5"
+      "percent": "71.6"
     },
     "ACH_17": {
       "name": "SNAFU",

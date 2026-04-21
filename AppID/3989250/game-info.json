@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/3a7b7d992aa1ce647779135487a258c166b99e5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.8"
+      "percent": "80.9"
     },
     "PLAY_BASKETBALL": {
       "name": "Court Time",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/be37b112786e0d7ceafd4e8738cba44d3624db07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.6"
+      "percent": "81.7"
     },
     "TALK_TO_ALIEN": {
       "name": "First Contact",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/dbf8ce20a7a7e3f9679e15bc2c31c5e66d7987b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.7"
+      "percent": "40.8"
     },
     "TALK_TO_JESSICA": {
       "name": "Hi, Jessica",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/752f8d8d300d8b270c835b8b8dcab335a270766b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "FIRST_ORDER_MOM": {
       "name": "Mother’s Recipe",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/28e0b5c56479f48303e68652f443c04280e143e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.8"
+      "percent": "66.7"
     },
     "UNLOCK_COOKIE_RECIPE": {
       "name": "Sweet Upgrade",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/83794880d1da3b80333dca9c597993fb3994d721.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.1"
+      "percent": "68.0"
     },
     "COMPLETE_100_ORDERS": {
       "name": "Triple-Digit Seller",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/8db7a892e97cad50ac3b1ba0258d8402ead02692.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "91.4"
+      "percent": "91.5"
     }
   },
   "platform": null,

@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/b6f251e02521a02f160a4a12fe028e5119622430.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.7"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_05": {
       "name": "Bond of a Pyromancer",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/6a8073f618b86ee004cdbeb7eabdca9f8b3c8b5f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.6"
+      "percent": "22.5"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_15": {
       "name": "Covenant: Chaos Servant",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/d8143b4fcc6349b04eae99c4a870ae1a8681e475.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.6"
+      "percent": "31.5"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_37": {
       "name": "Defeat the Four Kings",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/c4915d20c1df43a935761f10f988c03fe1561c1f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.7"
+      "percent": "56.6"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_29": {
       "name": "Ring the Bell (Undead Church)",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/df0e2659abc816a8bf04f8df476c2ba3f0523189.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.1"
+      "percent": "68.0"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_31": {
       "name": "Rite of Kindling",

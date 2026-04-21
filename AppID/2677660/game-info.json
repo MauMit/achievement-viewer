@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/2a92aaf5eb7e2c6177744685856902d057d241fa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.9"
+      "percent": "43.0"
     },
     "NEW_ACHIEVEMENT_1_27": {
       "name": "A Little Tumble",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/d2633026d646af483a6cf8b6adff0e1f16535554.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "45.3"
     },
     "NEW_ACHIEVEMENT_2_1": {
       "name": "A Nun in Trouble",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/362439f58bf1edb979dfd8df15ea90a4a4c3e797.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.5"
     },
     "NEW_ACHIEVEMENT_2_6": {
       "name": "A Study in Fear",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/215065eb0623c492f9fb431077ea5a538134da95.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.6"
     },
     "NEW_ACHIEVEMENT_1_26": {
       "name": "Apple of Discord",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/85dc5bfd7ee821531b5801e6ab231788fbe7544c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "NEW_ACHIEVEMENT_1_23": {
       "name": "Archivist",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/f7c5717848403c03bef382f09728fb1479241170.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.3"
     },
     "NEW_ACHIEVEMENT_1_19": {
       "name": "Beneath the Surface",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/8d38eb99081cc41ee3b540cf19bdf95f50b83dd4.jpg",
       "hidden": false,
       "group": "Indiana Jones and the Great Circle™: The Order of Giants",
-      "percent": "4.7"
+      "percent": "4.8"
     },
     "NEW_ACHIEVEMENT_1_12": {
       "name": "Bookworm",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/9cd127c7a700156c3fd2e93b844056baec97fc6a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.3"
+      "percent": "44.4"
     },
     "NEW_ACHIEVEMENT_2_9": {
       "name": "Bread is Life",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/6c64af28f675db1d029fcd47938bd8a34642b343.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.1"
+      "percent": "60.2"
     },
     "NEW_ACHIEVEMENT_2_11": {
       "name": "Filling in the Blanks",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/efbd8d2bc5fc8e2554e518da4e584ae5e3d5669f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.7"
+      "percent": "42.8"
     },
     "NEW_ACHIEVEMENT_1_16": {
       "name": "It Belongs in a Museum!",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/3a9c9dfba53aa22c04ce146548922cd8bc72a0ce.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "NEW_ACHIEVEMENT_1_29": {
       "name": "Offensive Defense",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/b56f2072d80dcd14de5985a5efe7a03e637c1f92.jpg",
       "hidden": true,
       "group": "Indiana Jones and the Great Circle™: The Order of Giants",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "NEW_ACHIEVEMENT_1_14": {
       "name": "Path of Junia",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/599324f403cc93291f7a4c18b926ad22d3d3666b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "32.0"
     },
     "NEW_ACHIEVEMENT_1_25": {
       "name": "Pest Control",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/76c03c5759617111cebc3b51892fa9c4af06d3c6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.3"
     },
     "NEW_ACHIEVEMENT_2_22": {
       "name": "Pet the Cat",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/1cd17561fa32f0b90f0f7f6064579006e01a97e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "NEW_ACHIEVEMENT_2_17": {
       "name": "Roman Scholar",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/f31ecf2fa2cb1dd136b76adc2c37c6e57b5c94fe.jpg",
       "hidden": false,
       "group": "Indiana Jones and the Great Circle™: The Order of Giants",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "NEW_ACHIEVEMENT_2_3": {
       "name": "Sanctuary of the Guardians",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/424448c5fade9cfc43120eb473acac90d68322f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.2"
+      "percent": "49.3"
     },
     "NEW_ACHIEVEMENT_2_18": {
       "name": "Symbol of Initiation",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/c94789a49f4f660dc46d00e14f1f20645ad0fffe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.8"
     },
     "NEW_ACHIEVEMENT_1_1": {
       "name": "The Break-In ",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/faad76d7343175540824b900a6c4a315ab96c3e4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "NEW_ACHIEVEMENT_2_5": {
       "name": "The Kid Who Vanished",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/848f768f37aa95d2546c70270747e48cd36b3c18.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.1"
+      "percent": "32.2"
     },
     "NEW_ACHIEVEMENT_1_31": {
       "name": "The Mad Priest",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/cefc5a40a4e0b669af362e5d0a566f88b5116c3a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.6"
+      "percent": "43.7"
     },
     "NEW_ACHIEVEMENT_2_15": {
       "name": "The Order of Giants",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/7545a6fa30394edcecf795828a8444bf35563e3f.jpg",
       "hidden": true,
       "group": "Indiana Jones and the Great Circle™: The Order of Giants",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "NEW_ACHIEVEMENT_1_24": {
       "name": "The Right Note",

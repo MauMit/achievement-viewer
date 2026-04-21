@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/aed37f8103fdb379641d5ab2c31ba096b6026bf2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "93.6"
+      "percent": "93.7"
     },
     "MONEY_BAGS_6": {
       "name": "$1000000000",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/e69c6df877b804f07fc5149b03d960364a2048e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.0"
+      "percent": "82.1"
     },
     "DESTROY_ALL_OBJECTS": {
       "name": "And They're Gone",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/238bf8d36b9adf991bd33cb48bf11b1bd5ca7fd6.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "MINI_CHALLENGE": {
       "name": "Complete Mini Challenge Mode",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/0c60e076e8d7d84dd6f69d4ac3582d7f684a6e48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.9"
     },
     "THE_LINE": {
       "name": "Complete The Line Mode",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/18ed13263c17f845fd1370bde80279f319bd7a18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "98.1"
+      "percent": "98.2"
     },
     "COMPLETE_A_MILESTONE_3": {
       "name": "My Favorite Space Movies Milestone",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/b036d2741c3a3251e0a37767745a9c0c29801d3a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.1"
+      "percent": "86.2"
     },
     "HAVE_150_UPGRADES": {
       "name": "Number Go Up Even More",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/810ceb7ce3fc99c6a135f3e544e316b79c92ccb4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "91.3"
+      "percent": "91.4"
     },
     "HAVE_50_UPGRADES": {
       "name": "Numbers Go Up",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/b6adb02bdf5447f70c38f0ef06fa75103d594241.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "95.1"
+      "percent": "95.2"
     },
     "DESTROY_A_STAR": {
       "name": "Shine Bright",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/ee84bbb60f17fd5c4c7c1273104c59d420c0d564.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.8"
+      "percent": "86.9"
     },
     "GROW_BLACK_HOLE": {
       "name": "The Black Hole Must Grow",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/6621ead12c30c750c2a67adb0df59f6e2d2041b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "93.1"
+      "percent": "93.2"
     },
     "TOO_MANY_CLICKS": {
       "name": "Wayyyy Too Many Useless Clicks",

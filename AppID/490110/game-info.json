@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/09481046e9fb9b50f56a9d29416d9a694fddabbc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.3"
+      "percent": "70.2"
     },
     "AchievementId_ChiefParking": {
       "name": "Career Limiting Move",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/f2c1294f9411cee160a017f1b07fdbb2a01a3fec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.4"
     },
     "AchievementId_FindAllRareVehicles": {
       "name": "Hidden in the Hood",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/345604f04e10aae246ae20e918150a9c42e0e8a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.2"
     },
     "AchievementId_GoldAllRaces": {
       "name": "I'm Fast, I'm Very Fast",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/241af95fd45d177f7333ae21438f6d1acf9846d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.7"
+      "percent": "63.6"
     },
     "AchievementId_UnlockAllUpgradesInCategory": {
       "name": "Maxed Out",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/45e5eca078d74c9674312295bc4a8c55b3c88c53.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.4"
+      "percent": "90.3"
     },
     "AchievementId_UnlockUpgrade": {
       "name": "Self Improvement",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/51f1f6fe02b006a5955594d1b85835642dbb3081.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.8"
     },
     "AchievementId_ArrestSuspectsLarge": {
       "name": "There's Gonna Be a Lot of Paperwork",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/f9df32cb978af90772d2113de4f1d410048d56ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.1"
+      "percent": "25.0"
     },
     "AchievementId_CompleteFirstShift": {
       "name": "Thrown in the Deep End",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/0aa2b00733ff672ba2553497f4273b85c09a9b7f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.2"
+      "percent": "72.1"
     }
   },
   "platform": null,

@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/beff9be48cca38a2ba27c7a9dbf29cf6cad6f631.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.6"
     },
     "ACH26": {
       "name": "Double or Nothin'",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/a8394e50c2bc7ed5e4961b4e08b33cf71e5822f9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.1"
+      "percent": "18.0"
     },
     "ACH21": {
       "name": "Lucky Spinner",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/834f0d5e563320d8908e1f25f6b58c8edd3038b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.2"
     },
     "ACH28": {
       "name": "Original Gangster",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/911438dfac8faba796ae9d0c9a7c232371bb11e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.3"
     },
     "ACH33": {
       "name": "Remastered",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/110c2954b8ec9c00eadfe0f5c48b07fc31f6902e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.8"
+      "percent": "5.7"
     },
     "ACH19": {
       "name": "Rescue a Kitten Too?",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/171c529131d4269d3a245407e0fdf7ecebc849e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.0"
     },
     "ACH16": {
       "name": "Smooth Moves",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/c14d4a714422a9a099b857f848ac8a1cdfce3d51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.5"
     },
     "ACH12": {
       "name": "Swiss Army Strife",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/b13778fd7cef14be1a296c01c5163444ec0698ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.9"
+      "percent": "30.8"
     },
     "ACH03": {
       "name": "The End of the Line",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/2d83393975affb0d6ede65a7576c24f52962facd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.1"
     },
     "ACH15": {
       "name": "They Can’t Stop All of Us",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/5a30fee8f00e0cf3df887c44afff254dee9a86eb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.6"
     },
     "ACH29": {
       "name": "Today Was a Good Day",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/f082a5b1e8258408fcee8f0d1f2a89e32d6d0dd6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "22.9"
     },
     "ACH25": {
       "name": "What are the Odds",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/712a0f9da354d7beb67a7580070da4cac105b6a2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.9"
+      "percent": "23.8"
     },
     "ACH17": {
       "name": "What the City Needs",

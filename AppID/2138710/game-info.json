@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/6ef9a501eb54c2840a0051a9afeeb78347ec743a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.1"
     },
     "Arena_Car": {
       "name": "Bonus Stage",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/ec60ebe27cf881bdda95c5aac2df8dc346a53767.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "ThrowAI_Trophy": {
       "name": "Dance of the Praying Mantis",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.4"
+      "percent": "6.3"
     },
     "Arena_CustomMode": {
       "name": "Fight the way you practice",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.2"
     },
     "Wude_H5": {
       "name": "Legendary Talismans of Wuxing",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.3"
     },
     "AnySkill_Trophy": {
       "name": "Life is your teacher",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.7"
     },
     "Wude_H1": {
       "name": "Muk Yan Master",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "ReachMaxAge": {
       "name": "Old Child",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.8"
+      "percent": "48.7"
     },
     "Calbot_Trophy": {
       "name": "Path of the Prospect",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/6ef9a501eb54c2840a0051a9afeeb78347ec743a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "ShrineSpirit": {
       "name": "Qi Gong: Breath",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.7"
+      "percent": "44.6"
     },
     "ShrineMind": {
       "name": "Qi Gong: Mind",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.5"
     },
     "Arena_GoldCapture": {
       "name": "Secure, Protect, Leave",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/ec60ebe27cf881bdda95c5aac2df8dc346a53767.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "2.3"
+      "percent": "2.2"
     },
     "Wude_H3": {
       "name": "Source of Flying Daggers",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.2"
+      "percent": "13.1"
     },
     "PermaSkill_Trophy": {
       "name": "State of constant learning",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.9"
+      "percent": "46.8"
     },
     "ThrowEE_Trophy": {
       "name": "Street Fighting",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "45.8"
     },
     "Traversal_Trophy": {
       "name": "Stuntmaster",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.7"
+      "percent": "48.6"
     },
     "BladeOneShot": {
       "name": "Sword Stained With Blood",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.3"
+      "percent": "46.2"
     },
     "Prologue": {
       "name": "The Old Grandmaster",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "8.9"
     },
     "Wude_H2": {
       "name": "Tiger on Fire",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.0"
     },
     "CustomTrophy_H5": {
       "name": "Warriors from the Mountain",
