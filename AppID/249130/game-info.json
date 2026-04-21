@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/15348a1c42b72c59a60372d9cd1826c306796946.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "13.9"
     },
     "UNLOCK_BLACK_CAT": {
       "name": "Bad Luck?",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/7db0122be2e76377f777056ed9750700d27d2c82.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.6"
     },
     "GET_BILLIONS": {
       "name": "Billionaire Philanthropist",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/c0bbf1722e64a2020066767784a99874497cfe6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "UNLOCK_GUARDIANS_OF_GALAXY": {
       "name": "Guardians of the Galaxy",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/d54ce534b37eec4dde0b47af5d0ee2bbc82616ea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.3"
     },
     "COMPLETE_STORYEVENT12": {
       "name": "Rapturous Rise",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/ff0c983f08575f743675a9e249cae22264a63669.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.6"
+      "percent": "79.5"
     },
     "COLLECT_SINISTER_SIX": {
       "name": "Sinister Six",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/249130/01efd97f65b8944edeb52a85d7967fe1b277e8f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.3"
+      "percent": "62.2"
     },
     "COMPLETE_STORYEVENT2": {
       "name": "Times Square Off",

@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/216bc4ffb33647d38ab7d2140c7ba975cc16c31a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.3"
+      "percent": "61.4"
     },
     "CH2_COLLECT": {
       "name": "Amateur Archaeophile",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/03b8350e895dec16afb5ac9935fc31fd7cf3f793.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "CH3_S2A_C_THERAPY": {
       "name": "And How Does That Make You Feel?",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/6939932b9f9d97c603972d9dac65e3b8dbe619bc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.4"
+      "percent": "65.5"
     },
     "CH4_S1A_C_DRUMKIT": {
       "name": "Count Me In",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/7d74b0eafef3c9853878729b9ff451af6392ac66.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "CH1_COLLECT": {
       "name": "Emotional Enthusiast",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/713cf9d3629f97da9e500d053baa64a56cd949fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.9"
+      "percent": "36.0"
     },
     "CH3_S2A_C_DOLLAR": {
       "name": "Ethan's Dollar",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/adfc0d7eb0b3e58482302eccb6b4d480f1312d2c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.4"
     },
     "COLLECT_ALL": {
       "name": "Haven Historian",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/3f715fd88bb7a0df954101ebbf2258c3a1449de2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.5"
     },
     "CH3_S1A_C_DIVERS": {
       "name": "Hell Divers",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/58ae3bd86c3a956cec958302a89b7809beac62d2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "21.1"
     },
     "CH2_S2C_C_RENT": {
       "name": "No Handouts",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/5c820c6ab926c6c9a85ed36eaf69e5464d9e6796.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.5"
+      "percent": "63.6"
     },
     "CH5_COMPLETE": {
       "name": "The Only Promise is The Adventure",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/a1510e2f97ebd1c05a1bb6d3b899d67e528f66a4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.9"
     },
     "CH2_S2C_C_UMBRELLA": {
       "name": "Umbrella",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/52ec745d0385acac39a5895b397e627dcdb649ee.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.4"
+      "percent": "42.5"
     }
   },
   "platform": null,

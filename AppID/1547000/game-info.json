@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/beff9be48cca38a2ba27c7a9dbf29cf6cad6f631.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "ACH26": {
       "name": "Double or Nothin'",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/834f0d5e563320d8908e1f25f6b58c8edd3038b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "ACH28": {
       "name": "Original Gangster",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/911438dfac8faba796ae9d0c9a7c232371bb11e5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.4"
     },
     "ACH33": {
       "name": "Remastered",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/171c529131d4269d3a245407e0fdf7ecebc849e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "27.1"
     },
     "ACH16": {
       "name": "Smooth Moves",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/c14d4a714422a9a099b857f848ac8a1cdfce3d51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.6"
     },
     "ACH12": {
       "name": "Swiss Army Strife",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/f082a5b1e8258408fcee8f0d1f2a89e32d6d0dd6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "ACH25": {
       "name": "What are the Odds",

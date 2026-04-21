@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012880/6b14e10e3bb556761ece7a08b9bb069e47bf6b99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.1"
     },
     "ACH_PRESENT": {
       "name": "A gift",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012880/6b14e10e3bb556761ece7a08b9bb069e47bf6b99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.7"
     },
     "ACH_ROGUE": {
       "name": "Rogue One",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1012880/6b14e10e3bb556761ece7a08b9bb069e47bf6b99.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.6"
     }
   },
   "platform": null,

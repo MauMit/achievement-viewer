@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "GADGET_A": {
       "name": "Boomerang Lover",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.0"
     },
     "BOUNTY_A": {
       "name": "Bounty Hunter",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.5"
     },
     "GADGET_B": {
       "name": "Chain Hook Expert",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.1"
     },
     "COORDINATE_C": {
       "name": "Trendsetter",

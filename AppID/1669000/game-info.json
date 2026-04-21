@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/399256e66384131b2c444d8aef333e0c28205314.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "ACHIEVEMENT_72_0": {
       "name": "All-Devourer",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/17e4a51bb1e7568d870d54f63796c7ac6f027b45.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "ACHIEVEMENT_8_0": {
       "name": "Betrayal Most Foul",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/7aaf46eaa3f42dae15a88e671bf07e93098d3eee.jpg",
       "hidden": false,
       "group": "Age of Wonders 4: Empires & Ashes",
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "ACHIEVEMENT_97_0": {
       "name": "Castle Mania",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/f8d213d94248d1cd23642b831e27d00b8c67abd0.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "ACHIEVEMENT_69_0": {
       "name": "Cleansed",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/e5e321e80da016862991e8ab0a87d4ddf38a0c70.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "ACHIEVEMENT_78_0": {
       "name": "Crystal Crown",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/a5c4377b230284a9e03d4b76cf204ce70ab5527f.jpg",
       "hidden": false,
       "group": "Age of Wonders 4: Dragon Dawn",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "ACHIEVEMENT_2_0": {
       "name": "Enchanted Archipelago",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/735b5eb257f9b9cd6fe3654d33135bc714e16c0f.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "ACHIEVEMENT_77_0": {
       "name": "Fan Favorite",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/d4c47beb9ce1f276fa7094b162f1cbfda60711e5.jpg",
       "hidden": false,
       "group": "Age of Wonders 4: Empires & Ashes",
-      "percent": "7.3"
+      "percent": "7.4"
     },
     "ACHIEVEMENT_28_0": {
       "name": "From Friends to Family",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/f6d962c1ea80d5836472d537ac1f6fc6121abfbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "ACHIEVEMENT_98_0": {
       "name": "Heart of Darkness",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/602b920ee58b58f2c4ae1d7088235ef522987e30.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "ACHIEVEMENT_40_0": {
       "name": "Intimidation Tactics",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/0aab21a9b36c9a69687399ea1eda2967ccc17650.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "5.6"
+      "percent": "5.7"
     },
     "ACHIEVEMENT_12_0": {
       "name": "I've Got Everything I Need Right Here",
@@ -712,7 +712,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/40c2d98c7b63750c68a40e830ed84c1866b4af8d.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "2.0"
+      "percent": "2.1"
     },
     "ACHIEVEMENT_85_0": {
       "name": "Rock and Throne!",
@@ -838,7 +838,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/5b783031ce72919b73f1285114bdd13bc7ec443b.jpg",
       "hidden": false,
       "group": "Age of Wonders 4: Eldritch Realms",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "ACHIEVEMENT_19_0": {
       "name": "The Creator",
@@ -955,7 +955,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/160894ef39d7693fb7ec34edfd5cec2a9e18a3da.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "1.0"
+      "percent": "1.1"
     }
   },
   "platform": null,

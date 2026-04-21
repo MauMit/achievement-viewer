@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/337320/1f0f16a3efd8280d0aa28df22f713d87aff953c5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.5"
     },
     "ACH_SwabbedtheDeck": {
       "name": "Swabbed the Deck",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/337320/07d8a52025a73fb5e2106db3704a069f912cf4e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "ACH_VirtualReality": {
       "name": "Virtual Reality",

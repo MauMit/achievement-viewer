@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/525cfdccb97806694bb0ba44137f0929e1ca8376.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "ACHIEVEMENT_31": {
       "name": "Fly Like an Eagle",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/dd8fbe62ed8335a39162f7c5f1d93fbe228afb57.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.8"
     },
     "ACHIEVEMENT_21": {
       "name": "Mushroom Hunter",
@@ -694,7 +694,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/91637e5d631ab09fa3042ba8f8af537219066fea.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "ACHIEVEMENT_97": {
       "name": "Scorched!",
@@ -811,7 +811,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/3416ca9e850fd84f51d954f75accd3348b372c27.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.9"
+      "percent": "25.0"
     },
     "ACHIEVEMENT_71": {
       "name": "The Villa Bully",
@@ -874,7 +874,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/63e548f82383bbcf1832a016be3111b8290b34f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "ACHIEVEMENT_101": {
       "name": "Vanishing Act",
@@ -937,7 +937,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/79e036f5d81005102d6cc6c236636d8821f48c14.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.6"
     },
     "ACHIEVEMENT_60": {
       "name": "Yard Work",

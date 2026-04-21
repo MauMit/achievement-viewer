@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/834530/0f4d8fbcdacae904826bf379b19de743b54b388c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.5"
     },
     "36_Ashes_To_Ashes": {
       "name": "Ashes to Ashes",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/834530/6dc723fc48370a930b07e682957441be704ca757.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.6"
+      "percent": "69.5"
     },
     "02_Perfectionist": {
       "name": "Perfectionist",

@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/626bb4d5148b08cf9f29367f9e998ba01c6fb425.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "Mage_Apprentice": {
       "name": "Apprentice, Mages Guild",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/8439742b8d87301bc3e23152b62c367bbee5704b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.8"
+      "percent": "7.9"
     },
     "Arena_Champion": {
       "name": "Champion, Arena",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/f476e63ed7636f4cf0c85da17aa4952d4315b9e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.9"
     },
     "Fighter_Defender": {
       "name": "Defender, Fighters Guild",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/49f027812dba95c1caaab2da192def8308689a01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "Isles_DukeDementia": {
       "name": "Duke Dementia, Shivering Isles",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/20c02fec92222a4c231e47c4d5db0a5a9a5867da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.8"
     },
     "Main_EscapedTheImperialSewers": {
       "name": "Escaped the Imperial Sewers",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/4d3a524c78434f736b4753b6ea152f3e8b34af19.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.9"
+      "percent": "21.0"
     },
     "Fighter_Guardian": {
       "name": "Guardian, Fighters Guild",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/57870b8d927dddddd74553845c2f74e27b057eb7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "Arena_Myrmidon": {
       "name": "Myrmidon, Arena",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2623190/eb6cee327bbaa1b8fe98ab643ecde216f28dc5f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "10.1"
     },
     "Fighter_Swordsman": {
       "name": "Swordsman, Fighters Guild",

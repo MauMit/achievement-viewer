@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/362964e9b362b3efa8f1bd7cd02d572076fb2dda.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.6"
+      "percent": "86.7"
     },
     "MAIN": {
       "name": "A Well Fed Black Hole",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/bacc229dab41ce211721d4aa7cc693202324aa87.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "23.3"
+      "percent": "23.8"
     },
     "DEMO": {
       "name": "Complete Demo Mode",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/01bb635e98db939defc6cf9e8f959883ed56b4ab.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "16.0"
+      "percent": "16.3"
     },
     "ELECTRIC_MOONS": {
       "name": "Complete Electric Moons Mode",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/238bf8d36b9adf991bd33cb48bf11b1bd5ca7fd6.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "12.3"
+      "percent": "13.0"
     },
     "MINI_CHALLENGE": {
       "name": "Complete Mini Challenge Mode",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/eaba595343567db89cc3b61d1bee26782f301c39.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "33.1"
     },
     "QUICK_PLAY": {
       "name": "Complete Quick Play Mode",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/0c60e076e8d7d84dd6f69d4ac3582d7f684a6e48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.8"
     },
     "THE_LINE": {
       "name": "Complete The Line Mode",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/190a361194b77c6a5da8c76be3beb4d05c982941.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "30.8"
+      "percent": "30.9"
     },
     "ZEN_MODE": {
       "name": "Complete Zen Mode",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/aeff5ae71e99ee749d6997257b04ce273b9d6b3b.jpg",
       "hidden": false,
       "group": "Update 2",
-      "percent": "25.6"
+      "percent": "25.8"
     },
     "DESTROY_2_ASTEROIDS_AT_ONCE": {
       "name": "Double Dash",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/72ffbf51064ee22cbda0623633e57fcd5f12ceaa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.9"
+      "percent": "83.0"
     },
     "COMPLETE_A_MILESTONE_5": {
       "name": "Humongous Milestone",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/53008440316642c3dd5689c4b2a591a633f63efb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "91.8"
+      "percent": "91.9"
     },
     "START_RUN_WITH_50_ASTEROIDS": {
       "name": "More Asteroids!",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/18ed13263c17f845fd1370bde80279f319bd7a18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "98.2"
+      "percent": "98.1"
     },
     "COMPLETE_A_MILESTONE_3": {
       "name": "My Favorite Space Movies Milestone",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/0a2488269e5427c3d6aa1bfa2c6d49ea0221d491.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.7"
+      "percent": "87.8"
     },
     "HAVE_100_UPGRADES": {
       "name": "Number Go Up More",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/6c0454de695851cd02ba881a3f127043d1337a40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.2"
+      "percent": "87.3"
     },
     "COMPLETE_A_MILESTONE_4": {
       "name": "The Creators Milestone",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/58c4233869d816ceb99429a00b66bd000ca0de47.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.2"
+      "percent": "85.3"
     },
     "FINISH_A_SESSION": {
       "name": "Time to Go Upgrade",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/8f10321f9698ad84c072c0bf00574ea44b8efcd8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.4"
     }
   },
   "platform": null,

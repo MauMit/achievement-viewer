@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2201320/6ca616dbc36e100100b89254b80bffa520440e52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "7.6"
     },
     "NEW_ACHIEVEMENT_1_13": {
       "name": "Inanimal Control",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2201320/b3ce683c2752e36dd977bb620396f113213e78bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "11.8"
     }
   },
   "platform": null,

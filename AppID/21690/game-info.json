@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/5c8c9656a1ba3a57a5ac01af137960c5d510b340.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.4"
     },
     "ACH_HELPER": {
       "name": "A Friend in Need",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/996a5e64480f0617168973684e35288fb81f8784.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.3"
     },
     "ACH_COSTUME_COMPLETE": {
       "name": "All Dressed Up",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/7ef7f7438b645e02bf40b35069a5acc0acff4230.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.4"
+      "percent": "49.5"
     },
     "ACH_INSIGHT": {
       "name": "Be the Knife",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/11d7264ca8919ab009cdf5455e49cc1cb4e2583e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.2"
+      "percent": "69.3"
     },
     "ACH_CHAPTER12_CLEAR": {
       "name": "Completed Chapter 1 - 2",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/bcf27fe90cb96afb8caea2f0971d6222e79f6e31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.7"
+      "percent": "65.8"
     },
     "ACH_CHAPTER21_CLEAR": {
       "name": "Completed Chapter 2 - 1",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/12faf468f7021d6a0d4b3f55c6d4995ead19cf3f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.3"
+      "percent": "58.4"
     },
     "ACH_CHAPTER22_CLEAR": {
       "name": "Completed Chapter 2 - 2",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/da3535e389b04c10f1245f5a558e36348e3e2034.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.4"
+      "percent": "54.5"
     },
     "ACH_CHAPTER23_CLEAR": {
       "name": "Completed Chapter 2 - 3",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/a843ce9a03dcf2480a10513dba4f77b14e78a80c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.8"
+      "percent": "53.9"
     },
     "ACH_CHAPTER31_CLEAR": {
       "name": "Completed Chapter 3 - 1",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/bcb0cf15ee47ccfb27b307914faf971cecafe7ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "50.5"
     },
     "ACH_CHAPTER32_CLEAR": {
       "name": "Completed Chapter 3 - 2",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/20edf0794a5741c20d952855411e4b81a5371662.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.5"
+      "percent": "47.6"
     },
     "ACH_CHAPTER33_CLEAR": {
       "name": "Completed Chapter 3 - 3",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/cc69fe51fd42e3b6d73adb304faab9924c44dd4d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.9"
     },
     "ACH_CHAPTER41_CLEAR": {
       "name": "Completed Chapter 4 - 1",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/cf013c80f67c54a71b89ea054fb0ae10602297ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.7"
+      "percent": "45.8"
     },
     "ACH_CHAPTER42_CLEAR": {
       "name": "Completed Chapter 4 - 2",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/3c65d5e092473ab1a45342dcca6dc866117b546f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.2"
+      "percent": "44.3"
     },
     "ACH_CHAPTER51_CLEAR": {
       "name": "Completed Chapter 5 - 1",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/b33505136085f1c683a9c3dec328b477786e89d7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.8"
+      "percent": "43.9"
     },
     "ACH_CHAPTER52_CLEAR": {
       "name": "Completed Chapter 5 - 2",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/974b4dd243a27aaa8aa9e04f9094d51db97e5891.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.6"
     },
     "ACH_CHAPTER53_CLEAR": {
       "name": "Completed Chapter 5 - 3",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/9f7256b7f364d33d3168d18d6a0b99e18ab6a560.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.6"
+      "percent": "39.7"
     },
     "ACH_CHAPTER61_CLEAR": {
       "name": "Completed Chapter 6 - 1",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/152c7a65b45be0c0d0653ecedf24169aecf00626.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.4"
+      "percent": "40.5"
     },
     "ACH_CHAPTER62_CLEAR": {
       "name": "Completed Chapter 6 - 2",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/9a39712d3da4ed0c06d59a2044ddcd84de377fda.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.2"
+      "percent": "40.3"
     },
     "ACH_CHAPTER63_CLEAR": {
       "name": "Completed Chapter 6 - 3",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/2df473e0731750d5d1182b50ce8828f66668ac9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.9"
+      "percent": "36.0"
     },
     "ACH_GATLING_SOLDIER": {
       "name": "Crowd Control",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/9345f49bee665000146ac3b7aa5d00613a114ebe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.5"
+      "percent": "19.6"
     },
     "ACH_EGG_COMPLETE": {
       "name": "Egg Hunt",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/d3f53dd8100a4d7b3ee4bd5e1c48a2674b59c23b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.4"
+      "percent": "60.5"
     },
     "ACH_SURVIVORS": {
       "name": "Eye of the Tiger",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/bee2d9ae8f21dbee1763d843fdc4498c1b61c99e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.6"
+      "percent": "56.7"
     },
     "ACH_MATERIAL_COMBAT": {
       "name": "Get Physical",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/19b0f8e2ea61f79199ead6c60dd4bbdd5057de88.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.4"
     },
     "ACH_DE_CLEAR": {
       "name": "Getaway",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/ced66c0cca57ade3278fe1f69960bee72548546e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "ACH_COMBO_MASTER_DUO": {
       "name": "It Takes Two to Tango",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/d13a215523a07f018730daa0ffd6b5736873fc0f.jpg",
       "hidden": false,
       "group": "Resident Evil 5 - UNTOLD STORIES BUNDLE",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "ACH_COMBO_MASTER": {
       "name": "Keep the Good Times Rolling",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/022805a281c9b979d1e0bd8095c633550f1a71c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.0"
+      "percent": "37.2"
     },
     "ACH_STAND_PLAY": {
       "name": "Masters of Removing",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/e4028ad81f7fb02f46db732acd6f3cd08898c6bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.8"
+      "percent": "49.9"
     },
     "ACH_LN_CLEAR": {
       "name": "Must've Got Lost",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/bb54d49afb1c4ddd18ef6e80e51b7c8b9e80f57d.jpg",
       "hidden": false,
       "group": "Resident Evil 5 - UNTOLD STORIES BUNDLE",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "ACH_LN_CLEAR_PRO": {
       "name": "Night Terrors",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/06148b2ff33f1ad22c5102c6c8bffc2792f388be.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.8"
     },
     "ACH_ELECTRO_SHOCK": {
       "name": "Ride the Lightning",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/bd6f4b5e5e8c8626ee5c6015db1c8d074b1bd5d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.7"
+      "percent": "28.8"
     },
     "ACH_WEAPON_COMPLETE": {
       "name": "Stockpile",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/ac7d25a499efbd008d2556b0461e4bb2594a939c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.9"
+      "percent": "22.0"
     },
     "ACH_UPGRADE_COMPLETE": {
       "name": "Take It to the Max",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/a4192bd8571cb914eb0ac696f327d82613ceee9b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "ACH_AGENT_PLAYER": {
       "name": "War Hero",
@@ -613,7 +613,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/0cf9a3201b3d7c35b0f706e2b1c65d11425a5d87.jpg",
       "hidden": false,
       "group": "Resident Evil 5 - UNTOLD STORIES BUNDLE",
-      "percent": "1.4"
+      "percent": "1.5"
     },
     "ACH_TRUE_TRUST": {
       "name": "Who Do You Trust?",
