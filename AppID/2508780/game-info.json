@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.9"
+      "percent": "55.0"
     },
     "ACHIEVEMENT_106001": {
       "name": "Bug Voyager",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.2"
+      "percent": "13.3"
     },
     "ACHIEVEMENT_112000": {
       "name": "Fungal Nobility",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.4"
+      "percent": "78.5"
     },
     "ACHIEVEMENT_120000": {
       "name": "Guardian Angler",

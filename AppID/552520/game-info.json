@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/3d4a1b58b1e402f8f29e11d3d3647c2971ddd1cd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.4"
+      "percent": "16.5"
     },
     "FC5_Ach_55": {
       "name": "Leave no one behind",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/3a211c5d00e8afb8725f3e0ba1e511083086780b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.9"
+      "percent": "4.0"
     },
     "FC5_Ach_22": {
       "name": "Peachy Keen",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/09b8cdc876644837fd6b277371b90a3711e6d860.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "FC5_Ach_54": {
       "name": "Roguelike",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/53fa68d15c136538526881e52d45d9f1d089fa28.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "10.8"
     },
     "FC5_Ach_50": {
       "name": "Survivalist",
@@ -577,7 +577,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/3238584c8c111c4ac5da5caea6b77b1b3833b6e6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.9"
     },
     "FC5_Ach_6": {
       "name": "Together Forever",

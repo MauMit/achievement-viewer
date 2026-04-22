@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/51f1f6fe02b006a5955594d1b85835642dbb3081.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.9"
     },
     "AchievementId_ArrestSuspectsLarge": {
       "name": "There's Gonna Be a Lot of Paperwork",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/8f10ecf46166b3c963707c58f315bbdcc65b661f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "93.9"
+      "percent": "93.8"
     },
     "AchievementId_SprintNonStop": {
       "name": "Track Star",

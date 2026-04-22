@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/56c781f2bdf3fe62119f1dd2a85c231b2939fdbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.2"
+      "percent": "56.3"
     },
     "ClearCase5": {
       "name": "Fifth Case Solved",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/7e59b5f43acceba81f69d3a9245a1e1321e2a04f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.7"
+      "percent": "82.8"
     },
     "ClearCase2": {
       "name": "Second Case Solved",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/674d47fb52043de2c0c0fbaef7d0874cfbc33f8f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.5"
+      "percent": "47.6"
     },
     "CompleteCase6": {
       "name": "Sixth Case 100% Completion",

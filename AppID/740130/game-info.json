@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.4"
     },
     "TROPHY_ID_SCENARIO_03": {
       "name": "Comrades in Freedom",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.5"
     },
     "TROPHY_ID_MAX_COMBO_HIGH": {
       "name": "Hundred-Hit Smackdown",

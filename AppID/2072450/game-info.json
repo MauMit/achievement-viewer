@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "87.5"
+      "percent": "87.4"
     },
     "RESORT_RANK": {
       "name": "Basking in Glory",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Like a Dragon: Infinite Wealth - Master Vacation Bundle",
-      "percent": "10.7"
+      "percent": "10.6"
     },
     "MAIN_STORY_8": {
       "name": "Layered Lies",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.7"
     },
     "SUBSTORY_C": {
       "name": "Living Your Best Life",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.5"
+      "percent": "83.4"
     },
     "FINAL_HAWAII_FLOOR5_CLEAR": {
       "name": "We Did It?",

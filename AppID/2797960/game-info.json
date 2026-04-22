@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/05b56e2ffce443bd9b2aaa3835e377a904352deb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.6"
+      "percent": "48.7"
     },
     "CAR_CRASH_FINISHED": {
       "name": "Dead Man's Curve",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/3dd0e0888e1ae0bed1fc1e456b3ad07fa75a470c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.1"
+      "percent": "56.2"
     },
     "RADIO_FINISHED": {
       "name": "I Can Hear the Music",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/f7ab78b2d52cdfdf6f5406b0ecfcd2fc0ecbe730.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.0"
+      "percent": "19.1"
     },
     "FINISH_CASE_WITHOUT_ALL_CLUES": {
       "name": "Searchin'",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/c2035126c3a17a2704a1845f695b39c468c45c5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.6"
+      "percent": "47.7"
     },
     "FINALE_FINISHED": {
       "name": "The Fall",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/658292802145ba7c566cacd89f1d9402e2f41f3d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.6"
+      "percent": "47.7"
     },
     "COLLECT_ALL_CLUES": {
       "name": "The Seeker",

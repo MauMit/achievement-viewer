@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2201320/832b617e7fd359e0542b0d4cbee35f7c79d2e3da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.8"
+      "percent": "89.7"
     },
     "NEW_ACHIEVEMENT_1_8": {
       "name": "Boss Form",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2201320/b5af4aaae3cfaddcb358cbf7cf53a72896541db7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.1"
+      "percent": "41.0"
     },
     "NEW_ACHIEVEMENT_1_22": {
       "name": "Do No Harm",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2201320/cbd70ee37be6a7b833fb9e74503c44e34b3f3863.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.3"
     },
     "NEW_ACHIEVEMENT_1_29": {
       "name": "Empty Nest",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2201320/bee160f2bf76c9d0b8456e9a0f196e3a814b954b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "96.3"
+      "percent": "96.2"
     },
     "NEW_ACHIEVEMENT_1_7": {
       "name": "Five Per Cent for Nothing",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2201320/307ebcfa47ff173a5e1e86bcf8a9acbc4d27c1b4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.7"
+      "percent": "56.6"
     },
     "NEW_ACHIEVEMENT_1_14": {
       "name": "You Can Pet the Smog",

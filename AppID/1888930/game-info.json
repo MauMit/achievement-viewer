@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/ba4b95c0d0cf3389e3f2db42dd03f3476e14ab5c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.3"
+      "percent": "12.4"
     },
     "8b77f28f25db173c": {
       "name": "Chronicles",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/3151861f9bc97ab96831c630593131b85b96b582.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.2"
     },
     "d8be398c779c55da": {
       "name": "Don't Go",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/b41fb3ac79465599a7f3ed8619a90f12d639a40e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.5"
+      "percent": "48.6"
     },
     "8e2d13fc783f696f": {
       "name": "Getting to Know You",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/2a07a05f94eab22104d05c7fff1db4534de71cf6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.2"
     },
     "af668020bf9cc65b": {
       "name": "Live Bait",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/55b5271fd372fe86e825b6c9942422ff7cc0a2dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.0"
+      "percent": "42.1"
     },
     "80b0d9d2f5a006fa": {
       "name": "Skillz",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1888930/8c3cef7f0ae675512b64ae4750a5049551e10425.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.2"
+      "percent": "8.3"
     },
     "f6bbd883545b7634": {
       "name": "Who's A Good Boy?",

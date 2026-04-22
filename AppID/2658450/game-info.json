@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/b93ea570fc9277de599793b637d2ce5b3df876c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.7"
+      "percent": "31.8"
     },
     "ACHIEVEMENT_033": {
       "name": "Elephant Tamer",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/9a5d67bc080fae152acafd1ba8f01e472ccc8487.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "28.0"
     },
     "ACHIEVEMENT_020": {
       "name": "Rich Hunter",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/492ade5542e26b96a0fde9b2ab3e74bf145df1f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.1"
+      "percent": "70.0"
     },
     "ACHIEVEMENT_007": {
       "name": "Rock'n Roll Isn't Here Anymore",

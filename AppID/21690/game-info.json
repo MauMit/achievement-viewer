@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/da3535e389b04c10f1245f5a558e36348e3e2034.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.5"
+      "percent": "54.6"
     },
     "ACH_CHAPTER23_CLEAR": {
       "name": "Completed Chapter 2 - 3",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/bcb0cf15ee47ccfb27b307914faf971cecafe7ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.5"
+      "percent": "50.6"
     },
     "ACH_CHAPTER32_CLEAR": {
       "name": "Completed Chapter 3 - 2",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/cf013c80f67c54a71b89ea054fb0ae10602297ef.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.8"
+      "percent": "45.9"
     },
     "ACH_CHAPTER42_CLEAR": {
       "name": "Completed Chapter 4 - 2",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/3c65d5e092473ab1a45342dcca6dc866117b546f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.3"
+      "percent": "44.4"
     },
     "ACH_CHAPTER51_CLEAR": {
       "name": "Completed Chapter 5 - 1",

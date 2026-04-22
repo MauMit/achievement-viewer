@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/0c084c8b5ef141b8c3823876ed33fc7333905f46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "FCNewDawn_Ach_24": {
       "name": "Before",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/6dc46e5382db5c227fcfb9cb6561fc819ec9ac98.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.2"
+      "percent": "9.1"
     },
     "FCNewDawn_Ach_42": {
       "name": "Buzzkill",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/cd9fdb6e5a3b01fad3d4247f6f8ddc1934cf7521.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "12.8"
     },
     "FCNewDawn_Ach_20": {
       "name": "Closed for Applications",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/d98acaeaddcd9d55c1a8b83fa34e19ac17883771.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "FCNewDawn_Ach_7": {
       "name": "Coming Up With the Goods",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/fe671c3663b6e857605f3904164ce72f06edc508.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.8"
+      "percent": "13.7"
     },
     "FCNewDawn_Ach_10": {
       "name": "Expeditious Retreat",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/45d7c48bf619c89bb9c39f1f5425bc7c8eb1537f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.7"
+      "percent": "10.6"
     },
     "FCNewDawn_Ach_41": {
       "name": "Fly, You Fools!",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/97101bb36b35b8552f4d42f958e1cc32045438c7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.1"
     },
     "FCNewDawn_Ach_11": {
       "name": "Honorary Scout",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/d40e09f42e585e773e13fff35f34be0b2b48ca1a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.2"
     },
     "FCNewDawn_Ach_21": {
       "name": "How's it Look, Doc?",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/54de040ae31b2aa7d36db32ecf3564ceef9bc588.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.3"
     },
     "FCNewDawn_Ach_35": {
       "name": "It's Super Effective!",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/ab6a039b32c7565e779bc75d2d93788362ce1a55.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.8"
+      "percent": "6.7"
     },
     "FCNewDawn_Ach_23": {
       "name": "Paladin’s Secret",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/25de3318d10feab055feeea25ebd0948d2015572.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.2"
     },
     "FCNewDawn_Ach_4": {
       "name": "Problem Solver",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/7baf870c40ca01499a39b3b079498cd63d991dfd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "FCNewDawn_Ach_2": {
       "name": "Prospering",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/f1059d533cb90bcc55870c7154ff8228a0940188.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "FCNewDawn_Ach_29": {
       "name": "Pure Ninja",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/d19141e3e497492b9dad68fe8be3cf6b254019ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.1"
     },
     "FCNewDawn_Ach_14": {
       "name": "Reduce, Reuse, Recycle",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/d6f9a2e0687984d3deb2e877a86c39dc5dc75943.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "FCNewDawn_Ach_3": {
       "name": "Return to Eden",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/47dbe94cff6ffcca5597b836a2fe37b188eb1351.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "10.8"
     },
     "FCNewDawn_Ach_19": {
       "name": "Safekeeping",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/e913f6dd37241535f0ef3d34a502ed9690ceca60.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.2"
     },
     "FCNewDawn_Ach_33": {
       "name": "Save Your Bacon",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/66518012425ae0390f0e280ce9be7183b5a61907.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.7"
     },
     "FCNewDawn_Ach_16": {
       "name": "Sidecar Sidekick",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/c07d0011070ab14c30ae575ee63dddfc9a78b2ac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.4"
     },
     "FCNewDawn_Ach_50": {
       "name": "Springboard",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/4e8f4970c11f158057a63e6af2130c95e0c7a40a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "FCNewDawn_Ach_5": {
       "name": "The End of Eden",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/37ed887a73132ed925e65a7162522ea5913c2941.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.4"
     },
     "FCNewDawn_Ach_1": {
       "name": "The Meaning of Prosperity",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/816bf80453149c5e8d4e317f08c333b8d3f73e21.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.7"
     },
     "FCNewDawn_Ach_9": {
       "name": "The Ryeunion",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/469aa3d3b7667b6077b810db57aa9fc4cc79a0cd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "FCNewDawn_Ach_44": {
       "name": "Tip o' the Hat",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/56acfe84840f130b1837a4beb555959966e0774a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.3"
     },
     "FCNewDawn_Ach_17": {
       "name": "White Gold",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/c62c4a3f10630cfc2a27595aac3b35cf05049cce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.7"
     },
     "FCNewDawn_Ach_8": {
       "name": "Wiki-Bean-ia in Business",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/9a0dbd7ad15758dc2d1c6c68de30e73588b5ab98.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.6"
     },
     "FCNewDawn_Ach_12": {
       "name": "Yoink",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/5078a1882900499a082eebebe352791449fe2b9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.7"
     },
     "FCNewDawn_Ach_32": {
       "name": "You're a Catch",
