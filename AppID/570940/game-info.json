@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/b6f251e02521a02f160a4a12fe028e5119622430.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.7"
+      "percent": "47.6"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_05": {
       "name": "Bond of a Pyromancer",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/8cea46117affe09d4ebfcfd817e69cc51ed72b1f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_25": {
       "name": "Chaos Weapon",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/33414fae276cf37ec3bf0f41b90d37260c9fdee9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.7"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_13": {
       "name": "Covenant: Path of the Dragon",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/e365a1b28d79ed66f742bd18c8f03afc61416677.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.4"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_10": {
       "name": "Covenant: Warrior of Sunlight",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/fffdc57e4742efa8090fa63a0a6fc2c11ecce196.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.8"
+      "percent": "66.7"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_17": {
       "name": "Crystal Weapon",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/608e53cf37c545cbfe952a4058017211c7611397.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.8"
+      "percent": "41.7"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_40": {
       "name": "Defeat Crossbreed Priscilla",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/8e668da7ee46372245a48d56e9c2bc08030a4d7a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.1"
+      "percent": "34.0"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_35": {
       "name": "Defeat Gravelord Nito",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/79b8bf599c2adcd19ff1649dad686a4f1450b1c6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.4"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_03": {
       "name": "Knight's Honor",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/abadd232303d4fb1e5b4c800a273cb06428c7e1a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_34": {
       "name": "Lordvessel",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/1ce586acdcbeedce2a32e06ae966e38f6b0bf2af.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "91.7"
+      "percent": "91.6"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_30": {
       "name": "Ring the Bell (Quelaag's Domain)",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/c4915d20c1df43a935761f10f988c03fe1561c1f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.6"
+      "percent": "56.5"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_29": {
       "name": "Ring the Bell (Undead Church)",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/0badfa332f94a3ff28b8dd3c56dc45f282fa33d7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.8"
+      "percent": "10.7"
     }
   },
   "platform": null,

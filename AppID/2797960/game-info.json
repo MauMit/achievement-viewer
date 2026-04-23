@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/05b56e2ffce443bd9b2aaa3835e377a904352deb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.7"
+      "percent": "48.6"
     },
     "CAR_CRASH_FINISHED": {
       "name": "Dead Man's Curve",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/55895cda0f806513585382b04b38985e58b4932b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.0"
+      "percent": "50.9"
     },
     "HOTEL_FINISHED": {
       "name": "Heartbreak Hotel",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/3dd0e0888e1ae0bed1fc1e456b3ad07fa75a470c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.2"
+      "percent": "56.1"
     },
     "RADIO_FINISHED": {
       "name": "I Can Hear the Music",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/ba4b4a7a3af36f452db1ff806c1a2cf5b4ff3dc3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.2"
+      "percent": "53.1"
     },
     "LIGHT_MY_FIRE": {
       "name": "Light My Fire",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/c802376381182a932fd8426576a90089ddcfde31.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.1"
+      "percent": "29.0"
     },
     "NOTEBOOK_WRITER": {
       "name": "Paperback Writer",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/f7ab78b2d52cdfdf6f5406b0ecfcd2fc0ecbe730.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.0"
     },
     "FINISH_CASE_WITHOUT_ALL_CLUES": {
       "name": "Searchin'",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/c851fcd16d51979e4fe7eb911aab9dfc0718e45f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.4"
     },
     "AD_ASTRA_FINISHED": {
       "name": "Star Man",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/d51a66e2e358ca482e5ac74dd150f15bcefee99c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.4"
+      "percent": "49.3"
     },
     "KADY_FINISHED": {
       "name": "The Conversation",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/3489b8f395ae33a06b49315630609db4ffb5a48a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.5"
+      "percent": "55.4"
     },
     "MANSION_FINISHED": {
       "name": "The Crash",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/def11a3df5c039b1aec2f61fc76b4eaa423ffe23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.6"
+      "percent": "75.5"
     },
     "FINISH_GAME": {
       "name": "The End",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/c2035126c3a17a2704a1845f695b39c468c45c5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.7"
+      "percent": "47.6"
     },
     "FINALE_FINISHED": {
       "name": "The Fall",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/658292802145ba7c566cacd89f1d9402e2f41f3d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.7"
+      "percent": "47.6"
     },
     "COLLECT_ALL_CLUES": {
       "name": "The Seeker",

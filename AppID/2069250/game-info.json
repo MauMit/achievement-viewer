@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/ba826c1e48e1dcbfbd66f0546918606f9dd981df.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.5"
+      "percent": "45.6"
     },
     "ACH_AllGurgulaTransmissions": {
       "name": "Dr. Gurgula Will Return...",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/252bd3210fb27637a1d4a7c4e6c119b2fea07c9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.5"
+      "percent": "6.6"
     },
     "ACH_FlushSomeone": {
       "name": "Fare Thee Well",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/70dd35525c083da51c3769f7f10a56a46e1260b1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.2"
     },
     "ACH_GP_KillKregButtons": {
       "name": "Smash That Kreg Button",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/567a04acff3ba3ef20d48fc3fa2c0f691d09e251.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.9"
+      "percent": "59.0"
     },
     "ACH_GP_KillBerkel": {
       "name": "So Long, and Thanks For All The Ghosts",

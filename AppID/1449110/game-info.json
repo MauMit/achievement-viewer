@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/9c38b89caf89fdb9122b7015497abae9afcebba2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.5"
+      "percent": "43.6"
     },
     "NEW_ACHIEVEMENT_1_4": {
       "name": "Left To Your Own Device",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/813ab3b043ccc2287ea46b57c0574fdaf72406ed.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.0"
+      "percent": "6.9"
     }
   },
   "platform": null,

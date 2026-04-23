@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/aa6d57e71e287621d0cdfa3357430a94154fb1e7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "36.1"
     },
     "NEW_ACHIEVEMENT_76_0": {
       "name": "Diebrarian",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/7a89ee0a3c2643dddc23355646382c10baf9ec68.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.7"
     },
     "NEW_ACHIEVEMENT_32_0": {
       "name": "Never Go It Alone",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/31d6471add844042ce473c23acd328d3e8e77621.jpg",
       "hidden": true,
       "group": "Fallout 4 Vault-Tec Workshop",
-      "percent": "6.8"
+      "percent": "6.9"
     },
     "NEW_ACHIEVEMENT_84_0": {
       "name": "Power Play",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/377160/36d77cfd0d6d5482d016f0645e1fba9a9ad6f14c.jpg",
       "hidden": true,
       "group": "Fallout 4 Nuka-World",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "NEW_ACHIEVEMENT_11_0": {
       "name": "Powering Up",

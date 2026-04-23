@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/c126d618e43cb1a25139bb61a4928ccf39f8a514.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.9"
+      "percent": "71.0"
     },
     "ACH_COM_CITY_01": {
       "name": "A tour of Barcelona",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/8f1533bf6aade4899c18db4b29da2ce4ec1bdd79.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.4"
+      "percent": "73.5"
     },
     "ACH_COM_CITY_03": {
       "name": "A tour of London",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/a37723f25a8759dc519829f33d7654da832b1d47.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.7"
+      "percent": "51.8"
     },
     "ACH_COM_CITY_04": {
       "name": "A tour of New York",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/b7fd552ce78b7d9d5a4132f4b47f51210c001236.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.3"
+      "percent": "37.4"
     },
     "ACH_SPECIAL_CITY_01": {
       "name": "Another level? Cool!",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/9a14989c6580399214ab36b3a52ff3c077328126.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.8"
+      "percent": "23.9"
     },
     "ACH_DUCK": {
       "name": "Duck, duck, goose!",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/5e82bd1477dcee254c3f6e5831f0c507c4f2c370.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.6"
+      "percent": "35.7"
     },
     "ACH_SPECIAL_CITY_04": {
       "name": "First dates",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/d344d1d9c8574252c45bead2edfc62fb2857716d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.8"
+      "percent": "31.9"
     },
     "ACH_MUSIC_BAD": {
       "name": "Make some noise!",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/6c9723eba4beca7ac37134fbaad15987e538f65e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.6"
     },
     "ACH_MEET_KODA": {
       "name": "Meet Koda!",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/b5f1d07b1c7e648866d166772a825726b42fc5ba.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "81.8"
+      "percent": "81.9"
     },
     "ACH_MEET_NAT": {
       "name": "Meet Nat!",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/dfaf739840f12114c5924a24e05b06be4a91c72d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.2"
     }
   },
   "platform": null,

@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/f091a783c57b199a19b657b3e614b56454497d0a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.3"
+      "percent": "73.2"
     },
     "ACHIEVEMENT_52": {
       "name": "Benevolent Dragon",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/158e94e6d852fd70cce3b4b3d63a47a1dbd860d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.2"
     },
     "ACHIEVEMENT_37": {
       "name": "Mr. Climax",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/3ee29017f6cbc231ea4a2e32537ddc269aac97f7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.5"
     },
     "ACHIEVEMENT_6": {
       "name": "Out of the Park",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/14d2120202e8df377e04cb3636ae2258f5a55ff2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "49.6"
+      "percent": "49.5"
     },
     "ACHIEVEMENT_1": {
       "name": "Welcome to Nagasugai",
