@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/85c861889afd1391f668b0c54eb3f6a784fe99ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.4"
+      "percent": "68.5"
     },
     "AFFAIR2": {
       "name": "Extracurricular Activities",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/a0825dd3afcf12262a6159ed4b887d0acb2301b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.9"
     },
     "FINISHED_BASE": {
       "name": "Family Secrets",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/2159d29001dc46f2b8ff65a4fccd46a6a875ccc9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.2"
     },
     "CONSPIRACY": {
       "name": "It's All Connected!",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/6c4b4235a6ef43e73ab251b321309bf8e8d47372.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.2"
+      "percent": "21.3"
     },
     "FREE_SPIRITS": {
       "name": "Take My Hand Beneath the Tree",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/f7bd6a0ac6b5147dde0876a40014a49a220994f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.2"
+      "percent": "63.3"
     },
     "FINISHED_RTM": {
       "name": "The Big Reveal",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/294b1f4935c17f514135ddc2b539d6868899784f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.7"
     },
     "SEINFELD": {
       "name": "What's the Deal With All These Roottrees?",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/d2feba129647702e00b7f6006029bb1744fa196a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.3"
     },
     "LOCKED_NOTABLES": {
       "name": "You Deserve a Gold Star",

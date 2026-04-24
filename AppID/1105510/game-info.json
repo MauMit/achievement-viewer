@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/f091a783c57b199a19b657b3e614b56454497d0a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "23.9"
     },
     "ACHIEVEMENT_51": {
       "name": "Dream Ride",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/576f06ab23086e52972174bb6986bd0177f58ed2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "44.9"
     },
     "ACHIEVEMENT_25": {
       "name": "Gourmet Dragon",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/084dcc856fba35e26f69b7633a80efe16f7eb2ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.7"
+      "percent": "36.6"
     },
     "ACHIEVEMENT_3": {
       "name": "No Prison Can Hold Me",
