@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/441d8620aeffa8f1cd36f42f4f26c6237494d1b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "32.0"
     },
     "MELEECOUNTER": {
       "name": "Finish Him",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/787d54cda636cd56bc368f94d5be4c00282f5a7e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "KEYMISSION3": {
       "name": "Gracefully Taken",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/3cf9bfd3542c40e8beaee532cb17a638494c078d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "53.1"
     },
     "SCOREDARTGAME": {
       "name": "One Hundred And Eighty",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/ad1551dae54f35af35004c52731d68597f2c4cb1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "SAGUNCAR": {
       "name": "Retail Therapy",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/e527d43bc43da8cd90fac4a3283728b04790fc8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "BIKEWHEELIE": {
       "name": "Wheelie Rider",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/12210/4274f78f2e525b45332909be5cfc057a7262db46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.2"
     },
     "SMSTHEFTDONE": {
       "name": "You Got The Message",

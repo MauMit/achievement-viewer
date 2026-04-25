@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/6ace59f9e993b5b2634953608c0fc91f4bcd6558.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.5"
     },
     "ACH_Play8BitNipulon": {
       "name": "8-Bit Warrior",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/4cd637e0a4c9bc980c20a0b8e572478e86a60e80.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "ACH_EscapeRoomEnding": {
       "name": "Ankhs For The Memories",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/3f2d0e85abaeaee47b7bd61913b6c9be7a7fd331.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.5"
+      "percent": "12.6"
     },
     "ACH_BountyHunterExhibit": {
       "name": "Bountilogical Studies PhD",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/43f39580e652c6f4548d7a141b62942a91eb8fe7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "ACH_GP_KillMuppyDoo": {
       "name": "Invasive Procedure",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/c120c10a6e14a217c15e1d4990e6c8dcbc311c7b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.7"
+      "percent": "56.8"
     },
     "ACH_HalfCourtWin": {
       "name": "Kobe!",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/3e9d224d350d75a5452aa15e83130e31555bcf1e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.8"
+      "percent": "37.9"
     },
     "ACH_SpareBronkinBucko": {
       "name": "Starstruck",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/072845f28000d0f6802bfb0c3bd749e3183e4f1f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.2"
     },
     "ACH_SlashAllWantedPosters": {
       "name": "Unwanted",

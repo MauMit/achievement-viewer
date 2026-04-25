@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/3a7b7d992aa1ce647779135487a258c166b99e5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.8"
+      "percent": "80.6"
     },
     "PLAY_BASKETBALL": {
       "name": "Court Time",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/284109d3ed65657f015137ffdd44b64784f87a6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.2"
+      "percent": "59.9"
     },
     "COMPLETE_10_ORDERS": {
       "name": "Double Digits",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/be37b112786e0d7ceafd4e8738cba44d3624db07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.6"
+      "percent": "81.2"
     },
     "TALK_TO_ALIEN": {
       "name": "First Contact",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/66028f8f8a088655289eec1df4ff9c64c067cfbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.9"
+      "percent": "46.6"
     },
     "END_ALIEN": {
       "name": "Goodbye",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/a8d542eaae2f7658478de851c4dfe4745e5a13ec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "95.1"
+      "percent": "94.8"
     },
     "RETURN_LOST_CAT": {
       "name": "Hero of the Neighborhood",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/dbf8ce20a7a7e3f9679e15bc2c31c5e66d7987b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.7"
+      "percent": "40.6"
     },
     "TALK_TO_JESSICA": {
       "name": "Hi, Jessica",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/c79972ef68fbd1576fc99e9e52094d291f2f633b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.6"
+      "percent": "67.3"
     },
     "EARN_100_$": {
       "name": "Hundred-Dollar Mark",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/efdabe1f1da167a933c51661ee848b6679e9e5d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.0"
+      "percent": "15.9"
     },
     "WIN_BIKE_RACE": {
       "name": "I am speed",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/f5af71f0cc266f9a3d825be4cc4083a861e3bf57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "92.8"
+      "percent": "92.5"
     },
     "EARN_10_$": {
       "name": "Pocket Money",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/28e0b5c56479f48303e68652f443c04280e143e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.8"
+      "percent": "66.3"
     },
     "UNLOCK_COOKIE_RECIPE": {
       "name": "Sweet Upgrade",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/83794880d1da3b80333dca9c597993fb3994d721.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.1"
+      "percent": "67.6"
     },
     "COMPLETE_100_ORDERS": {
       "name": "Triple-Digit Seller",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/c328322901da8d7fe350f7dda31d319ca3b387f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.2"
     },
     "SERVED_1_CUSTOMER": {
       "name": "Your First Sale",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/8db7a892e97cad50ac3b1ba0258d8402ead02692.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "91.4"
+      "percent": "91.1"
     }
   },
   "platform": null,

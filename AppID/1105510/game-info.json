@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/7da09df7c778504e333238a5285f43f1cedc569b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.9"
+      "percent": "58.8"
     },
     "ACHIEVEMENT_43": {
       "name": "Puck Deflector",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105510/61a68f0a58c887c4762424a82efab41e6d866b48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.3"
+      "percent": "38.2"
     },
     "ACHIEVEMENT_54": {
       "name": "Useful Features",

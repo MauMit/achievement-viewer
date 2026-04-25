@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/cd173afbdb2ed29bf416ba0967c2489d79acc84e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.7"
+      "percent": "84.6"
     },
     "ACH_01": {
       "name": "First Time, Huh?",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/90f987e15fb1e7eb77ee62794860ca094c35433f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "51.4"
     },
     "ACH_09": {
       "name": "Light My Fire",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/2d4e74bf9828249b508068c6b3410b12fcacb796.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.5"
+      "percent": "70.6"
     },
     "ACH_11": {
       "name": "Rat Slayer",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/703083a8a184ac8c42fefbf76ee2fb4ae07b88c2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "ACH_19": {
       "name": "Safety First",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/f70e0c30473446296365a20f5fa97c251e76aac7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "ACH_04": {
       "name": "Tooling Up",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/8ca39e5b34ba7ca60881def821aa7bd8182f3b59.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.1"
+      "percent": "52.2"
     },
     "ACH_25": {
       "name": "Watch Them Closely From Now On",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3419520/65c0ed25f245356d04771d3eda049f1629e23c0f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.8"
+      "percent": "73.7"
     }
   },
   "platform": null,

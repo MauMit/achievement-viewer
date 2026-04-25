@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/6ea8c4896ca574c73b1cf7896db7e36dc3b1e926.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.5"
     },
     "ACHIEVEMENT_100": {
       "name": "8000 Reasons to Kick Butt",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/4f265ece1aec64e858f214f76d55fa8fb8515e68.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.8"
     },
     "ACHIEVEMENT_28": {
       "name": "Bad Doggies!",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/78f37855b145cc16cfb083d5d0147f6a97a2c4e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "ACHIEVEMENT_23": {
       "name": "Cage Free",
@@ -739,7 +739,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/7fbb818990b17718f1856d8ed13f2476ae6cf728.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.4"
+      "percent": "14.5"
     },
     "ACHIEVEMENT_105": {
       "name": "Someone Set Us Up the Bomb",
@@ -802,7 +802,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/996580/35b6d28f4284b40b592b6ef62eee80ee792092f6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.1"
+      "percent": "14.2"
     },
     "ACHIEVEMENT_69": {
       "name": "The Money's in the Bag",

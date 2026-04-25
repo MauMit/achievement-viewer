@@ -1,7 +1,7 @@
 {
   "appid": "2668510",
   "name": "Red Dead Redemption",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1741118459",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header_spanish.jpg?t=1741118459",
   "achievements": {
     "ACH05": {
       "name": "A Savage Soul",
@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2668510/63edeaf71547bcf6cb32ea192c15b743299138ac.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.7"
+      "percent": "28.8"
     },
     "ACH45": {
       "name": "All's Right With the World",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2668510/63edeaf71547bcf6cb32ea192c15b743299138ac.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "29.6"
+      "percent": "29.7"
     },
     "ACH08": {
       "name": "Nurture or Nature?",

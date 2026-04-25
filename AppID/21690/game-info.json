@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/996a5e64480f0617168973684e35288fb81f8784.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.3"
+      "percent": "42.4"
     },
     "ACH_COSTUME_COMPLETE": {
       "name": "All Dressed Up",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/cc69fe51fd42e3b6d73adb304faab9924c44dd4d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.9"
+      "percent": "48.0"
     },
     "ACH_CHAPTER41_CLEAR": {
       "name": "Completed Chapter 4 - 1",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/022805a281c9b979d1e0bd8095c633550f1a71c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.3"
     },
     "ACH_STAND_PLAY": {
       "name": "Masters of Removing",
@@ -424,7 +424,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/c4f1984f1afc915c9adaac96cc4be4e8d7f5b9ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.5"
     },
     "ACH_MEAT_SHOWER": {
       "name": "Meat Shower",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/21690/bd6f4b5e5e8c8626ee5c6015db1c8d074b1bd5d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.9"
     },
     "ACH_WEAPON_COMPLETE": {
       "name": "Stockpile",

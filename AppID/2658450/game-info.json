@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/d96b2cd0b9b6a8a30bc967b22cd6f997cc3addab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "38.0"
     },
     "ACHIEVEMENT_006": {
       "name": "Disco's Dead",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/4edf984835422e531807df73893ff592d7dc9a86.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.4"
+      "percent": "8.5"
     },
     "ACHIEVEMENT_047": {
       "name": "Excellent Zombie Hunter",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/8d8e903d6b53bf8effdd04adab3bba8130f78a5b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.2"
+      "percent": "17.3"
     },
     "ACHIEVEMENT_027": {
       "name": "Perfect Body",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2658450/f153789c7728cc56e858a1a0a1c034bd305afc72.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "46.1"
     },
     "ACHIEVEMENT_029": {
       "name": "Watch Out For The Balls",

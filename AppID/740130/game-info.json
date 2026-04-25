@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.7"
+      "percent": "19.6"
     },
     "TROPHY_ID_SPNL_WEAPON_CREATION_ASPIRATION": {
       "name": "Arms Master",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "TROPHY_ID_SCENARIO_03": {
       "name": "Comrades in Freedom",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/c4926d23fc46a67fd6f1b10eab66a43594dad2a5.jpg",
       "hidden": true,
       "group": "Tales of ARISE - Beyond the Dawn Expansion",
-      "percent": "3.3"
+      "percent": "3.4"
     },
     "TROPHY_ID_SCENARIO_04": {
       "name": "Retired Avenger",

@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/5000aa281da8385be84e1f55279f0c51e1c46119.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.7"
+      "percent": "30.8"
     },
     "NEW_ACHIEVEMENT_2_16": {
       "name": "Chronicler",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/d28928c511147df32c67009904ec4f09e09128d4.jpg",
       "hidden": false,
       "group": "Indiana Jones and the Great Circle™: The Order of Giants",
-      "percent": "9.6"
+      "percent": "9.7"
     },
     "NEW_ACHIEVEMENT_2_21": {
       "name": "Depths of the City",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/8a24dfdc249aef905a4c5eac8ba1c1ccf490cb77.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.6"
+      "percent": "22.7"
     },
     "NEW_ACHIEVEMENT_1_11": {
       "name": "Literary Bug",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/bd630fac840b9de2086dbd08fbb68e34a34ff140.jpg",
       "hidden": false,
       "group": "Indiana Jones and the Great Circle™: The Order of Giants",
-      "percent": "6.7"
+      "percent": "6.8"
     },
     "NEW_ACHIEVEMENT_1_9": {
       "name": "Repatriation",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/a80e3d929c12c84b178310a29c67e3036593ae0b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "NEW_ACHIEVEMENT_1_17": {
       "name": "Secrets in the Sand",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2677660/00fde00ad878217daa6edb9d65e3b4328c5aa653.jpg",
       "hidden": false,
       "group": "Indiana Jones and the Great Circle™: The Order of Giants",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "NEW_ACHIEVEMENT_1_6": {
       "name": "The Blessed Pearl",

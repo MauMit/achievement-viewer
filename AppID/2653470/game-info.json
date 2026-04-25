@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/03ea120002999ef360c3aa0914648ae7a92b18c9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.4"
+      "percent": "29.5"
     },
     "CupcakeConnoisseur": {
       "name": "Cupcake Connoisseur",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/c169ccab201e845e2fbfe4a7ac2f756d3ac699e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.9"
+      "percent": "30.0"
     },
     "CompleteCase8": {
       "name": "Eighth Case 100% Completion",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/56c781f2bdf3fe62119f1dd2a85c231b2939fdbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.3"
+      "percent": "56.2"
     },
     "ClearCase5": {
       "name": "Fifth Case Solved",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/56c781f2bdf3fe62119f1dd2a85c231b2939fdbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.5"
+      "percent": "60.4"
     },
     "FindingLuna": {
       "name": "Finding Luna",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/e2a2f8a14282ba933911f41dd2797dd0a3484eaf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "57.5"
     },
     "CompleteCase1": {
       "name": "First Case 100% Completion",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/43271535a07787314a4256d959ea2360b963165b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.8"
+      "percent": "62.7"
     },
     "ClearCase4": {
       "name": "Fourth Case Solved",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/43271535a07787314a4256d959ea2360b963165b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.2"
+      "percent": "65.1"
     },
     "CompleteCase9": {
       "name": "Ninth Case 100% Completion",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/c6bb034957c2a725fcf36263c0e3751300f8a1b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.4"
     },
     "ClearCase6": {
       "name": "Sixth Case Solved",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/94d6f0ac2edd634da36ea48b727751fd92e8ce74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.9"
+      "percent": "39.0"
     },
     "ClearCase10": {
       "name": "Tenth Case Solved",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2653470/94d6f0ac2edd634da36ea48b727751fd92e8ce74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.5"
     },
     "CompleteCase3": {
       "name": "Third Case 100% Completion",

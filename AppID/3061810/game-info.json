@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.4"
+      "percent": "36.3"
     },
     "BANBAN_batting": {
       "name": "Barrel Basher",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.7"
+      "percent": "57.6"
     },
     "RANK_FAME_C": {
       "name": "Buccaneer Bigshots",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.5"
+      "percent": "44.4"
     },
     "GADGET_B": {
       "name": "Chain Hook Expert",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.3"
+      "percent": "55.2"
     },
     "COORDINATE_B": {
       "name": "Fashionista",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.8"
+      "percent": "57.7"
     },
     "SKILL_A": {
       "name": "Fledgling Mad Dog",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.9"
+      "percent": "66.8"
     },
     "MEMBER_C": {
       "name": "Goro Pirates, Go Go Go!",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.9"
+      "percent": "50.8"
     },
     "ADVENTURER": {
       "name": "Island Adventurer",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.5"
     },
     "AMON": {
       "name": "Legend of the Coliseum",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.0"
     },
     "SKILL_D": {
       "name": "Legendary Mad Dog",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.7"
+      "percent": "58.6"
     },
     "SUBSTORY_B": {
       "name": "Main Story? What's That?",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.6"
     },
     "MINATOKU": {
       "name": "My Dream Minato Girl",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.5"
+      "percent": "41.4"
     },
     "GORO_SHIP": {
       "name": "My Glorious Goromaru",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.6"
     },
     "TREASURE_A": {
       "name": "Novice Treasure Hunter",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.5"
     },
     "RANK_FAME_B": {
       "name": "Popular Picaroons",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.7"
+      "percent": "68.6"
     },
     "SKILL_B": {
       "name": "Powerful Mad Dog",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "47.3"
+      "percent": "47.2"
     },
     "DEVIL_A": {
       "name": "Showdown on Rokka Island",
@@ -505,7 +505,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3061810/aa725a62e4cafb4ecc1f6abc8aee619c6b9ecc65.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.9"
+      "percent": "53.8"
     },
     "ULTIMATE_HACT_B": {
       "name": "The Man Who Summoned the Gods",

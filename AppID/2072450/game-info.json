@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "KIZUNA_HAN": {
       "name": "Breaking Free",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "26.8"
     },
     "MAIN_STORY_4": {
       "name": "Down and Out",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.0"
+      "percent": "66.9"
     },
     "MAIN_STORY_12": {
       "name": "Holding the Line",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.2"
+      "percent": "59.1"
     },
     "RESORT_GUEST": {
       "name": "Island Hospitality",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.6"
+      "percent": "62.5"
     },
     "KASUGA_LEVEL_D": {
       "name": "Legendary Dragon",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.8"
+      "percent": "58.7"
     },
     "QUALIFICATION": {
       "name": "License to Skill",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.1"
+      "percent": "72.0"
     },
     "KIZUNA_SAEKO": {
       "name": "Missing Words",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.1"
+      "percent": "67.0"
     },
     "KIZUNA_CHITOSE": {
       "name": "Rest Assured",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.3"
+      "percent": "70.2"
     },
     "KIZUNA_NANBA": {
       "name": "Squared Away",
@@ -514,7 +514,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.0"
+      "percent": "42.9"
     },
     "SUJIMON_STORY_CLEAR": {
       "name": "Suji League Champion",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.3"
+      "percent": "64.2"
     },
     "SUJIMON_B": {
       "name": "Sujimon Sensei",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.0"
+      "percent": "51.9"
     },
     "SUJIMON_GET": {
       "name": "Sujimon Snag 'Em",
@@ -586,7 +586,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "79.4"
+      "percent": "79.3"
     },
     "FINAL_HAWAII_FLOOR2_CLEAR": {
       "name": "Titillating Teamwork",

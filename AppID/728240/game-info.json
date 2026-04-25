@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/728240/21b9b884c25fcc59b883081c13784914e899b149.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.8"
+      "percent": "28.9"
     },
     "ACHI_S12_LIGHTEMUP": {
       "name": "Light 'em up",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/728240/d252b286e3c04eaed5bca915158261101c2bcc75.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.7"
     },
     "ACHI_B2_MATHEMATICAL": {
       "name": "Mathematical!",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/728240/3e2d0dc3e30cf2f2342eb86463ac58c754dc8ed1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.5"
     },
     "ACHI_G6_SUPERHELPER": {
       "name": "Super Helper",

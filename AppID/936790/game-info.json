@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/9329a67286e5278918475085b1034f9a6cb56f7e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.2"
     },
     "CH1_S5A_C_PHONE": {
       "name": "Phone",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/ea0a64d5e4dd8c7b7efd4db39ea132667666aeb7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.1"
     },
     "CH4_S1B_C_ROSE": {
       "name": "Pressed Rose",

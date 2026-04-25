@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "Arena_SnowballKill": {
       "name": "Here Cometh the Iceman",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "95.4"
+      "percent": "95.3"
     },
     "CustomTrophy_H2": {
       "name": "The Pit Protector",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "CustomTrophy_H5": {
       "name": "Warriors from the Mountain",

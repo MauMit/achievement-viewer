@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/96e4da3fc9963e960b145677de054603630237da.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.5"
+      "percent": "20.6"
     },
     "NEW_ACHIEVEMENT_1_6": {
       "name": "Hard",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/c7d3c82859b118728568ac65618d42670b838136.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.1"
     },
     "NEW_ACHIEVEMENT_1_18": {
       "name": "Maximum Gun",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/c610cf96befcd38e83dcf40bf26a9f5097bdd3c1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.4"
+      "percent": "32.5"
     },
     "NEW_ACHIEVEMENT_1_7": {
       "name": "Very Hard",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/813ab3b043ccc2287ea46b57c0574fdaf72406ed.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.9"
+      "percent": "7.0"
     }
   },
   "platform": null,

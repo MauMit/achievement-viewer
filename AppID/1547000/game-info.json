@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/c14d4a714422a9a099b857f848ac8a1cdfce3d51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.5"
+      "percent": "25.6"
     },
     "ACH12": {
       "name": "Swiss Army Strife",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/b13778fd7cef14be1a296c01c5163444ec0698ff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.9"
     },
     "ACH03": {
       "name": "The End of the Line",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1547000/f082a5b1e8258408fcee8f0d1f2a89e32d6d0dd6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "ACH25": {
       "name": "What are the Odds",

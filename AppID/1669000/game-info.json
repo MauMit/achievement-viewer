@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/a9cad92bdc789cc22547db9a2dac60a9b1b43965.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "1.6"
+      "percent": "1.7"
     },
     "ACHIEVEMENT_48_0": {
       "name": "Blood of the Dragon",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/5370fe6b01733434b6ab4c9c8b778e4283044efa.jpg",
       "hidden": false,
       "group": "Update 4",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "ACHIEVEMENT_102_0": {
       "name": "Failed Successfully",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/bf5a41369aa93aa6bc6627380905ed2580437d5a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.4"
     },
     "ACHIEVEMENT_51_0": {
       "name": "Freed Lands of Manuhari",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/602b920ee58b58f2c4ae1d7088235ef522987e30.jpg",
       "hidden": false,
       "group": "Update 5",
-      "percent": "2.8"
+      "percent": "2.9"
     },
     "ACHIEVEMENT_40_0": {
       "name": "Intimidation Tactics",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/25620b0c7ae120cda7ada4e3b3c6d137c74516a0.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "0.9"
+      "percent": "1.0"
     },
     "ACHIEVEMENT_17_0": {
       "name": "Lord of Chaos",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/dd96d6ac7b53a0d2149f96d14ad78cfc0e7aabee.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "ACHIEVEMENT_73_0": {
       "name": "Oathbound",
@@ -811,7 +811,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/7fe2f6164a5d4681d57f34634b36f5c2f7dd9600.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.9"
     },
     "ACHIEVEMENT_95_0": {
       "name": "Symphony of Blood",
@@ -901,7 +901,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1669000/3ccc20af83bca9639d2e247c321570063ffa60c9.jpg",
       "hidden": false,
       "group": "Age of Wonders 4: Dragon Dawn",
-      "percent": "14.8"
+      "percent": "14.9"
     },
     "ACHIEVEMENT_70_0": {
       "name": "Umbral Tourist",

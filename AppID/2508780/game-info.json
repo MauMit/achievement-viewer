@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.2"
     },
     "ACHIEVEMENT_100003": {
       "name": "A Perfect Regional Bazaar!",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.0"
+      "percent": "48.1"
     },
     "ACHIEVEMENT_100001": {
       "name": "A Perfect Town Bazaar!",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.5"
     },
     "ACHIEVEMENT_115000": {
       "name": "Barrel Booster",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.4"
+      "percent": "23.5"
     },
     "ACHIEVEMENT_105002": {
       "name": "Culinary Connoisseur",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "15.1"
     },
     "ACHIEVEMENT_103000": {
       "name": "Field Fanatic",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.5"
+      "percent": "5.6"
     },
     "ACHIEVEMENT_114000": {
       "name": "Full of Heart",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.5"
+      "percent": "78.4"
     },
     "ACHIEVEMENT_120000": {
       "name": "Guardian Angler",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.6"
     },
     "ACHIEVEMENT_116001": {
       "name": "Professional Farmer",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "ACHIEVEMENT_110000": {
       "name": "Zookeeper",

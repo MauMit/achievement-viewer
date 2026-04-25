@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/15d8556d52e5cd5f6e1d4421c3e9749a27ce7e55.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.6"
+      "percent": "61.5"
     },
     "ACHIEVEMENT_2": {
       "name": "Reunited",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/bd32989a4e2756acae6eb8a1ad65a2abbfead3d4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.8"
+      "percent": "65.7"
     },
     "ACHIEVEMENT_24": {
       "name": "Revelation Seeker",
@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/611bd2ca2bcb6a8c54b431f4f00aafdaa4e5479f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.5"
+      "percent": "46.4"
     },
     "ACHIEVEMENT_42": {
       "name": "Saejima the Slinger",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1105500/9692deaac096f030178e22f7d5188fb7f37a97d7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.8"
+      "percent": "9.9"
     },
     "ACHIEVEMENT_11": {
       "name": "Substory Helper",

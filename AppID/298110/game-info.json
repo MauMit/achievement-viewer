@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/525537d789fbaade14a9f2d8dc5d269f74db962a.jpg",
       "hidden": false,
       "group": "Far Cry® 4 Valley of the Yetis",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "FarCry4_Ach_21": {
       "name": "Brother In Arms",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/1e1a3be0aa88862e6a8bbfcc2e32b6ed1a5c46dd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "FarCry4_Ach_12": {
       "name": "End Transmission",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/4a944faa1a3905e31f3fc4369f00f4e8f9ef9579.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "FarCry4_Ach_42": {
       "name": "From A Distance",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/298110/6cb75adc7473612d963ade08ed2f13e1efd1b538.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.7"
     },
     "FarCry4_Ach_38": {
       "name": "Quad Kill",

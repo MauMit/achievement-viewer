@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2201320/6ca616dbc36e100100b89254b80bffa520440e52.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "7.6"
     },
     "NEW_ACHIEVEMENT_1_13": {
       "name": "Inanimal Control",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2201320/3f4f2fd233a2238e1038a494ae4c3f21c960c2d5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.4"
+      "percent": "42.3"
     },
     "NEW_ACHIEVEMENT_1_5": {
       "name": "Matchmaker",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2201320/a81bbe0c53bdb7c8f67887cbb22d9173e2b6dae7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "10.8"
     },
     "NEW_ACHIEVEMENT_1_26": {
       "name": "Touch Grass",

@@ -1,7 +1,7 @@
 {
   "appid": "490110",
   "name": "The Precinct",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490110/header.jpg?t=1773944270",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490110/header.jpg?t=1777040281",
   "achievements": {
     "AchievementId_PoliceRankLarge": {
       "name": "A Promising Career",
@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/c520dbf855040794e0e47fc1f275731a93f94de6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.2"
     },
     "AchievementId_OpenAllStashes": {
       "name": "A Sharp Mind",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/345604f04e10aae246ae20e918150a9c42e0e8a5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.3"
     },
     "AchievementId_GoldAllRaces": {
       "name": "I'm Fast, I'm Very Fast",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/49528b73fa8cec6c7e371be7bb7cbca63551e53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "AchievementId_CarJumpsAll": {
       "name": "No, It's the Law",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/f9df32cb978af90772d2113de4f1d410048d56ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "AchievementId_CompleteFirstShift": {
       "name": "Thrown in the Deep End",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/f9bb61ba0ee3ec14cfa0bda296282ea184b13b45.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.3"
     },
     "AchievementId_OpenFirstStash": {
       "name": "What's in the Box?",

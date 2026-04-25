@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/7e6130c03694096652bc0e3b91ec57834ae0f1e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.8"
+      "percent": "8.9"
     },
     "FCPrimal_Ach_48": {
       "name": "Crush Your Enemies",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/838004370f84d95b17b2255b72f0ed7647090849.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.6"
+      "percent": "11.7"
     },
     "FCPrimal_Ach_17": {
       "name": "Home Improvement",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/245b7272566da3cbec4c87e091ebd5785df36b56.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "FCPrimal_Ach_8": {
       "name": "Mister Fix-It",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/03356705a4931f013f8b0add94c070d5590ed3ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "FCPrimal_Ach_31": {
       "name": "Right On Target",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/d2bc61f5196f4a3b0bfc4f686adda51a448a7f29.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.1"
+      "percent": "16.2"
     },
     "FCPrimal_Ach_23": {
       "name": "Skewered",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/4026533470e2c916cc18ab633c4e5d1652917c3a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.2"
     },
     "FCPrimal_Ach_52": {
       "name": "TOP OF THE FOOD CHAIN",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/01087290eda4faab23d2f2c14bf807920fdd62a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.2"
+      "percent": "0.3"
     },
     "FCPrimal_Ach_10": {
       "name": "Twelve Labors",
@@ -478,7 +478,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/1f68213e7960d313257f2facbd8cdbb320a01333.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "FCPrimal_Ach_4": {
       "name": "Uncaged",

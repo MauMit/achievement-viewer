@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/b6f251e02521a02f160a4a12fe028e5119622430.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.6"
+      "percent": "47.5"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_05": {
       "name": "Bond of a Pyromancer",
@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/5c1bb78cab99069167cdf4058b3a7a75c5291764.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.9"
+      "percent": "47.8"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_12": {
       "name": "Covenant: Darkwraith",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/9e176663602c689ef189f0df9801546be3961e60.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.1"
+      "percent": "38.0"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_14": {
       "name": "Covenant: Gravelord Servant",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/1527dfe4d351b6f19fe37749d3d6822a735f566f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.1"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_08": {
       "name": "Covenant: Princess's Guard",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/7d07081488721d92cd2d0d595e7fe8c1aab1ad5c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.4"
+      "percent": "19.3"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_36": {
       "name": "Defeat Bed of Chaos",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/36b7b34331bc0e37c8c485aaa2e12e5deeca2edc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.1"
+      "percent": "42.0"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_38": {
       "name": "Defeat Seath the Scaleless",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/5bf82e6d5e8147c9711fc33d4e7c542a2e1e97a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.4"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_39": {
       "name": "Defeat the Dark Sun Gwyndolin",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/d8143b4fcc6349b04eae99c4a870ae1a8681e475.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.4"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_37": {
       "name": "Defeat the Four Kings",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/31f65d06a914df1a43194ca7f72bf627846ff66b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.1"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_22": {
       "name": "Divine Weapon",
@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/d0c652aa02d328df339b7776f788548aa4663ebc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "50.3"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_20": {
       "name": "Magic Weapon",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/fddcab2eb6a4b1d1454d0fecfcb94a7388fe00d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_33": {
       "name": "Reach Anor Londo",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/bec02a760209f2ade81b7eaa4f3986abf8235e17.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "53.0"
+      "percent": "52.9"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_28": {
       "name": "Reach Lordran",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/28405d1d7fa6c08ccc9dc618a9f232d1f4386be0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.9"
+      "percent": "48.8"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_16": {
       "name": "Strongest Weapon",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/2f70397de5d7cc653e6c16f7d0de9f85e813cb7d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.4"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_00": {
       "name": "The Dark Soul",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/52bcaf712d1290af73067720174a859ab26a3dbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.6"
+      "percent": "30.5"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_04": {
       "name": "Wisdom of a Sage",

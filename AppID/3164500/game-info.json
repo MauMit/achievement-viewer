@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3164500/3b981839f2e7fa0d8926d6a8d410acc1cf76b171.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.4"
+      "percent": "71.5"
     },
     "UPSTANDING_CITIZEN": {
       "name": "Upstanding Citizen",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3164500/7e19e5d80ffe31ccf22ec321e44fad8b030277f5.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "5.7"
+      "percent": "5.8"
     },
     "RV_DESTROYED": {
       "name": "Welcome to Hyland Point",
