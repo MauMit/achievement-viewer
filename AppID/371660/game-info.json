@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/4a3f336d94eecf1f1b2c0e2c0e479b77a9792f47.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "7.8"
     },
     "FCPrimal_Ach_12": {
       "name": "Evolution in Action",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/d252383eff0b2453144fc9cb61873e5954595abd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.8"
+      "percent": "4.9"
     },
     "FCPrimal_Ach_36": {
       "name": "Expert Wenja",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/af9516ff93f9be7178d8e965b0ff4adce7cd6c85.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "FCPrimal_Ach_9": {
       "name": "Gray Huntress",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/2ea7af6d26953e6bef119e64e8f10fd7be5ace1c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.7"
     },
     "FCPrimal_Ach_27": {
       "name": "Outta My Way",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/c747a7ef84675cf5e85ef80ba9b0df99a4537140.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.5"
+      "percent": "9.6"
     },
     "FCPrimal_Ach_30": {
       "name": "Quickdraw",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/a1423354ac6720e8274865c3a04aad8715e9f4b2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "14.1"
     },
     "FCPrimal_Ach_34": {
       "name": "Sic 'Em",
@@ -487,7 +487,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/02c9116c1f995392cb9a947d4cce22081ccd90a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.2"
     },
     "FCPrimal_Ach_44": {
       "name": "Veterinarian",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/c72b07d23104c151878472ee2516acb3e527855b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.9"
     }
   },
   "platform": null,

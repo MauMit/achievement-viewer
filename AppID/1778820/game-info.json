@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/a8434cf6a44193958ad4d9058c9c08dc4c807340.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.3"
+      "percent": "57.4"
     },
     "StoryModeClearACT1": {
       "name": "Come, humanity! Unleash the dogs of war! ",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/310e26a3852fd329dceeb2680e68501b55bb3437.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "ArcadeBattleClear": {
       "name": "I'll put an end to this.",
@@ -235,7 +235,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/428158d78b9c066a0b2f3ec0a9a5147c29cfdcdd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "50.5"
     },
     "RankMatchWin": {
       "name": "Just relax. You can do it.",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/f070deb2d94ce93a563b82e172c022a590b44cf4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.2"
+      "percent": "77.3"
     },
     "BattleGreat": {
       "name": "Outstanding!",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/67b53f8a13147ea97259bd4ce03c9c85046044f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.6"
+      "percent": "77.7"
     },
     "GroupMatchWin": {
       "name": "Please don't tell my father.",
@@ -352,7 +352,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1778820/b5f598ee6653e1586db8daacd3bab72c52e46979.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.5"
+      "percent": "43.6"
     },
     "EpisodeClear5": {
       "name": "This should be fun.",

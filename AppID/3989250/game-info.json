@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/3a7b7d992aa1ce647779135487a258c166b99e5d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.6"
+      "percent": "80.7"
     },
     "PLAY_BASKETBALL": {
       "name": "Court Time",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/be37b112786e0d7ceafd4e8738cba44d3624db07.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.2"
+      "percent": "81.3"
     },
     "TALK_TO_ALIEN": {
       "name": "First Contact",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/66028f8f8a088655289eec1df4ff9c64c067cfbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.5"
     },
     "END_ALIEN": {
       "name": "Goodbye",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/efdabe1f1da167a933c51661ee848b6679e9e5d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.9"
+      "percent": "15.8"
     },
     "WIN_BIKE_RACE": {
       "name": "I am speed",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/752f8d8d300d8b270c835b8b8dcab335a270766b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "FIRST_ORDER_MOM": {
       "name": "Mother’s Recipe",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3989250/f5af71f0cc266f9a3d825be4cc4083a861e3bf57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "92.5"
+      "percent": "92.4"
     },
     "EARN_10_$": {
       "name": "Pocket Money",

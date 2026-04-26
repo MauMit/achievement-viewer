@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/cd9fdb6e5a3b01fad3d4247f6f8ddc1934cf7521.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.9"
+      "percent": "13.0"
     },
     "FCNewDawn_Ach_20": {
       "name": "Closed for Applications",
@@ -181,7 +181,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/1095b0059d311a4115d994e5b3406a788aecf002.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "FCNewDawn_Ach_15": {
       "name": "Home is Where the Part Is",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/82d4243523fcd460121a1449ba1a1e9df3f8ef71.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.7"
+      "percent": "7.8"
     },
     "FCNewDawn_Ach_22": {
       "name": "Kill or Be Killed",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/d6f9a2e0687984d3deb2e877a86c39dc5dc75943.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.7"
+      "percent": "13.8"
     },
     "FCNewDawn_Ach_3": {
       "name": "Return to Eden",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/47dbe94cff6ffcca5597b836a2fe37b188eb1351.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "FCNewDawn_Ach_19": {
       "name": "Safekeeping",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/939960/9a0dbd7ad15758dc2d1c6c68de30e73588b5ab98.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.7"
+      "percent": "15.8"
     },
     "FCNewDawn_Ach_12": {
       "name": "Yoink",

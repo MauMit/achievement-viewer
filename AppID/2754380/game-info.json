@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/ed3fb23626a437bdad101e1d1f530cd420b91604.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.2"
+      "percent": "64.3"
     },
     "CALL_SCREENER": {
       "name": "Call Screener",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/eb066cfb1487ed1dd2022954f2e2331b54925c74.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.5"
     },
     "5PIECES": {
       "name": "Establishing Roots",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/c7cf2905a00104f31e43bc82560ca61a4cd66b3a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.4"
+      "percent": "26.5"
     },
     "OUTSIDE_BOX": {
       "name": "Thinking Outside the Box",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/f7395e6fe64711385d5ed3fe6e5847106072cf15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.3"
+      "percent": "72.4"
     }
   },
   "platform": null,

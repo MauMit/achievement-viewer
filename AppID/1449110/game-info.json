@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/636e0d5ceb10c583dbe240ee0332cd917eda5678.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.0"
+      "percent": "22.1"
     },
     "NEW_ACHIEVEMENT_1_11": {
       "name": "Capture The Archive The Hard Way",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/68dc536b9f3a66d1d3efe17f4037fb999aeca50e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.2"
+      "percent": "19.3"
     },
     "NEW_ACHIEVEMENT_3_6": {
       "name": "Corpse Warper",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/b36aea2769dc4636e552f3d26a8f220545bbba74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "NEW_ACHIEVEMENT_3_4": {
       "name": "Hatchling Hunter",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1449110/ce70387b9b3d2ba47234dd414ff3030ae9528ae6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.7"
     },
     "NEW_ACHIEVEMENT_1_29": {
       "name": "Stompy",

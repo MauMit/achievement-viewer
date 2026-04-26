@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2201320/af75e114b4018892488673abee3f41068ca5e92e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "AWAKENED": {
       "name": "Awakened",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2201320/14426e5f3d53d81e798cc4d9bd53a57f8409145f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "95.5"
+      "percent": "95.4"
     },
     "NEW_ACHIEVEMENT_1_18": {
       "name": "From Great Heights",
@@ -190,7 +190,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2201320/ad1728166f5207dad285300aeaf4a1cfbc1aeb18.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.2"
+      "percent": "18.1"
     },
     "NEW_ACHIEVEMENT_1_10": {
       "name": "It'll Be Worth Something Someday",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2201320/9280ef2111d17f475b15f8851d3441f6500d2993.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.4"
     },
     "NEW_ACHIEVEMENT_2_7": {
       "name": "Seer of Souls",

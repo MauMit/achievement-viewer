@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/052a2134fb408fb347ef02b92d0fd6ceb4b6b99e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.6"
+      "percent": "66.7"
     },
     "ACHIEVEMENT_26": {
       "name": "Cinephile",
@@ -64,7 +64,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/c321abcba6e5e9111d3ca5a757c4759ba93784ed.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.3"
+      "percent": "62.2"
     },
     "ACHIEVEMENT_21": {
       "name": "Foodie",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/f6601a7ebbc9e2792ca58e15abb8f7b91775dab8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.6"
+      "percent": "45.5"
     },
     "ACHIEVEMENT_23": {
       "name": "I Can Totally See You",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/20a2df30b73d8c7969d382a5241141dbaaca61b6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "37.8"
     },
     "ACHIEVEMENT_13": {
       "name": "Like He Just Doesn't Care",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2417610/6b9e75811636cb174dc61d28a3ee42981e18072f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.5"
+      "percent": "39.4"
     },
     "ACHIEVEMENT_20": {
       "name": "Snake Eater",

@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "25.1"
     },
     "ACHIEVEMENT_105001": {
       "name": "Consummate Chef",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.3"
+      "percent": "16.4"
     },
     "ACHIEVEMENT_102001": {
       "name": "People Person",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "14.7"
+      "percent": "14.8"
     },
     "ACHIEVEMENT_118000": {
       "name": "Prismatic Spatula",
@@ -334,7 +334,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/80a0cc7cd5b68d7591c90d5143d9bdebd3319ebd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.1"
+      "percent": "50.2"
     },
     "ACHIEVEMENT_108000": {
       "name": "Ultimate Master of Tools",
@@ -343,7 +343,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2508780/55a1ca0984116e9595671a1f43ed39b72c1360bc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "ACHIEVEMENT_109001": {
       "name": "Unforgettable",

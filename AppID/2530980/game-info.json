@@ -46,7 +46,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.4"
+      "percent": "59.3"
     },
     "NEW_ACHIEVEMENT_1_15": {
       "name": "Captain Ephinea (100 titles)",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.0"
+      "percent": "73.9"
     },
     "NEW_ACHIEVEMENT_2_11": {
       "name": "Dis Paters in 60 Seconds",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "NEW_ACHIEVEMENT_1_7": {
       "name": "Entitled (20 titles)",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.3"
+      "percent": "41.4"
     },
     "NEW_ACHIEVEMENT_1_31": {
       "name": "Gagonged!",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.2"
     },
     "NEW_ACHIEVEMENT_1_16": {
       "name": "Sobriquetian (20 titles)",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.9"
+      "percent": "35.0"
     }
   },
   "platform": null,

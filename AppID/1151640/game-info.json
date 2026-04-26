@@ -253,7 +253,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/313c7f1239cc02d5ce161b13a906428ab766ece7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.6"
+      "percent": "25.7"
     },
     "NEW_ACHIEVEMENT_4_4": {
       "name": "All Vantages found",
@@ -433,7 +433,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/8df652a8fa8715f54d474c5780604aab8c9c3c6c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.0"
+      "percent": "58.1"
     },
     "NEW_ACHIEVEMENT_3_9": {
       "name": "First Modification",
@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1151640/117b8e4875f55e890b994b9d5abb42934dc66b2e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "NEW_ACHIEVEMENT_4_27": {
       "name": "Won the Werak Challenge",

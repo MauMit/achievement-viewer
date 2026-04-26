@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/6af9f112bd06d902e6851985659ab30a713d6d23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "AchievementId_HelicopterHelpArrests": {
       "name": "I See Everything",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/020e68045e45580da98b4094b6b37ddcb9decd86.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.3"
     },
     "AchievementId_PoliceRankSmall": {
       "name": "Making Your Mark",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/d9241d77b2d2d063e4c5f5b10eaee47f5def0e1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.5"
     },
     "AchievementId_DriveEveryVehicle": {
       "name": "We'll Pay for the Damage",

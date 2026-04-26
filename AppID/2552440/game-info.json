@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552440/588a0bb7c1ca14f9a5971809cf3af9db13b08750.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "30.1"
+      "percent": "30.0"
     },
     "ACH_34": {
       "name": "Distinct Worlds",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552440/9848b0419151e9ee52c41f65e82aac3924267735.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.7"
+      "percent": "32.6"
     },
     "ACH_15": {
       "name": "Fashionista",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552440/ca74b8a924a488be8d7f8a8f87993ed84d322a8e.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "17.9"
+      "percent": "17.8"
     },
     "ACH_09": {
       "name": "Heartless Hunter",
@@ -496,7 +496,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552440/7c055f3e6e6188521dfec9a017bec8c557fa28c0.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "3.7"
+      "percent": "3.6"
     },
     "ACH_69": {
       "name": "Seekers of Secrets",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2552440/b8400a2a44bb361995dd80e7215a0d8e30197e22.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "4.4"
+      "percent": "4.3"
     },
     "ACH_51": {
       "name": "Strongest Link",

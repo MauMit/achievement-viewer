@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "ReachMaxAge": {
       "name": "Old Child",
@@ -406,7 +406,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.5"
+      "percent": "18.6"
     },
     "Arena_GoldCapture": {
       "name": "Secure, Protect, Leave",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2138710/071a2c8f44fda9b4c0dbbee76e764ede98c2eaa7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "95.3"
+      "percent": "95.4"
     },
     "CustomTrophy_H2": {
       "name": "The Pit Protector",

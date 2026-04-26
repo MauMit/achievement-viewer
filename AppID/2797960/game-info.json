@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/05b56e2ffce443bd9b2aaa3835e377a904352deb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.8"
+      "percent": "48.9"
     },
     "CAR_CRASH_FINISHED": {
       "name": "Dead Man's Curve",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/55895cda0f806513585382b04b38985e58b4932b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.1"
+      "percent": "51.2"
     },
     "HOTEL_FINISHED": {
       "name": "Heartbreak Hotel",
@@ -82,7 +82,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2797960/d51a66e2e358ca482e5ac74dd150f15bcefee99c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.5"
+      "percent": "49.6"
     },
     "KADY_FINISHED": {
       "name": "The Conversation",

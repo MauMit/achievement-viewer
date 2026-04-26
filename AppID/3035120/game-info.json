@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/6ff03f1dfbca57df537c2aaf0d7ffcc509000617.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "36.1"
     },
     "ACH_DRAWER": {
       "name": "Grab a pen",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3035120/9266e42fbbdb5b46e05db0b390175a881b9c661f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.7"
+      "percent": "28.8"
     },
     "ACH_MEET_ALEXIS": {
       "name": "Meet Alexis!",

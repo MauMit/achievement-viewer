@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/1eeb32c6a6d898885bc5d40b877e1f8f72c24577.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.9"
+      "percent": "52.0"
     },
     "CH2_S2F_F_SAD": {
       "name": "Found Dog!",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/9329a67286e5278918475085b1034f9a6cb56f7e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "CH1_S5A_C_PHONE": {
       "name": "Phone",
@@ -226,7 +226,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/ea0a64d5e4dd8c7b7efd4db39ea132667666aeb7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.2"
     },
     "CH4_S1B_C_ROSE": {
       "name": "Pressed Rose",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/936790/ff319ef07e6630db752c9e60e9d0b7f2f20b6ce2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.5"
     },
     "CH2_COMPLETE": {
       "name": "Something You Build",
