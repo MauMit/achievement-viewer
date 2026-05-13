@@ -16,8 +16,8 @@
     "earned_time": 0
   },
   "DRUG_PARTY_FINISHED": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1776866336
   },
   "FINALE_FINISHED": {
     "earned": false,
@@ -52,8 +52,8 @@
     "earned_time": 1771689701
   },
   "NOTEBOOK_WRITER": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1776865686
   },
   "RADIO_FINISHED": {
     "earned": false,
