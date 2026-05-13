@@ -1,0 +1,199 @@
+{
+  "appid": "115100",
+  "name": "Costume Quest",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/115100/header.jpg?t=1776379430",
+  "achievements": {
+    "STEAMACHIEVEMENTD_ALLDECKEDOUT": {
+      "name": "All Decked Out",
+      "description": "Collect all Creepy Treat Cards.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/10a895d76d868fde0a0705994520effe98e183a1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/533b9ebddcb20404949dba41e76fc4c39c69c219.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.8"
+    },
+    "STEAMACHIEVEMENT1_BATTLEBUDS": {
+      "name": "Battle Buds",
+      "description": "Defeat a monster in combat with a friend by your side.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/3bda518306b87518bda8c9b8cfb45ef613c9c650.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/6c136cf693b38ba4088dc918c1207be5de25dc60.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.4"
+    },
+    "STEAMACHIEVEMENT2_BINARYBOUNCER": {
+      "name": "Binary Bouncer",
+      "description": "Use the Robot Costume to Boost off of 15 different ramps.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/b800b185b3da000f036112a19f7a791838745d26.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/d578514e2b8179287daa52b089689e3f666fd1f5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.6"
+    },
+    "STEAMACHIEVEMENT13_ARAXIA": {
+      "name": "Birdbrain Beatdown",
+      "description": "Defeat Araxia in battle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/3f8b6de9fa99829150b46c17530e84991d77218d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/2af1aee4504269f4adbe3c7e133b0f7a9c1982cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.7"
+    },
+    "STEAMACHIEVEMENTF_CHOMPINCHAMP": {
+      "name": "Chompin' Champ",
+      "description": "Win all prizes in Bobbing for Apples.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/91522aa61323c5ddd556899c820cf7c763969d69.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/7d0fb5654314b747fb082cbb97f2d52c80d6a7ba.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.8"
+    },
+    "STEAMACHIEVEMENT3_DOTHEMONSTERBASH": {
+      "name": "Do the Monster Bash",
+      "description": "Get the jump on 10 different monsters by pail bashing them to initiate combat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/bababc27d75ddce5b90cd4f233cc9b5cbc82b867.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/907b4f82de03d4a0916f6c456a7b7b2a1aaaf1a0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.3"
+    },
+    "STEAMACHIEVEMENT9_DOWNSIZED": {
+      "name": "Downsized!",
+      "description": "Defeat BoJonn in battle. ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/8890ffc256112554b137f6bf9a0e527ffd4a9a5b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/e17715e58dd911fa76a77bbdb8aeb342752bfec0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.9"
+    },
+    "STEAMACHIEVEMENTA_DOZERDODGER": {
+      "name": "Dozer Dodger",
+      "description": "Defeat Metxel in battle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/0b394988d6d0b8f5c325cfcafd12a8f8e3526dde.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/9afbd80c7bc09089f887d492d5e42cd314f4f7dd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.3"
+    },
+    "STEAMACHIEVEMENT5_DRESSEDTOQUEST": {
+      "name": "Dressed to Quest",
+      "description": "Acquire 5 Costumes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/8d035cccec2290521f8278787a0fd2a893d3dc65.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/eb786b5510e6cee7b0be08f2700ac61c0fb25f07.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.1"
+    },
+    "STEAMACHIEVEMENT10_EYEBALL": {
+      "name": "Jeepers Peepers",
+      "description": "Acquire the Eyeball costume.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/eb9bd24c32cf969b5b2feb8fa2487bc571089b23.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/74e193dd9f72e62449597d97f0a6b84f7df31760.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.5"
+    },
+    "STEAMACHIEVEMENT8_LEAVESOMEFORUS": {
+      "name": "Leave some for the rest of us! ",
+      "description": "Collect a total of over 4,000 candies.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/64ce5017a930790353a1c54c72973040bcc7f45c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/163741703dd2314027cfa48f535e92715dcbf922.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.6"
+    },
+    "STEAMACHIEVEMENT4_MAKEITWORK": {
+      "name": "Make it Work",
+      "description": "Win the Autumn Haven Mall Costume Contest.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/47c131417d54ff844536d21099c3b5a51b859a49.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/1fd899c89ce225940ed90347bd9136a87eb647af.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.0"
+    },
+    "STEAMACHIEVEMENTC_MASKORAIDER": {
+      "name": "Mask-O'-Raider",
+      "description": "Complete all Quests in the game. ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/6ba87e784081d68c06bbac3fa6ea80c9841ff616.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/54d25f81bba59b7902fc953c201f3e43b35d3a9a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "STEAMACHIEVEMENT7_MASTEROFDISGUISE": {
+      "name": "Master of Disguise",
+      "description": "Use every Costume Ability in battle. ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/caea29ca5ece94e0388aa1bd5753416648701104.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/59f6147cb39336893f2cdba232fe35401f0bdab5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.2"
+    },
+    "STEAMACHIEVEMENT11_ZIPLINE": {
+      "name": "Playin' Hooky",
+      "description": "Use the Pirate hook on 5 unique ziplines.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/3675f8df3794bc6a3c1c5a8df9629552a932b470.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/638c6cba393a99fccfe56cda860c73a94b83cd2c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.0"
+    },
+    "STEAMACHIEVEMENT12_QUESTS": {
+      "name": "Revolutionary Hero",
+      "description": "Complete all quests in Repugia.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/f3da48ef88f3e11a04a76ad5d409f1145595a7cb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/c0eb3ee216238bbfda610666bc8e798ad3b974b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.2"
+    },
+    "STEAMACHIEVEMENT14_CHARLIE": {
+      "name": "Short Stack",
+      "description": "Find the mysterious visitor in the cliffs of Repugia.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/8386b35f84f815447d66883223fe809411b6ec48.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/27b255339393856810e178ba5b81abaef0642f7f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.3"
+    },
+    "STEAMACHIEVEMENTB_SWEETJUSTICE": {
+      "name": "Sweet Justice",
+      "description": "Beat the game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/bc4393a57741b5a487dd23626223a57bdaa479cf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/f61ea66b0ba6409951b51c308f47ca9030e77330.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.2"
+    },
+    "STEAMACHIEVEMENT6_THELASTGOURDIAN": {
+      "name": "The Last Gourdian",
+      "description": "Acquire the Pumpkin Costume.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/b2b6fbbba772146c03f86e5031babb0113fe2c20.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/0d418fb73ee81cfd12470435f7fe12944e1e997b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.1"
+    },
+    "STEAMACHIEVEMENTE_THEYLLBEWORTHALOT": {
+      "name": "They'll be worth a lot someday",
+      "description": "Collect all Battle Stamps. ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/47929655c9996085c1a3e8dd5f305e6dce635125.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/50e4c0fb21f9264f8e93f7540a7b3eeeab48b743.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.7"
+    },
+    "STEAMACHIEVEMENT15_XMAS": {
+      "name": "Tisn't the Season",
+      "description": "Play Costume Quest on Christmas.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/e2256c576023fa1ca2ce3ea2c70a572297bade51.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/115100/3596d9fb7711bf086b26c09c0b52e4a1d2a0a979.jpg",
+      "hidden": false,
+      "group": "The Great Gift Pile",
+      "percent": "10.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,280 @@
+{
+  "appid": "1087460",
+  "name": "Super Life (RPG)",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087460/header.jpg?t=1737558758",
+  "achievements": {
+    "ACHIEVEMENT_ANOTHER_STAR_IS_BORN": {
+      "name": "Another Star is Born",
+      "description": "Collect all records.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "7.8"
+    },
+    "ACHIEVEMENT_CONFIRMED_WAVY": {
+      "name": "Confirmed Wavy",
+      "description": "Donate 100M to church.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "8.3"
+    },
+    "ACHIEVEMENT_DEVILS_NECTAR": {
+      "name": "Devils Nectar",
+      "description": "Prestige without Drinking Alcohol.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/f7726de4715ebfa8754139754f478fb4aa08a57b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.5"
+    },
+    "ACHIEVEMENT_DINO_KING": {
+      "name": "Dino King",
+      "description": "Fill Mesozoic Park.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/f7726de4715ebfa8754139754f478fb4aa08a57b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "6.0"
+    },
+    "ACHIEVEMENT_EMPIRE_BUSINESS": {
+      "name": "Empire Business",
+      "description": "Sell 100k Super Candy.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "3.1"
+    },
+    "ACHIEVEMENT_ENDGAME": {
+      "name": "Endgame",
+      "description": "Play 3000 Days before you prestige.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ACHIEVEMENT_GOD_OF_SUPER_LIFE": {
+      "name": "God of Super Life",
+      "description": "Collect all skins.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "0.9"
+    },
+    "ACHIEVEMENT_HUNTING_ELEPHANTS": {
+      "name": "Hunting Elephants",
+      "description": "Own all the stocks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/f7726de4715ebfa8754139754f478fb4aa08a57b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/6537b240c451c19f85f6e6345b1b888c257052e2.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "10.3"
+    },
+    "ACHIEVEMENT_INFLUENCER": {
+      "name": "Influencer",
+      "description": "Collect 100 friend coins.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/f7726de4715ebfa8754139754f478fb4aa08a57b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.2"
+    },
+    "ACHIEVEMENT_JACK_OF_ALL_TRAITS": {
+      "name": "Jack of all Traits",
+      "description": "Prestige as all 4 different classes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/f7726de4715ebfa8754139754f478fb4aa08a57b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/6537b240c451c19f85f6e6345b1b888c257052e2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "ACHIEVEMENT_LIFELONG_SCHOLAR": {
+      "name": "Lifelong Scholar",
+      "description": "Earn all College Degrees before you prestige.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.4"
+    },
+    "ACHIEVEMENT_MANS_BEST_FRIEND": {
+      "name": "Man's Best Friend",
+      "description": "Take care of your dog for 365 days. ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.6"
+    },
+    "ACHIEVEMENT_MASTER_BLASTER": {
+      "name": "Master Blaster",
+      "description": "Complete all arcade tournaments.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/f7726de4715ebfa8754139754f478fb4aa08a57b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/6537b240c451c19f85f6e6345b1b888c257052e2.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "4.1"
+    },
+    "ACHIEVEMENT_MICROMANAGER": {
+      "name": "Micromanager",
+      "description": "Complete all tasks for all 100 levels.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.1"
+    },
+    "ACHIEVEMENT_MONOPOLY": {
+      "name": "Monopoly",
+      "description": "Own all hotels.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "3.1"
+    },
+    "ACHIEVEMENT_NO_HAND_OUTS": {
+      "name": "No Hand Outs",
+      "description": "Prestige without ever using the Money Tree.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "ACHIEVEMENT_NUMBERS_GO_UP": {
+      "name": "Numbers go Up",
+      "description": "Max all Ranks.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.0"
+    },
+    "ACHIEVEMENT_OPTIMIZED_RUNNER": {
+      "name": "Optimized Runner",
+      "description": "Prestige in 365 Days.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/6537b240c451c19f85f6e6345b1b888c257052e2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "ACHIEVEMENT_QUACK_QUACK": {
+      "name": "Quack Quack",
+      "description": "Shoot 100 Gold Ducks",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "6.3"
+    },
+    "ACHIEVEMENT_REINCARNATION": {
+      "name": "Reincarnation",
+      "description": "Prestige 10 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ACHIEVEMENT_RUN_PLAYER_RUN": {
+      "name": "Run player run!",
+      "description": "Complete all secret races.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "1.1"
+    },
+    "ACHIEVEMENT_SAVE_THE_PLANET": {
+      "name": "Save the Planet",
+      "description": "Pull 1K trash out of the ocean.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.2"
+    },
+    "ACHIEVEMENT_SPEED_HUNTER": {
+      "name": "Speed Hunter",
+      "description": "Find the Golden Egg in 365 Days.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/f7726de4715ebfa8754139754f478fb4aa08a57b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.3"
+    },
+    "ACHIEVEMENT_THE_COLLECTOR": {
+      "name": "The Collector",
+      "description": "Find all six stones of power.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/f7726de4715ebfa8754139754f478fb4aa08a57b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "6.5"
+    },
+    "ACHIEVEMENT_THE_END": {
+      "name": "The End",
+      "description": "Roll Credits.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/6537b240c451c19f85f6e6345b1b888c257052e2.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "4.7"
+    },
+    "ACHIEVEMENT_TRES_COMMAS": {
+      "name": "Tres Commas",
+      "description": "Prestige with over 1 Billion Dollars in Net Worth.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.1"
+    },
+    "ACHIEVEMENT_VEGETARIAN": {
+      "name": "Vegetarian",
+      "description": "Prestige without eating meat.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "ACHIEVEMENT_WALKING_DEAD": {
+      "name": "Walking Dead",
+      "description": "Die 3 times before prestige.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "4.3"
+    },
+    "ACHIEVEMENT_WORKAHOLIC": {
+      "name": "Workaholic",
+      "description": "Max all stat careers.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/e182b0b22640524f8946e258a462f92eb85c49b8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "2.3"
+    },
+    "ACHIEVEMENT_YOU_ARE_WORTHY": {
+      "name": "You are Worthy",
+      "description": "Get the high score in Space Blasters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/f7726de4715ebfa8754139754f478fb4aa08a57b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1087460/a727a5d9a8f9357eef4d6022fafb3a13c1b5e15f.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "42.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

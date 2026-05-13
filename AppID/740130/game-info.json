@@ -1,0 +1,532 @@
+{
+  "appid": "740130",
+  "name": "Tales of ARISE",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/740130/9031a1f4e34e8031118594726762d7979e43f320/header.jpg?t=1770964399",
+  "achievements": {
+    "TROPHY_ID_SUB_QUEST_MNK": {
+      "name": "A Modest Dream",
+      "description": "Forge a strong bond with Kisara, reminding her it's good to dream a little.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/6dc7c5a796f0824667fa43d7be8ba5130b0c07f5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.2"
+    },
+    "TROPHY_ID_SPNL_NZM_PICTURE_ALL": {
+      "name": "Always on Her Mind",
+      "description": "Find portraits of every party member. Each drawing is brimming with sentiment.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/4b3a7188e6fbab4825c6f74d9378ebf8036cd9c2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/c4926d23fc46a67fd6f1b10eab66a43594dad2a5.jpg",
+      "hidden": true,
+      "group": "Tales of ARISE - Beyond the Dawn Expansion",
+      "percent": "2.2"
+    },
+    "TROPHY_ID_SUB_QUEST_NNA": {
+      "name": "An Honest Mage",
+      "description": "Forge a strong bond with Rinwell, helping her come to terms with her lineage and feelings.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/daecad8c5695d91d3581d8b7d48d70c419d1289a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.6"
+    },
+    "TROPHY_ID_SPNL_WEAPON_CREATION_ASPIRATION": {
+      "name": "Arms Master",
+      "description": "Craft 6 weapon types using ryugola core fragments in the Tales of Arise™ additional story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/4ffbd0a39d4f9c30f7d95108c441623f221c11a7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/c4926d23fc46a67fd6f1b10eab66a43594dad2a5.jpg",
+      "hidden": false,
+      "group": "Tales of ARISE - Beyond the Dawn Expansion",
+      "percent": "1.7"
+    },
+    "TROPHY_ID_WEAPON_CREATION_MANY": {
+      "name": "Arms Stockpiler",
+      "description": "Forge 100 types of weapons in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/469e620203672c1e6445c772ebf4a52e3246bc97.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "TROPHY_ID_DEFEAT_GIGANT_MANY": {
+      "name": "Big Game Hunter",
+      "description": "Slay 20 gigants in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/0b45c595c67e85b08dfcc98bb2d67c169bca5da3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.4"
+    },
+    "TROPHY_ID_DEFEAT_GARUDA": {
+      "name": "Billowing Cyclone",
+      "description": "Defeat Procella Sylph. Soaring the skies on its back will forever remain a cherished memory.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/beb619a940e2476deb4afb7891c2e8a135574ae6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.1"
+    },
+    "TROPHY_ID_LONGCHAT_MANY": {
+      "name": "Ceaseless Chatterbox",
+      "description": "View 300 skits in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/36d8eac3c17c2d94be204eb67cff61b7379ded1a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "TROPHY_ID_SCENARIO_03": {
+      "name": "Comrades in Freedom",
+      "description": "Recruit Lord Dohalim to your ranks. With friends like him, the Crown Contest's days are numbered.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/6d9a931a1c960699d96522af51632b262f254a44.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.3"
+    },
+    "TROPHY_ID_ARTIFACT_MANY": {
+      "name": "Curious Hobbyist",
+      "description": "Obtain 20 types of non-DLC artifacts in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/3226125551162e53f71d8c729c860f351a83ee7a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.3"
+    },
+    "TROPHY_ID_SPNL_SCENARIO_05": {
+      "name": "Departure",
+      "description": "You'll see her again someday.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/98d19d200262510a437b39c2eb0f23678a2e56d3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/c4926d23fc46a67fd6f1b10eab66a43594dad2a5.jpg",
+      "hidden": true,
+      "group": "Tales of ARISE - Beyond the Dawn Expansion",
+      "percent": "2.7"
+    },
+    "TROPHY_ID_SCENARIO_COMPLETE": {
+      "name": "Destined Liberator",
+      "description": "Save both worlds from impending destruction. A bright future awaits the people of the new world.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/6872117d0a1dc25378731aa464c8450878b7402f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.1"
+    },
+    "TROPHY_ID_ARTIFACT_FIRST": {
+      "name": "Dilettante",
+      "description": "Obtain your first non-DLC artifact in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/14085b1a8afc0e9cfc20c14988748b7aa13b40af.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.0"
+    },
+    "TROPHY_ID_FLASH_RAID_MANY": {
+      "name": "Diligent Counterattacker",
+      "description": "Perform 100 Counter Edges in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/68ef6ad1569cae118a0925560cbb156fd9130c46.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.6"
+    },
+    "TROPHY_ID_SUB_QUEST_YRA": {
+      "name": "Drink 'til You Drop",
+      "description": "Forge a strong bond with Dohalim, becoming drinking buddies with a one-time lord.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/59bf9463f8a344dd3d497c63e34137351e27535d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.0"
+    },
+    "TROPHY_ID_BATTLE_ARENA_COMPLETE": {
+      "name": "Elite Vanguard",
+      "description": "Clear Ultimate level of group training ground fights in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/2dcba7cc93df171f6638138a13f3a8137a835d29.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "TROPHY_ID_SPNL_BATTLE_ARENA_COMPLETE": {
+      "name": "Elite Vanguard, Again",
+      "description": "Clear Ultimate level of group training ground fights in the Tales of Arise™ additional story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/c1d2ffa8e25eaf4e67d2905a52b81cb010515aec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/c4926d23fc46a67fd6f1b10eab66a43594dad2a5.jpg",
+      "hidden": false,
+      "group": "Tales of ARISE - Beyond the Dawn Expansion",
+      "percent": "1.5"
+    },
+    "TROPHY_ID_SCENARIO_01": {
+      "name": "Emissary of Liberation",
+      "description": "Defeat Lord Balseph. Keep the flag of liberation raised high. The fight has only just begun.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/7df5bba96e335a99a816d415f4236fc89f0c666e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "75.2"
+    },
+    "TROPHY_ID_MONSTER_COMPLETE": {
+      "name": "Encyclopedia Zeuglica",
+      "description": "Encounter 120 types of non-DLC enemies in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/07c0f7d05644bd030b8c656aca2c532c2323afd0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.0"
+    },
+    "TROPHY_ID_COOKING_MANY": {
+      "name": "Globetrotting Foodie",
+      "description": "Acquire 30 kinds of non-DLC recipes in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/33f9d00a2cd2208f39dbbf8bceaf637d91bae379.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.3"
+    },
+    "TROPHY_ID_FISHING_COMPLETE": {
+      "name": "Godly Angler",
+      "description": "Catch every fish type and show the Notes to the Expert in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/1d6bb56bdbf3db5fe0ce8b6a0e0dc41a22c90cf0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.7"
+    },
+    "TROPHY_ID_SPNL_DIVE": {
+      "name": "Hero of the Summit",
+      "description": "Dive from the highest place in the keystone's Whirlpool Palace. Perhaps not its intended purpose.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/f55834ad148cf49183f3b3327a2daa5be599f7fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/c4926d23fc46a67fd6f1b10eab66a43594dad2a5.jpg",
+      "hidden": true,
+      "group": "Tales of ARISE - Beyond the Dawn Expansion",
+      "percent": "2.6"
+    },
+    "TROPHY_ID_PAID_GALD_MANY": {
+      "name": "High Roller",
+      "description": "Spend 400000 gald in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/39248eb5b301b1c0061cef6b862ce5f30409bb3a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.5"
+    },
+    "TROPHY_ID_MAX_COMBO_HIGH": {
+      "name": "Hundred-Hit Smackdown",
+      "description": "Get over 100 hits in a combo in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/08d78735d7b06b5e3218c62a9c9b98c1f0a5faa0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.7"
+    },
+    "TROPHY_ID_SPNL_SUB_QUEST_CHARA_ALL": {
+      "name": "Individual Growth",
+      "description": "Clear 12 character sub-quests in the Tales of Arise™ additional story. ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/9aeb315fe63e5a32f6b5307f4b41eea6d3a48cd3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/c4926d23fc46a67fd6f1b10eab66a43594dad2a5.jpg",
+      "hidden": false,
+      "group": "Tales of ARISE - Beyond the Dawn Expansion",
+      "percent": "2.0"
+    },
+    "TROPHY_ID_SUB_QUEST_SIO": {
+      "name": "Intertwining Hearts",
+      "description": "Forge a strong bond with Shionne, sharing your first meal together again, and plenty more...",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/de62cb26b64c7caf766109a101c633c5d8fa1cf9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/4458ddde6822f7a53da3e24ff94097a1dcd4234e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.9"
+    },
+    "TROPHY_ID_SCENARIO_06": {
+      "name": "Invasion Averted",
+      "description": "Stop the lights from the wedge. The Rena have stolen more than enough from Dahna as it is.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/a155750dd6c098860704772498648881c8974e64.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.7"
+    },
+    "TROPHY_ID_ACCESSORY_COMBINED_MANY": {
+      "name": "Jeweler",
+      "description": "Craft 30 accessories in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/22e628b568e3f9dd4ebfae40d99e3e1cc474165e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.9"
+    },
+    "TROPHY_ID_SCENARIO_05": {
+      "name": "Liberator of Dahna",
+      "description": "Defeat Lord Vholran. With all the Renan lords deposed, Dahna is now free at last.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/5c853b1e04cd21b5b414fdede045da81f9cccb90.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.9"
+    },
+    "TROPHY_ID_ALIAS_MANY": {
+      "name": "Myriad Monikers",
+      "description": "Learn 400 non-DLC title skills in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/fb1ab7da9113286685d1211299335959e3e41420.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "TROPHY_ID_DEFEAT_KERYNEIA": {
+      "name": "Night Blossom",
+      "description": "Defeat Meneiys. If only there had been time to admire the Phantom Flower just a little longer...",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/11a0eafb332b96e6a8f4b4bf4d88b5b82a2f726e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.5"
+    },
+    "TROPHY_ID_FARM_FIRST": {
+      "name": "Novice Rancher",
+      "description": "Collect your first harvest on the ranch in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/1f2371289966d356d68fced2c1c7a1b8f4f6e2a5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.0"
+    },
+    "TROPHY_ID_MAX_DAMAGE_HIGH": {
+      "name": "One-Hit Wonder",
+      "description": "Deal 10000 or more damage in one hit in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/89b82947182591824f63ddeff7af6179ac19840f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.9"
+    },
+    "TROPHY_ID_EXTRA_DUNGEON_COMPLETE": {
+      "name": "Otherworldly Survivor",
+      "description": "Clear the \"Otherworldly Visitors\" sub-quest and bring about a reunion between a certain pair.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/2299bc9419965e0d1fd7f3298fd1b78f54d681c9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.6"
+    },
+    "TROPHY_ID_SUB_QUEST_OWL": {
+      "name": "Owl Homecoming",
+      "description": "Find and report all of the owls. Even with his cohorts back, Hootle's place remains with Rinwell.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/036600f5406a7d55dd09e2881170beb8f5ddfdae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.6"
+    },
+    "TROPHY_ID_FINDING_OWL_MANY": {
+      "name": "Owl Scouter",
+      "description": "Find and report 32 owls. The forest is now starting to teem with hordes of hooting owls galore.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/c2437cb46e911ee7b698fcefa08aec8a2147f180.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.2"
+    },
+    "TROPHY_ID_FINDING_OWL_FIRST": {
+      "name": "Owl Spotter",
+      "description": "Find and report 13 owls. The lonely forest is beginning to show signs of feathered life.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/3f2343225ec2eecc966b4a0caf1a803c200878db.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.8"
+    },
+    "TROPHY_ID_ANY_LEVEL_COMPLETE": {
+      "name": "Peak Strength",
+      "description": "Reach level 100 in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/c782ea277d77ee80c371e694bd44471f9b7d25c3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "TROPHY_ID_SUB_QUEST_COMPLETE": {
+      "name": "Problem Solver",
+      "description": "Clear 70 sub-quests in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/155edfdf96f7b2f0882254daf1cd716590faf02c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.2"
+    },
+    "TROPHY_ID_BATTLE_RUSH_COMPLETE": {
+      "name": "Putting the Past in its Place",
+      "description": "Clear the \"Reminiscence Device\" sub-quest. No past foe is any trouble for today's party!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/22f5817e758d059a8cf3589c62f23ba525f20f7a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.1"
+    },
+    "TROPHY_ID_DEFEAT_TITAN": {
+      "name": "Quaking Continent",
+      "description": "Defeat Grand Gnome. So enormous was its body that it dwarfed even the ruins surrounding it.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/e4404b6c20037f92453f61f34cac2feee9abe732.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.5"
+    },
+    "TROPHY_ID_DEFEAT_UNDINE": {
+      "name": "Raging Current",
+      "description": "Defeat Luo Undine. Even its heft couldn't stop it from being washed away by the party's might.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/08609fff0d0b2841be3e0ff42f3663a0f04fd824.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.8"
+    },
+    "TROPHY_ID_SUB_QUEST_FIRST": {
+      "name": "Rebellious Spark",
+      "description": "Clear your first sub-quest in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/1c6d8505d77972dd0af6f01b031f8b49814f583a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.8"
+    },
+    "TROPHY_ID_SPNL_SCENARIO_02": {
+      "name": "Resolution",
+      "description": "Defend the city from the zeugle threat and subdue the chaos.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/4f9440419d3911d9421844083b837be1ddee14e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/c4926d23fc46a67fd6f1b10eab66a43594dad2a5.jpg",
+      "hidden": true,
+      "group": "Tales of ARISE - Beyond the Dawn Expansion",
+      "percent": "3.4"
+    },
+    "TROPHY_ID_SCENARIO_04": {
+      "name": "Retired Avenger",
+      "description": "Defeat Lord Almeidrea. A lone boy is all that stood between her and death by one of her victims.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/d828ba03770ee4f0d7af5cb98123039ec0ea68e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.9"
+    },
+    "TROPHY_ID_SUB_QUEST_ZGU": {
+      "name": "Role Model",
+      "description": "Forge a strong bond with Law, giving him something to aspire to on and off the battlefield.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/ce6fe47594d28891357b5af9e019ba8998af3b92.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.0"
+    },
+    "TROPHY_ID_FISHING_FIRST": {
+      "name": "Skilled Angler",
+      "description": "Catch your first fish in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/063e7fff997779608fbfa63fd72e68c28408144b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.3"
+    },
+    "TROPHY_ID_COOKING_FIRST": {
+      "name": "Speedy Chef",
+      "description": "Cook your first meal in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/2f2abac93dff5370252965de98510a16262ec2df.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.0"
+    },
+    "TROPHY_ID_SPNL_SCENARIO_01": {
+      "name": "The First Seal",
+      "description": "Seal Mausoleum of the Ruins: Helgal-Ryugola 238. A necessary act to bring peace to the new world.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/862cba68f66a9f098330862b137cd8b01249b3cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/c4926d23fc46a67fd6f1b10eab66a43594dad2a5.jpg",
+      "hidden": true,
+      "group": "Tales of ARISE - Beyond the Dawn Expansion",
+      "percent": "3.8"
+    },
+    "TROPHY_ID_SPNL_SCENARIO_04": {
+      "name": "The Second Seal",
+      "description": "Seal Mausoleum of the Jungle: Helgal-Ryugola 67. A new destination awaits the party.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/1cdd3630863dca884bdba8bfacf3f4745ca54d58.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/c4926d23fc46a67fd6f1b10eab66a43594dad2a5.jpg",
+      "hidden": true,
+      "group": "Tales of ARISE - Beyond the Dawn Expansion",
+      "percent": "2.8"
+    },
+    "TROPHY_ID_SCENARIO_07": {
+      "name": "The Truth",
+      "description": "Learn the truth about Dahna and Rena on Daeq Faezol. Now to take the fight to the Great Spirit.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/05e2ca65cd4708e6c1d9ca507cd0935789a3e581.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.6"
+    },
+    "TROPHY_ID_SPNL_SCENARIO_03": {
+      "name": "True Freedom",
+      "description": "Commit to living in the new world. For the day when all binds are cut loose.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/479a34f60842e63e99008feab0244dc22db841ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/c4926d23fc46a67fd6f1b10eab66a43594dad2a5.jpg",
+      "hidden": true,
+      "group": "Tales of ARISE - Beyond the Dawn Expansion",
+      "percent": "3.1"
+    },
+    "TROPHY_ID_SPNL_SUB_QUEST_COMPLETE": {
+      "name": "Unparalleled Problem Solver",
+      "description": "Clear 40 sub-quests in the Tales of Arise™ additional story. ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/c30791422337a97c089e6a54847d33b575e0a217.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/c4926d23fc46a67fd6f1b10eab66a43594dad2a5.jpg",
+      "hidden": false,
+      "group": "Tales of ARISE - Beyond the Dawn Expansion",
+      "percent": "1.8"
+    },
+    "TROPHY_ID_DEFEAT_IFRIT": {
+      "name": "Unrelenting Blaze",
+      "description": "Defeat Efreet Malum. What was once a small spark grew to consume even the flaming giant.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/e0ad443d585a12a19f9d90ed3bb6cf3de0572373.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.7"
+    },
+    "TROPHY_ID_SCENARIO_02": {
+      "name": "Vanquishers of Darkness",
+      "description": "Defeat Lord Ganabelt, bringing light to Cyslodia and its people for the first time in centuries.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/06218c16aa63470f84ce30c4107fd84f4a2fba72.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.4"
+    },
+    "TROPHY_ID_FARM_MANY": {
+      "name": "Veteran Rancher",
+      "description": "Collect 50 harvests on the ranch in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/63a0b7058f8192b5cb517cd84164f09b1138b3d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.1"
+    },
+    "TROPHY_ID_SUB_QUEST_ALL": {
+      "name": "Wall Smasher",
+      "description": "Forge strong bonds with all party members as a testament to all the many hours spent together.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/1491334f8b7d648d902a5d2e4c2b88fbbb80a806.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.7"
+    },
+    "TROPHY_ID_ALIAS_FIRST": {
+      "name": "What's in a Name?",
+      "description": "Learn your first non-DLC title skill in the Tales of Arise™ main game story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/64a7b903a9aeee182bd897c373221593a2e386ca.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/740130/327ff95a74c89c52b80a618c1f00b11f65b8c617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.8"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

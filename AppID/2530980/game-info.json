@@ -1,0 +1,460 @@
+{
+  "appid": "2530980",
+  "name": "Tales of Graces f Remastered",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530980/header.jpg?t=1739758056",
+  "achievements": {
+    "NEW_ACHIEVEMENT_2_3": {
+      "name": "A Gentlemanly Triumph",
+      "description": "Defeated a true Gentleman. Good show!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/a68919fa1026445fd9be4a41e600085b0e3d9f01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/cc21c601a7ca68ebe020ae40f7936c6dd82edc90.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "NEW_ACHIEVEMENT_1_29": {
+      "name": "A Pact Fulfilled",
+      "description": "Completed Chapter 8.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/f57442c2b6dfe25db6c9cc325d208b0c1a547b08.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/07388a604116a3269d1c273a1af4b98a7968375a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.6"
+    },
+    "NEW_ACHIEVEMENT_1_24": {
+      "name": "A Throne Reclaimed",
+      "description": "Completed Chapter 3.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.0"
+    },
+    "NEW_ACHIEVEMENT_1_17": {
+      "name": "Appellatrix (50 titles)",
+      "description": "Acquired 50 different titles for Pascal.\r\nLet's keep going! Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.0"
+    },
+    "NEW_ACHIEVEMENT_2_8": {
+      "name": "Bryce in 60 Seconds",
+      "description": "Defeated that jerk with the claw in a minute or less.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "59.3"
+    },
+    "NEW_ACHIEVEMENT_1_15": {
+      "name": "Captain Ephinea (100 titles)",
+      "description": "Acquired 100 different titles for Malik.\nJust a little more! Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "NEW_ACHIEVEMENT_1_14": {
+      "name": "Captain First Class (50 titles)",
+      "description": "Acquired 50 different titles for Malik.\r\nLet's keep going! Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.5"
+    },
+    "NEW_ACHIEVEMENT_1_22": {
+      "name": "Childhood's End",
+      "description": "Completed Chapter 1.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "73.9"
+    },
+    "NEW_ACHIEVEMENT_2_11": {
+      "name": "Dis Paters in 60 Seconds",
+      "description": "Defeated the monsters Richard sicced on you in a minute or less.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "NEW_ACHIEVEMENT_1_8": {
+      "name": "Emboldened (50 titles)",
+      "description": "Acquired 50 different titles for Hubert.\r\nLet's keep going! Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.6"
+    },
+    "NEW_ACHIEVEMENT_1_9": {
+      "name": "Empowered (100 titles)",
+      "description": "Acquired 100 different titles for Hubert.\nJust a little more! Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.6"
+    },
+    "NEW_ACHIEVEMENT_1_7": {
+      "name": "Entitled (20 titles)",
+      "description": "Acquired 20 different titles for Hubert. \r\nStill a ways to go. Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.7"
+    },
+    "NEW_ACHIEVEMENT_1_18": {
+      "name": "Epithetologist (100 titles)",
+      "description": "Acquired 100 different titles for Pascal.\nJust a little more! Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "NEW_ACHIEVEMENT_1_4": {
+      "name": "First Flower (20 Titles)",
+      "description": "Acquired 20 different titles for Sophie. \r\nStill a ways to go. Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.1"
+    },
+    "NEW_ACHIEVEMENT_1_6": {
+      "name": "Flower Power (100 Titles)",
+      "description": "Acquired 100 different titles for Sophie.\nJust a little more! Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.4"
+    },
+    "NEW_ACHIEVEMENT_2_16": {
+      "name": "Fodra Queen in 60 Seconds",
+      "description": "Defeated the Fodra Queen in a minute or less.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/a68919fa1026445fd9be4a41e600085b0e3d9f01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/cc21c601a7ca68ebe020ae40f7936c6dd82edc90.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.3"
+    },
+    "NEW_ACHIEVEMENT_1_5": {
+      "name": "Full Flower (50 Titles)",
+      "description": "Acquired 50 different titles for Sophie.\r\nLet's keep going! Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.4"
+    },
+    "NEW_ACHIEVEMENT_1_31": {
+      "name": "Gagonged!",
+      "description": "Defeated the Rockgagong.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/a68919fa1026445fd9be4a41e600085b0e3d9f01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/cc21c601a7ca68ebe020ae40f7936c6dd82edc90.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "NEW_ACHIEVEMENT_2_7": {
+      "name": "Game Clear: Chaos",
+      "description": "Completed the game on the Chaos difficulty setting.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "NEW_ACHIEVEMENT_2_6": {
+      "name": "Game Clear: Evil",
+      "description": "Completed the game on the Evil difficulty setting.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "NEW_ACHIEVEMENT_2_5": {
+      "name": "Game Clear: Hard",
+      "description": "Completed the game on the Hard difficulty setting.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.3"
+    },
+    "NEW_ACHIEVEMENT_2_4": {
+      "name": "Game Clear: Moderate",
+      "description": "Completed the game on the Moderate difficulty setting.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.1"
+    },
+    "NEW_ACHIEVEMENT_2_12": {
+      "name": "Kurt in 60 Seconds",
+      "description": "Ended your fateful battle with Kurt in a minute or less.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "NEW_ACHIEVEMENT_2_15": {
+      "name": "Lambda Angelus in 60 Seconds",
+      "description": "Defeated Lambda in the final battle in a minute or less.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/f57442c2b6dfe25db6c9cc325d208b0c1a547b08.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2a5177b224fc0caeaae7d3d2b97cb0d8c118afed.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "NEW_ACHIEVEMENT_2_14": {
+      "name": "Lambda in 60 Seconds",
+      "description": "Defeated the materialized Lambda in a minute or less.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/a68919fa1026445fd9be4a41e600085b0e3d9f01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/cc21c601a7ca68ebe020ae40f7936c6dd82edc90.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.0"
+    },
+    "NEW_ACHIEVEMENT_1_30": {
+      "name": "Lineage & Legacies",
+      "description": "Completed Chapter 9. Next up: the Zhonecage! The what? Look to the skits for a hint!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/a68919fa1026445fd9be4a41e600085b0e3d9f01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/cc21c601a7ca68ebe020ae40f7936c6dd82edc90.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.3"
+    },
+    "NEW_ACHIEVEMENT_1_12": {
+      "name": "Lionhearted (100 titles)",
+      "description": "Acquired 100 different titles for Cheria.\nJust a little more! Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "NEW_ACHIEVEMENT_2_17": {
+      "name": "Mixer Maxed",
+      "description": "Maxed out your Eleth Mixer by boosting its eleth capacity to 9999.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/a68919fa1026445fd9be4a41e600085b0e3d9f01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/cc21c601a7ca68ebe020ae40f7936c6dd82edc90.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "NEW_ACHIEVEMENT_2_2": {
+      "name": "One with Oblivion",
+      "description": "Defeated Lambda Theos. Impressive!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/a68919fa1026445fd9be4a41e600085b0e3d9f01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/cc21c601a7ca68ebe020ae40f7936c6dd82edc90.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.8"
+    },
+    "NEW_ACHIEVEMENT_1_10": {
+      "name": "Openhearted (20 titles)",
+      "description": "Acquired 20 different titles for Cheria.\r\nStill a ways to go. Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.4"
+    },
+    "NEW_ACHIEVEMENT_2_13": {
+      "name": "Polycarpus in 60 Seconds",
+      "description": "Defeated the guardian of the ruins in a minute or less.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/a68919fa1026445fd9be4a41e600085b0e3d9f01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/cc21c601a7ca68ebe020ae40f7936c6dd82edc90.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "NEW_ACHIEVEMENT_2_9": {
+      "name": "Queen Slime in 60 Seconds",
+      "description": "Defeated the ruler of all oozes in a minute or less.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.6"
+    },
+    "NEW_ACHIEVEMENT_2_10": {
+      "name": "Richard in 60 Seconds",
+      "description": "Defeated the friend who betrayed you in a minute or less.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.5"
+    },
+    "NEW_ACHIEVEMENT_1_19": {
+      "name": "Richard the Radiant (20 Titles)",
+      "description": "Acquired 20 different titles for Richard.\r\nStill a ways to go. Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.3"
+    },
+    "NEW_ACHIEVEMENT_1_21": {
+      "name": "Richard the Redeemed (80 Titles)",
+      "description": "Acquired 80 different titles for Richard.\nJust a little more! Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "NEW_ACHIEVEMENT_1_20": {
+      "name": "Richard the Righteous (50 Titles)",
+      "description": "Acquired 50 different titles for Richard.\r\nLet's keep going! Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.2"
+    },
+    "NEW_ACHIEVEMENT_1_16": {
+      "name": "Sobriquetian (20 titles)",
+      "description": "Acquired 20 different titles for Pascal.\r\nStill a ways to go. Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.1"
+    },
+    "NEW_ACHIEVEMENT_2_1": {
+      "name": "Terma-nated",
+      "description": "Defeated Solomus and the Terma Ten.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/a68919fa1026445fd9be4a41e600085b0e3d9f01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/cc21c601a7ca68ebe020ae40f7936c6dd82edc90.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "NEW_ACHIEVEMENT_1_28": {
+      "name": "The Fallen Eden",
+      "description": "Completed Chapter 7.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.3"
+    },
+    "NEW_ACHIEVEMENT_1_26": {
+      "name": "The Infiltration of Fendel",
+      "description": "Completed Chapter 5.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.0"
+    },
+    "NEW_ACHIEVEMENT_1_23": {
+      "name": "The Lord of Lhant",
+      "description": "Completed Chapter 2.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "66.7"
+    },
+    "NEW_ACHIEVEMENT_1_27": {
+      "name": "The Other Side of the Sky",
+      "description": "Completed Chapter 6.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.1"
+    },
+    "NEW_ACHIEVEMENT_1_25": {
+      "name": "The Sands of Strahta",
+      "description": "Completed Chapter 4.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.4"
+    },
+    "NEW_ACHIEVEMENT_1_1": {
+      "name": "Title Fighter (20 Titles)",
+      "description": "Acquired 20 different titles for Asbel.\r\nStill a ways to go. Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.2"
+    },
+    "NEW_ACHIEVEMENT_1_2": {
+      "name": "Title Holder (50 Titles)",
+      "description": "Acquired 50 different titles for Asbel. \r\nLet's keep going! Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.2"
+    },
+    "NEW_ACHIEVEMENT_1_3": {
+      "name": "Title Master (100 Titles)",
+      "description": "Acquired 100 different titles for Asbel.\nJust a little more! Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.4"
+    },
+    "NEW_ACHIEVEMENT_1_13": {
+      "name": "Training Captain (20 titles)",
+      "description": "Acquired 20 different titles for Malik.\r\nStill a ways to go. Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.9"
+    },
+    "NEW_ACHIEVEMENT_1_0": {
+      "name": "True Grace",
+      "description": "You've accomplished everything!\nThanks for playing!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/c8536d1113de51a2dd563cdf8d010477926342e2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/fc6d3d8877a7cf0a518ed74be752af01e2d2fe83.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "NEW_ACHIEVEMENT_2_0": {
+      "name": "Who Were Those Guys, Again?",
+      "description": "Defeated Veigue, Reala, and Amber.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/a68919fa1026445fd9be4a41e600085b0e3d9f01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/cc21c601a7ca68ebe020ae40f7936c6dd82edc90.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "NEW_ACHIEVEMENT_1_11": {
+      "name": "Wholehearted (50 titles)",
+      "description": "Acquired 50 different titles for Cheria.\r\nLet's keep going! Note: Excludes bonus costume titles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/b2bc1930ae825afd27c809975d69bac2a95e467e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

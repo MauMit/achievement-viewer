@@ -1,0 +1,190 @@
+{
+  "appid": "1172450",
+  "name": "Carto",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172450/header.jpg?t=1773690780",
+  "achievements": {
+    "ACH_13": {
+      "name": "Cawtet",
+      "description": "Listen to the quartet of birds.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/ec173e5f15611cdc0e9cfb65a6b7c404629b8b75.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/1f185a754611be84d7b8dc8d09ac033e0d607607.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.4"
+    },
+    "ACH_08": {
+      "name": "First Fishtival",
+      "description": "Finish chapter 8.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/d16e298bcaa99d189d3eb0418fb663fe16aae2a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/70c33fa0fdffbfc8c7b8d83958a8b1ba8ce267ec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.0"
+    },
+    "ACH_16": {
+      "name": "Frosty Friend",
+      "description": "Finish snowman buddy.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/bdc85586c5ce68a6710247ccd0ea8f67a10f7405.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/5be77130c8893057c768793bb5387fa47e0a0a3c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.3"
+    },
+    "ACH_12": {
+      "name": "Ground of Applause",
+      "description": "Give a plant your full support.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/811c0f5d8a4e808aa9acc7dfca83ca322d15746d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/ece6eb10bab7e2d137694884fd624f13bec1b8f2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.0"
+    },
+    "ACH_17": {
+      "name": "Home Sweet Home",
+      "description": "Visit the airship.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/937a3e716d5cfc1166ac681640870a35a716f207.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/417ed30909704db1f4f2ed0da2760c825ca346f6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "ACH_02": {
+      "name": "Horti-carto-ralist",
+      "description": "Finish chapter 2.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/b2883604a82ad3de2e265e588b1402dc697990b4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/51945d984191ac025c69df77727276a90c7ddb82.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.3"
+    },
+    "ACH_20": {
+      "name": "Master Cartographer",
+      "description": "Complete the game 100%.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/45503f36f281999d2235927ad722000deb51b984.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/d6ed9d7ae5aeded672f6c70ce406d03de880684c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.3"
+    },
+    "ACH_03": {
+      "name": "New Growth",
+      "description": "Finish chapter 3.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/489a31604a34316ba84c130bd1cd973a66c98a7d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/03b1058c4980518036ec0215f94f79670503bb8b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.0"
+    },
+    "ACH_14": {
+      "name": "Not So Sharp",
+      "description": "Learn nothing about cactuses.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/e7163cc44f2a142ed486b6cc2d00881cf7d608d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/b7978d072ae443c175f0a471b50cbbd32504dc47.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.3"
+    },
+    "ACH_06": {
+      "name": "One With the Woods",
+      "description": "Finish chapter 6.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/658bcecbf640d5c7d6204b9bd9e51dac367eba5c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/f1019b3d5f8f970c230ba070097384579e1385f1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.4"
+    },
+    "ACH_04": {
+      "name": "Quick Learner",
+      "description": "Finish chapter 4.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/8936def84e5fc71086b64a261afec1f12a7503c6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/5abeef630881c768bd86aa9713dc309a8613f495.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.8"
+    },
+    "ACH_01": {
+      "name": "Set Sail",
+      "description": "Finish chapter 1.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/81d78d5533104c6892d2c4be9ac694ef01287993.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/d406742219da20cba7b299bcd1e11c7a7625b657.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "80.5"
+    },
+    "ACH_05": {
+      "name": "Slaked",
+      "description": "Finish chapter 5.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/7b11ab17803f9b77e79efeffbb324378f18cf83b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/13fa3022e7b340c09983ac2f120d927339eed866.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.3"
+    },
+    "ACH_15": {
+      "name": "Stirring Things Up",
+      "description": "Behold the legendary flame tornado!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/66ba1c5000d608d52968ed5b554f2da00f0969df.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/a3137394c7c85a84c707050d0a35157b273d18a7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "ACH_11": {
+      "name": "Strange Catch",
+      "description": "Find something mysterious in the lake.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/4a74815e8e3155af0034cf1ab33e83b33a4f7f12.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/d35e8a8461a0f518cdafde352233da165b1d3ad0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.3"
+    },
+    "ACH_10": {
+      "name": "The Little Cartographer",
+      "description": "Finish chapter 10.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/18d7c49dfe205c53840cf2629f6ab27d6f47eb43.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/f6599e028004b9e2c8ac2cb016a380cc74933ca7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.5"
+    },
+    "ACH_19": {
+      "name": "Towering Intellect",
+      "description": "Finish the three levels of the Tower of Hanoi in the fewest steps.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/164cdbf50412d73fb47002861d642c63ae8928cf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/a32e7fa892f0b95152ca13393a407adcef74e620.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.4"
+    },
+    "ACH_09": {
+      "name": "Truest Treasure",
+      "description": "Finish chapter 9.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/a3b5f7d021e92c4811872fcf634877071626182e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/57b3e3be43646525e0ba142788a191ea98eb8f0b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.9"
+    },
+    "ACH_07": {
+      "name": "Volcanographer",
+      "description": "Finish chapter 7.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/99948ccc21a512740af6ecd78a36762ded939a9a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/af0330b0646f548aa0402d00823d2fd6b2d5b366.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.6"
+    },
+    "ACH_18": {
+      "name": "Voracious Reader",
+      "description": "Read all stories in the Story Chalet.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/964769b0ade63f188883aabeb050d7975e71f5b5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1172450/5b7b51d265e7587d3d870c09d53aa7386821a98c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.7"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

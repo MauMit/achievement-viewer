@@ -1,0 +1,289 @@
+{
+  "appid": "2069250",
+  "name": "High On Life 2",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2069250/14a0a45da992ca33d59eb318b5cb9598c070e1c1/header.jpg?t=1773678883",
+  "achievements": {
+    "ACH_DrinkPoisonVial": {
+      "name": "#1 Scientist",
+      "description": "You made the ultimate sacrifice for science. Good work.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/8902b53f108865a14619dd239793464a1cdf404f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/6ace59f9e993b5b2634953608c0fc91f4bcd6558.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.5"
+    },
+    "ACH_Play8BitNipulon": {
+      "name": "8-Bit Warrior",
+      "description": "One by one, you have taken out each of Nipulon's 8-Bits (and 8 nips).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/ad0258e90e15e59a28348f2da262a707a3f23af6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/7ee9a71ecb5a8e501b3df3bcc8ba3694bc7d6f5a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ACH_ApplesVases": {
+      "name": "All Your Vase Are Belong to Us",
+      "description": "Break all of Apples' vases. He just can't have nice things, court order.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/2b078b7cfd20e5dffe14fc2338ca175b92021b13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/4cd637e0a4c9bc980c20a0b8e572478e86a60e80.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "ACH_EscapeRoomEnding": {
+      "name": "Ankhs For The Memories",
+      "description": "Was any of this even real?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/6ca7f6164e201692c057ead78310779184c21421.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/216196c1d457b936abc434a1194e43cd315a79ef.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.4"
+    },
+    "ACH_ReuniteBALLGuys": {
+      "name": "B.A.L.L. In The Family",
+      "description": "You brought those little freaks together again!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/071fc4d5d38cfee81b5b7d4454c52d1f769a3d4c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/3f2d0e85abaeaee47b7bd61913b6c9be7a7fd331.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.5"
+    },
+    "ACH_BountyHunterExhibit": {
+      "name": "Bountilogical Studies PhD",
+      "description": "Visit every exhibit at the Bounty Hunter Museum.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/95ad54a32bffbbc751caf39ae3010a802850cc2f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/56531f1fa13a3d363b28305395accd2a0437678d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.8"
+    },
+    "ACH_GP_EscapeAlienZoo": {
+      "name": "Broke the Code",
+      "description": "You broke the Bounty Hunter code, and now you're a wanted outlaw. Good luck!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/85175dc2fc35462b73093b5d30d7bcaa661ebb96.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/a33b2df426f8f4d059a8c13df91ab43f6135f8ed.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "78.8"
+    },
+    "ACH_MurderMysterySolved": {
+      "name": "Columbo in Space",
+      "description": "You perfectly solved the murder mystery. You got every detail just right. You didn't cheat, right?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/f06de2bcbe9fd72e0d09a09d116e2125e93e58d9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/dccc76c3ebae04030ce1b571b94d1b8abfdf2d87.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.6"
+    },
+    "ACH_GP_KillGwendolyn": {
+      "name": "Dad's All, Folks",
+      "description": "You saved your dad but left a raging monster loose in Wyoming. Let's just call it a win!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/11ad45a64f5ef29ee9b43d14df780b6ea93c3b6a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/ba826c1e48e1dcbfbd66f0546918606f9dd981df.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.7"
+    },
+    "ACH_AllGurgulaTransmissions": {
+      "name": "Dr. Gurgula Will Return...",
+      "description": "Found all of Dr. Gurgula's hidden transmissions... maybe he'll finally be important in the 3rd game?",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/ac9bc5a9ed65b6f4d20ec42b4faa60c2bc2e17da.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/5a2327f2f4101cf0df570678852263a05611fecf.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ACH_MuseumLaserMaze": {
+      "name": "Dunston Has Checked In",
+      "description": "Navigate the laser maze with perfect precision to help a new friend.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/dd03a5da96cf7caad628acdbbd61793da8a25ddd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/252bd3210fb27637a1d4a7c4e6c119b2fea07c9d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.6"
+    },
+    "ACH_FlushSomeone": {
+      "name": "Fare Thee Well",
+      "description": "You took those passengers to where they were ultimately heading, anyway.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/3dc858b0f4309b51c0236f3bc399f8de7190d89c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/43f39580e652c6f4548d7a141b62942a91eb8fe7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.1"
+    },
+    "ACH_GP_KillMuppyDoo": {
+      "name": "Invasive Procedure",
+      "description": "You assassinated a Senator and almost killed yourself in the process.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/467215b92e9de9f1397019d319431daf16542714.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/c120c10a6e14a217c15e1d4990e6c8dcbc311c7b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.8"
+    },
+    "ACH_HalfCourtWin": {
+      "name": "Kobe!",
+      "description": "You've joined the grand tradition of winning a court case due to basketball skills!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/5d5f2bcc82f5ce3f15050d43965bf76d349007e0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/f68481dcad05c5cd4d88604f694dec1b153e4393.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "ACH_JeppyPlaydate": {
+      "name": "Nice Day With Jeppy",
+      "description": "You're a good sibling. If Jeppy grows up to be a bad person, it's not on you.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/98525c7f3df51c31230de28eb1ccc945dda399e8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/2cb8cb01c77fa5fec7f4ebd6db9eabbc436311c4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.0"
+    },
+    "ACH_CompleteSkateRaces": {
+      "name": "Phony Hawk",
+      "description": "Complete three races in each of the three hubs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/e118847992ed47cc4b39434831a372ef4dccc287.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/a45899a4cbc4f928b82f4ee161a3a7c86cd3e092.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ACH_SkateParkChallenges": {
+      "name": "Pro Skater",
+      "description": "Complete all teen skatepark activities.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/27f3033a8af39aa15c9a6bf901158f8d59a085cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/5a66187f0f8d74d818c9d887a3d4efbe46052a27.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "ACH_GP_FoundEroticWorms": {
+      "name": "Romanced All 34 Erotic Worm Monsters",
+      "description": "This one takes over 100 hours. Only the most dedicated worm romancers get this one. Great job!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/ccedf87d68a472acd159fd0a7ab281089d4840e0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/70dd35525c083da51c3769f7f10a56a46e1260b1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.3"
+    },
+    "ACH_GP_KillKregButtons": {
+      "name": "Smash That Kreg Button",
+      "description": "Congratulations, you have murdered an animal rights activist.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/5c54c2791b31ace3d70d40194e1949c847fec1ec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/567a04acff3ba3ef20d48fc3fa2c0f691d09e251.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "59.0"
+    },
+    "ACH_GP_KillBerkel": {
+      "name": "So Long, and Thanks For All The Ghosts",
+      "description": "Don't feel bad for killing a dolphin. They've done some horrible things. For real. Look it up.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/9d8481a9dcbee0fa76f3ce39695715db3a59e2d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/3e9d224d350d75a5452aa15e83130e31555bcf1e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.9"
+    },
+    "ACH_SpareBronkinBucko": {
+      "name": "Starstruck",
+      "description": "You spared a movie star's life. He better thank you in his acceptance speech.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/5adbf9c02fcf01b3dfd48ae3e1629e3b3fd33f1a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/edca1abc0f4a1caddd725846ac4e237facd8dac3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "ACH_DopeFishTank": {
+      "name": "Tanks for the Memories",
+      "description": "Fill up the aquarium in Quarters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/41ab036468cf5ff7d2c06ee15a1743ee8f668110.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/8610a2f6fb1616c822dfdae23a03a54616f66c2e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "ACH_GP_KillBlueWizard": {
+      "name": "Thats A Wrap on Character Actor Fred Melamed",
+      "description": "Great job voicing the Blue Wizard, Fred! We loved you in \"A Serious Man\"!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/c9b10a1bc00a36ac3478c24d124dcdf5938ac72b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/631b211dc70537c01907aa925f3f4e77d4089983.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.7"
+    },
+    "ACH_KillLizzieEnding": {
+      "name": "The Good Ending",
+      "description": "Wow, that was easy!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/c79dbb14919be948672e5fa38f1d7251412986a8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/ca55dacc63ca4b3bf9ad13db048debd4a7bd117d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.3"
+    },
+    "ACH_FindEmulatedGames": {
+      "name": "Throne of Games",
+      "description": "Find the games in the game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/96e46a0a60bd0e68c11b407e8055a67cb533cf13.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/c3822d9cee1bb64363467c12df2ac3fafefd9e2d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ACH_GP_KillNipulon": {
+      "name": "Trial of the Century",
+      "description": "Nice, you saved humanity again! Thankfully there are no evil pharmaceutical companies in real life.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/e5ae0ac0fc9b4e1b79845edcd20826240e29e6e9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/072845f28000d0f6802bfb0c3bd749e3183e4f1f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.3"
+    },
+    "ACH_SlashAllWantedPosters": {
+      "name": "Unwanted",
+      "description": "Slash all of your Wanted Posters.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/30abbcd11366e37ff0c0ac9ee94608ca3c3b2eaa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/054c614ac8bebeb9c5d240dabfd6eccccbf787ca.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.2"
+    },
+    "ACH_GP_DrewAWiener": {
+      "name": "Was That A Wiener?",
+      "description": "We can't actually tell if you drew a wiener. But if you did, this was probably a little funny.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/c362bb3cfdfea5a508dba240273bee21976b31d1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/047bcdc87c5c96eacc547503d2c596ea9db5aa5b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.8"
+    },
+    "ACH_FrasierCraneMachine": {
+      "name": "Where's Maris?",
+      "description": "Niles!!! Our dinner guests will arrive any minute now and I've just been turned into a crane game!!!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/8bee5346b18f9d4020fb553e3d998776e3993feb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/14c8382c78a48d8d3dec36fc82dd24f7b09f3268.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "ACH_WizardQuiz": {
+      "name": "Why do you know all that stuff?",
+      "description": "Prove your Galactic Tax Code prowess.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/47968eb8f4b8210af0e7f1bf253259032d7cad9b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/614cb4d0a920ae6d8b6629b7f867b49cb1c5e9e6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.5"
+    },
+    "ACH_BurnKregsClothes": {
+      "name": "Witness the Burning Bush",
+      "description": "This must be what Moses saw when he, too, burned off Kreg Button's pants.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/132f3209d483c62468120d8bb2704492df97b0d9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2069250/12616bad06c1132b49f53cf915bd8f75c437d57a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.7"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

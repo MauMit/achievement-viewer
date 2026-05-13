@@ -1,0 +1,208 @@
+{
+  "appid": "2754380",
+  "name": "The Roottrees are Dead",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2754380/6c1be65b8ae88dead50e0fa854790245a2ac072a/header.jpg?t=1775743305",
+  "achievements": {
+    "ALL_MUSIC": {
+      "name": "Audiophile",
+      "description": "Listened to all musical evidence",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/15c8d7ec3282d5ee3a22af14c3fa0a2b66497f85.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/c7a232228f46c957b1aef505f9fab8b6443093e6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "NEXT_GEN": {
+      "name": "Branching Out",
+      "description": "Locked in everyone in the Next Generation photograph",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/c695e296f554fbc7d9a29d8b0882984b9c4fe137.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/ed3fb23626a437bdad101e1d1f530cd420b91604.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.3"
+    },
+    "CALL_SCREENER": {
+      "name": "Call Screener",
+      "description": "Let the machine handle the call",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/8b157b8afbf033b1538343a02928360060cae8f2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/de6f721ca16183856b9eda433eb9a6d0624d1572.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.4"
+    },
+    "DUCKLER": {
+      "name": "Duckler County Denizen",
+      "description": "Quack Quack!",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/e3bb1d281e87c9da13c1200203beaf0dfb307f03.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/eb066cfb1487ed1dd2022954f2e2331b54925c74.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.5"
+    },
+    "5PIECES": {
+      "name": "Establishing Roots",
+      "description": "Locked in the 5Pieces",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/23da2027bfd9d3dc8c0f413de7aad236998232d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/85c861889afd1391f668b0c54eb3f6a784fe99ba.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.5"
+    },
+    "AFFAIR2": {
+      "name": "Extracurricular Activities",
+      "description": "Locked in Possible Infidelity 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/2ce268fbf4f8d8396db2a769c5dff55dcd6338d0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/a0825dd3afcf12262a6159ed4b887d0acb2301b1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.9"
+    },
+    "FINISHED_BASE": {
+      "name": "Family Secrets",
+      "description": "Finished The Roottrees are Dead",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/9b1dccb9b9ee789432ea70aae93a95b6e14fefe4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/bc50b48d8d5a50e122fd1789f5cbdeacf2fa0a81.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.5"
+    },
+    "FAMILYDOKU": {
+      "name": "FamilyDoku!",
+      "description": "Completed every FamilyDoku! puzzle",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/7bca7b6d7a88ffafa765ba6d063842ef408b1792.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/a6c65798e4a763f92f66ead7ee5fe159887d600a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "FILLED_IN_TREE": {
+      "name": "Genealogy Genie",
+      "description": "Filled in the entire family tree correctly",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/72250260e31b386c9b0e84f8dfdce5a11a55b692.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/2159d29001dc46f2b8ff65a4fccd46a6a875ccc9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.2"
+    },
+    "CONSPIRACY": {
+      "name": "It's All Connected!",
+      "description": "Looked into every conspiracy",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/bc917e33cd5765591e3794642167f28f90af804a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/1478ccf08d756702d4245bd894951b466dfacc12.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.4"
+    },
+    "EVIDENCE1": {
+      "name": "Loose Ends: Part One",
+      "description": "Found all evidence in The Roottrees are Dead",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/c455fe9268e750800c284f835a9cde843b245912.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/c83b6572f7f728b90c768d38bac777c4f9931ff5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.4"
+    },
+    "EVIDENCE2": {
+      "name": "Loose Ends: Part Two",
+      "description": "Found all evidence in Roottreemania",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/a15f3ad5211f50d7ee1842552948853cf11f0041.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/0150f77a432be5644efe81b3b8d92011bd266cdb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "AFFAIR1": {
+      "name": "Old Flings",
+      "description": "Locked in Possible Infidelity 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/53f04b7294a8d98583e2263ee08ef193330392ed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/2754fa944a2e11f5a33d61edb9f4e91fd4c46c08.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.9"
+    },
+    "AFFAIR3": {
+      "name": "Roottree Company Affairs",
+      "description": "Locked in Possible Infidelity 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/5cd882bdc61a0fbd96411d72dc8f2501d2c29ea6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/97e4562efb8e8f7e46ac53807e068d599ef2b82e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.2"
+    },
+    "SEARCHED_OFFLINE": {
+      "name": "Search Failure",
+      "description": "Tried to search for something while offline",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/38f75a403cf8adb03c846d07c795cc4ea2e023fd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/6c4b4235a6ef43e73ab251b321309bf8e8d47372.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.3"
+    },
+    "FREE_SPIRITS": {
+      "name": "Take My Hand Beneath the Tree",
+      "description": "Locked in everyone in the Free Spirits photograph",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/c332c455362dea8078de4570811a454fc679ef60.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/f7bd6a0ac6b5147dde0876a40014a49a220994f4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.3"
+    },
+    "FINISHED_RTM": {
+      "name": "The Big Reveal",
+      "description": "Finished Roottreemania",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/61a687c7eca92029df8607df9475009e284b97a2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/c7cf2905a00104f31e43bc82560ca61a4cd66b3a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.5"
+    },
+    "OUTSIDE_BOX": {
+      "name": "Thinking Outside the Box",
+      "description": "Took achievement hunting seriously",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/199f898893ab60a4747de551810062d35131a0d8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/e0959d16bc2bf95cb9cfecb50ffc794bd9df3b60.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.9"
+    },
+    "ALL_PERIODICALS": {
+      "name": "Voracious Reader",
+      "description": "Discovered every Periodical",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/04dad0d654778985ec51322d5821ac4f83829638.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/294b1f4935c17f514135ddc2b539d6868899784f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.7"
+    },
+    "SEINFELD": {
+      "name": "What's the Deal With All These Roottrees?",
+      "description": "Bung chi bah bah ",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/3083392421eb5e03eb84cc2ae03a84626b8d9528.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/3680e9e2f9e046e0196c6c891c61102ec0d586f1.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "SMOKE": {
+      "name": "Where There's Smoke...",
+      "description": "Found all the smoking guns",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/311876a82684d7247953c97b9435049113438690.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/d2feba129647702e00b7f6006029bb1744fa196a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.3"
+    },
+    "LOCKED_NOTABLES": {
+      "name": "You Deserve a Gold Star",
+      "description": "Locked in everyone on the Notable Roottrees list",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/f724bbe9b48dbd8879e040947194553d14da64b4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2754380/f7395e6fe64711385d5ed3fe6e5847106072cf15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.4"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

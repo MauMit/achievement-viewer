@@ -1,0 +1,118 @@
+{
+  "appid": "1097200",
+  "name": "Twelve Minutes",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097200/header.jpg?t=1763720997",
+  "achievements": {
+    "trophyBeAlone": {
+      "name": "Alone",
+      "description": "All alone.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/a14b21b1e1595b97065b19a57b4a3dbb9dc6a1f3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/503193f9897e155655195bced4fda0883f3c6729.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.4"
+    },
+    "trophyLoopEndConfessWife": {
+      "name": "Confessed",
+      "description": "I'll do it.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/85d560ce9024f7f5d07d381a02f40fc16f6049f4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/877d3267407c35def9717ac266f30a03967ca7be.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.8"
+    },
+    "trophyForgetEverything": {
+      "name": "Continue",
+      "description": "Blissful ignorance.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/be32e1f573a3aff712ce90f617bed46c2feb2164.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/85943dabd039053bd29de6fc04d41dac616f97f0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.8"
+    },
+    "trophyLoopEndBetrayWife": {
+      "name": "Coward",
+      "description": "Not my problem.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/1245bd6ecc07f4cd06e922e701dd02f8d3eaf16e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/1245bd6ecc07f4cd06e922e701dd02f8d3eaf16e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.7"
+    },
+    "trophyPaintingBedroom": {
+      "name": "Faun",
+      "description": "The Poster.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/81999305d1f92c08a112114b4880f69b4bea0b1f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/81999305d1f92c08a112114b4880f69b4bea0b1f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "trophyWaterPlant": {
+      "name": "Fluidity",
+      "description": "Water the plant once.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/db148a114a3448425423ecc6d4d7bd59bede9ddd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/eeee0ee1a24ebac49fda90ca881a306a1d17e46b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.8"
+    },
+    "trophyGrowAllFlowers": {
+      "name": "Gardener",
+      "description": "Watch them bloom.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/08dba183486de45a8a6e2530cbd27e4dd072aa6a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/227526a9aa972088635396d0b8fb54339492c6bc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "trophyLoopEndMakeLove": {
+      "name": "Groundhog",
+      "description": "The perfect day.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/739486d014a988536b9fba9d9380cdabcdc9e54b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/739486d014a988536b9fba9d9380cdabcdc9e54b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.1"
+    },
+    "trophyIdleMoment": {
+      "name": "Listen",
+      "description": "Let it be.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/2b1d51a783f8c6eb9afe0d1136031418869d1b8e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/5c3e8e94abf9cb4bd240f5dcc4f61c7731e7cc28.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "trophyBackToReality": {
+      "name": "Mindfulness",
+      "description": "Present moment.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/5418709ba0162d0124ede637260c6e34b6dd5624.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/5418709ba0162d0124ede637260c6e34b6dd5624.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "trophyPaintingKitchen": {
+      "name": "Ouroboros",
+      "description": "The Egg.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/f8b198db6f54aaccc5c40be7d70a11cdb8a65155.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/68fc31401c14cb5e0aa517c6bff9ca192aa580c0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "trophyPaintingLivingRoom": {
+      "name": "Seasons",
+      "description": "The Seasons.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/a35a42e831c1e9743618ba92bc6033897fec1b7c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1097200/74d861691863a3ff96ae98f4904279912702db3a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.1"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

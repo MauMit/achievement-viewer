@@ -1,0 +1,316 @@
+{
+  "appid": "3694480",
+  "name": "A Game About Feeding A Black Hole",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/eb2bc9581341ce206ef001f3e0700d08c513b24f/header.jpg?t=1775690220",
+  "achievements": {
+    "MONEY_BAGS_0": {
+      "name": "$10",
+      "description": "Earn $10 in a Session (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/d93c82f336d09bfb8895785e676fb82597764e7b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/ebc3e326a2abfc50edb44b418962c13643c673c0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "98.2"
+    },
+    "MONEY_BAGS_1": {
+      "name": "$100",
+      "description": "Earn $100 in a Session (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/02438f5c4b2c78305a64035d5503decdafedddf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/d0127a5a695c296753e5d2168ae4e42a0fa841e0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "97.8"
+    },
+    "MONEY_BAGS_2": {
+      "name": "$1000",
+      "description": " Earn $1000 in a Session (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/cfd47c5d756230d20d8a12689d3ab09e360c77ae.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/4b2ef284998f67b951bbbe652815a26f5ed56950.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "96.5"
+    },
+    "MONEY_BAGS_3": {
+      "name": "$10000",
+      "description": " Earn $10k in a Session (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/0b7d20aadcc75eb661efc8401ad286ba25ac46e7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/c1c5818d70b35ea79bd34dacd63bb2f8ad64bba9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.4"
+    },
+    "MONEY_BAGS_4": {
+      "name": "$100000",
+      "description": " Earn $100k in a Session (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/c5f5c2c80ddf8ac3ae10460439d46188418f8268.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/2994676145344c41daca1128245b55bbe96c38b1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "94.1"
+    },
+    "MONEY_BAGS_5": {
+      "name": "$1000000",
+      "description": " Earn $1M in a Session (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/150311843b45b1b2baa9af8d4f7f3da4d4598c34.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/aed37f8103fdb379641d5ab2c31ba096b6026bf2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "93.7"
+    },
+    "MONEY_BAGS_6": {
+      "name": "$1000000000",
+      "description": " Earn $1B in a Session (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/48f325067ec2ca246e7199fe766404a0cf5a306b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/b858adb0dd108812f9b2ef7c77c00d2452fec087.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.5"
+    },
+    "MONEY_BAGS_7": {
+      "name": "$1000000000000",
+      "description": " Earn $1T in a Session (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/7e5d47edb8d5b9324effb6bc2354c5a2ca2e441e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/362964e9b362b3efa8f1bd7cd02d572076fb2dda.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.7"
+    },
+    "MAIN": {
+      "name": "A Well Fed Black Hole",
+      "description": "Beat the Main Game Mode (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/01bf43233b78ee48a36d957e9a32a656b4ba8501.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/e69c6df877b804f07fc5149b03d960364a2048e6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.1"
+    },
+    "DESTROY_ALL_OBJECTS": {
+      "name": "And They're Gone",
+      "description": "Destroy all the Objects",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/2ffd61e7388b3e3efb4a6a19a4445601bbee97b4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/bacc229dab41ce211721d4aa7cc693202324aa87.jpg",
+      "hidden": false,
+      "group": "Update 3",
+      "percent": "24.0"
+    },
+    "DEMO": {
+      "name": "Complete Demo Mode",
+      "description": "Complete Demo Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/87132c7ea666d71cdca7d1ad760d691d4fb419eb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/01bb635e98db939defc6cf9e8f959883ed56b4ab.jpg",
+      "hidden": false,
+      "group": "Update 3",
+      "percent": "16.5"
+    },
+    "ELECTRIC_MOONS": {
+      "name": "Complete Electric Moons Mode",
+      "description": "Complete Electric Moons Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/ed5fbe62dd92456f849ea1d76990e30a82c15eed.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/238bf8d36b9adf991bd33cb48bf11b1bd5ca7fd6.jpg",
+      "hidden": false,
+      "group": "Update 4",
+      "percent": "13.5"
+    },
+    "MINI_CHALLENGE": {
+      "name": "Complete Mini Challenge Mode",
+      "description": "Complete Mini Challenge Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/c67c7b6415f39a1e608a3309c736162552aa0e39.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/eaba595343567db89cc3b61d1bee26782f301c39.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.2"
+    },
+    "QUICK_PLAY": {
+      "name": "Complete Quick Play Mode",
+      "description": "Complete Quick Play Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/9814f1c9f2afe9b434d22c969b75d453ad8065b9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/0c60e076e8d7d84dd6f69d4ac3582d7f684a6e48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.9"
+    },
+    "THE_LINE": {
+      "name": "Complete The Line Mode",
+      "description": "Complete The Line Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/61f5e4fcdfa9d3eb3e83ce1b3029018205e72756.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/190a361194b77c6a5da8c76be3beb4d05c982941.jpg",
+      "hidden": false,
+      "group": "Update 1",
+      "percent": "31.0"
+    },
+    "ZEN_MODE": {
+      "name": "Complete Zen Mode",
+      "description": "Complete Zen Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/553a127e0f99d7269f057569821be6648e50d043.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/aeff5ae71e99ee749d6997257b04ce273b9d6b3b.jpg",
+      "hidden": false,
+      "group": "Update 2",
+      "percent": "25.8"
+    },
+    "DESTROY_2_ASTEROIDS_AT_ONCE": {
+      "name": "Double Dash",
+      "description": "Destroy 2 Asteroids at One Time (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/0500f0209180ed2adb686ac824d8a97add7e9038.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/38d6bf20a3562c1dedea944bcd6b5c20737910fe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "98.2"
+    },
+    "COMPLETE_A_MILESTONE_6": {
+      "name": "Gargantua Milestone",
+      "description": "Grow the Black Hole enough times in one session to reach the Gargantua Milestone (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/65c9ab9f553e51a6cdc4363f543152ba5237435e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/72ffbf51064ee22cbda0623633e57fcd5f12ceaa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.1"
+    },
+    "COMPLETE_A_MILESTONE_5": {
+      "name": "Humongous Milestone",
+      "description": "Grow the Black Hole enough times in one session to reach the Humongous Milestone (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/d7b7b480d8bdb972962effbcb7deac36ff1515ca.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/4b7ddc13ff6eddbbdc319669a706f5e5ff886048.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.7"
+    },
+    "BEAT_THE_EPILOGUE": {
+      "name": "I Didn't Think You’d Get This Far",
+      "description": "Complete the Epilogue for the Main Game Mode",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/40183215929c20f0897066229d4619bf0a659502.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/4c627028403ac6db6a5fb422f3ab6032ec48bb99.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.3"
+    },
+    "COMPLETE_A_MILESTONE_1": {
+      "name": "Miniature Milestone",
+      "description": "Grow the Black Hole enough times in one session to reach the Miniature Milestone (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/68b3d6ee600430892f1f13cb79f19fc59410829c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/53008440316642c3dd5689c4b2a591a633f63efb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "91.9"
+    },
+    "START_RUN_WITH_50_ASTEROIDS": {
+      "name": "More Asteroids!",
+      "description": "Start a session with 50 or more Asteroids (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/6ae627a02b8f95f2c17d5058f4d6bce34030d468.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/18ed13263c17f845fd1370bde80279f319bd7a18.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "98.1"
+    },
+    "COMPLETE_A_MILESTONE_3": {
+      "name": "My Favorite Space Movies Milestone",
+      "description": "Grow the Black Hole enough times in one session to reach the My Favorite Space Movies Milestone (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/7fb50b842abfe563728e5644072d89945eedf771.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/9511d23b9d9291c6ac37e0c697cd5523c362792b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.1"
+    },
+    "HAVE_200_UPGRADES": {
+      "name": "Number go Brrr",
+      "description": "Unlock 200 Upgrades (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/057862abb30ee89b3f9a4e017642d47638fd303a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/b036d2741c3a3251e0a37767745a9c0c29801d3a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.2"
+    },
+    "HAVE_150_UPGRADES": {
+      "name": "Number Go Up Even More",
+      "description": "Unlock 150 Upgrade (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/72ea4ec2c01e5c829679a1bc7387743e8df3e0fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/0a2488269e5427c3d6aa1bfa2c6d49ea0221d491.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "87.8"
+    },
+    "HAVE_100_UPGRADES": {
+      "name": "Number Go Up More",
+      "description": "Unlock 100 Upgrades (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/ed8717dd6aa453758ca82acd382d30d7cebb3554.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/810ceb7ce3fc99c6a135f3e544e316b79c92ccb4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "91.4"
+    },
+    "HAVE_50_UPGRADES": {
+      "name": "Numbers Go Up",
+      "description": "Unlock 50 Upgrades (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/cb09821783e6adda7b7b9e30f44de03367d069c5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/b6adb02bdf5447f70c38f0ef06fa75103d594241.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.2"
+    },
+    "DESTROY_A_STAR": {
+      "name": "Shine Bright",
+      "description": "Destroy a Star (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/e0cbd039080a6f1c7034e003913d5b7bff0db3c2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/ee84bbb60f17fd5c4c7c1273104c59d420c0d564.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.9"
+    },
+    "GROW_BLACK_HOLE": {
+      "name": "The Black Hole Must Grow",
+      "description": "Feed the Black Hole enough to cause it to grow (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/7198d38c407d9fad591073a85ad666443b408636.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/e62d9d3a247e4833fe175f94644835a01bfc2b95.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "97.8"
+    },
+    "COMPLETE_A_MILESTONE_2": {
+      "name": "The Black Hole Must Grow Milestone",
+      "description": "Grow the Black Hole enough times in one session to reach the The Black Hole Must Grow Milestone (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/a865512aea88b209143440f8376608d0a12b393c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/6c0454de695851cd02ba881a3f127043d1337a40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "87.3"
+    },
+    "COMPLETE_A_MILESTONE_4": {
+      "name": "The Creators Milestone",
+      "description": "Grow the Black Hole enough times in one session to reach The Creators Milestone (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/dc41bf0b473941ece364da25f35e4a9fca9cb309.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/58c4233869d816ceb99429a00b66bd000ca0de47.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "85.3"
+    },
+    "FINISH_A_SESSION": {
+      "name": "Time to Go Upgrade",
+      "description": "Finish a session (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/dc9bb5686fc2f1d16b34652da42215341210ed33.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/f9efb0a932bf51e1a71d80affb6cdb419dbf80b6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "98.9"
+    },
+    "DESTROY_A_PLANET": {
+      "name": "Was that Earth?",
+      "description": "Destroy a Planet (Main Game Mode)",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/1356bd6ab73dc972590e3fdf042e43562fa2e0e4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/6621ead12c30c750c2a67adb0df59f6e2d2041b1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "93.2"
+    },
+    "TOO_MANY_CLICKS": {
+      "name": "Wayyyy Too Many Useless Clicks",
+      "description": "Click 100 Times During a Session",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/814b67865e5b2c29e351e7692d9944174a647ee0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3694480/8f10321f9698ad84c072c0bf00574ea44b8efcd8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

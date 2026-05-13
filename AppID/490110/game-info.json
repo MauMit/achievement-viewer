@@ -1,0 +1,361 @@
+{
+  "appid": "490110",
+  "name": "The Precinct",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490110/header.jpg?t=1777040281",
+  "achievements": {
+    "AchievementId_PoliceRankLarge": {
+      "name": "A Promising Career",
+      "description": "Reach the maximum Police Rank.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/e1373d027c354cab23f99b2294b6ca358d9d0f2b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/c520dbf855040794e0e47fc1f275731a93f94de6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "AchievementId_OpenAllStashes": {
+      "name": "A Sharp Mind",
+      "description": "Recover every artifact.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/46109bf7d34a2ce300c1e8c7e88e39eaf70087f1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/3de485f233016ae44077b906de8686f40cd6d68e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.2"
+    },
+    "AchievementId_CompleteCrimsonSerpents": {
+      "name": "Big Trouble in Chinatown",
+      "description": "Take down the Crimson Serpents.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/9ec822c4ec1b646ea5311218df3a433a96e39257.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/ce007e70f671a7124468328526e84ba3f978513f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.9"
+    },
+    "AchievementId_BookCriminalsSmall": {
+      "name": "Book 'Em, Cordell",
+      "description": "Book 30 suspects.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/d755a77cff290577259b4c7214c5f5cd0bf41ce6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/ed5920999f7923802d2920c903ad44378d5c08e3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "AchievementId_SubmitSomeEvidenceAgainstGangs": {
+      "name": "Building a Case",
+      "description": "Submit 5 pieces of evidence against gangs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/1f6395102569abc1ad775034972023b9b65ce592.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/09481046e9fb9b50f56a9d29416d9a694fddabbc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.2"
+    },
+    "AchievementId_ChiefParking": {
+      "name": "Career Limiting Move",
+      "description": "Park in the Chief's Space.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/22cebe486ac6556d7089e7d3c09f843e08151d2c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/42df6f4e4f59b03ae86694d594f40fd705a9f7f5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "AchievementId_FlushAllToilets": {
+      "name": "Clean Slate",
+      "description": "Flush every toilet in The Precinct.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/fc87979a5faccc374110e4deb39425edc6579803.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/639d69b0cbb1685bdb403958a0ffcc98864a3714.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "AchievementId_CompleteAugustGang": {
+      "name": "Cleaning the Streets",
+      "description": "Take down the August Gang.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/1d5d31fec03a99d07d261fac4756ecc6f8288a9b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/b1cc7e602bcdeca4821e125ff45cae9d01b3bf6f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "81.3"
+    },
+    "AchievementId_GoldRace": {
+      "name": "Coming in Clutch",
+      "description": "Finish in 1st place in a Street Race.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/59831051924491162547adc2434a9fc6f7ba65bf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/117b8b567d9fb795690124ca8669d0f657f241d8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.0"
+    },
+    "AchievementId_XpOneShift": {
+      "name": "Employee of the Day",
+      "description": "Earn 10,000 XP in a single shift.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/2d4a3e337fe50dcecf8d6bd82b7d4fa9b93fba8d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/8d8c5458fa60a94202136e61cd2882b8de5a45e8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.3"
+    },
+    "AchievementId_GoldAllTimeTrials": {
+      "name": "Fast Responder",
+      "description": "Get a gold medal in every time trial.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/fa048c56ae0d77290c9c9d71a650c13feac70076.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/f369538898b230f25d7ad205f8a4c7496f0d5d69.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "AchievementId_ParkingTicketsOneShift": {
+      "name": "Fine Work",
+      "description": "Issue 10 valid parking violation tickets in one shift.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/82cfcebeedca1297a14c9c69e2e32231e76a1455.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/f2c1294f9411cee160a017f1b07fdbb2a01a3fec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.4"
+    },
+    "AchievementId_FindAllRareVehicles": {
+      "name": "Hidden in the Hood",
+      "description": "Discover and drive all the rare vehicles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/95f3d7c2e5738e2fb8d1bccabb2a4183281e06d4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/cba995ec9cac72425ae97fb27815ffce9d2f8a61.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "AchievementId_ReadAllPlaques": {
+      "name": "Historian",
+      "description": "Read every Plaque.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/37178559777f16c19c3eabca178278a913e8766c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/6af9f112bd06d902e6851985659ab30a713d6d23.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "AchievementId_HelicopterHelpArrests": {
+      "name": "I See Everything",
+      "description": "Help ground officers arrest 20 suspects while you're in the helicopter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/cb85dd439ee1daa0553f4d225f663278cc34db6a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/345604f04e10aae246ae20e918150a9c42e0e8a5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.3"
+    },
+    "AchievementId_GoldAllRaces": {
+      "name": "I'm Fast, I'm Very Fast",
+      "description": "Finish in 1st place in all Street Races.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/32f6a8e3dbd709149e509c8b093b2a1c2e1b8ac4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/06217cca3a50b95ac2703653ea11548a22adbc9b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "AchievementId_CarJumpsSmall": {
+      "name": "Is It a Bird?",
+      "description": "Complete 5 vehicle jumps.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/4a1f4e0f67bfbd4f486dc05db3cabdc1817a8d1f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/020e68045e45580da98b4094b6b37ddcb9decd86.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "AchievementId_PoliceRankSmall": {
+      "name": "Making Your Mark",
+      "description": "Achieve the rank of Police Officer 1.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/80d40e4ea0f7b1b10a141fa36f3ccf71f3915bc5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/241af95fd45d177f7333ae21438f6d1acf9846d5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.6"
+    },
+    "AchievementId_UnlockAllUpgradesInCategory": {
+      "name": "Maxed Out",
+      "description": "Unlock every Player Upgrade in a category.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/ec0fc4c3d11dcd3f5405549291c4109f89247a00.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/49528b73fa8cec6c7e371be7bb7cbca63551e53b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.4"
+    },
+    "AchievementId_CarJumpsAll": {
+      "name": "No, It's the Law",
+      "description": "Complete every vehicle jump.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/117b3fdf5de5df280a62068061e01e540bb9d5d7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/4614373914f2aa101ec7ca0f5a5c1754f5a84efa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "AchievementId_CallUniqueSupportOneSuspect": {
+      "name": "Nowhere to hide",
+      "description": "Use three different support options to catch a single suspect.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/5311edfc788f5a275bf82178d7e7ea6da80612c8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/2d6ae8faff58d14d09bfed063d3f98f3c1161337.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.1"
+    },
+    "AchievementId_TopShiftLeaderboard": {
+      "name": "On Top Form",
+      "description": "Achieve first place on the Shift scoreboard.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/900d1fe5799daec616a2e45d4e2c6fd415da3ba6.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/d86300623fb88d5a49edf6db23dfb917a1b2b6bf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.1"
+    },
+    "AchievementId_CompleteKellySavedPlayer": {
+      "name": "Partner in Law",
+      "description": "Have Kelly save you from Warehouse Six.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/36b4d578bd3c9c606b12712db250705d3af456fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/060338732d682ab58dbc4c8410effb635cad0039.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.1"
+    },
+    "AchievementId_GoldTimeTrial": {
+      "name": "Pedal to the Metal",
+      "description": "Get a gold medal in a time trial.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/512a98bd094f2c7afaca289ef577be40787dcf85.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/b04334cbddd3a38bee2c55a8fa800bb5fe74b3df.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.5"
+    },
+    "AchievementId_RespondCallouts": {
+      "name": "Radio Responder",
+      "description": "Respond to and complete 50 callouts during your shifts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/f499be9e4b8d25a54cc8f5102c5febb8098da9b1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/2019c3c57ec31a0143cd29549a89c471859bdf60.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.0"
+    },
+    "AchievementId_TimeTrial": {
+      "name": "Ready for the Real Thing",
+      "description": "Complete a time trial.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/7b48f528449802ae1365a7cbd6d0c3bfb3d00059.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/a3e59c284cb9ba6a87389272953a59fc815a69db.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.6"
+    },
+    "AchievementId_ParkingTicketsSmall": {
+      "name": "Ruined Their Day",
+      "description": "Issue 3 valid parking violation tickets.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/512b921078a4155a8bd150c068453486c7147c4c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/45e5eca078d74c9674312295bc4a8c55b3c88c53.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.3"
+    },
+    "AchievementId_UnlockUpgrade": {
+      "name": "Self Improvement",
+      "description": "Unlock a Player Upgrade.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/d7716ef52de79ab187e49a27ec63cfbff4d973cc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/6e80c40cae753e5ba712aaf93a64a275c2780175.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.4"
+    },
+    "AchievementId_DriveGarbageTruck": {
+      "name": "Taking Out the Trash",
+      "description": "Commandeer a Garbage Truck.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/7eba3fe74f33609ad91b2e2a4352a30724b176e0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/8dce19c408250638f1454ab2ae08e060290c7005.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.3"
+    },
+    "AchievementId_ParkingTicketsLarge": {
+      "name": "The Most Hated Person in Averno City",
+      "description": "Issue 50 valid parking violation tickets.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/58c1ff44a70d33ad358aa67ec355475cf4a40bd7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/418c3955eb56f2ebf7008b8cb8b6f947f2233f59.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.8"
+    },
+    "AchievementId_CompleteMainStory": {
+      "name": "The Secrets of the ACPD",
+      "description": "Complete the main story.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/7388d2ab71f73ba6ff027cf2768b5c52155f58a1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/51f1f6fe02b006a5955594d1b85835642dbb3081.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.9"
+    },
+    "AchievementId_ArrestSuspectsLarge": {
+      "name": "There's Gonna Be a Lot of Paperwork",
+      "description": "Arrest 100 suspects.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/dfe4543ea8f4ed418636640d2835129d5eba8772.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/f9df32cb978af90772d2113de4f1d410048d56ce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.1"
+    },
+    "AchievementId_CompleteFirstShift": {
+      "name": "Thrown in the Deep End",
+      "description": "Complete your first shift for ACPD.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/462590bf8ca218a0c201245f4f4183ee3ae21588.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/8f10ecf46166b3c963707c58f315bbdcc65b661f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "93.8"
+    },
+    "AchievementId_SprintNonStop": {
+      "name": "Track Star",
+      "description": "Sprint for 30 seconds without stopping.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/1416d38c2747f5fa64de75d82eb572eae968fe15.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/7bc598fc887daeb33d4edb160dc9b97cc91d7b74.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.9"
+    },
+    "AchievementId_CompleteJawheads": {
+      "name": "Unlucky, Punk",
+      "description": "Take down the Jawheads.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/3b13199f1ed00a91e7bd516eb7054ee67c2b8202.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/d9241d77b2d2d063e4c5f5b10eaee47f5def0e1b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "AchievementId_DriveEveryVehicle": {
+      "name": "We'll Pay for the Damage",
+      "description": "Commandeer every type of vehicle.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/dd954e013043e9f74047f6b40920eee0c92a6e10.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/228a81ce672002f4debd511acd89e3c09ff671e7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "AchievementId_BookCriminalsOneShift": {
+      "name": "We're Gonna Need a Bigger Holding Cell",
+      "description": "Book 6 criminals in one shift.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/fe141f00c1e4ce189e1e1edbafbc03b78b44b0e0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/20d82735b5ba9b1d6f5ddc9cfc0bd96847064c05.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.9"
+    },
+    "AchievementId_UniqueSuspectsInPoliceCar": {
+      "name": "What Are You in For?",
+      "description": "Have two suspects from different crimes in your police car at the same time.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/ba57df62bd6518e5bbd62db7a3e2b9c2e8f99ed1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/f9bb61ba0ee3ec14cfa0bda296282ea184b13b45.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.3"
+    },
+    "AchievementId_OpenFirstStash": {
+      "name": "What's in the Box?",
+      "description": "Recover an artifact.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/4b68eb85c496ba99cad4e956da96fd4358880ee7.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/490110/0aa2b00733ff672ba2553497f4273b85c09a9b7f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.1"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

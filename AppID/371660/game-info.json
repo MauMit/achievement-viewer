@@ -1,0 +1,505 @@
+{
+  "appid": "371660",
+  "name": "Far Cry® Primal",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/header.jpg?t=1772640435",
+  "achievements": {
+    "FCPrimal_Ach_22": {
+      "name": "And Stay Down",
+      "description": "Eliminate 100 enemies using a club.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/f2ba276bda472b60d56c7816a37d1e0cde6331fb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/e7a814bb85a97a7420faddbd2cf661926e6ff762.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "FCPrimal_Ach_51": {
+      "name": "Apex Predator",
+      "description": "Obtain all the Achievements.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/515218ae3c361421540ccbcc6d273b910d81a194.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/ae8d0a73668324fbeaf9d606db3f032d1a324f42.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.6"
+    },
+    "FCPrimal_Ach_37": {
+      "name": "Armorer",
+      "description": "Use the crafting ability 100 times to craft weapons or arrows.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/e22ce006a7b18c9980b7b886184c11c3b7b4951f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/e05edbe7a0e714dcfffea93b5b0b718ade44b179.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.5"
+    },
+    "FCPrimal_Ach_28": {
+      "name": "Bad Trip",
+      "description": "Influence 25 enemies using poison.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/d785abe59b7076f2c8dd98d939325f9999c932dd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/5f57689c645459b19654a8650efb7d235b77892f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "FCPrimal_Ach_29": {
+      "name": "BEES!",
+      "description": "Eliminate 10 enemies using sting bombs.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/791067f224ce04587b00db307d15bbffeb6c2208.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/70b8c97bf73c97ae4a1daf30420fa2c60fe32084.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "FCPrimal_Ach_14": {
+      "name": "Big Teddy",
+      "description": "Tame the great scar bear.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/93cfa6701fe0c0253b35a14ed4d60146afff8199.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/db2984fc51cde6d6574aa6a5abf1f69852e126a2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "FCPrimal_Ach_32": {
+      "name": "Bullseye",
+      "description": "Kill a target 70 feet away or more using an arrow.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/d7325f6413624c3a88924d31e503b4861005567a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/cf9905ccbd9fa0dccb31eba455b4d328c96123b1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "FCPrimal_Ach_45": {
+      "name": "Cave Hoarder",
+      "description": "Pickup 80 collectibles.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/ce102c52fd625a80e10c1f201f45de01b704a238.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/67ede4193597800d5f3bfa2ce8a079e47e19088a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "FCPrimal_Ach_41": {
+      "name": "Conquest",
+      "description": "Capture all forts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/badc6ea7a7edfdc7d06145c4794169336432d02e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/7e6130c03694096652bc0e3b91ec57834ae0f1e3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.9"
+    },
+    "FCPrimal_Ach_48": {
+      "name": "Crush Your Enemies",
+      "description": "Complete 10 \"Tribal Clash\" quests.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/a44804d22db105b47637d54ad090e6a067804193.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/b0f66c3d3d4b99f467c7d77470859d604399afc6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "FCPrimal_Ach_26": {
+      "name": "David And Goliath",
+      "description": "Eliminate 10 enemies using a sling.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/82d23251fda5105854a9a9d307f4e90c4e0883a2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/86a756c428258d6d262be6828e0ce548e7f6178e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "FCPrimal_Ach_6": {
+      "name": "Deadeye",
+      "description": "Karoosh joins the Wenja village.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/bce2d646969413c0b778837f7af88a452539224d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/520eaa4021bf7ec7126b64b2931a7ef00d0ca471.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.6"
+    },
+    "FCPrimal_Ach_15": {
+      "name": "Endangered",
+      "description": "Fight the bloodtusk mammoth.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/ed025664c81ca0d6f89d5a3a5a8e7b1a1e88d079.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/4a3f336d94eecf1f1b2c0e2c0e479b77a9792f47.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "FCPrimal_Ach_12": {
+      "name": "Evolution in Action",
+      "description": "Complete the mission, The Hunt for Ull.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/161fcc7c45035a4dcac5c3967f3933668deff651.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/f90364209d61538d361fe281f8288717cbd06c66.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "FCPrimal_Ach_40": {
+      "name": "Expansion",
+      "description": "Capture all outposts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/04b3b38728c7b7b92691459cc1bf3ee631a26ff9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/d252383eff0b2453144fc9cb61873e5954595abd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "FCPrimal_Ach_36": {
+      "name": "Expert Wenja",
+      "description": "Learn all skills.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/1176cf7beeb0c3a1d25a8c14f0e684ef35a9d109.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/d3241d787d238a6d4c4558ac90ab60302bbd5e9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "FCPrimal_Ach_43": {
+      "name": "Fancy Friend",
+      "description": "Tame 1 rare beast.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/c8e89256f3c863a2c91e1bd4e40a98c013344815.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/802ee4b7bb79fd8f7ffd6db8f1b558ecf1057375.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.1"
+    },
+    "FCPrimal_Ach_35": {
+      "name": "Feathered Friend",
+      "description": "Eliminate 15 enemies using your owl.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/cc03d35b7fe87d6e221103c89cfea4f79fa144da.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/5befe7e72c95c95d3c4be9de8c37d51a2df8bfb5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.6"
+    },
+    "FCPrimal_Ach_16": {
+      "name": "Good Boy",
+      "description": "Tame the snowblood wolf.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/62476e8f400ea86568bf1bf919819c267bfca64a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/53c29e25fc2e0a4c3f860902c2889811f599f074.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "FCPrimal_Ach_46": {
+      "name": "Good Neighbor",
+      "description": "Complete 15 \"Help Wenja\" quests.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/e89589516f5729f19dd8a922ff6fa0c00ebda376.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/250a4e09620cad5413a94ac3176a8e8ef3e90f0d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "FCPrimal_Ach_33": {
+      "name": "Gotcha",
+      "description": "Eliminate 10 enemies using hunting traps.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/57b15baaf856e021cbb001e462cd3b60816cd25a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/af9516ff93f9be7178d8e965b0ff4adce7cd6c85.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "FCPrimal_Ach_9": {
+      "name": "Gray Huntress",
+      "description": "Jayma joins the Wenja village.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/82744f12f6c03933951da5d773af45dad33e99da.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/2f9a2cd6a86b78bf60966f40c7a7559aa96dadbe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.9"
+    },
+    "FCPrimal_Ach_13": {
+      "name": "Here Kitty",
+      "description": "Tame the bloodfang sabretooth.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/bacd7fedf6b8529e8a38da4dae0b57fa8cd07510.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/838004370f84d95b17b2255b72f0ed7647090849.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.7"
+    },
+    "FCPrimal_Ach_17": {
+      "name": "Home Improvement",
+      "description": "Build or upgrade any 2 village huts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/8dbc8dc7f6dadbbfda5998e5782bd7037487ece5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/8d9088178290779d8afd32b27eca1e7674b4cd3c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.6"
+    },
+    "FCPrimal_Ach_25": {
+      "name": "Inflammable",
+      "description": "Eliminate 50 enemies with fire.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/1cdbed8a52e0f2a177aec78d1877e2a540991c9b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/9511d28b2415d4f02a6b203662c0042b94a4cca3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.2"
+    },
+    "FCPrimal_Ach_38": {
+      "name": "Kanda Of Faith",
+      "description": "Climb to the peak of Pardaku Lookout and leap off.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/710387c53aecb5d9aecaafd119748e2168ebd56d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/1b0349a83eca4e04ce1fff6d53c3581c06ce3d0a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "FCPrimal_Ach_21": {
+      "name": "Killer's Belief",
+      "description": "Eliminate 25 enemies using any takedown.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/ebaace53606a9bb2bcf05af97016a5170caf1822.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/13699931d7dd0e8d8fce377a87fe7ea5ebb8cf8d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "FCPrimal_Ach_5": {
+      "name": "Krati, Krati, Krati!",
+      "description": "Steal the Izila mask of Krati.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/9f174ec2a6b55d81cf4fc1c88fdbf021e7946ec8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/8ba10036fcada262a3442ae4fc4423f6f6b077b6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "FCPrimal_Ach_3": {
+      "name": "Liberator",
+      "description": "Rescue a Wenja captive from the Izila.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/adaac228692eace291fc9449f2edb27a2d36405c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/1297fbd5012ca0445ed3c470cf488c94cacbb3bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.7"
+    },
+    "FCPrimal_Ach_47": {
+      "name": "Mapmaker",
+      "description": "Discover 15 hidden locations.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/a477ae9c0c321d04afd63143a4ae76e87d4f37cf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/d76ee626660e33c5613de895defdab27632d1ec6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.1"
+    },
+    "FCPrimal_Ach_50": {
+      "name": "Mark 4 Wenja",
+      "description": "Discover the future past.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/705b6af5c8331126853f94a89ca896f2cf53571c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/17113b0eea29efbb2d3677299e410442210b880b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.7"
+    },
+    "FCPrimal_Ach_49": {
+      "name": "Master Tracker",
+      "description": "Complete 5 \"Beast Kill\" quests.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/33dde9d1207264c40061ff44f18fe0ed3f50236b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/210b40d7e22667944640625a4504a0549c1dd119.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "FCPrimal_Ach_42": {
+      "name": "Menagerie",
+      "description": "Tame 7 beasts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/c16c41691710e9e4605901a7ffa0738dab922eb4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/245b7272566da3cbec4c87e091ebd5785df36b56.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.3"
+    },
+    "FCPrimal_Ach_8": {
+      "name": "Mister Fix-It",
+      "description": "Wogah joins the Wenja village.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/dd73fdb4889b3029d4622afc0666b428e61318a0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/2ea7af6d26953e6bef119e64e8f10fd7be5ace1c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.7"
+    },
+    "FCPrimal_Ach_27": {
+      "name": "Outta My Way",
+      "description": "Eliminate 25 enemies while riding any beast.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/86750df06c617efac42c440cdfbd23fce1807195.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/c747a7ef84675cf5e85ef80ba9b0df99a4537140.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "FCPrimal_Ach_30": {
+      "name": "Quickdraw",
+      "description": "Eliminate 15 enemies using throwing shards.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/bf57a0fef8253dfae15a79dffba9336af4651c28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/eca293e4a9c4e58fd485f56147b1f73198f70766.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "FCPrimal_Ach_20": {
+      "name": "Real Estate Baron",
+      "description": "Complete all hut upgrades.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/fa59ee2aea579acd511e8cc15803bf2c1f1831c5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/03356705a4931f013f8b0add94c070d5590ed3ba.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "FCPrimal_Ach_31": {
+      "name": "Right On Target",
+      "description": "Kill a target 50 feet away or more using a spear.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/19b6dd1d0eba35d7431f1a658de5448df7893332.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/41700c77a67b857aa8912221b80eae0c4fbbbd2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "FCPrimal_Ach_24": {
+      "name": "Sharpshooter",
+      "description": "Eliminate 100 enemies using a bow.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/4b1e8b19c12f71329176c50f4d99b5bc40ab5852.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/a1423354ac6720e8274865c3a04aad8715e9f4b2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.1"
+    },
+    "FCPrimal_Ach_34": {
+      "name": "Sic 'Em",
+      "description": "Eliminate 50 hostile targets using a tamed beast.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/ee36c57a4c541126cbe1fa9a6c4c4803852d3ce5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/d2bc61f5196f4a3b0bfc4f686adda51a448a7f29.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.2"
+    },
+    "FCPrimal_Ach_23": {
+      "name": "Skewered",
+      "description": "Eliminate 100 enemies using a spear.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/badd7b3c5ab5706f0fee748060bf6b46830c7c20.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/65fe8e77f123c57ec2d2de3eddd349b1fa93f59e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "FCPrimal_Ach_39": {
+      "name": "Skirmish",
+      "description": "Capture 10 outposts.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/99a66b0b2246acc6ed2896d967b97cb0497f297b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/816a23ba4224874601def57e0205a0177685410c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "FCPrimal_Ach_2": {
+      "name": "Spearproof",
+      "description": "Repel the Udam attack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/c873e62bf1ebea3c54f062572e835da1b73dbd8d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/0a7d479051acf3ff48d2ff94b358d99aff31bc57.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.0"
+    },
+    "FCPrimal_Ach_7": {
+      "name": "Spiritual Advisor",
+      "description": "Tensay joins the Wenja village.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/266fc20e667c7b0fab7a3c6050500cc532ae9ffb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/82e601d7b0afa6820c68589eec197340deb6e5a7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.2"
+    },
+    "FCPrimal_Ach_18": {
+      "name": "Subdivisions",
+      "description": "Your Wenja tribe reaches a population of 20.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/305a38347de05b14acb9911f1db0de18a6a40578.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/31c6f754a65618ca6568f7494f891b4c4e01195c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.7"
+    },
+    "FCPrimal_Ach_55": {
+      "name": "SURVIVAL OF THE FITTEST",
+      "description": "Finish the game in Survivor mode (Expert difficulty) and the Permadeath option activated... Forget it... No-one will ever achieve it.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/968b2e97e1538123f5bfd689e4a94905ea8b1a21.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/4b8d96457ae13572fdce62f2e39a932099b8c8f4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.2"
+    },
+    "FCPrimal_Ach_19": {
+      "name": "Tears of Shame",
+      "description": "Kill and skin 1 tamed beast.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/3c1a71293eada9dc3ce699feef4f5ab39c7ab372.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/4a7ac6552957e8465764d25f872ae7e1b920d0cd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "FCPrimal_Ach_1": {
+      "name": "This Way To Oros",
+      "description": "Survive the mammoth hunt.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/e93a8823273a65a706b7fb720bafe41aae44a28e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/aadb05da3a1b164487c618ce650945d8e8166cbf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.9"
+    },
+    "FCPrimal_Ach_11": {
+      "name": "To Ash",
+      "description": "Complete the mission, The Fall of Batari.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/1e3bffe76ef9bf20a143f2f20422409ea9fa15e9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/4026533470e2c916cc18ab633c4e5d1652917c3a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "FCPrimal_Ach_52": {
+      "name": "TOP OF THE FOOD CHAIN",
+      "description": "Finish the game in Survivor mode (Any difficulty).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/cce3ec5ce7f7b2889b38ae595fb9464d441c976f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/d7cf5317822c6e2beec350cd10ab073d7d75a844.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "FCPrimal_Ach_53": {
+      "name": "TOP OF THE FOOD CHAIN (2ND CHANCE)",
+      "description": "Finish the game in Survivor mode (Any difficulty) and the Second chance option activated.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/a449a911363072e94781d161f5f5998b013a6c49.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/d982167ccda23862cc60461ca9d8585d5ac7907b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "FCPrimal_Ach_54": {
+      "name": "TOP OF THE FOOD CHAIN (PERMADEATH)",
+      "description": "Finish the game in Survivor mode (Any difficulty) and the Permadeath option activated.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/63bf1ca196db81a45d8a4666c819bda268627d62.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/01087290eda4faab23d2f2c14bf807920fdd62a3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "FCPrimal_Ach_10": {
+      "name": "Twelve Labors",
+      "description": "Complete any 12 specialist missions.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/eb4dd0481c15a0c779f3f1d5550135ca5ce7cd3d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/1f68213e7960d313257f2facbd8cdbb320a01333.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.1"
+    },
+    "FCPrimal_Ach_4": {
+      "name": "Uncaged",
+      "description": "Escape the Udam caverns.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/97e60509fa64b43aeb7b88b1dc2e4695c4c01bf4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/02c9116c1f995392cb9a947d4cce22081ccd90a7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "FCPrimal_Ach_44": {
+      "name": "Veterinarian",
+      "description": "Heal a tamed beast 25 times.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/1d4ae5e37684a2901703211bae4a4020e476bfba.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/371660/c72b07d23104c151878472ee2516acb3e527855b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

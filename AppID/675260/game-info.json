@@ -1,0 +1,280 @@
+{
+  "appid": "675260",
+  "name": "Batman: The Enemy Within - The Telltale Series",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675260/header.jpg?t=1734105400",
+  "achievements": {
+    "ACH_102_4": {
+      "name": "A Family Affair",
+      "description": "Complete Chapter 4 of Episode 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/1e20aa49c1d841ed2d5211fe07ff4a0f5855fbb4.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.7"
+    },
+    "ACH_101_4": {
+      "name": "A Friend In Need",
+      "description": "Complete Chapter 4 of Episode 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/7cc2a6bd9e618ad0913ba014112686f28abccc23.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.6"
+    },
+    "ACH_105_3": {
+      "name": "A Shadow Falls",
+      "description": "Complete Chapter 3 of Episode 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/ba7e2efe7afeb2a8eb58d26df8c28eb1a45f9184.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.6"
+    },
+    "ACH_102_1": {
+      "name": "A Threat Rises",
+      "description": "Complete Chapter 1 of Episode 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/be35d5f11f6b8365e4bed7c3c1b6d4b7defbcfbc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "74.4"
+    },
+    "ACH_101_1": {
+      "name": "All in a Day's Work",
+      "description": "Complete Chapter 1 of Episode 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/3288859f39862c165f24dacff33d6fa4cb68055f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "88.8"
+    },
+    "ACH_102_5": {
+      "name": "Behind Enemy Lines",
+      "description": "Complete Chapter 5 of Episode 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/b542658f521316f10e351a373133d5feac84a911.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.5"
+    },
+    "ACH_104_1": {
+      "name": "Breach of Darkness",
+      "description": "Complete Chapter 1 of Episode 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/a82909c91c8fd6ef51cafd719f5bb71207201c8d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.9"
+    },
+    "ACH_105_5": {
+      "name": "Darkest Before the Dawn",
+      "description": "Complete Chapter 5 of Episode 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/c95af9827ac1c6536dcca0ba9db47c9f457a1524.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.3"
+    },
+    "ACH_104_2": {
+      "name": "Darkest Night ",
+      "description": "Complete Chapter 2 of Episode 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/93087474e51961698d130e211afc7e86b669c954.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.7"
+    },
+    "ACH_105_2": {
+      "name": "Defender",
+      "description": "Complete Chapter 2 of Episode 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d3ac4b57fe6746370495a5555ac774612440bdbc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.2"
+    },
+    "ACH_103_6": {
+      "name": "Descent Into Darkness",
+      "description": "Complete Chapter 6 of Episode 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/5f85d542eca51c169e8403bc50aa19df23a58315.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.9"
+    },
+    "ACH_104_3": {
+      "name": "Fortune Reversed",
+      "description": "Complete Chapter 3 of Episode 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/1f0798646797f89ae38966abcae92e8778900caf.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.5"
+    },
+    "ACH_105_4": {
+      "name": "Fractured",
+      "description": "Complete Chapter 4 of Episode 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/20be7d4a8cab879a7162bb14bf75da0676bd5f16.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.4"
+    },
+    "ACH_105_1": {
+      "name": "Funny or Die",
+      "description": "Complete Chapter 1 of Episode 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/2daa4e1ffc6ac7adcbe6af8496dc59cf78af749a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.6"
+    },
+    "ACH_101_3": {
+      "name": "Goodbye, Old Friend",
+      "description": "Complete Chapter 3 of Episode 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/883d5618bef4016a73f7ed4cddd875fed5741849.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.7"
+    },
+    "ACH_103_4": {
+      "name": "Hive of Villainy",
+      "description": "Complete Chapter 4 of Episode 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/c5d27b3b63f5b651ca7bd52a931d65f2d2fe6f26.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.5"
+    },
+    "ACH_103_5": {
+      "name": "In the Line of Duty",
+      "description": "Complete Chapter 5 of Episode 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/9a087a3e4477d7c5ffbf69abd6b58f13961cdcf3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.4"
+    },
+    "ACH_101_5": {
+      "name": "Made of Madness",
+      "description": "Complete Chapter 5 of Episode 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/1eb07b6f3139e6d4864b17c660182c0946e0339d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.1"
+    },
+    "ACH_103_3": {
+      "name": "Motley Crew",
+      "description": "Complete Chapter 3 of Episode 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/b2d90dacc30e793bfe641cd0377fddbc82fbb7cb.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.2"
+    },
+    "ACH_101_2": {
+      "name": "New Game in Town",
+      "description": "Complete Chapter 2 of Episode 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/43eb6acdfb8d42cfbe1a0186f9f4cec39b578a79.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "84.2"
+    },
+    "ACH_101_6": {
+      "name": "Riddle Me This",
+      "description": "Complete Chapter 6 of Episode 1",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/eaa5c9eda51d06cd1d20d7a5f0d41c5907dac1ce.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.8"
+    },
+    "ACH_103_2": {
+      "name": "Shot in the Dark",
+      "description": "Complete Chapter 2 of Episode 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/08110405b6464d14ea921651cd977e18021470dd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.5"
+    },
+    "ACH_102_2": {
+      "name": "Strange Bedfellows",
+      "description": "Complete Chapter 2 of Episode 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/07bcd96cefe20ea182ea6db92d071dd133822ca1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.9"
+    },
+    "ACH_105_6": {
+      "name": "The Last Laugh",
+      "description": "Complete Chapter 6 of Episode 5",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/370598019670a668c6b683549bc32b9a0a668ac5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.3"
+    },
+    "ACH_104_6": {
+      "name": "The Punchline",
+      "description": "Complete Chapter 6 of Episode 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/f81ac297458c45e3dad724f6fe0e1085a7434370.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.9"
+    },
+    "ACH_103_1": {
+      "name": "Unexpected Encounter ",
+      "description": "Complete Chapter 1 of Episode 3",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/1f7b5f311875bfc99809d1ae8b37cad6f148bf8c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.4"
+    },
+    "ACH_102_3": {
+      "name": "Unsure Footing",
+      "description": "Complete Chapter 3 of Episode 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/a77471fe873086db00b770c9ad5c89a196efd397.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.7"
+    },
+    "ACH_104_4": {
+      "name": "What Had To Be Done",
+      "description": "Complete Chapter 4 of Episode 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/f9d830a12d9313693ca6c5cf027b1ad48630de5a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.4"
+    },
+    "ACH_102_6": {
+      "name": "Whirlwind",
+      "description": "Complete Chapter 6 of Episode 2",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/6dc7c111a3b46b729830dff35ca925d1ddbf1913.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.2"
+    },
+    "ACH_104_5": {
+      "name": "Zero Sum Game",
+      "description": "Complete Chapter 5 of Episode 4",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/dd9d1c2c8953250cba0ed22cc9ecb90e0bd58ded.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/675260/d905a5ee1a62eefb009bb29072558c8f6632f612.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
