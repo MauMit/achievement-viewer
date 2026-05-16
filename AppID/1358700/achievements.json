@@ -1,0 +1,334 @@
+{
+  "TROPHY_ACHIEVED_MASTER_FOUR_RANK_JOB": {
+    "earned": true,
+    "earned_time": 1778769303
+  },
+  "TROPHY_CLEAR_CHAOS_DIFFICULTY": {
+    "earned": true,
+    "earned_time": 1778760094
+  },
+  "TROPHY_CLEAR_LEVEL200_ON_CHAOS": {
+    "earned": true,
+    "earned_time": 1778760094
+  },
+  "TROPHY_CLEAR_SUB_MISSION": {
+    "earned": true,
+    "earned_time": 1778740548
+  },
+  "TROPHY_COMPLETE_JOB_TREE": {
+    "earned": true,
+    "earned_time": 1778681389
+  },
+  "TROPHY_COMPLETE_SUB_MISSION": {
+    "earned": true,
+    "earned_time": 1778785443
+  },
+  "TROPHY_DEFEAT_USAB": {
+    "earned": true,
+    "earned_time": 1778679748
+  },
+  "TROPHY_DEFEAT_UTON": {
+    "earned": true,
+    "earned_time": 1778739652
+  },
+  "TROPHY_DLC1_CLEAR_TRIALS_OF_THE_DRAGON_KING": {
+    "earned": true,
+    "earned_time": 1778762895
+  },
+  "TROPHY_DLC1_EQUIPPED_FOUR_OR_BETTER_RANK_ACCESSORY": {
+    "earned": true,
+    "earned_time": 1778762719
+  },
+  "TROPHY_DLC1_EQUIPPED_STAFF": {
+    "earned": true,
+    "earned_time": 1778741177
+  },
+  "TROPHY_DLC1_GET_RAT_TAIL": {
+    "earned": true,
+    "earned_time": 1778763011
+  },
+  "TROPHY_DLC1_MISION_EBON_MEMORIES": {
+    "earned": true,
+    "earned_time": 1778781678
+  },
+  "TROPHY_DLC1_MISSION_CORNELIAS_HOPE": {
+    "earned": true,
+    "earned_time": 1778764159
+  },
+  "TROPHY_DLC1_MISSION_LIGHT_OF_POSSIBILLITY": {
+    "earned": true,
+    "earned_time": 1778760094
+  },
+  "TROPHY_DLC1_TALKED_TO_BAHAMUT": {
+    "earned": true,
+    "earned_time": 1778761930
+  },
+  "TROPHY_DLC1_UNLOCKED_CLASS_TREE": {
+    "earned": true,
+    "earned_time": 1778763046
+  },
+  "TROPHY_DLC1_UNLOCKED_ENTIRETY_OF_EVOCATION_OR_ULTIMA_TREE": {
+    "earned": true,
+    "earned_time": 1778764490
+  },
+  "TROPHY_DLC1_UNLOCKED_EVOKER": {
+    "earned": true,
+    "earned_time": 1778741550
+  },
+  "TROPHY_DLC1_UNLOCKED_SUMMONER": {
+    "earned": true,
+    "earned_time": 1778763034
+  },
+  "TROPHY_DLC2_CLEAR_LEVEL30_ON_RAID": {
+    "earned": true,
+    "earned_time": 1778774282
+  },
+  "TROPHY_DLC2_CLEAR_RAID_DUNGEON": {
+    "earned": true,
+    "earned_time": 1778765114
+  },
+  "TROPHY_DLC2_DEFEAT_UGUA": {
+    "earned": true,
+    "earned_time": 1778770554
+  },
+  "TROPHY_DLC2_ENCOUNTERED_RAID_CHAOS_EVENT": {
+    "earned": true,
+    "earned_time": 1778771331
+  },
+  "TROPHY_DLC2_GAVE_MAGICPOT_ELIXIR": {
+    "earned": true,
+    "earned_time": 1778768364
+  },
+  "TROPHY_DLC2_GET_ALL_MYTHICAL_BEAST": {
+    "earned": true,
+    "earned_time": 1778781627
+  },
+  "TROPHY_DLC2_MAX_INTIMACY_SMITH_UTON": {
+    "earned": true,
+    "earned_time": 1778772594
+  },
+  "TROPHY_DLC2_MAX_INTIMACY_UAST": {
+    "earned": true,
+    "earned_time": 1778770815
+  },
+  "TROPHY_DLC2_MISSION_BIG_BRIDGE": {
+    "earned": true,
+    "earned_time": 1778779320
+  },
+  "TROPHY_DLC2_SUMMON_MONSTER": {
+    "earned": true,
+    "earned_time": 1778765332
+  },
+  "TROPHY_DLC2_UGIL_GIVE_ME_ACCESSORY": {
+    "earned": true,
+    "earned_time": 1778770991
+  },
+  "TROPHY_DLC2_UNLOCKED_BLUE_MAGE": {
+    "earned": true,
+    "earned_time": 1778767136
+  },
+  "TROPHY_DLC2_USED_DIMENSION_BRINGER": {
+    "earned": true,
+    "earned_time": 1778767951
+  },
+  "TROPHY_DLC3_ACQUIRED_GARLAND_ARMOR": {
+    "earned": true,
+    "earned_time": 1778778290
+  },
+  "TROPHY_DLC3_ACQUIRED_GUN": {
+    "earned": true,
+    "earned_time": 1778741297
+  },
+  "TROPHY_DLC3_DEFEAT_HELL_RISEN": {
+    "earned": true,
+    "earned_time": 1778784107
+  },
+  "TROPHY_DLC3_DEFEAT_JACK_GARLAND": {
+    "earned": true,
+    "earned_time": 1778784222
+  },
+  "TROPHY_DLC3_DEFEAT_LIGHT_OF_ORDER": {
+    "earned": true,
+    "earned_time": 1778784176
+  },
+  "TROPHY_DLC3_DEFEAT_MANIKIN": {
+    "earned": true,
+    "earned_time": 1778774780
+  },
+  "TROPHY_DLC3_DEFEAT_TRANSCENDANT": {
+    "earned": true,
+    "earned_time": 1778778116
+  },
+  "TROPHY_DLC3_MISSION_SUPREME_ILLUSIONS": {
+    "earned": true,
+    "earned_time": 1778784892
+  },
+  "TROPHY_DLC3_UNLOCKED_GAMBLER": {
+    "earned": true,
+    "earned_time": 1778742786
+  },
+  "TROPHY_DLC3_UNLOCKED_HUNTER": {
+    "earned": true,
+    "earned_time": 1778741562
+  },
+  "TROPHY_DLC3_UNLOCK_ALL_MARKSMAN_TREE": {
+    "earned": true,
+    "earned_time": 1778741570
+  },
+  "TROPHY_DLC3_USE_REPLICATION": {
+    "earned": true,
+    "earned_time": 1778785202
+  },
+  "TROPHY_FIRST_ANIMA_CRYSTAL": {
+    "earned": true,
+    "earned_time": 1778760138
+  },
+  "TROPHY_FIRST_ANIMA_FRAGMENT": {
+    "earned": true,
+    "earned_time": 1778679957
+  },
+  "TROPHY_FIRST_ARTIFACT": {
+    "earned": true,
+    "earned_time": 1778759878
+  },
+  "TROPHY_FIRST_SOUL_BURST": {
+    "earned": true,
+    "earned_time": 1778673613
+  },
+  "TROPHY_FIRST_WEAPON_ABILITY": {
+    "earned": true,
+    "earned_time": 1778750902
+  },
+  "TROPHY_FULL_UPGRADE_SPECIAL_EFFECT": {
+    "earned": true,
+    "earned_time": 1778768677
+  },
+  "TROPHY_MISSION_DARK_ELF": {
+    "earned": true,
+    "earned_time": 1778683757
+  },
+  "TROPHY_MISSION_EARTH_MEMORIES": {
+    "earned": true,
+    "earned_time": 1778746836
+  },
+  "TROPHY_MISSION_FAMILIAR_PLACE": {
+    "earned": true,
+    "earned_time": 1778741401
+  },
+  "TROPHY_MISSION_FIRE_MEMORIES": {
+    "earned": true,
+    "earned_time": 1778745399
+  },
+  "TROPHY_MISSION_FRAUGHT_JOURNEY": {
+    "earned": true,
+    "earned_time": 1778759826
+  },
+  "TROPHY_MISSION_ILLUSION": {
+    "earned": true,
+    "earned_time": 1778680115
+  },
+  "TROPHY_MISSION_JOURNEY_BEGIN": {
+    "earned": true,
+    "earned_time": 1778681810
+  },
+  "TROPHY_MISSION_NATURAL_DISTORTION": {
+    "earned": true,
+    "earned_time": 1778740214
+  },
+  "TROPHY_MISSION_PAST_PHANTOM": {
+    "earned": true,
+    "earned_time": 1778746021
+  },
+  "TROPHY_MISSION_PAST_SCHEME": {
+    "earned": true,
+    "earned_time": 1778752039
+  },
+  "TROPHY_MISSION_POISON_MEMORIES": {
+    "earned": true,
+    "earned_time": 1778744569
+  },
+  "TROPHY_MISSION_REMEMBER": {
+    "earned": true,
+    "earned_time": 1778747647
+  },
+  "TROPHY_MISSION_REMEMBERING_HOME": {
+    "earned": true,
+    "earned_time": 1778758438
+  },
+  "TROPHY_MISSION_SUFFERING_OF_FOOL": {
+    "earned": true,
+    "earned_time": 1778759141
+  },
+  "TROPHY_MISSION_WATER_MEMORIES": {
+    "earned": true,
+    "earned_time": 1778751268
+  },
+  "TROPHY_MISSION_WIND_MEMORIES": {
+    "earned": true,
+    "earned_time": 1778743289
+  },
+  "TROPHY_PLATINUM": {
+    "earned": true,
+    "earned_time": 1778785443
+  },
+  "TROPHY_UNLOCKED_ADVANCED_JOB": {
+    "earned": true,
+    "earned_time": 1778741514
+  },
+  "TROPHY_UNLOCKED_ALL_JOB": {
+    "earned": true,
+    "earned_time": 1778760319
+  },
+  "TROPHY_UNLOCKED_ASSASSIN": {
+    "earned": true,
+    "earned_time": 1778742048
+  },
+  "TROPHY_UNLOCKED_BREAKER": {
+    "earned": true,
+    "earned_time": 1778760315
+  },
+  "TROPHY_UNLOCKED_CYCLIC_WARRIOR": {
+    "earned": true,
+    "earned_time": 1778759877
+  },
+  "TROPHY_UNLOCKED_DARK_KNIGHT": {
+    "earned": true,
+    "earned_time": 1778760319
+  },
+  "TROPHY_UNLOCKED_LIBERATOR": {
+    "earned": true,
+    "earned_time": 1778742754
+  },
+  "TROPHY_UNLOCKED_NINJA": {
+    "earned": true,
+    "earned_time": 1778742765
+  },
+  "TROPHY_UNLOCKED_PALADIN": {
+    "earned": true,
+    "earned_time": 1778742064
+  },
+  "TROPHY_UNLOCKED_SAGE": {
+    "earned": true,
+    "earned_time": 1778742134
+  },
+  "TROPHY_UNLOCKED_TYRANT": {
+    "earned": true,
+    "earned_time": 1778742737
+  },
+  "TROPHY_UNLOCKED_VOID_KNIGHT": {
+    "earned": true,
+    "earned_time": 1778742732
+  },
+  "TROPHY_UNLOCK_ALL_JOB_BONUS": {
+    "earned": true,
+    "earned_time": 1778763235
+  },
+  "TROPHY_USED_MASTER_POINT": {
+    "earned": true,
+    "earned_time": 1778760271
+  },
+  "TROPHY_USE_JOB_CREST": {
+    "earned": true,
+    "earned_time": 1778768612
+  }
+}

@@ -1,31 +1,31 @@
 {
   "Akaji_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778799850
   },
   "Animals_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778794774
   },
   "Aquila_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778802503
   },
   "Awan_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778797315
   },
   "Backpack_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778796953
   },
   "Blu_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778799906
   },
   "Brram_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778792054
   },
   "Collect_1": {
     "earned": true,
@@ -44,132 +44,132 @@
     "earned_time": 1778075986
   },
   "Craft_2": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778656995
   },
   "Craft_3": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778802503
   },
   "Crops_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778802456
   },
   "Dishes_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778661768
   },
   "Dishes_2": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778797100
   },
   "Dishes_3": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778805089
   },
   "Ecco_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778803536
   },
   "Fishing_1": {
-    "earned": false,
+    "earned": true,
     "earned_time": 0
   },
   "HomeIsland_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778805409
   },
   "Islands_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778803892
   },
   "Litio_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778803513
   },
   "Mayo_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778800230
   },
   "Mine_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778790435
   },
   "Mun_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778801896
   },
   "Napopo_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778804147
   },
   "Noho_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778798347
   },
   "Onzo_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778795904
   },
   "Oranges_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778657040
   },
   "Outfit_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778802424
   },
   "Pilly_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778804414
   },
   "Recycle_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778788062
   },
   "Rigatta_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778803876
   },
   "Secret_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778803750
   },
   "Secret_2": {
     "earned": true,
     "earned_time": 1778247572
   },
   "Secret_3": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778804927
   },
   "Secret_5": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778804874
   },
   "Secret_6": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778793288
   },
   "Secret_7": {
     "earned": true,
     "earned_time": 1778160314
   },
   "Secret_8": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778657581
   },
   "Sell_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778658133
   },
   "Sell_2": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778659642
   },
   "Sell_3": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778787345
   },
   "Story_1": {
     "earned": true,
@@ -180,27 +180,27 @@
     "earned_time": 1778160063
   },
   "Story_3": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778790556
   },
   "Story_4": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778798568
   },
   "Story_5": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778803237
   },
   "Story_6": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778803324
   },
   "Taima_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778800651
   },
   "Taka_1": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778796556
   }
 }
