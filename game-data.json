@@ -1,6 +1,6 @@
 {
-  "last_updated": 1778903498,
-  "total_games": 116,
+  "last_updated": 1778951889,
+  "total_games": 119,
   "games": [
     {
       "appid": "1091500",
@@ -28823,11 +28823,11 @@
           "earned_time": 1776699464
         },
         "NEW_ACHIEVEMENT_17_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_18_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_19_0": {
@@ -28835,15 +28835,15 @@
           "earned_time": 1775950185
         },
         "NEW_ACHIEVEMENT_1_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_20_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_21_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_22_0": {
@@ -28855,7 +28855,7 @@
           "earned_time": 1775923606
         },
         "NEW_ACHIEVEMENT_24_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_25_0": {
@@ -28875,7 +28875,7 @@
           "earned_time": 1776003439
         },
         "NEW_ACHIEVEMENT_29_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_2_0": {
@@ -28883,11 +28883,11 @@
           "earned_time": 1775749518
         },
         "NEW_ACHIEVEMENT_30_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_31_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_32_0": {
@@ -28935,11 +28935,11 @@
           "earned_time": 1775919417
         },
         "NEW_ACHIEVEMENT_42_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_43_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_44_0": {
@@ -28991,19 +28991,19 @@
           "earned_time": 1776005702
         },
         "NEW_ACHIEVEMENT_55_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_56_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_57_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_58_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_59_0": {
@@ -29035,7 +29035,7 @@
           "earned_time": 1777202661
         },
         "NEW_ACHIEVEMENT_65_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_66_0": {
@@ -29047,11 +29047,11 @@
           "earned_time": 1777203761
         },
         "NEW_ACHIEVEMENT_68_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_69_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_6_0": {
@@ -29059,11 +29059,11 @@
           "earned_time": 1777226308
         },
         "NEW_ACHIEVEMENT_70_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_71_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_72_0": {
@@ -29075,11 +29075,11 @@
           "earned_time": 1775920912
         },
         "NEW_ACHIEVEMENT_74_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_75_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_76_0": {
@@ -29087,15 +29087,15 @@
           "earned_time": 1777455058
         },
         "NEW_ACHIEVEMENT_77_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_78_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_79_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_7_0": {
@@ -29103,7 +29103,7 @@
           "earned_time": 1777384342
         },
         "NEW_ACHIEVEMENT_80_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_81_0": {
@@ -29123,7 +29123,7 @@
           "earned_time": 1777542096
         },
         "NEW_ACHIEVEMENT_8_0": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "NEW_ACHIEVEMENT_9_0": {
@@ -34694,6 +34694,157 @@
       }
     },
     {
+      "appid": "3357650",
+      "info": {
+        "appid": "3357650",
+        "name": "Game 3357650",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "1": {
+          "earned": true,
+          "earned_time": 1778906642
+        },
+        "10": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "11": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "12": {
+          "earned": true,
+          "earned_time": 1778906142
+        },
+        "13": {
+          "earned": true,
+          "earned_time": 1778911962
+        },
+        "14": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "15": {
+          "earned": true,
+          "earned_time": 1778911878
+        },
+        "16": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "17": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "18": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "19": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "2": {
+          "earned": true,
+          "earned_time": 1778911599
+        },
+        "20": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "21": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "22": {
+          "earned": true,
+          "earned_time": 1778911092
+        },
+        "23": {
+          "earned": true,
+          "earned_time": 1778910743
+        },
+        "24": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "25": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "26": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "27": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "28": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "29": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "3": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "30": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "31": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "32": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "33": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "34": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "35": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "4": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "5": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "6": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "7": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "8": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "9": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
       "appid": "1235140",
       "info": {
         "appid": "1235140",
@@ -39945,6 +40096,349 @@
         "TROPHY_ID_000": {
           "earned": true,
           "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "1358700",
+      "info": {
+        "appid": "1358700",
+        "name": "Game 1358700",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "TROPHY_ACHIEVED_MASTER_FOUR_RANK_JOB": {
+          "earned": true,
+          "earned_time": 1778769303
+        },
+        "TROPHY_CLEAR_CHAOS_DIFFICULTY": {
+          "earned": true,
+          "earned_time": 1778760094
+        },
+        "TROPHY_CLEAR_LEVEL200_ON_CHAOS": {
+          "earned": true,
+          "earned_time": 1778760094
+        },
+        "TROPHY_CLEAR_SUB_MISSION": {
+          "earned": true,
+          "earned_time": 1778740548
+        },
+        "TROPHY_COMPLETE_JOB_TREE": {
+          "earned": true,
+          "earned_time": 1778681389
+        },
+        "TROPHY_COMPLETE_SUB_MISSION": {
+          "earned": true,
+          "earned_time": 1778785443
+        },
+        "TROPHY_DEFEAT_USAB": {
+          "earned": true,
+          "earned_time": 1778679748
+        },
+        "TROPHY_DEFEAT_UTON": {
+          "earned": true,
+          "earned_time": 1778739652
+        },
+        "TROPHY_DLC1_CLEAR_TRIALS_OF_THE_DRAGON_KING": {
+          "earned": true,
+          "earned_time": 1778762895
+        },
+        "TROPHY_DLC1_EQUIPPED_FOUR_OR_BETTER_RANK_ACCESSORY": {
+          "earned": true,
+          "earned_time": 1778762719
+        },
+        "TROPHY_DLC1_EQUIPPED_STAFF": {
+          "earned": true,
+          "earned_time": 1778741177
+        },
+        "TROPHY_DLC1_GET_RAT_TAIL": {
+          "earned": true,
+          "earned_time": 1778763011
+        },
+        "TROPHY_DLC1_MISION_EBON_MEMORIES": {
+          "earned": true,
+          "earned_time": 1778781678
+        },
+        "TROPHY_DLC1_MISSION_CORNELIAS_HOPE": {
+          "earned": true,
+          "earned_time": 1778764159
+        },
+        "TROPHY_DLC1_MISSION_LIGHT_OF_POSSIBILLITY": {
+          "earned": true,
+          "earned_time": 1778760094
+        },
+        "TROPHY_DLC1_TALKED_TO_BAHAMUT": {
+          "earned": true,
+          "earned_time": 1778761930
+        },
+        "TROPHY_DLC1_UNLOCKED_CLASS_TREE": {
+          "earned": true,
+          "earned_time": 1778763046
+        },
+        "TROPHY_DLC1_UNLOCKED_ENTIRETY_OF_EVOCATION_OR_ULTIMA_TREE": {
+          "earned": true,
+          "earned_time": 1778764490
+        },
+        "TROPHY_DLC1_UNLOCKED_EVOKER": {
+          "earned": true,
+          "earned_time": 1778741550
+        },
+        "TROPHY_DLC1_UNLOCKED_SUMMONER": {
+          "earned": true,
+          "earned_time": 1778763034
+        },
+        "TROPHY_DLC2_CLEAR_LEVEL30_ON_RAID": {
+          "earned": true,
+          "earned_time": 1778774282
+        },
+        "TROPHY_DLC2_CLEAR_RAID_DUNGEON": {
+          "earned": true,
+          "earned_time": 1778765114
+        },
+        "TROPHY_DLC2_DEFEAT_UGUA": {
+          "earned": true,
+          "earned_time": 1778770554
+        },
+        "TROPHY_DLC2_ENCOUNTERED_RAID_CHAOS_EVENT": {
+          "earned": true,
+          "earned_time": 1778771331
+        },
+        "TROPHY_DLC2_GAVE_MAGICPOT_ELIXIR": {
+          "earned": true,
+          "earned_time": 1778768364
+        },
+        "TROPHY_DLC2_GET_ALL_MYTHICAL_BEAST": {
+          "earned": true,
+          "earned_time": 1778781627
+        },
+        "TROPHY_DLC2_MAX_INTIMACY_SMITH_UTON": {
+          "earned": true,
+          "earned_time": 1778772594
+        },
+        "TROPHY_DLC2_MAX_INTIMACY_UAST": {
+          "earned": true,
+          "earned_time": 1778770815
+        },
+        "TROPHY_DLC2_MISSION_BIG_BRIDGE": {
+          "earned": true,
+          "earned_time": 1778779320
+        },
+        "TROPHY_DLC2_SUMMON_MONSTER": {
+          "earned": true,
+          "earned_time": 1778765332
+        },
+        "TROPHY_DLC2_UGIL_GIVE_ME_ACCESSORY": {
+          "earned": true,
+          "earned_time": 1778770991
+        },
+        "TROPHY_DLC2_UNLOCKED_BLUE_MAGE": {
+          "earned": true,
+          "earned_time": 1778767136
+        },
+        "TROPHY_DLC2_USED_DIMENSION_BRINGER": {
+          "earned": true,
+          "earned_time": 1778767951
+        },
+        "TROPHY_DLC3_ACQUIRED_GARLAND_ARMOR": {
+          "earned": true,
+          "earned_time": 1778778290
+        },
+        "TROPHY_DLC3_ACQUIRED_GUN": {
+          "earned": true,
+          "earned_time": 1778741297
+        },
+        "TROPHY_DLC3_DEFEAT_HELL_RISEN": {
+          "earned": true,
+          "earned_time": 1778784107
+        },
+        "TROPHY_DLC3_DEFEAT_JACK_GARLAND": {
+          "earned": true,
+          "earned_time": 1778784222
+        },
+        "TROPHY_DLC3_DEFEAT_LIGHT_OF_ORDER": {
+          "earned": true,
+          "earned_time": 1778784176
+        },
+        "TROPHY_DLC3_DEFEAT_MANIKIN": {
+          "earned": true,
+          "earned_time": 1778774780
+        },
+        "TROPHY_DLC3_DEFEAT_TRANSCENDANT": {
+          "earned": true,
+          "earned_time": 1778778116
+        },
+        "TROPHY_DLC3_MISSION_SUPREME_ILLUSIONS": {
+          "earned": true,
+          "earned_time": 1778784892
+        },
+        "TROPHY_DLC3_UNLOCKED_GAMBLER": {
+          "earned": true,
+          "earned_time": 1778742786
+        },
+        "TROPHY_DLC3_UNLOCKED_HUNTER": {
+          "earned": true,
+          "earned_time": 1778741562
+        },
+        "TROPHY_DLC3_UNLOCK_ALL_MARKSMAN_TREE": {
+          "earned": true,
+          "earned_time": 1778741570
+        },
+        "TROPHY_DLC3_USE_REPLICATION": {
+          "earned": true,
+          "earned_time": 1778785202
+        },
+        "TROPHY_FIRST_ANIMA_CRYSTAL": {
+          "earned": true,
+          "earned_time": 1778760138
+        },
+        "TROPHY_FIRST_ANIMA_FRAGMENT": {
+          "earned": true,
+          "earned_time": 1778679957
+        },
+        "TROPHY_FIRST_ARTIFACT": {
+          "earned": true,
+          "earned_time": 1778759878
+        },
+        "TROPHY_FIRST_SOUL_BURST": {
+          "earned": true,
+          "earned_time": 1778673613
+        },
+        "TROPHY_FIRST_WEAPON_ABILITY": {
+          "earned": true,
+          "earned_time": 1778750902
+        },
+        "TROPHY_FULL_UPGRADE_SPECIAL_EFFECT": {
+          "earned": true,
+          "earned_time": 1778768677
+        },
+        "TROPHY_MISSION_DARK_ELF": {
+          "earned": true,
+          "earned_time": 1778683757
+        },
+        "TROPHY_MISSION_EARTH_MEMORIES": {
+          "earned": true,
+          "earned_time": 1778746836
+        },
+        "TROPHY_MISSION_FAMILIAR_PLACE": {
+          "earned": true,
+          "earned_time": 1778741401
+        },
+        "TROPHY_MISSION_FIRE_MEMORIES": {
+          "earned": true,
+          "earned_time": 1778745399
+        },
+        "TROPHY_MISSION_FRAUGHT_JOURNEY": {
+          "earned": true,
+          "earned_time": 1778759826
+        },
+        "TROPHY_MISSION_ILLUSION": {
+          "earned": true,
+          "earned_time": 1778680115
+        },
+        "TROPHY_MISSION_JOURNEY_BEGIN": {
+          "earned": true,
+          "earned_time": 1778681810
+        },
+        "TROPHY_MISSION_NATURAL_DISTORTION": {
+          "earned": true,
+          "earned_time": 1778740214
+        },
+        "TROPHY_MISSION_PAST_PHANTOM": {
+          "earned": true,
+          "earned_time": 1778746021
+        },
+        "TROPHY_MISSION_PAST_SCHEME": {
+          "earned": true,
+          "earned_time": 1778752039
+        },
+        "TROPHY_MISSION_POISON_MEMORIES": {
+          "earned": true,
+          "earned_time": 1778744569
+        },
+        "TROPHY_MISSION_REMEMBER": {
+          "earned": true,
+          "earned_time": 1778747647
+        },
+        "TROPHY_MISSION_REMEMBERING_HOME": {
+          "earned": true,
+          "earned_time": 1778758438
+        },
+        "TROPHY_MISSION_SUFFERING_OF_FOOL": {
+          "earned": true,
+          "earned_time": 1778759141
+        },
+        "TROPHY_MISSION_WATER_MEMORIES": {
+          "earned": true,
+          "earned_time": 1778751268
+        },
+        "TROPHY_MISSION_WIND_MEMORIES": {
+          "earned": true,
+          "earned_time": 1778743289
+        },
+        "TROPHY_PLATINUM": {
+          "earned": true,
+          "earned_time": 1778785443
+        },
+        "TROPHY_UNLOCKED_ADVANCED_JOB": {
+          "earned": true,
+          "earned_time": 1778741514
+        },
+        "TROPHY_UNLOCKED_ALL_JOB": {
+          "earned": true,
+          "earned_time": 1778760319
+        },
+        "TROPHY_UNLOCKED_ASSASSIN": {
+          "earned": true,
+          "earned_time": 1778742048
+        },
+        "TROPHY_UNLOCKED_BREAKER": {
+          "earned": true,
+          "earned_time": 1778760315
+        },
+        "TROPHY_UNLOCKED_CYCLIC_WARRIOR": {
+          "earned": true,
+          "earned_time": 1778759877
+        },
+        "TROPHY_UNLOCKED_DARK_KNIGHT": {
+          "earned": true,
+          "earned_time": 1778760319
+        },
+        "TROPHY_UNLOCKED_LIBERATOR": {
+          "earned": true,
+          "earned_time": 1778742754
+        },
+        "TROPHY_UNLOCKED_NINJA": {
+          "earned": true,
+          "earned_time": 1778742765
+        },
+        "TROPHY_UNLOCKED_PALADIN": {
+          "earned": true,
+          "earned_time": 1778742064
+        },
+        "TROPHY_UNLOCKED_SAGE": {
+          "earned": true,
+          "earned_time": 1778742134
+        },
+        "TROPHY_UNLOCKED_TYRANT": {
+          "earned": true,
+          "earned_time": 1778742737
+        },
+        "TROPHY_UNLOCKED_VOID_KNIGHT": {
+          "earned": true,
+          "earned_time": 1778742732
+        },
+        "TROPHY_UNLOCK_ALL_JOB_BONUS": {
+          "earned": true,
+          "earned_time": 1778763235
+        },
+        "TROPHY_USED_MASTER_POINT": {
+          "earned": true,
+          "earned_time": 1778760271
+        },
+        "TROPHY_USE_JOB_CREST": {
+          "earned": true,
+          "earned_time": 1778768612
         }
       }
     },
@@ -62575,6 +63069,197 @@
         },
         "ACHIEVEMENT_0": {
           "earned": true,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "3489700",
+      "info": {
+        "appid": "3489700",
+        "name": "Game 3489700",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "01_Platinum": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "02_Activate_FirstCamp": {
+          "earned": true,
+          "earned_time": 1778854348
+        },
+        "03_KillCharacter_Opener": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "04_KillCharacter_GrubShooter": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "05_KillCharacter_Gigas_Kill": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "06_KillCharacter_Brute": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "07_CompleteLevel_AltesLabor": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "08_KillCharacter_Stalker_Kill": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "09_KillCharacter_Juggernaut_Kill": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "10_KillCharacter_Tachy_Kill": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "11_KillCharacter_Behemoth": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "12_CompleteLevel_AbyssLabor": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "13_KillCharacter_Belial_A_Kill": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "14_KillCharacter_Marionette_Kill": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "15_KillCharacter_Gorgon_Kill": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "16_KillCharacter_Raven_Kill": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "17_Ending_Colony": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "18_Ending_LostMemory": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "19_Ending_NewMemory": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "20_Acquire_AllCan": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "21_Acquire_AllNanoSuit": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "22_Acquire_AllRecords": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "23_Album_AllFish": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "24_Open_AllBox": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "25_KillCharacter_AllNative": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "26_Activate_AllCamp": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "27_LevelUpMax_AllExoSpine": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "28_WeaponMaxUpgrade": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "29_TumblerMaxUpgrade": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "30_BodyMaxUpgrade": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "31_BetaMaxUpgrade": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "32_Acquire_AllSkill": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "33_CompleteQuest_Enya": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "34_CompleteQuest_Kaya": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "35_CompleteQuest_Digger": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "36_JustEvade": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "37_JustParry": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "38_CharKill_AssassinationSkills": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "39_CharKill_BetaSkill": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "40_CharKill_BurstSkill": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "41_CharKill_TachySkill": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "42_CharKill_RangeSkill": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "43_KillCharacter": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "44_Complete_NewGamePlus": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "45_Acquire_AllSkill_NewGamePlus": {
+          "earned": false,
           "earned_time": 0
         }
       }
