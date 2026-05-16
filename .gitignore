@@ -1,0 +1,37 @@
+# Save files
+*.sav
+*.save
+*.bin
+*.bak
+
+# Goldberg / emulator folders
+remote/
+remoteWin/
+steam_settings/
+
+# Playtime / stats files
+playtime.txt
+stats.txt
+
+# Slot files
+*Slot.bin
+
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Keep achievement files
+!achievements.json
+!*.db
