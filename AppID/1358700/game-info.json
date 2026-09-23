@@ -1,0 +1,757 @@
+{
+  "appid": "1358700",
+  "name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1358700/header.jpg?t=1775030600",
+  "achievements": {
+    "TROPHY_PLATINUM": {
+      "name": "A Tale of Origins and Endings",
+      "description": "Acquired all achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/f92f65d25cc78abef1bb1ac8471844c0e03f0b9e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "TROPHY_MISSION_ILLUSION": {
+      "name": "Hopes and Dreams",
+      "description": "Completed \"Illusion at Journey's End.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/4a5bc95000b4bbdcbe4de544b468c7f8c0d57542.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "74.1"
+    },
+    "TROPHY_MISSION_JOURNEY_BEGIN": {
+      "name": "The Pirate's Way",
+      "description": "Completed \"The Journey Begins.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/f4b196191a710ba3a7b9f9a702da2b86a51d610f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "64.6"
+    },
+    "TROPHY_MISSION_DARK_ELF": {
+      "name": "The King of the Dark Elves",
+      "description": "Completed \"Audience with the Dark Elf.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/aae1ca029615493d9b769d33fb04be7c5dbb64d7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "59.3"
+    },
+    "TROPHY_MISSION_NATURAL_DISTORTION": {
+      "name": "Distortion's Progeny",
+      "description": "Completed \"Natural Distortion.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/bb759fa4c66bfe7056dab46d8ee79f36e60975c6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "54.9"
+    },
+    "TROPHY_MISSION_FAMILIAR_PLACE": {
+      "name": "A Landscape of Memory",
+      "description": "Completed \"A Familiar Place.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/fc44e38a3909ba4ee00c4d1e432c97694b35e835.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.9"
+    },
+    "TROPHY_MISSION_WIND_MEMORIES": {
+      "name": "The Wind's Light",
+      "description": "Completed \"Memories of Wind.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/21719f2f5dcbdd115063e31479593f5179415d03.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.7"
+    },
+    "TROPHY_MISSION_POISON_MEMORIES": {
+      "name": "Vague Remembrances",
+      "description": "Completed \"Memories of Poison.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/c10c3be3ab8e30138e8fda109621cd3ecd4aa857.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.9"
+    },
+    "TROPHY_MISSION_FIRE_MEMORIES": {
+      "name": "The Fire's Light",
+      "description": "Completed \"Memories of Fire.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/b60b3ebff6c71faca71e19e54c5bc314fed21d1f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.3"
+    },
+    "TROPHY_MISSION_PAST_PHANTOM": {
+      "name": "Phantom Memories",
+      "description": "Completed \"Phantoms of the Past.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/d4b058416f55ffedabf7a5d286a496d0697d5e6a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.0"
+    },
+    "TROPHY_MISSION_EARTH_MEMORIES": {
+      "name": "The Earth's Light",
+      "description": "Completed \"Memories of Earth.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/0cd90848e5e086cb718fd25b2eefe2eef522f63a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.7"
+    },
+    "TROPHY_MISSION_REMEMBER": {
+      "name": "Shared Recollections",
+      "description": "Completed \"To Remember.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/cd8f17fe514a2c76ba2adee64c78903d36ea9370.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.1"
+    },
+    "TROPHY_MISSION_WATER_MEMORIES": {
+      "name": "The Water's Light",
+      "description": "Completed \"Memories of Water.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/514f360bf60d8e74886a986076f2ac5341f3e955.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.4"
+    },
+    "TROPHY_MISSION_PAST_SCHEME": {
+      "name": "Malice Takes Root",
+      "description": "Completed \"Schemes of the Past.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/4f135651ee6e429a756935cc850f246359db4eff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.3"
+    },
+    "TROPHY_MISSION_REMEMBERING_HOME": {
+      "name": "Duty's Course",
+      "description": "Completed \"Remembering Home.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/f4ae2096070d9b2136dca5da82a408e26a9007ba.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.2"
+    },
+    "TROPHY_MISSION_SUFFERING_OF_FOOL": {
+      "name": "Led by the Nose",
+      "description": "Completed \"The Suffering of Fools.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/8ffd1ecb7081d6c85048556eb2bc9165399b4360.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.0"
+    },
+    "TROPHY_MISSION_FRAUGHT_JOURNEY": {
+      "name": "Terminus of Fate",
+      "description": "Completed \"A Fraught Journey.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/77fd5075301cd2b7c678d06a018bfd575589d7cc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.8"
+    },
+    "TROPHY_CLEAR_CHAOS_DIFFICULTY": {
+      "name": "Origin of True Chaos",
+      "description": "Completed the game on CHAOS difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/90f665f533c4b0b423ae29c9d29a0c8d5ad8172c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.1"
+    },
+    "TROPHY_CLEAR_LEVEL200_ON_CHAOS": {
+      "name": "Cycle of Darkness",
+      "description": "Completed a level 200 mission or higher on CHAOS difficulty.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/9879bf0664f4378868876329d069fbb319c933cf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.4"
+    },
+    "TROPHY_CLEAR_SUB_MISSION": {
+      "name": "Memories of the Distant Past",
+      "description": "Completed a side mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/86064bbc7ee534def37669e471e21f7a7ac0ec49.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.2"
+    },
+    "TROPHY_COMPLETE_SUB_MISSION": {
+      "name": "Strangers' Memories",
+      "description": "Completed every side mission.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/7204fd6d90e10491759eb152ca270788bdcb950f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "TROPHY_FIRST_SOUL_BURST": {
+      "name": "Manifestation of the Soul",
+      "description": "Used soul burst for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/cf1f5016f1318a1f27dd7b9ba06a7a5a2ed5208f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "96.2"
+    },
+    "TROPHY_FIRST_WEAPON_ABILITY": {
+      "name": "Imbued Memories",
+      "description": "Used a weapon ability for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/962b3e86aa0356ac53b0d4478abb298aafe2d572.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.1"
+    },
+    "TROPHY_DEFEAT_USAB": {
+      "name": "No Escape",
+      "description": "Defeated a cactuar.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/3e8ca6665bb7587f698ca308dab7e486a8b1094a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "79.0"
+    },
+    "TROPHY_DEFEAT_UTON": {
+      "name": "Lantern Smasher",
+      "description": "Defeated a tonberry.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/0b25bb127faff32f8616aad9b5555e561506c30a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "70.3"
+    },
+    "TROPHY_FIRST_ANIMA_FRAGMENT": {
+      "name": "Seeker of Power",
+      "description": "Acquired an anima shard.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/85512bb8d0a50a9094d5b1b83c80409c7f13b9e1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "77.6"
+    },
+    "TROPHY_FIRST_ANIMA_CRYSTAL": {
+      "name": "Seeker of Ultimate Power",
+      "description": "Acquired an anima crystal.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/dbbd58f4692765daba89fca0ae466d4769fdecc6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.6"
+    },
+    "TROPHY_FIRST_ARTIFACT": {
+      "name": "Artifact Collector",
+      "description": "Acquired an artifact.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6cac6de1a6ac738ce1cf471b1f5eba4470ca9c36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.0"
+    },
+    "TROPHY_USE_JOB_CREST": {
+      "name": "Crest Bearer",
+      "description": "Used a job crest at the smithy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/87b73617fa8d1e1b36de9e8cc55f517963d69f69.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "TROPHY_FULL_UPGRADE_SPECIAL_EFFECT": {
+      "name": "True Potential",
+      "description": "Fully upgraded the special effect of a piece of equipment.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/1fd9ef8bcb8bb501f8b19f2716d8a06663cfea9c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.2"
+    },
+    "TROPHY_UNLOCK_ALL_JOB_BONUS": {
+      "name": "Polymath",
+      "description": "Unlocked every job affinity bonus for a single job.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/ee597195fade085ae61f7fb9fcf467465079e318.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.5"
+    },
+    "TROPHY_COMPLETE_JOB_TREE": {
+      "name": "Savant",
+      "description": "Unlocked every panel in the job tree for a single job.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6fc3dd1f43966134568a861d3c0ee6ade7f87912.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.3"
+    },
+    "TROPHY_USED_MASTER_POINT": {
+      "name": "Master's Awakening",
+      "description": "Used a master point.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6829777659e43b87f3b7ddfc603f5944c63ca724.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.6"
+    },
+    "TROPHY_ACHIEVED_MASTER_FOUR_RANK_JOB": {
+      "name": "Job Master",
+      "description": "Achieved MASTER★★★★ rank for a job.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/e2479ff14bdf5435a1a8055d048665c14b7285ef.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.1"
+    },
+    "TROPHY_UNLOCKED_ADVANCED_JOB": {
+      "name": "Dark Crystal, Warrior's Heart",
+      "description": "Unlocked an advanced job.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/2839cd1ef9ec5416c2ac7ac4fa5b75590662fa7d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.3"
+    },
+    "TROPHY_UNLOCKED_ALL_JOB": {
+      "name": "Jack-of-All-Trades",
+      "description": "Unlocked all jobs.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/e5acad9a11c25128bf7e31053bf86ba339ad1534.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.7"
+    },
+    "TROPHY_UNLOCKED_DARK_KNIGHT": {
+      "name": "Path of the Dark Knight",
+      "description": "Unlocked the dark knight.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/05dbb611167f77090621e80f8dbf70066fd587b2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.8"
+    },
+    "TROPHY_UNLOCKED_PALADIN": {
+      "name": "Path of the Paladin",
+      "description": "Unlocked the paladin.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/c61b3d3f82846d828c791b61616acb9e674d181d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.3"
+    },
+    "TROPHY_UNLOCKED_NINJA": {
+      "name": "Path of the Ninja",
+      "description": "Unlocked the ninja.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/9256ff27393fd2eb3ac9ec760c1ef0744e66ef47.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.1"
+    },
+    "TROPHY_UNLOCKED_ASSASSIN": {
+      "name": "Path of the Assassin",
+      "description": "Unlocked the assassin.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/ec161ac5d4e838098006ad33cf40c38cbb8b94d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.5"
+    },
+    "TROPHY_UNLOCKED_LIBERATOR": {
+      "name": "Path of the Liberator",
+      "description": "Unlocked the liberator.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/a8c42b8a833a49cb396510c2205337c886252d70.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.9"
+    },
+    "TROPHY_UNLOCKED_BREAKER": {
+      "name": "Path of the Breaker",
+      "description": "Unlocked the breaker.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/5b59c0e71fa3d9bf350b5b8b74a1c3e9f72bb473.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.0"
+    },
+    "TROPHY_UNLOCKED_VOID_KNIGHT": {
+      "name": "Path of the Void Knight",
+      "description": "Unlocked the void knight.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/c2e8bc3053e2da5ddc25db650e6f82929a25d73e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.1"
+    },
+    "TROPHY_UNLOCKED_TYRANT": {
+      "name": "Path of the Tyrant",
+      "description": "Unlocked the tyrant.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/988f9f98a6e6eb8b7fd37c4080b5cb1e8fc1b82f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.0"
+    },
+    "TROPHY_UNLOCKED_SAGE": {
+      "name": "Path of the Sage",
+      "description": "Unlocked the sage.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/1addf7537e933552514c0286ccd47e1889b16526.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.0"
+    },
+    "TROPHY_UNLOCKED_CYCLIC_WARRIOR": {
+      "name": "His Name Is Garland",
+      "description": "Unlocked the cyclic warrior.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/1fab2f80d1833d05c0fce4ee426dbf9d301c6ec0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.1"
+    },
+    "TROPHY_DLC1_MISSION_LIGHT_OF_POSSIBILLITY": {
+      "name": "Light of Possibility",
+      "description": "Completed the mission \"Light of Possibility.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/d2e2a8236e3414d86ad7f8e26f6d78c94a94d426.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.8"
+    },
+    "TROPHY_DLC1_MISSION_CORNELIAS_HOPE": {
+      "name": "Cornelia's Hope",
+      "description": "Completed the mission \"Cornelia's Hope.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6a85b2ebae3741d46c15cd52d709471383275d6c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "TROPHY_DLC1_MISION_EBON_MEMORIES": {
+      "name": "Hope and Despair",
+      "description": "Completed the additional mission: \"Ebon Memories: Hope Within Despair.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/a5f64e2863eae437f26f461ac8269d1dac7fd174.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "TROPHY_DLC1_TALKED_TO_BAHAMUT": {
+      "name": "Bahamut's Admonition",
+      "description": "Talked to Bahamut via Conversations with Bahamut.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/d996e9ecf002eb4f38107d19afe604c3a10f8d2b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.3"
+    },
+    "TROPHY_DLC1_CLEAR_TRIALS_OF_THE_DRAGON_KING": {
+      "name": "The Triumphant",
+      "description": "Completed a mission with a dragon king trial enabled.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/28ee408cab872df7f56d1d169049a70b60ae643f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.6"
+    },
+    "TROPHY_DLC1_GET_RAT_TAIL": {
+      "name": "Rat Tail",
+      "description": "Acquired a rat tail.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/654bc85d47054499a936dcc6889c56e24182ff9a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.6"
+    },
+    "TROPHY_DLC1_EQUIPPED_FOUR_OR_BETTER_RANK_ACCESSORY": {
+      "name": "Decked Out",
+      "description": "Equipped a ★4 or better accessory.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/d89ca5412ad9b0c8ba29d65371b49e6affd00356.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.2"
+    },
+    "TROPHY_DLC1_EQUIPPED_STAFF": {
+      "name": "Path of the Staff",
+      "description": "Equipped a staff.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/356940e3fe193424908dd98ee163f3b4b90adfe5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.3"
+    },
+    "TROPHY_DLC1_UNLOCKED_CLASS_TREE": {
+      "name": "Courage Proven, Strength Displayed",
+      "description": "Unlocked the class tree.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/05affccb27c7fb25685b52b78f62fe3c721e97cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "15.4"
+    },
+    "TROPHY_DLC1_UNLOCKED_ENTIRETY_OF_EVOCATION_OR_ULTIMA_TREE": {
+      "name": "Beyond Power",
+      "description": "Unlocked the entirety of the evocation or ultima tree for any job.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/5d6060ba6e692f2cc0b50a476eb80366a7f068d2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.0"
+    },
+    "TROPHY_DLC1_UNLOCKED_SUMMONER": {
+      "name": "Path of the Summoner",
+      "description": "Unlocked the summoner.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/0f9112ab7791002a35ca11d396eff59c1d246142.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.5"
+    },
+    "TROPHY_DLC1_UNLOCKED_EVOKER": {
+      "name": "Path of the Evoker",
+      "description": "Unlocked the evoker.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/0ac8f91ce0a30aa624c3b50d7701fc026a671b75.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.7"
+    },
+    "TROPHY_DLC2_CLEAR_RAID_DUNGEON": {
+      "name": "Challenger of the Rift",
+      "description": "Completed a floor of the rift labyrinth.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/1a139f3a35d29ca76db5511833edeadd5820fd95.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "TROPHY_DLC2_CLEAR_LEVEL30_ON_RAID": {
+      "name": "Deep Delver",
+      "description": "Completed over thirty rift labyrinth floors.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/84ccd42198a3494a5abb65d8bc016093f7814f67.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "TROPHY_DLC2_SUMMON_MONSTER": {
+      "name": "Monster Summoner",
+      "description": "Summoned your first monster.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/438ecfd55aa950ae0f766ff711e0158916951b32.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.4"
+    },
+    "TROPHY_DLC2_MAX_INTIMACY_SMITH_UTON": {
+      "name": "His Name Is Cid Tonberrini",
+      "description": "Maxed out your affinity with the Tonberry Blacksmith.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/bdb8be12b8a1d9efc62dcd98fd1e311a9fd4332a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "TROPHY_DLC2_MAX_INTIMACY_UAST": {
+      "name": "I'll Never Forget",
+      "description": "Maxed out your affinity with the discarded organic reconnaissance unit.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/13ecd7fb29275774571a54f272dfaa1d2e740235.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "TROPHY_DLC2_UGIL_GIVE_ME_ACCESSORY": {
+      "name": "Extradimensional Gift",
+      "description": "Received an accessory from Gilgamesh.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/2b761c57c91c87fa3086f418925208f2e77d3fb5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "TROPHY_DLC2_GET_ALL_MYTHICAL_BEAST": {
+      "name": "The Blessings of the Summoned",
+      "description": "Obtained a relic with blessings from 12 different summons.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/b84ee89de43d3618dc5b13b39b34062514dcf05e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "TROPHY_DLC2_USED_DIMENSION_BRINGER": {
+      "name": "The Laws of the Universe Are In Chaos!",
+      "description": "Used dimension bringer.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/b26d4b1daada5abedeb47ddfca0f4d70a7241c9f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "TROPHY_DLC2_GAVE_MAGICPOT_ELIXIR": {
+      "name": "Elixir Please!",
+      "description": "Gave an elixir to a magic pot.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6676e3f1b8110738bb1036c9807e165b33ffb37b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "TROPHY_DLC2_ENCOUNTERED_RAID_CHAOS_EVENT": {
+      "name": "The Chaos In the Rift",
+      "description": "Encountered a chaos event.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/e96109f084ca3d80fd8ca546f4fffd70aaab0f5f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "TROPHY_DLC2_UNLOCKED_BLUE_MAGE": {
+      "name": "Path of the Blue Mage",
+      "description": "Unlocked the blue mage.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/dbafc1b26dee1dafd0947dcea7b070b04f9c5f4b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "TROPHY_DLC2_MISSION_BIG_BRIDGE": {
+      "name": "Battle on the Big Bridge",
+      "description": "Completed the additional mission: \"Chaos Rift - Battle on the Big Bridge.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/e678317aab05643eb4aff6cfe9e51fc80b7966b1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "TROPHY_DLC2_DEFEAT_UGUA": {
+      "name": "Interdimensional Interference",
+      "description": "Defeated a death machine in the rift labyrinth.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/82d0d770812e8e6a5e998eb6aa8bd1ca3cc85883.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.8"
+    },
+    "TROPHY_DLC3_ACQUIRED_GUN": {
+      "name": "Pull the Trigger",
+      "description": "Equipped a gun.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/23887c67a2805a7676b52bb5ebd51ea95452a4f3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.5"
+    },
+    "TROPHY_DLC3_UNLOCK_ALL_MARKSMAN_TREE": {
+      "name": "Peerless Marksman",
+      "description": "Unlocked every panel in the marksman job tree.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/29b4b64bd7e9279f19b08515a6bad07d2a401371.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.7"
+    },
+    "TROPHY_DLC3_UNLOCKED_HUNTER": {
+      "name": "On the Hunter's Path",
+      "description": "Unlocked the hunter.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/524a6e80eca5a0eba2bf423d6c70341cbde4e0dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.3"
+    },
+    "TROPHY_DLC3_UNLOCKED_GAMBLER": {
+      "name": "Take a Chance",
+      "description": "Unlocked the gambler.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/3af30df56930c3901e46dbeaf08c6e635b10967c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.0"
+    },
+    "TROPHY_DLC3_DEFEAT_MANIKIN": {
+      "name": "Life Imitated",
+      "description": "Defeated a manikin.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/5a6fe8a5e474f40e6c364dc7c44c661e170f2746.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "TROPHY_DLC3_ACQUIRED_GARLAND_ARMOR": {
+      "name": "Such Splendid Armor...",
+      "description": "Acquired Garland's armor.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/356e01eb58c9c3ab65db20463b2d1297cafebd47.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "TROPHY_DLC3_USE_REPLICATION": {
+      "name": "The Technology of Lufenia",
+      "description": "Used replication at the blacksmith for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/d12cd9d74991215b12f867122c7e2124d507dd47.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "TROPHY_DLC3_MISSION_SUPREME_ILLUSIONS": {
+      "name": "Battle Across Time and Space",
+      "description": "Completed the additional mission \"Distant Memories: Supreme Illusions.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/3ba5d52de5115b1b3cd03b559d2e387b13fb9ddb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "TROPHY_DLC3_DEFEAT_TRANSCENDANT": {
+      "name": "Path to Legend",
+      "description": "Defeated the Transcendent.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/c47b62da760d0122f513a625c9b741a5d1273b05.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "TROPHY_DLC3_DEFEAT_HELL_RISEN": {
+      "name": "Path to a Different Future",
+      "description": "Defeated From Hell Risen.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/e5a162ffbaa7bf3686435481a0ce305758cccb9a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "TROPHY_DLC3_DEFEAT_LIGHT_OF_ORDER": {
+      "name": "On the Way to a Brighter Future",
+      "description": "Defeated Light of Order.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/0391c948bb977a12fad560013c411ab3adbdbaf0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.7"
+    },
+    "TROPHY_DLC3_DEFEAT_JACK_GARLAND": {
+      "name": "The Cycle Ends",
+      "description": "Defeated Jack Garland.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/e401ea5317240222a7beecd8ec519405abf7f9cf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1358700/6d024b6386510c5b01c2971a5f0743f54cb82373.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.6"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
