@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2797960/ff9df71bfc8d3d88b8131709b2284aba5e40c0d8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.4"
+      "percent": "65.5"
     },
     "HOTEL_FINISHED": {
       "name": "Heartbreak Hotel",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2797960/658292802145ba7c566cacd89f1d9402e2f41f3d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.1"
+      "percent": "50.0"
     },
     "FINISH_GAME": {
       "name": "The End",

@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1105510/58ba2e9b1f883bcdddf70c8ca4b0e8333cb13716.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.6"
+      "percent": "62.7"
     },
     "ACHIEVEMENT_5": {
       "name": "Japan Dome Awaits",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1105510/bcf1d1a0176e8810abe058aa7e33ea32cd7f83fa.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.5"
     },
     "ACHIEVEMENT_14": {
       "name": "Full-fledged Hunter",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1105510/7c680570d75ac58d12665c018a30df61fb0ccf51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.4"
     },
     "ACHIEVEMENT_51": {
       "name": "Dream Ride",

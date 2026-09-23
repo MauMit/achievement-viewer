@@ -1,0 +1,397 @@
+{
+  "appid": "2443630",
+  "name": "STAR WARS™: Episode I: Jedi Power Battles™",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2443630/header.jpg?t=1737658760",
+  "achievements": {
+    "JPB_Trophy_001": {
+      "name": "Grand Master",
+      "description": "Complete all other achievements",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/fd986933fd8cfa5c17b3b5db73c93833bf551893.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "JPB_Trophy_002": {
+      "name": "No Such Thing As Luck",
+      "description": "Deflect a blaster shot back and kill an enemy four times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/af64da9f8c8d8a554ac37530f85f6427ae36a089.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.2"
+    },
+    "JPB_Trophy_003": {
+      "name": "AAAAAAAH!",
+      "description": "Fall to your death",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b2baad3db6ec482dcef18dd730418495881a5b45.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.8"
+    },
+    "JPB_Trophy_004": {
+      "name": "Translate This!",
+      "description": "Kill a protocol droid",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/792bef599aae64f338b8470002cbd6e57b6d039a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "85.8"
+    },
+    "JPB_Trophy_005": {
+      "name": "Blade Amplifier",
+      "description": "Pick up both types of lightsaber power-ups",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/78cef1256fec5258fb709cafc66c165805e7b96d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.9"
+    },
+    "JPB_Trophy_006": {
+      "name": "Jedi Master",
+      "description": "Complete the game on Jedi",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/a51417b7cf4a15d86a7b5b882ce9a6e0e4ef0ac9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "JPB_Trophy_007": {
+      "name": "Tough Negotiator",
+      "description": "Complete Level 1: Trade Federation Battleship",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/d6981c36788e074e08c4c118eed3744f93ffeb2d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.7"
+    },
+    "JPB_Trophy_008": {
+      "name": "You Hear That?",
+      "description": "Complete Level 2: Swamps of Naboo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/72b85925d384d387825256884a9082f80f4af9a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.3"
+    },
+    "JPB_Trophy_009": {
+      "name": "Scavenger Hunt",
+      "description": "Complete Level 3: City of Theed",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/7b539f2b718018c1c15782ae277e4bf4920da3ab.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.1"
+    },
+    "JPB_Trophy_010": {
+      "name": "Royal Architecture",
+      "description": "Complete Level 4: Theed Palace",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/a26c2ac9bff98fc8f71eb0012de8f90d6c32072d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.7"
+    },
+    "JPB_Trophy_011": {
+      "name": "Tusken Death Cry",
+      "description": "Complete Level 5: Tatooine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/e0363e7e3b0355086f6ccdedd9f1eb10fac89d6f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.0"
+    },
+    "JPB_Trophy_012": {
+      "name": "Pardon Me, Coming Through",
+      "description": "Complete Level 6: Coruscant",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/e9ff5de8ba929864181f154de9b022ba8cef13de.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.9"
+    },
+    "JPB_Trophy_013": {
+      "name": "A Nice Walk In The Woods",
+      "description": "Complete Level 7: Ruins",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/20c0bc86dd05ff4e4d7a6639384524b508dc9b6e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.3"
+    },
+    "JPB_Trophy_014": {
+      "name": "Cruisin'",
+      "description": "Complete  Level 8: Streets of Theed",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/62267bc79e1d83e8644d356e9a318f0495f953da.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.5"
+    },
+    "JPB_Trophy_015": {
+      "name": "Cliff Hanger",
+      "description": "Complete  Level 9: Palace Cliffs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/c24de74dec22e3dfb0df8621bfe711e341e6e774.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.0"
+    },
+    "JPB_Trophy_016": {
+      "name": "Maul'd",
+      "description": "Complete Level 10: Final Battle",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/0f054a0f33ee2b4062fc5f1bd0306b0257ebb7a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "JPB_Trophy_017": {
+      "name": "Battlemech",
+      "description": "Complete Level 11: Droidekas",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/9d673881d39d356d9081c47035da5a0a3305d2f0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "JPB_Trophy_018": {
+      "name": "Yeehaw!",
+      "description": "Complete Level 12: Kaadu Race",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/0029b5b7ce6551deb0150748cb6933e3c87d59a9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "JPB_Trophy_019": {
+      "name": "How wuude!",
+      "description": "Complete Level 13: Gungan Roundup",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/1ae236bd72e7ad7f111ea485ab07f425bfdaa42f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "JPB_Trophy_020": {
+      "name": "Unlimited Power!",
+      "description": "Complete Level 14: Survival Challenge",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/443b7a7000869666f7a8b25570ca5c9efb410024.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "JPB_Trophy_021": {
+      "name": "Aggressive Negotiations",
+      "description": "Score Greater than 24000 on Level 1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/154d142c1bec888ee4ce052e2e751fe82955d435.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.4"
+    },
+    "JPB_Trophy_022": {
+      "name": "Jedi Are Not To Be Underestimated",
+      "description": "Score Greater than 24000 on Level 2",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/4b558094b44d4b72301cdec31c552e28bdbb0652.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.8"
+    },
+    "JPB_Trophy_023": {
+      "name": "Communications Disruption",
+      "description": "Score Greater than 36000 on Level 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/f79b34535bf9e947ee6840c9e8036502ce39f106.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.3"
+    },
+    "JPB_Trophy_024": {
+      "name": "Invasion",
+      "description": "Score Greater than 30000 on Level 4",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/a663d26a5fc898ad3c518fa5a4cf3fa0aac1f5ac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.4"
+    },
+    "JPB_Trophy_025": {
+      "name": "That's So Wizard",
+      "description": "Score Greater than 30000 on Level 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/8f6a6917035d2914faf09d7823c50360375412ee.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.7"
+    },
+    "JPB_Trophy_026": {
+      "name": "A Surprise To Be Sure",
+      "description": "Score Greater than 36000 on Level 6",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/7a850f9aaf9953744fc8de952c490f07f19c14ef.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.3"
+    },
+    "JPB_Trophy_027": {
+      "name": "Gungan No Likin' Outsiders",
+      "description": "Score Greater than 30000 on Level 7",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/53da252e3e638a0c8d855326067fe7d7d85cbf55.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "JPB_Trophy_028": {
+      "name": "The Speediest Way",
+      "description": "Score Greater than 36000 on Level 8",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/bfe212e09b227440f3bef1e52699de4734e508ed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "JPB_Trophy_029": {
+      "name": "Seeking The Highground",
+      "description": "Score Greater than 12000 on Level 9",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/4c3dde688ffcceeb785684f46f2415e84e25ebb1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "JPB_Trophy_030": {
+      "name": "Always Two There Are",
+      "description": "Score Greater than 15000 on Level 10",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/9bbed74f809eb2baf403fd34e5343ff9c378802f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "JPB_Trophy_031": {
+      "name": "Tank Wars",
+      "description": "Defeat a tank as a tank",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/10f3abc5108d1074ecf970ff399581e14e195856.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.4"
+    },
+    "JPB_Trophy_032": {
+      "name": "1000 Years In The Pit",
+      "description": "Fall into the Sarlacc pit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/5cb9fea977252487a069a3214fbfe8b1c7bdd9f3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "JPB_Trophy_033": {
+      "name": "Great. Rolling Death Balls.",
+      "description": "Defeat a Droideka",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/8732e25b1554649b23cfc4e3d743d9d46ecc9151.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.7"
+    },
+    "JPB_Trophy_034": {
+      "name": "Helping Hand-maidens",
+      "description": "Rescue a handmaiden",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/7c4923b6bf4c94467b38fa9d6446c05802953660.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.5"
+    },
+    "JPB_Trophy_035": {
+      "name": "I'm A Pilot",
+      "description": "Rescue a pilot",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/cdb24dfc5c994693daf87dc7c8c5d472db15b0d7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.9"
+    },
+    "JPB_Trophy_036": {
+      "name": "Portable Bacta",
+      "description": "Pick up five health bubbles",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/c02d5187f5514b3ab9c187ec9e0e3c5b263fc7fd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.8"
+    },
+    "JPB_Trophy_037": {
+      "name": "Force Grenade!",
+      "description": "Hit an enemy with a grenade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b82cbc8b8cfc111e98ab547d495241310e14b019.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.0"
+    },
+    "JPB_Trophy_038": {
+      "name": "Darth Maul",
+      "description": "Complete a level as Darth Maul",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b7407526176c5f82f6f9bc28fbfccb422350ff20.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.6"
+    },
+    "JPB_Trophy_039": {
+      "name": "Food Delivery",
+      "description": "Force push an enemy into the Sarlacc pit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/af347560fde663c84540040fe361b1f1e37b955b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "JPB_Trophy_040": {
+      "name": "Master Mace Windu",
+      "description": "Complete a level as Mace Windu",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/51c57a630478db1bd5bd001907d10d9d9458f1db.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.8"
+    },
+    "JPB_Trophy_041": {
+      "name": "Master Plo Koon",
+      "description": "Complete a level as Plo Koon",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/9a166e95b5521443bbbfdfe387bc5e953ccd10b3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.3"
+    },
+    "JPB_Trophy_042": {
+      "name": "Captain Quarsh Panaka",
+      "description": "Complete a level as Captain Panaka",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/9842194bdab54abdfdca94c59c6b2b66e7d05bd5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "JPB_Trophy_043": {
+      "name": "Augie's Great Municipal Band",
+      "description": "Complete the game on Easy",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/5118b43a14c4a5a0162f1855065134461cab1e34.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2443630/b47fe6c72e594f814f39b30f31dcf1975a7bee2a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.8"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

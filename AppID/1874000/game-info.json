@@ -1,0 +1,316 @@
+{
+  "appid": "1874000",
+  "name": "Life is Strange: Double Exposure",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874000/header.jpg?t=1773408764",
+  "achievements": {
+    "1": {
+      "name": "Split Decision",
+      "description": "Completed Chapter 1: Still Life",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/92c4d4743f6d273fd39ee1a92a34796119b42ebf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/884f8d7010ba8d677173fa382b1c613d9d63071a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "72.9"
+    },
+    "2": {
+      "name": "A Trick of the Light",
+      "description": "Found all photos in Chapter 1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/e4f84643ddcd5b4cbf555f5b45125b59db33c2f4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/3033904d3be3ba40dce211f431a5e3408cfe947a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.6"
+    },
+    "3": {
+      "name": "Bullet, Proof",
+      "description": "Completed Chapter 2: Penumbra",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/7f886eb82bfc2140c1e5ec1d4db94bceeb389d43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/25b6e6b376526206c4f25953542f043e0fc1f751.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "63.3"
+    },
+    "4": {
+      "name": "Further Developments",
+      "description": "Found all photos in Chapter 2",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/e4cf7d9951abc7c98c99f3abd36e61d134615234.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/5aad36ee102520126dc10d0b58a8e541b15e0c38.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.8"
+    },
+    "5": {
+      "name": "Face to Façade",
+      "description": "Completed Chapter 3: Spin",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/efc40d7749bfc646df904d4f09918e08b45cfe46.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/6f2d32d5623b502462ebf805888d40be7f78cbd8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "59.0"
+    },
+    "6": {
+      "name": "Selfie Care",
+      "description": "Found all photos in Chapter 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/0055d0a6e542c3301ed1b25af1cea90965ebf9ca.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/abeffa09913b8138f12656a08736e95e2f404a05.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.6"
+    },
+    "7": {
+      "name": "Fade to White",
+      "description": "Completed Chapter 4: Diptych",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/96cf5695901b97b259d1537723073830e18ca1cf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/9040fc427f7785765f807b402aa4b9cca5fc21ce.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "57.7"
+    },
+    "8": {
+      "name": "Picture Taking",
+      "description": "Found all photos in Chapter 4",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/0412fec7be388b04c5a125858b7142f7b4133d7b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/9e7a6e6909b28e180ab76572d665b686a83346e8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.7"
+    },
+    "9": {
+      "name": "Tempest Fugit",
+      "description": "Completed Chapter 5: Decoherence",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/ffdb36ec3dcd60035e120cdfe4788d19a0dfc585.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/687320ff72adcf5a6165b05cc9a905f1b4478952.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.1"
+    },
+    "10": {
+      "name": "Viewfinding",
+      "description": "Found all photos in Chapter 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/b518b58eb682ce6e52712958d2635be49b1f03c1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/581c4d449318806743603db70e35cff6829d92a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.0"
+    },
+    "11": {
+      "name": "Archival Footage",
+      "description": "Found all photos in Life is Strange: Double Exposure",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/82084c32222f9f336f519db349375e7501971b5c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/66dd4f84fbcac711c0f7be4d1670c966bf00aa51.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.8"
+    },
+    "12": {
+      "name": "Commencement",
+      "description": "Finished Life is Strange: Double Exposure",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/996a6a4375872b321560454914ebdf21537419dc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/d1a6a7446f9183a552ec266abe63d98b729c73b0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.1"
+    },
+    "13": {
+      "name": "Bay or Bae",
+      "description": "Played through Life is Strange: Double Exposure with both outcomes from Life is Strange",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/c5bf76e6f58b3fe800275a0e2f66f7bfb13b8d80.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/c48af67fabe0739621faff1a06280cb165c32194.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "14": {
+      "name": "Art Restoration",
+      "description": "Fixed all the paintings",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/64ec1c71d1111a466fb9700e82f8de93ae6709e3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/6369f5b17f0acd27f11920acdfaf41a809d59fce.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.8"
+    },
+    "15": {
+      "name": "Loyal Flush",
+      "description": "Helped timid guy get to the bathroom",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/f4ff77f872fb0e451097624f02c3e4c4d234b68f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/f33f1e26066187a7da336d8eb51c16d15a26307c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.4"
+    },
+    "16": {
+      "name": "Home Sweet Home",
+      "description": "Helped Moses finish the gingerbread house",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/42a5d95eb4ec8e5d0d59d62df3ed27ada49c19ee.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/f418b39e405961702d745f3957b3506c7818a4a4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.4"
+    },
+    "17": {
+      "name": "The Mail Gaze",
+      "description": "Retrieved the package for Vinh",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/df1ed7ba00a80a575b3164718fb47d78074052e6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/7dc2518fda8905ad03af68a0c518c811bc33f8e4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "73.2"
+    },
+    "18": {
+      "name": "Frame Fatale",
+      "description": "Took all possible photos",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/251dda1c93988cfad0277f6498bb847ddddd191f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/dd377be1bf01bbb6235348b6a228f82f05ce9628.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "19": {
+      "name": "A Nice Girl Who Runs a Bar",
+      "description": "Romanced only Amanda",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/5ecd607b92376284fceeffac69dddb34098319f5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/4d0f580b8897b5afbdbb10b3bd8d4d6e8ae95d45.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.4"
+    },
+    "20": {
+      "name": "Only Eyes for the Bad Boy",
+      "description": "Romanced only Vinh",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/2b486f5ae38675051ccc9a9de39eb3c682142f00.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/969a6179199e51c8aefcf5f926ca31bcda5b1c14.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "21": {
+      "name": "Romantically Disentangled",
+      "description": "Romanced neither Amanda nor Vinh",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/98b4fd8a966d6c9fe055ba8033ea137146d1a039.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/7ccb51cfefac0b73b1149b3115b2111af36ebe29.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.7"
+    },
+    "22": {
+      "name": "It's Complicated",
+      "description": "Romanced both Amanda and Vinh",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/33195b8ffe45182820a701fe29f5701b8479760c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/b01a252abb76984b1ff1b7ab51633040596d9932.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "23": {
+      "name": "Be Great, Do Crime!",
+      "description": "Committed the crimes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/4e002726f57f3307f0ca7ab6541ef1f2f395a81f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/98551907acb4454585142156868b7292d6a8b143.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "17.1"
+    },
+    "24": {
+      "name": "Clutterbug",
+      "description": "Found everything to decorate Hellerton with",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/0451d3d1d2073491cf4064d96a87d5004fbb2424.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/ff91b84249b246bae2fb461b11410960aeef82e8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "25": {
+      "name": "Thirst Trip",
+      "description": "Watered both plants",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/761e4f61b4ce041db6c9f2ccdc4239f34e1d4db5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/5aa408cccfe0c00346726e0dc3f674cb4d861587.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.1"
+    },
+    "26": {
+      "name": "Page Turner",
+      "description": "Read all staff books",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/aa7b084bd79ae9515843fc04590dde6d28bfe1d5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/95fe5507db9a13b335aa25863be21a2509f36fd7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.2"
+    },
+    "27": {
+      "name": "Patronizing (The Good Kind)",
+      "description": "Interacted with everyone's project",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/8fca362b93060d5841614bf5cd9b20e18c3ade1d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/2133a3b6ce01a2ea2663a6645a3cf6c86a7ea628.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "28": {
+      "name": "Clue Me In",
+      "description": "Collected all possible clues for the evidence box",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/5ede2954e4b50eecd2ceddf79e58e5fd50ff2b53.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/5f3652812c8e36ba57437e7631226d43a9861913.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "29": {
+      "name": "Thinking Outside the Box",
+      "description": "Solved the puzzle box",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/31450513051b0a7f1103d6a5bd674a309353ec61.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/5bafbb8eb2606568d4e5638e604c5b0a47c067bb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.9"
+    },
+    "30": {
+      "name": "Favor Saver",
+      "description": "Never cashed in your favor from Vinh",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/e308e01d1946562dc9c4470f5ace8abcd1afc256.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/a9ff54f3712fdd4cff3acb9dcac4752865b21e65.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.8"
+    },
+    "31": {
+      "name": "Putting the \"Cap\" in \"Caper\"",
+      "description": "Successfully slipped Safi the bottle cap",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/eb0c312a5153a0b70d2a3adc667065306834f996.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/ac60e6059060438e153b76a533b3392d51b18283.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.6"
+    },
+    "32": {
+      "name": "Platypus Genius",
+      "description": "Read all messages from Platypus Facts",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/a5026011831b9b5823412a0ab90bfad2d40bce7b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/5fc6fb04f01a9ff1b9cc47240e4e188429fb861c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "34": {
+      "name": "Nothing Lasts Fur-Ever",
+      "description": "Found the cat's owner",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/9a2e6f936f69adad7dc36ad038a5ce79f352c898.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/5ba170f43de36b4d128415fd083496044fe32dda.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "35": {
+      "name": "Heavy Petting",
+      "description": "Petted the cat",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/a26cdf28952e8172a59faa8cb2f35e96761849ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1874000/db063c4338baf12d1ae77f65e43cabd95738e4c7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

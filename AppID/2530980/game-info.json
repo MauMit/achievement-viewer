@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.4"
+      "percent": "64.3"
     },
     "NEW_ACHIEVEMENT_1_2": {
       "name": "Title Holder (50 Titles)",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.0"
+      "percent": "42.9"
     },
     "NEW_ACHIEVEMENT_1_3": {
       "name": "Title Master (100 Titles)",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.3"
+      "percent": "48.2"
     },
     "NEW_ACHIEVEMENT_1_8": {
       "name": "Emboldened (50 titles)",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.2"
     },
     "NEW_ACHIEVEMENT_1_12": {
       "name": "Lionhearted (100 titles)",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.0"
     },
     "NEW_ACHIEVEMENT_1_15": {
       "name": "Captain Ephinea (100 titles)",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.5"
+      "percent": "56.4"
     },
     "NEW_ACHIEVEMENT_1_17": {
       "name": "Appellatrix (50 titles)",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "64.0"
+      "percent": "63.9"
     },
     "NEW_ACHIEVEMENT_1_24": {
       "name": "A Throne Reclaimed",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.3"
     },
     "NEW_ACHIEVEMENT_1_25": {
       "name": "The Sands of Strahta",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "41.0"
+      "percent": "40.9"
     },
     "NEW_ACHIEVEMENT_1_27": {
       "name": "The Other Side of the Sky",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2530980/2104c728658f0cde56c5c0fca2d7442d63188f22.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.4"
     },
     "NEW_ACHIEVEMENT_1_29": {
       "name": "A Pact Fulfilled",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2530980/07388a604116a3269d1c273a1af4b98a7968375a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.2"
     },
     "NEW_ACHIEVEMENT_1_30": {
       "name": "Lineage & Legacies",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2530980/cc21c601a7ca68ebe020ae40f7936c6dd82edc90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.8"
+      "percent": "18.7"
     },
     "NEW_ACHIEVEMENT_1_31": {
       "name": "Gagonged!",

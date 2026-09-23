@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/371660/aadb05da3a1b164487c618ce650945d8e8166cbf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.5"
+      "percent": "37.6"
     },
     "FCPrimal_Ach_2": {
       "name": "Spearproof",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/371660/0a7d479051acf3ff48d2ff94b358d99aff31bc57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.6"
+      "percent": "23.7"
     },
     "FCPrimal_Ach_3": {
       "name": "Liberator",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/371660/82e601d7b0afa6820c68589eec197340deb6e5a7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "26.1"
     },
     "FCPrimal_Ach_8": {
       "name": "Mister Fix-It",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/371660/2ea7af6d26953e6bef119e64e8f10fd7be5ace1c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "FCPrimal_Ach_9": {
       "name": "Gray Huntress",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/371660/2f9a2cd6a86b78bf60966f40c7a7559aa96dadbe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.2"
+      "percent": "20.3"
     },
     "FCPrimal_Ach_10": {
       "name": "Twelve Labors",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/371660/838004370f84d95b17b2255b72f0ed7647090849.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.4"
     },
     "FCPrimal_Ach_14": {
       "name": "Big Teddy",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/371660/53c29e25fc2e0a4c3f860902c2889811f599f074.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "FCPrimal_Ach_17": {
       "name": "Home Improvement",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/371660/8d9088178290779d8afd32b27eca1e7674b4cd3c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.2"
+      "percent": "24.3"
     },
     "FCPrimal_Ach_18": {
       "name": "Subdivisions",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/371660/13699931d7dd0e8d8fce377a87fe7ea5ebb8cf8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "FCPrimal_Ach_22": {
       "name": "And Stay Down",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/371660/65fe8e77f123c57ec2d2de3eddd349b1fa93f59e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.4"
+      "percent": "9.5"
     },
     "FCPrimal_Ach_24": {
       "name": "Sharpshooter",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/371660/7e6130c03694096652bc0e3b91ec57834ae0f1e3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "FCPrimal_Ach_42": {
       "name": "Menagerie",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/371660/802ee4b7bb79fd8f7ffd6db8f1b558ecf1057375.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.3"
+      "percent": "19.4"
     },
     "FCPrimal_Ach_44": {
       "name": "Veterinarian",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/371660/c72b07d23104c151878472ee2516acb3e527855b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "18.0"
     },
     "FCPrimal_Ach_45": {
       "name": "Cave Hoarder",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/371660/d76ee626660e33c5613de895defdab27632d1ec6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.6"
     },
     "FCPrimal_Ach_48": {
       "name": "Crush Your Enemies",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/371660/b0f66c3d3d4b99f467c7d77470859d604399afc6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.5"
     },
     "FCPrimal_Ach_49": {
       "name": "Master Tracker",

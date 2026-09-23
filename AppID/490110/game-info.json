@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/490110/49528b73fa8cec6c7e371be7bb7cbca63551e53b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.5"
     },
     "AchievementId_PoliceRankSmall": {
       "name": "Making Your Mark",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/490110/a3e59c284cb9ba6a87389272953a59fc815a69db.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "28.0"
     },
     "AchievementId_GoldTimeTrial": {
       "name": "Pedal to the Metal",

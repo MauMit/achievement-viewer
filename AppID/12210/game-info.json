@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/3cf9bfd3542c40e8beaee532cb17a638494c078d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.2"
+      "percent": "55.3"
     },
     "KEYMISSION1": {
       "name": "Lowest Point",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/471de4bf9da7159480c39118a9a950dcfc475736.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "KEYMISSION2": {
       "name": "Impossible Trinity",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/e527d43bc43da8cd90fac4a3283728b04790fc8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.3"
+      "percent": "21.4"
     },
     "TURKEY": {
       "name": "Gobble Gobble",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/d1d38882d661effb347ef7a7a914dd0841b57b9a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "QUBBEAT": {
       "name": "King of QUB3D",
