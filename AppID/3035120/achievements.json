@@ -1,51 +1,51 @@
 {
   "ACH_ALLPERFECT": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784420748
   },
   "ACH_BALL": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783614319
   },
   "ACH_COM_CITY_01": {
     "earned": true,
     "earned_time": 1771628109
   },
   "ACH_COM_CITY_02": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783599591
   },
   "ACH_COM_CITY_03": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783617578
   },
   "ACH_COM_CITY_04": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783622963
   },
   "ACH_COM_CITY_05": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783628795
   },
   "ACH_DRAWER": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783616443
   },
   "ACH_DUCK": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783599621
   },
   "ACH_MEET_ALEXIS": {
     "earned": true,
     "earned_time": 1771625437
   },
   "ACH_MEET_DREW": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783619919
   },
   "ACH_MEET_KODA": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783616280
   },
   "ACH_MEET_LUCA": {
     "earned": true,
@@ -64,28 +64,28 @@
     "earned_time": 1772575589
   },
   "ACH_SANDCASTLE": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783628842
   },
   "ACH_SPECIAL_CITY_01": {
     "earned": true,
     "earned_time": 1771628109
   },
   "ACH_SPECIAL_CITY_02": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783599592
   },
   "ACH_SPECIAL_CITY_03": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783617578
   },
   "ACH_SPECIAL_CITY_04": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783622963
   },
   "ACH_SPECIAL_CITY_05": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783628795
   },
   "ACH_TOUCH_INT": {
     "earned": true,
@@ -100,7 +100,7 @@
     "earned_time": 1772484131
   },
   "ACH_WINE": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783623003
   }
 }

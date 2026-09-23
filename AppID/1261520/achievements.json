@@ -1,0 +1,114 @@
+{
+  "ACH_BOING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHALLENGE_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMBO_BUY_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMBO_ENDURANCE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COURSE_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COURSE_FAST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FINISH_CHAPTER_1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FINISH_CHAPTER_2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FINISH_CHAPTER_3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FINISH_CHAPTER_4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FINISH_CHAPTER_5": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FINISH_CHAPTER_6": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FINISH_EASY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FINISH_EXTREME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FINISH_HARD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FINISH_NORMAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_GOLD_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_HELMET_HOARD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LAUREL_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LAUREL_ONE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PIRATE_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ROMANS_BEAT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ROMANS_BEAT_POTION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SHIELD_MAX": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SHOP_BUY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SMASH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SWITCH": {
+    "earned": true,
+    "earned_time": 1785865577
+  },
+  "ACH_TIME_ATTACK_ALL": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

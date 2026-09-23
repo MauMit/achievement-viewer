@@ -1,0 +1,162 @@
+{
+  "ACCEL_COMBO_REACH_NUM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CHALLENGE_CLEAR_ISLAND1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CHALLENGE_CLEAR_ISLAND2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CHALLENGE_CLEAR_ISLAND3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CHALLENGE_CLEAR_ISLAND4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFENCE_LEVEL_REACH_NUM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ENEMY_DEFEATED_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIRST_ACCEL_COMBO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIRST_ALL_MISSION_CLEAR": {
+    "earned": true,
+    "earned_time": 1785445530
+  },
+  "FIRST_FISHING_TUTORIAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIRST_KODAMA_ELDER_TALK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIRST_KODAMA_HERMIT_TALK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIRST_METEOR_SHOWER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIRST_MINIBOSS_DEFEATED": {
+    "earned": true,
+    "earned_time": 1785446073
+  },
+  "FIRST_POWER_BOOST": {
+    "earned": true,
+    "earned_time": 1785450402
+  },
+  "FIRST_S_RANK": {
+    "earned": true,
+    "earned_time": 1785445530
+  },
+  "FISH_COIN_REACH_NUM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_FISH_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KODAMA_REACH_NUM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAIN_CLEAR_ISLAND1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAIN_CLEAR_ISLAND2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAIN_CLEAR_ISLAND3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAIN_CLEAR_ISLAND4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAIN_CLEAR_LAST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAIN_CLEAR_TUTORIAL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MINIBOSS_DEFEATED_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PORTAL_REPAIRED_ISLANAD1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PORTAL_REPAIRED_ISLANAD2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PORTAL_REPAIRED_ISLANAD3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PORTAL_REPAIRED_ISLANAD4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "POWER_LEVEL_REACH_NUM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RING_LIMIT_REACH_NUM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SKILL_ALL_OBTAINED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPEED_STATUS_REACH_NUM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SUB_CLEAR_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SUB_CLEAR_ISLAND1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SUB_CLEAR_ISLAND2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SUB_CLEAR_ISLAND3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SUB_CLEAR_ISLAND4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TOTAL_DESTROYED_OBJECT": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

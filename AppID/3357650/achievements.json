@@ -4,11 +4,11 @@
     "earned_time": 1778906642
   },
   "10": {
-    "earned": false,
+    "earned": true,
     "earned_time": 0
   },
   "11": {
-    "earned": false,
+    "earned": true,
     "earned_time": 0
   },
   "12": {
@@ -20,27 +20,27 @@
     "earned_time": 1778911962
   },
   "14": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779097395
   },
   "15": {
     "earned": true,
     "earned_time": 1778911878
   },
   "16": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779091522
   },
   "17": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779108778
   },
   "18": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779091917
   },
   "19": {
-    "earned": false,
+    "earned": true,
     "earned_time": 0
   },
   "2": {
@@ -48,12 +48,12 @@
     "earned_time": 1778911599
   },
   "20": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779094610
   },
   "21": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779090754
   },
   "22": {
     "earned": true,
@@ -64,79 +64,79 @@
     "earned_time": 1778910743
   },
   "24": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779142836
   },
   "25": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779089578
   },
   "26": {
-    "earned": false,
+    "earned": true,
     "earned_time": 0
   },
   "27": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779093514
   },
   "28": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779143389
   },
   "29": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779145929
   },
   "3": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779091285
   },
   "30": {
-    "earned": false,
+    "earned": true,
     "earned_time": 0
   },
   "31": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779109316
   },
   "32": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779112651
   },
   "33": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779121704
   },
   "34": {
-    "earned": false,
+    "earned": true,
     "earned_time": 0
   },
   "35": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779144474
   },
   "4": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779099516
   },
   "5": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779106043
   },
   "6": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779115327
   },
   "7": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779117053
   },
   "8": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779142219
   },
   "9": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779145077
   }
 }

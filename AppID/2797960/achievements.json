@@ -1,7 +1,7 @@
 {
   "AD_ASTRA_FINISHED": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1780853700
   },
   "CAR_CRASH_FINISHED": {
     "earned": true,
@@ -12,36 +12,36 @@
     "earned_time": 1771628379
   },
   "DISCO_FINISHED": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1780852594
   },
   "DRUG_PARTY_FINISHED": {
     "earned": true,
     "earned_time": 1776866336
   },
   "FINALE_FINISHED": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1780855671
   },
   "FINISH_CASE_WITHOUT_ALL_CLUES": {
-    "earned": false,
+    "earned": true,
     "earned_time": 0
   },
   "FINISH_GAME": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1780855771
   },
   "HOTEL_FINISHED": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779529686
   },
   "KADY_FINISHED": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779529929
   },
   "KENNETH_FINISHED": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1780854983
   },
   "LIGHT_MY_FIRE": {
     "earned": true,
@@ -56,12 +56,12 @@
     "earned_time": 1776865686
   },
   "RADIO_FINISHED": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779530537
   },
   "THEATRE_FINISHED": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779307447
   },
   "TUTORIAL_FINISHED": {
     "earned": true,

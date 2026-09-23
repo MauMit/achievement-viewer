@@ -1,0 +1,226 @@
+{
+  "ACH_ALL_COMMU_MAX": {
+    "earned": true,
+    "earned_time": 1789414208
+  },
+  "ACH_ALL_COMMU_OPEN": {
+    "earned": true,
+    "earned_time": 1789410867
+  },
+  "ACH_ALL_PERSONA_EVO": {
+    "earned": true,
+    "earned_time": 1789405124
+  },
+  "ACH_ALL_THEURGIA_USE": {
+    "earned": true,
+    "earned_time": 1789197602
+  },
+  "ACH_BOKOSUKA_50": {
+    "earned": true,
+    "earned_time": 1788878417
+  },
+  "ACH_CHALLENGE_MONADO": {
+    "earned": true,
+    "earned_time": 1789049129
+  },
+  "ACH_CHANCE_ENC_50": {
+    "earned": true,
+    "earned_time": 1789217557
+  },
+  "ACH_CURE_CAT": {
+    "earned": true,
+    "earned_time": 1788960675
+  },
+  "ACH_DAMAGE_999": {
+    "earned": true,
+    "earned_time": 1789047138
+  },
+  "ACH_DEFEAT_CHA_JUS": {
+    "earned": true,
+    "earned_time": 1789133729
+  },
+  "ACH_DEFEAT_EMP_EMP": {
+    "earned": true,
+    "earned_time": 1788877095
+  },
+  "ACH_DEFEAT_FOR_STR": {
+    "earned": true,
+    "earned_time": 1789233358
+  },
+  "ACH_DEFEAT_HANGEDMAN": {
+    "earned": true,
+    "earned_time": 1789242678
+  },
+  "ACH_DEFEAT_HERMIT": {
+    "earned": true,
+    "earned_time": 1789220255
+  },
+  "ACH_DEFEAT_HIE_LOV": {
+    "earned": true,
+    "earned_time": 1788885644
+  },
+  "ACH_DEFEAT_NUXE": {
+    "earned": true,
+    "earned_time": 1789417414
+  },
+  "ACH_DEFEAT_PRIESTESS": {
+    "earned": true,
+    "earned_time": 1788861610
+  },
+  "ACH_DEFEAT_RARE_SHADOW": {
+    "earned": true,
+    "earned_time": 1788796194
+  },
+  "ACH_ENC_DEATH": {
+    "earned": true,
+    "earned_time": 1788883864
+  },
+  "ACH_ENC_HAPPENING": {
+    "earned": true,
+    "earned_time": 1789241148
+  },
+  "ACH_EXE_2_SPREAD": {
+    "earned": true,
+    "earned_time": 1788863808
+  },
+  "ACH_EXE_3_SPREAD": {
+    "earned": true,
+    "earned_time": 1788879882
+  },
+  "ACH_FIND_MISSING_PERSON": {
+    "earned": true,
+    "earned_time": 1788882971
+  },
+  "ACH_FORB_DOOR_OPEN_10": {
+    "earned": true,
+    "earned_time": 1789240417
+  },
+  "ACH_GET_ARBEIT_50000": {
+    "earned": true,
+    "earned_time": 1789397894
+  },
+  "ACH_GET_CONCEPTION_ITEM": {
+    "earned": true,
+    "earned_time": 1788878472
+  },
+  "ACH_GET_EXAM_TOP": {
+    "earned": true,
+    "earned_time": 1788870682
+  },
+  "ACH_GET_RAREMEDAL_ALL": {
+    "earned": true,
+    "earned_time": 1788873076
+  },
+  "ACH_HARVEST": {
+    "earned": true,
+    "earned_time": 1788881818
+  },
+  "ACH_HIDDEN_MENU_EMP": {
+    "earned": true,
+    "earned_time": 1788862972
+  },
+  "ACH_H_PARAM_ALL_MAX": {
+    "earned": true,
+    "earned_time": 1788860570
+  },
+  "ACH_H_PARAM_ONE_MAX": {
+    "earned": true,
+    "earned_time": 1788859270
+  },
+  "ACH_INV_ELIZABETH": {
+    "earned": true,
+    "earned_time": 1789385123
+  },
+  "ACH_MAIL_INVITATION_5": {
+    "earned": true,
+    "earned_time": 1788880201
+  },
+  "ACH_MAKE_LOVERS": {
+    "earned": true,
+    "earned_time": 1789242282
+  },
+  "ACH_MAKE_MESSIAH": {
+    "earned": true,
+    "earned_time": 1789415996
+  },
+  "ACH_ONE_COMMU_MAX": {
+    "earned": true,
+    "earned_time": 1789134787
+  },
+  "ACH_ORPHEUS_GET": {
+    "earned": true,
+    "earned_time": 1788698658
+  },
+  "ACH_PAST_NIGHT_TIME": {
+    "earned": true,
+    "earned_time": 1788879536
+  },
+  "ACH_PRGS_ANTENORA": {
+    "earned": true,
+    "earned_time": 1789509739
+  },
+  "ACH_PRGS_CAINA": {
+    "earned": true,
+    "earned_time": 1789480050
+  },
+  "ACH_PRGS_COCYTUS": {
+    "earned": true,
+    "earned_time": 1789460525
+  },
+  "ACH_PRGS_EMPIREO": {
+    "earned": true,
+    "earned_time": 1789515136
+  },
+  "ACH_PRGS_ENDING": {
+    "earned": true,
+    "earned_time": 1789516143
+  },
+  "ACH_PRGS_JUDECCA": {
+    "earned": true,
+    "earned_time": 1789512473
+  },
+  "ACH_PRGS_PTOLOMEA": {
+    "earned": true,
+    "earned_time": 1789511159
+  },
+  "ACH_PRGS_WILD": {
+    "earned": true,
+    "earned_time": 1789458259
+  },
+  "ACH_PROPERTY_GET_ONE": {
+    "earned": true,
+    "earned_time": 1788882090
+  },
+  "ACH_SEES_JOIN": {
+    "earned": true,
+    "earned_time": 1788792728
+  },
+  "ACH_SFL_M_ARCANA_GET_10": {
+    "earned": true,
+    "earned_time": 1788883224
+  },
+  "ACH_SFL_PERSONA_GET_10": {
+    "earned": true,
+    "earned_time": 1788865794
+  },
+  "ACH_SHIFT": {
+    "earned": true,
+    "earned_time": 1788795120
+  },
+  "ACH_SKILL_CHANGE": {
+    "earned": true,
+    "earned_time": 1788864107
+  },
+  "ACH_TREASURE_BOX_50": {
+    "earned": true,
+    "earned_time": 1788865959
+  },
+  "ACH_TRUE_END": {
+    "earned": true,
+    "earned_time": 1789418248
+  },
+  "ACH_USE_RAREMEDAL_50": {
+    "earned": true,
+    "earned_time": 1789048039
+  }
+}
