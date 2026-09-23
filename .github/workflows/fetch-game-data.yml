@@ -4,17 +4,18 @@ on:
   workflow_call:
     inputs:
       trigger_source:
-        description: 'Source of the trigger: manual, scheduled, or push'
+        description: "Source of the trigger: manual, scheduled, or push"
         required: false
         type: string
-        default: 'push'
+        default: "push"
+
   workflow_dispatch:
     inputs:
       trigger_source:
-        description: 'Source of the trigger: manual, scheduled, or push'
+        description: "Source of the trigger: manual, scheduled, or push"
         required: false
         type: string
-        default: 'manual'
+        default: "manual"
 
 permissions:
   contents: write
@@ -22,11 +23,13 @@ permissions:
 jobs:
   fetch-data:
     runs-on: ubuntu-latest
+
     steps:
+      # Get Python scripts from main
       - name: Checkout main branch
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Fetch full history for better diff detection
+          fetch-depth: 0
           ref: main
 
       - name: Copy Python scripts
@@ -34,16 +37,17 @@ jobs:
           mkdir -p /tmp/scripts
           cp fetch_game_data.py update_top_owners.py /tmp/scripts/
 
+      # Switch working directory to user branch
       - name: Checkout user branch
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Fetch full history for better diff detection
+          fetch-depth: 0
           ref: user
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: |
@@ -60,7 +64,6 @@ jobs:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
           GITHUB_SHA: ${{ github.sha }}
           GITHUB_BEFORE: ${{ github.event.before }}
-          # Use the trigger_source input, defaulting based on event type
           TRIGGER_SOURCE: ${{ inputs.trigger_source }}
         run: python /tmp/scripts/fetch_game_data.py
 
@@ -71,26 +74,42 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          FILES=$(find AppID -type f \( -name "game-info.json" -o -name "missing hidden achievements" \))
-          FILES="$FILES top_owners.json game-data.json"
-
+          # Get latest user branch changes
           git fetch origin user
 
-          # Merge remote changes into local
-          # Use 'ours' strategy only for files that do NOT conflict
+          # Merge remote changes into our local user branch
           git merge origin/user -X ours --no-edit || true
 
-          # For safety, if any conflicts remain, reset those files to remote version
-          git diff --name-only --diff-filter=U | while read file; do
+          # Resolve any remaining conflicts using the remote version
+          git diff --name-only --diff-filter=U | while read -r file; do
+            echo "Resolving conflict: $file"
             git checkout --theirs -- "$file"
           done
 
-          git add $FILES 2>/dev/null || true
+          # Stage all generated AppID data.
+          # -A includes modified, new and deleted files.
+          git add -A AppID/
 
-          if [ -z "$(git status --porcelain)" ]; then
-            echo "No changes to commit to user branch"
-          else
-            git commit -m "Update game data [skip ci]"
+          # Stage main game data file
+          if [ -f game-data.json ]; then
+            git add game-data.json
           fi
 
-          git push origin user
+          # Stage top owners if it exists
+          if [ -f top_owners.json ]; then
+            git add top_owners.json
+          fi
+
+          echo "Git status after staging:"
+          git status --short
+
+          # Only commit if there are STAGED changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit to user branch"
+          else
+            echo "Changes detected. Creating commit..."
+            git commit -m "Update game data [skip ci]"
+
+            echo "Pushing changes to user branch..."
+            git push origin user
+          fi
