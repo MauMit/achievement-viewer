@@ -25,7 +25,7 @@ export const firebaseConfig = {
 };
 
 // Set to true after enabling Google under Authentication > Sign-in method.
-export const enableGoogleSignIn = false;
+export const enableGoogleSignIn = true;
 
 // Where the achievement data comes from (the "user" branch of this repo).
 // On GitHub Pages this is detected from the URL automatically; this is the
