@@ -16,13 +16,16 @@
 // accounts and lists are stored only in the current browser.
 
 export const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT",
-  storageBucket: "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID",
+  apiKey: "AIzaSyB1sl5qQlR9Tji0LqpdOVv2Wjnn_8yoySU",
+  authDomain: "mygamelist-2fc1f.firebaseapp.com",
+  projectId: "mygamelist-2fc1f",
+  storageBucket: "mygamelist-2fc1f.firebasestorage.app",
+  messagingSenderId: "891477552626",
+  appId: "1:891477552626:web:4a86c55e352be6144e4f6b",
 };
+
+// Set to true after enabling Google under Authentication > Sign-in method.
+export const enableGoogleSignIn = false;
 
 // Where the achievement data comes from (the "user" branch of this repo).
 // On GitHub Pages this is detected from the URL automatically; this is the

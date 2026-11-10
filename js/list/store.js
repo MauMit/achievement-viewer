@@ -1,6 +1,6 @@
 // Storage + auth layer for My Game List.
 // Firebase (Auth + Firestore) when configured, otherwise a browser-only local mode.
-import { firebaseConfig } from './firebase-config.js';
+import { firebaseConfig, enableGoogleSignIn } from './firebase-config.js';
 
 const FIREBASE_SDK = 'https://www.gstatic.com/firebasejs/10.12.2/';
 
@@ -66,7 +66,7 @@ async function createFirebaseStore() {
 
   return {
     mode: 'firebase',
-    supportsGoogle: true,
+    supportsGoogle: Boolean(enableGoogleSignIn),
     supportsReset: true,
     onAuth(cb) { authListeners.add(cb); return () => authListeners.delete(cb); },
     signIn: wrap((email, password) => authMod.signInWithEmailAndPassword(auth, email, password)),
