@@ -1,0 +1,29 @@
+name: Update Achievement Data (on push)
+
+# Runs when the achievement watcher (or sync-gse.bat) pushes new
+# AppID/<appid>/achievements.json files to this branch.
+# Only the games that changed in the push are processed, so a run takes
+# minutes instead of the 1.5 hours a full refresh of every game takes.
+# The bot's own "Update game data [skip ci]" commits don't trigger it.
+#
+# For a full refresh of every game, run "Full Refresh (all games)" from
+# the Actions tab on main.
+on:
+  push:
+    branches: [user]
+    paths:
+      - "AppID/**"
+  workflow_dispatch:
+
+concurrency:
+  group: achievement-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    permissions:
+      contents: write
+    uses: ./.github/workflows/fetch-game-data.yml
+    secrets: inherit
+    with:
+      trigger_source: push
