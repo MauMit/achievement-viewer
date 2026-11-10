@@ -31,6 +31,28 @@ body {
     z-index: 1000;
 }
 
+/* Link to My Game List (list.html) */
+#list-button {
+    position: fixed;
+    top: 16px;
+    left: 16px;
+    z-index: 1000;
+    background: rgba(102, 192, 244, 0.1);
+    color: #66c0f4;
+    border: 1px solid #66c0f4;
+    padding: 12px 20px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+#list-button:hover {
+    background: rgba(102, 192, 244, 0.2);
+    transform: translateY(-2px);
+}
+
 /* Hover lift + glow */
 #hub-button:hover {
     background: rgba(102, 192, 244, 0.2);

@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Game List</title>
+  <link rel="stylesheet" href="css/list.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="list.html">🎮 <span>My Game List</span></a>
+    <nav class="topnav">
+      <a href="list.html" class="active">Game List</a>
+      <a href="index.html">Achievements</a>
+      <a href="hub.html">Hub</a>
+    </nav>
+    <div id="user-box" class="user-box" hidden>
+      <img id="user-avatar" class="avatar" alt="" hidden>
+      <span id="user-initial" class="avatar avatar-initial"></span>
+      <span id="user-name" class="user-name"></span>
+      <button id="sign-out" class="btn btn-ghost btn-sm" type="button">Sign out</button>
+    </div>
+  </header>
+
+  <div id="local-banner" class="banner" hidden>
+    <strong>Local mode.</strong> Firebase isn't set up yet, so your account and list are saved only in this browser.
+    Follow <a href="https://github.com/MauMit/achievement-viewer/blob/main/GAME-LIST-SETUP.md" target="_blank" rel="noopener">GAME-LIST-SETUP.md</a> to sign in from any device.
+  </div>
+
+  <main>
+    <!-- Loading -->
+    <section id="boot" class="boot">
+      <div class="spinner"></div>
+      <p>Loading…</p>
+    </section>
+
+    <!-- Signed out -->
+    <section id="auth-view" class="auth-view" hidden>
+      <div class="auth-card">
+        <h1>Track every game you play</h1>
+        <p class="muted">Sign in to see what you're playing, what you've finished and what's next, with achievement progress from your watcher.</p>
+
+        <div class="auth-tabs" role="tablist">
+          <button type="button" class="auth-tab active" data-mode="signin" role="tab" aria-selected="true">Sign in</button>
+          <button type="button" class="auth-tab" data-mode="signup" role="tab" aria-selected="false">Create account</button>
+        </div>
+
+        <form id="auth-form" novalidate>
+          <label class="field" id="name-field" hidden>
+            <span>Display name</span>
+            <input id="auth-name" type="text" autocomplete="nickname" maxlength="40">
+          </label>
+          <label class="field">
+            <span>Email</span>
+            <input id="auth-email" type="email" autocomplete="email" required>
+          </label>
+          <label class="field">
+            <span>Password</span>
+            <input id="auth-password" type="password" autocomplete="current-password" required minlength="6">
+          </label>
+          <p id="auth-error" class="form-error" role="alert" hidden></p>
+          <p id="auth-info" class="form-info" role="status" hidden></p>
+          <button id="auth-submit" class="btn btn-primary btn-block" type="submit">Sign in</button>
+        </form>
+
+        <button id="forgot-btn" class="link-btn" type="button" hidden>Forgot password?</button>
+
+        <div id="google-wrap" hidden>
+          <div class="divider"><span>or</span></div>
+          <button id="google-btn" class="btn btn-google btn-block" type="button">
+            <svg width="18" height="18" viewBox="0 0 48 48" aria-hidden="true"><path fill="#FFC107" d="M43.6 20.5H42V20H24v8h11.3C33.7 32.7 29.2 36 24 36c-6.6 0-12-5.4-12-12s5.4-12 12-12c3.1 0 5.9 1.2 8 3.1l5.7-5.7C34.1 6.1 29.3 4 24 4 12.9 4 4 12.9 4 24s8.9 20 20 20 20-8.9 20-20c0-1.3-.1-2.4-.4-3.5z"/><path fill="#FF3D00" d="M6.3 14.7l6.6 4.8C14.7 15.1 19 12 24 12c3.1 0 5.9 1.2 8 3.1l5.7-5.7C34.1 6.1 29.3 4 24 4 16.3 4 9.7 8.3 6.3 14.7z"/><path fill="#4CAF50" d="M24 44c5.2 0 9.9-2 13.4-5.2l-6.2-5.2C29.2 35.1 26.7 36 24 36c-5.2 0-9.6-3.3-11.3-8l-6.5 5C9.5 39.6 16.2 44 24 44z"/><path fill="#1976D2" d="M43.6 20.5H42V20H24v8h11.3c-.8 2.2-2.2 4.2-4.1 5.6l6.2 5.2C37 39.2 44 34 44 24c0-1.3-.1-2.4-.4-3.5z"/></svg>
+            Continue with Google
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Signed in -->
+    <section id="app-view" hidden>
+      <div class="profile-head">
+        <div>
+          <h1 id="list-title">My Game List</h1>
+          <p id="ach-source" class="muted small"></p>
+        </div>
+        <div class="head-actions">
+          <button id="import-btn" class="btn btn-ghost" type="button">
+            🏆 Import from achievements <span id="import-count" class="badge" hidden>0</span>
+          </button>
+          <button id="add-btn" class="btn btn-primary" type="button">+ Add game</button>
+        </div>
+      </div>
+
+      <div id="stats" class="stats"></div>
+
+      <div class="toolbar">
+        <div id="status-tabs" class="status-tabs" role="tablist"></div>
+        <div class="toolbar-right">
+          <input id="search" class="input" type="search" placeholder="Search your list…" aria-label="Search your list">
+          <select id="sort" class="input" aria-label="Sort">
+            <option value="updated">Recently updated</option>
+            <option value="title">Title A–Z</option>
+            <option value="progress">Achievement %</option>
+            <option value="score">Score</option>
+            <option value="hours">Hours played</option>
+            <option value="added">Date added</option>
+          </select>
+          <div class="view-toggle" role="group" aria-label="View">
+            <button type="button" data-view="grid" class="active" title="Grid view" aria-label="Grid view">▦</button>
+            <button type="button" data-view="list" title="List view" aria-label="List view">☰</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="games" class="games grid"></div>
+      <div id="empty" class="empty" hidden></div>
+    </section>
+  </main>
+
+  <!-- Add / edit game -->
+  <dialog id="game-dialog" class="dialog">
+    <form id="game-form" method="dialog" novalidate>
+      <header class="dialog-head">
+        <h2 id="game-dialog-title">Add game</h2>
+        <button type="button" class="icon-btn" data-close aria-label="Close">✕</button>
+      </header>
+      <div class="dialog-body">
+        <div id="game-preview" class="game-preview"></div>
+        <div class="form-grid">
+          <label class="field span-2">
+            <span>Title *</span>
+            <input id="f-title" type="text" list="ach-titles" required maxlength="150" autocomplete="off">
+            <datalist id="ach-titles"></datalist>
+          </label>
+          <label class="field">
+            <span>Status</span>
+            <select id="f-status"></select>
+          </label>
+          <label class="field">
+            <span>Platform</span>
+            <input id="f-platform" type="text" list="platforms" maxlength="40" placeholder="PC">
+            <datalist id="platforms">
+              <option>PC</option><option>Steam Deck</option><option>PlayStation 5</option><option>PlayStation 4</option>
+              <option>Xbox Series X|S</option><option>Xbox One</option><option>Nintendo Switch 2</option><option>Nintendo Switch</option>
+              <option>Nintendo 3DS</option><option>Retro / Emulator</option><option>Mobile</option>
+            </datalist>
+          </label>
+          <label class="field">
+            <span>Score</span>
+            <select id="f-score">
+              <option value="">–</option>
+              <option value="10">10 – Masterpiece</option><option value="9">9 – Great</option><option value="8">8 – Very good</option>
+              <option value="7">7 – Good</option><option value="6">6 – Fine</option><option value="5">5 – Average</option>
+              <option value="4">4 – Bad</option><option value="3">3 – Very bad</option><option value="2">2 – Horrible</option><option value="1">1 – Appalling</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>Hours played</span>
+            <input id="f-hours" type="number" min="0" step="0.5" inputmode="decimal">
+          </label>
+          <label class="field">
+            <span>Started</span>
+            <input id="f-started" type="date">
+          </label>
+          <label class="field">
+            <span>Finished</span>
+            <input id="f-finished" type="date">
+          </label>
+          <label class="field">
+            <span>Steam AppID <small class="muted">(links achievements)</small></span>
+            <input id="f-appid" type="text" inputmode="numeric" pattern="\d*" maxlength="10" placeholder="e.g. 1086940">
+          </label>
+          <label class="field">
+            <span>Cover image URL <small class="muted">(optional)</small></span>
+            <input id="f-cover" type="url" maxlength="500" placeholder="https://…">
+          </label>
+          <label class="field span-2">
+            <span>Notes</span>
+            <textarea id="f-notes" rows="3" maxlength="2000"></textarea>
+          </label>
+        </div>
+        <p id="game-error" class="form-error" role="alert" hidden></p>
+      </div>
+      <footer class="dialog-foot">
+        <button id="delete-game" type="button" class="btn btn-danger" hidden>Delete</button>
+        <a id="view-ach" class="btn btn-ghost" hidden>View achievements</a>
+        <span class="spacer"></span>
+        <button type="button" class="btn btn-ghost" data-close>Cancel</button>
+        <button type="submit" class="btn btn-primary" id="save-game">Save</button>
+      </footer>
+    </form>
+  </dialog>
+
+  <!-- Import from achievements -->
+  <dialog id="import-dialog" class="dialog dialog-wide">
+    <div class="dialog-inner">
+      <header class="dialog-head">
+        <h2>Import from achievements</h2>
+        <button type="button" class="icon-btn" data-close aria-label="Close">✕</button>
+      </header>
+      <div class="dialog-body">
+        <p class="muted small">Games your achievement watcher has synced that aren't on your list yet. Status is suggested from your progress: 100% → Completed, 75%+ → Almost Done, anything else → Playing.</p>
+        <label class="check-all"><input type="checkbox" id="import-all" checked> Select all</label>
+        <div id="import-list" class="import-list"></div>
+      </div>
+      <footer class="dialog-foot">
+        <span id="import-summary" class="muted small"></span>
+        <span class="spacer"></span>
+        <button type="button" class="btn btn-ghost" data-close>Cancel</button>
+        <button type="button" class="btn btn-primary" id="import-confirm">Add selected</button>
+      </footer>
+    </div>
+  </dialog>
+
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+  <script type="module" src="js/list/app.js"></script>
+</body>
+</html>

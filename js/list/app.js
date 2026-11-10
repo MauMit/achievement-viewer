@@ -1,0 +1,594 @@
+import { createStore } from './store.js';
+import { loadAchievementSummaries, suggestStatus, steamCover } from './achievements.js';
+
+// ------------------------------------------------------------
+// Constants
+// ------------------------------------------------------------
+const STATUSES = [
+  { id: 'playing', label: 'Currently Playing', short: 'Playing', color: 'var(--st-playing)' },
+  { id: 'almost', label: 'Almost Done', short: 'Almost Done', color: 'var(--st-almost)' },
+  { id: 'completed', label: 'Completed', short: 'Completed', color: 'var(--st-completed)' },
+  { id: 'plan', label: 'Plan to Play', short: 'Plan to Play', color: 'var(--st-plan)' },
+];
+const STATUS = Object.fromEntries(STATUSES.map((s) => [s.id, s]));
+const PREFS_KEY = 'gamelist-prefs-v1';
+
+// ------------------------------------------------------------
+// State
+// ------------------------------------------------------------
+const state = {
+  store: null,
+  user: null,
+  games: [],
+  ach: new Map(),
+  achMeta: null,
+  filter: 'all',
+  search: '',
+  sort: 'updated',
+  view: 'grid',
+  editingId: null,
+  unsubscribeGames: null,
+};
+
+try { Object.assign(state, JSON.parse(localStorage.getItem(PREFS_KEY) || '{}')); } catch { /* ignore */ }
+const savePrefs = () => {
+  try { localStorage.setItem(PREFS_KEY, JSON.stringify({ sort: state.sort, view: state.view, filter: state.filter })); } catch { /* ignore */ }
+};
+
+// ------------------------------------------------------------
+// Helpers
+// ------------------------------------------------------------
+const $ = (sel, root = document) => root.querySelector(sel);
+const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
+const esc = (v) => String(v ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const today = () => new Date().toISOString().slice(0, 10);
+const initials = (name) => (String(name || '?').trim()[0] || '?').toUpperCase();
+
+function clean(obj) {
+  // Firestore rejects undefined values
+  return Object.fromEntries(Object.entries(obj).filter(([, v]) => v !== undefined));
+}
+
+let toastTimer;
+function toast(msg, isError = false) {
+  const el = $('#toast');
+  el.textContent = msg;
+  el.classList.toggle('error', isError);
+  el.hidden = false;
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => (el.hidden = true), isError ? 6000 : 2800);
+}
+
+function coverFor(game) {
+  if (game.cover) return game.cover;
+  const a = game.appid && state.ach.get(String(game.appid));
+  if (a && a.icon) return a.icon;
+  return game.appid ? steamCover(game.appid) : '';
+}
+
+function achFor(game) {
+  return game.appid ? state.ach.get(String(game.appid)) || null : null;
+}
+
+function relDate(unixSeconds) {
+  if (!unixSeconds) return '';
+  const days = Math.floor((Date.now() / 1000 - unixSeconds) / 86400);
+  if (days <= 0) return 'today';
+  if (days === 1) return 'yesterday';
+  if (days < 30) return `${days} days ago`;
+  return new Date(unixSeconds * 1000).toLocaleDateString();
+}
+
+function coverHtml(game, cls = 'cover') {
+  const src = coverFor(game);
+  const letter = esc(initials(game.title));
+  return `<div class="${cls}">${letter}${src ? `<img src="${esc(src)}" alt="" loading="lazy" onerror="this.remove()">` : ''}</div>`;
+}
+
+function pill(statusId) {
+  const s = STATUS[statusId] || STATUS.playing;
+  return `<span class="pill" style="--c:${s.color}">${esc(s.short)}</span>`;
+}
+
+function progressHtml(a) {
+  if (!a || !a.total) return '';
+  const full = a.percent >= 100;
+  return `<div class="progress" title="${a.unlocked} of ${a.total} achievements">
+    <div class="progress-top"><span>🏆 ${a.unlocked}/${a.total}</span><span>${a.percent}%</span></div>
+    <div class="bar${full ? ' full' : ''}"><span style="width:${a.percent}%"></span></div>
+  </div>`;
+}
+
+// Nudges the user when achievement progress no longer matches the status
+function hintFor(game, a) {
+  if (!a || !a.total) return null;
+  if (a.percent >= 100 && game.status !== 'completed') return { to: 'completed', text: '100% achievements', cls: '' };
+  if (a.percent >= 75 && a.percent < 100 && (game.status === 'playing' || game.status === 'plan')) {
+    return { to: 'almost', text: `${a.percent}% achievements`, cls: 'almost' };
+  }
+  return null;
+}
+
+// ------------------------------------------------------------
+// Rendering
+// ------------------------------------------------------------
+function counts() {
+  const c = { all: state.games.length };
+  STATUSES.forEach((s) => (c[s.id] = 0));
+  state.games.forEach((g) => { if (c[g.status] !== undefined) c[g.status]++; });
+  return c;
+}
+
+function renderStats() {
+  const c = counts();
+  let achUnlocked = 0;
+  let achTotal = 0;
+  state.games.forEach((g) => { const a = achFor(g); if (a) { achUnlocked += a.unlocked; achTotal += a.total; } });
+
+  const cards = [
+    `<button class="stat${state.filter === 'all' ? ' active' : ''}" data-filter="all" style="--c:var(--accent)"><span class="num">${c.all}</span><span class="lbl">Total games</span></button>`,
+    ...STATUSES.map((s) => `<button class="stat${state.filter === s.id ? ' active' : ''}" data-filter="${s.id}" style="--c:${s.color}"><span class="num">${c[s.id]}</span><span class="lbl">${esc(s.label)}</span></button>`),
+    `<div class="stat static" style="--c:#ffd36b"><span class="num">${achUnlocked.toLocaleString()}</span><span class="lbl">Achievements${achTotal ? ` of ${achTotal.toLocaleString()}` : ''}</span></div>`,
+  ];
+  const dist = c.all
+    ? `<div class="dist" aria-hidden="true">${STATUSES.filter((s) => c[s.id]).map((s) => `<span style="flex:${c[s.id]};background:${s.color}" title="${esc(s.label)}: ${c[s.id]}"></span>`).join('')}</div>`
+    : '';
+  $('#stats').innerHTML = cards.join('') + dist;
+}
+
+function renderTabs() {
+  const c = counts();
+  const tabs = [{ id: 'all', label: 'All', color: 'var(--accent)' }, ...STATUSES];
+  $('#status-tabs').innerHTML = tabs
+    .map((t) => `<button type="button" role="tab" class="status-tab${state.filter === t.id ? ' active' : ''}" data-filter="${t.id}" aria-selected="${state.filter === t.id}" style="--c:${t.color}">
+      <span class="dot"></span>${esc(t.label)} <span class="count">${c[t.id]}</span></button>`)
+    .join('');
+}
+
+function visibleGames() {
+  const q = state.search.trim().toLowerCase();
+  let list = state.games.filter((g) => (state.filter === 'all' || g.status === state.filter) &&
+    (!q || [g.title, g.platform, g.notes].some((v) => String(v || '').toLowerCase().includes(q))));
+
+  const pct = (g) => (achFor(g)?.percent ?? -1);
+  const sorters = {
+    updated: (a, b) => (b.updatedAt || 0) - (a.updatedAt || 0),
+    added: (a, b) => (b.createdAt || 0) - (a.createdAt || 0),
+    title: (a, b) => String(a.title).localeCompare(String(b.title), undefined, { sensitivity: 'base' }),
+    progress: (a, b) => pct(b) - pct(a),
+    score: (a, b) => (b.score || 0) - (a.score || 0),
+    hours: (a, b) => (b.hours || 0) - (a.hours || 0),
+  };
+  // Ties (e.g. a batch import) fall back to most recent achievement unlock
+  const lastUnlock = (g) => achFor(g)?.lastUnlock || 0;
+  const primary = sorters[state.sort] || sorters.updated;
+  return list.sort((a, b) => primary(a, b) || lastUnlock(b) - lastUnlock(a));
+}
+
+function renderGames() {
+  const box = $('#games');
+  const empty = $('#empty');
+  const list = visibleGames();
+  box.className = 'games ' + state.view;
+  $$('.view-toggle button').forEach((b) => b.classList.toggle('active', b.dataset.view === state.view));
+
+  if (!list.length) {
+    box.innerHTML = '';
+    empty.hidden = false;
+    const importable = importCandidates().length;
+    if (!state.games.length) {
+      empty.innerHTML = `<h2>Your list is empty</h2>
+        <p>Add the games you're playing, have finished, or want to play next.${importable ? ` Your achievement watcher already has <strong>${importable}</strong> games ready to import.` : ''}</p>
+        <div class="btns">${importable ? '<button class="btn btn-primary" data-action="import">🏆 Import from achievements</button>' : ''}
+        <button class="btn ${importable ? 'btn-ghost' : 'btn-primary'}" data-action="add">+ Add a game</button></div>`;
+    } else {
+      empty.innerHTML = `<h2>No games here</h2><p>${state.search ? 'Nothing matches your search.' : 'No games with this status yet.'}</p>`;
+    }
+    return;
+  }
+  empty.hidden = true;
+
+  if (state.view === 'list') {
+    box.innerHTML = `<div class="row-head"><span>#</span><span></span><span>Title</span><span class="c-platform">Platform</span><span>Status</span><span class="c-score">Score</span><span class="c-hours">Hours</span><span class="c-progress">Achievements</span></div>` +
+      list.map((g, i) => {
+        const a = achFor(g);
+        const s = STATUS[g.status] || STATUS.playing;
+        return `<button type="button" class="row" data-id="${esc(g.id)}" style="--c:${s.color}">
+          <span class="idx">${i + 1}</span>
+          ${coverHtml(g, 'thumb')}
+          <span class="t" title="${esc(g.title)}">${esc(g.title)}</span>
+          <span class="c-platform muted">${esc(g.platform || '–')}</span>
+          <span>${pill(g.status)}</span>
+          <span class="c-score num">${g.score ? `★ ${g.score}` : '–'}</span>
+          <span class="c-hours num muted">${g.hours ? `${g.hours}h` : '–'}</span>
+          <span class="c-progress">${progressHtml(a) || '<span class="muted small">–</span>'}</span>
+        </button>`;
+      }).join('');
+    return;
+  }
+
+  box.innerHTML = list.map((g) => {
+    const a = achFor(g);
+    const hint = hintFor(g, a);
+    const meta = [g.platform, g.hours ? `${g.hours}h` : null, a && a.lastUnlock ? `last unlock ${relDate(a.lastUnlock)}` : null].filter(Boolean).join(' · ');
+    return `<div class="card" role="button" tabindex="0" data-id="${esc(g.id)}" aria-label="${esc(g.title)}">
+      ${coverHtml(g)}
+      ${pill(g.status)}
+      ${g.score ? `<span class="score">★ ${g.score}</span>` : ''}
+      <div class="card-body">
+        <div class="card-title">${esc(g.title)}</div>
+        ${meta ? `<div class="meta">${esc(meta)}</div>` : ''}
+        ${progressHtml(a)}
+        ${hint ? `<div class="hint ${hint.cls}"><span>${esc(hint.text)}</span><button type="button" data-quick="${hint.to}" data-id="${esc(g.id)}">Mark ${esc(STATUS[hint.to].short)}</button></div>` : ''}
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function renderAll() {
+  renderStats();
+  renderTabs();
+  renderGames();
+  const n = importCandidates().length;
+  $('#import-count').textContent = n;
+  $('#import-count').hidden = n === 0;
+}
+
+function renderUser() {
+  const u = state.user;
+  $('#user-box').hidden = !u;
+  if (!u) return;
+  $('#user-name').textContent = u.name;
+  $('#list-title').textContent = `${u.name}'s Game List`;
+  document.title = `${u.name}'s Game List`;
+  const img = $('#user-avatar');
+  if (u.photo) { img.src = u.photo; img.hidden = false; $('#user-initial').hidden = true; }
+  else { img.hidden = true; $('#user-initial').hidden = false; $('#user-initial').textContent = initials(u.name); }
+}
+
+function renderAchSource() {
+  const m = state.achMeta;
+  const el = $('#ach-source');
+  if (!m) { el.textContent = 'Loading achievement data…'; return; }
+  const repo = `${m.source.owner}/${m.source.repo}`;
+  if (m.error && !m.games.size) { el.textContent = `Couldn't load achievement data from ${repo} (${m.error.message}).`; return; }
+  const when = m.lastUpdated ? new Date(m.lastUpdated * 1000).toLocaleString() : 'unknown';
+  el.textContent = `${m.games.size} games with achievements from ${repo} · synced ${when}${m.fromCache ? ' (cached)' : ''}`;
+}
+
+// ------------------------------------------------------------
+// Views
+// ------------------------------------------------------------
+function show(view) {
+  $('#boot').hidden = view !== 'boot';
+  $('#auth-view').hidden = view !== 'auth';
+  $('#app-view').hidden = view !== 'app';
+}
+
+// ------------------------------------------------------------
+// Auth UI
+// ------------------------------------------------------------
+let authMode = 'signin';
+function setAuthMode(mode) {
+  authMode = mode;
+  $$('.auth-tab').forEach((t) => { const on = t.dataset.mode === mode; t.classList.toggle('active', on); t.setAttribute('aria-selected', on); });
+  $('#name-field').hidden = mode !== 'signup';
+  $('#auth-submit').textContent = mode === 'signup' ? 'Create account' : 'Sign in';
+  $('#auth-password').autocomplete = mode === 'signup' ? 'new-password' : 'current-password';
+  $('#forgot-btn').hidden = mode !== 'signin' || !state.store.supportsReset;
+  authMessage();
+}
+function authMessage(error = '', info = '') {
+  $('#auth-error').textContent = error; $('#auth-error').hidden = !error;
+  $('#auth-info').textContent = info; $('#auth-info').hidden = !info;
+}
+
+async function onAuthSubmit(e) {
+  e.preventDefault();
+  const email = $('#auth-email').value.trim();
+  const password = $('#auth-password').value;
+  if (!email || !password) return authMessage('Enter your email and password.');
+  const btn = $('#auth-submit');
+  btn.disabled = true;
+  authMessage();
+  try {
+    if (authMode === 'signup') await state.store.signUp($('#auth-name').value.trim(), email, password);
+    else await state.store.signIn(email, password);
+    $('#auth-password').value = '';
+  } catch (err) {
+    authMessage(err.message);
+  } finally {
+    btn.disabled = false;
+  }
+}
+
+// ------------------------------------------------------------
+// Add / edit dialog
+// ------------------------------------------------------------
+function fillDatalist() {
+  const titles = [...state.ach.values()].sort((a, b) => a.name.localeCompare(b.name));
+  $('#ach-titles').innerHTML = titles.map((a) => `<option value="${esc(a.name)}"></option>`).join('');
+}
+
+function updatePreview() {
+  const appid = $('#f-appid').value.trim();
+  const a = appid ? state.ach.get(appid) : null;
+  const box = $('#game-preview');
+  const cover = $('#f-cover').value.trim() || (a && a.icon) || (appid ? steamCover(appid) : '');
+  if (!cover && !a) { box.classList.remove('show'); box.innerHTML = ''; }
+  else {
+    box.classList.add('show');
+    box.innerHTML = `${cover ? `<img src="${esc(cover)}" alt="" onerror="this.style.visibility='hidden'">` : ''}
+      <div class="gp-info"><div class="gp-title">${esc($('#f-title').value || (a && a.name) || '')}</div>
+      ${a ? progressHtml(a) || '<span class="muted small">No achievements for this game.</span>' : '<span class="muted small">No achievement data synced for this AppID.</span>'}</div>`;
+  }
+  const link = $('#view-ach');
+  link.hidden = !a;
+  if (a) link.href = `index.html?game=${encodeURIComponent(a.appid)}`;
+}
+
+function openGameDialog(game = null) {
+  state.editingId = game ? game.id : null;
+  $('#game-dialog-title').textContent = game ? 'Edit game' : 'Add game';
+  $('#delete-game').hidden = !game;
+  $('#game-error').hidden = true;
+  $('#f-status').innerHTML = STATUSES.map((s) => `<option value="${s.id}">${esc(s.label)}</option>`).join('');
+
+  const g = game || { status: state.filter !== 'all' ? state.filter : 'playing' };
+  $('#f-title').value = g.title || '';
+  $('#f-status').value = g.status || 'playing';
+  $('#f-platform').value = g.platform || '';
+  $('#f-score').value = g.score ? String(g.score) : '';
+  $('#f-hours').value = g.hours ?? '';
+  $('#f-started').value = g.startedAt || '';
+  $('#f-finished').value = g.finishedAt || '';
+  $('#f-appid').value = g.appid || '';
+  $('#f-cover').value = g.cover || '';
+  $('#f-notes').value = g.notes || '';
+  updatePreview();
+  $('#game-dialog').showModal();
+  if (!game) $('#f-title').focus();
+}
+
+function onTitleInput() {
+  // Picking a title from the achievement list links its AppID
+  const title = $('#f-title').value.trim().toLowerCase();
+  const match = [...state.ach.values()].find((a) => a.name.toLowerCase() === title);
+  if (match) {
+    $('#f-appid').value = match.appid;
+    if (!$('#f-platform').value) $('#f-platform').value = match.platform || 'PC';
+  }
+  updatePreview();
+}
+
+async function onGameSubmit(e) {
+  e.preventDefault();
+  const title = $('#f-title').value.trim();
+  const appid = $('#f-appid').value.trim();
+  const err = (m) => { $('#game-error').textContent = m; $('#game-error').hidden = false; };
+  if (!title) return err('Give the game a title.');
+  if (appid && !/^\d+$/.test(appid)) return err('Steam AppID should be numbers only.');
+  const hours = $('#f-hours').value === '' ? null : Number($('#f-hours').value);
+  if (hours !== null && (Number.isNaN(hours) || hours < 0)) return err('Hours must be 0 or more.');
+
+  const status = $('#f-status').value;
+  let finishedAt = $('#f-finished').value || null;
+  if (status === 'completed' && !finishedAt) finishedAt = today();
+
+  const data = clean({
+    title,
+    status,
+    platform: $('#f-platform').value.trim() || null,
+    score: $('#f-score').value ? Number($('#f-score').value) : null,
+    hours,
+    startedAt: $('#f-started').value || null,
+    finishedAt,
+    appid: appid || null,
+    cover: $('#f-cover').value.trim() || null,
+    notes: $('#f-notes').value.trim() || null,
+  });
+
+  const btn = $('#save-game');
+  btn.disabled = true;
+  try {
+    if (state.editingId) { await state.store.update(state.editingId, data); toast('Saved'); }
+    else {
+      if (appid && state.games.some((g) => String(g.appid) === appid)) {
+        if (!confirm('This game is already on your list. Add it again?')) return;
+      }
+      await state.store.add(data);
+      toast(`Added ${title}`);
+    }
+    $('#game-dialog').close();
+  } catch (e2) {
+    err(e2.message);
+  } finally {
+    btn.disabled = false;
+  }
+}
+
+async function onDeleteGame() {
+  const g = state.games.find((x) => x.id === state.editingId);
+  if (!g || !confirm(`Remove "${g.title}" from your list?`)) return;
+  try {
+    await state.store.remove(g.id);
+    $('#game-dialog').close();
+    toast(`Removed ${g.title}`);
+  } catch (e) { toast(e.message, true); }
+}
+
+async function quickStatus(id, status) {
+  const patch = { status };
+  const g = state.games.find((x) => x.id === id);
+  if (status === 'completed' && g && !g.finishedAt) patch.finishedAt = today();
+  try { await state.store.update(id, patch); toast(`Moved to ${STATUS[status].label}`); }
+  catch (e) { toast(e.message, true); }
+}
+
+// ------------------------------------------------------------
+// Import from achievements
+// ------------------------------------------------------------
+function importCandidates() {
+  const listed = new Set(state.games.map((g) => String(g.appid || '')));
+  return [...state.ach.values()].filter((a) => !listed.has(a.appid)).sort((a, b) => (b.lastUnlock || 0) - (a.lastUnlock || 0));
+}
+
+function openImport() {
+  const items = importCandidates();
+  if (!items.length) {
+    toast(state.ach.size ? 'Every game from your achievements is already on your list.' : 'No achievement data found yet.');
+    return;
+  }
+  $('#import-list').innerHTML = items.map((a) => {
+    const sug = suggestStatus(a);
+    return `<label class="import-item" data-appid="${esc(a.appid)}">
+      <input type="checkbox" checked>
+      <img src="${esc(a.icon)}" alt="" loading="lazy" onerror="this.style.visibility='hidden'">
+      <span style="min-width:0"><span class="t" title="${esc(a.name)}">${esc(a.name)}</span>
+        <span class="muted small">${a.total ? `${a.unlocked}/${a.total} · ${a.percent}%` : 'No achievements'}${a.lastUnlock ? ` · ${relDate(a.lastUnlock)}` : ''}</span></span>
+      <select aria-label="Status for ${esc(a.name)}">${STATUSES.map((s) => `<option value="${s.id}"${s.id === sug ? ' selected' : ''}>${esc(s.label)}</option>`).join('')}</select>
+    </label>`;
+  }).join('');
+  $('#import-all').checked = true;
+  updateImportSummary();
+  $('#import-dialog').showModal();
+}
+
+function updateImportSummary() {
+  const boxes = $$('#import-list input[type=checkbox]');
+  const n = boxes.filter((b) => b.checked).length;
+  $('#import-summary').textContent = `${n} of ${boxes.length} selected`;
+  $('#import-confirm').disabled = n === 0;
+  $('#import-all').checked = n === boxes.length;
+}
+
+async function onImportConfirm() {
+  const rows = $$('#import-list .import-item').filter((r) => $('input[type=checkbox]', r).checked);
+  const games = rows.map((r) => {
+    const a = state.ach.get(r.dataset.appid);
+    const status = $('select', r).value;
+    return clean({
+      title: a.name,
+      appid: a.appid,
+      status,
+      platform: a.platform || 'PC',
+      finishedAt: status === 'completed' && a.lastUnlock ? new Date(a.lastUnlock * 1000).toISOString().slice(0, 10) : null,
+      score: null, hours: null, startedAt: null, cover: null, notes: null,
+    });
+  });
+  const btn = $('#import-confirm');
+  btn.disabled = true;
+  try {
+    await state.store.addMany(games);
+    $('#import-dialog').close();
+    toast(`Imported ${games.length} game${games.length === 1 ? '' : 's'}`);
+  } catch (e) { toast(e.message, true); }
+  finally { btn.disabled = false; }
+}
+
+// ------------------------------------------------------------
+// Events
+// ------------------------------------------------------------
+function bindEvents() {
+  $$('.auth-tab').forEach((t) => t.addEventListener('click', () => setAuthMode(t.dataset.mode)));
+  $('#auth-form').addEventListener('submit', onAuthSubmit);
+  $('#google-btn').addEventListener('click', async () => {
+    authMessage();
+    try { await state.store.signInWithGoogle(); } catch (e) { authMessage(e.message); }
+  });
+  $('#forgot-btn').addEventListener('click', async () => {
+    const email = $('#auth-email').value.trim();
+    if (!email) return authMessage('Type your email above first, then press "Forgot password?".');
+    try { await state.store.resetPassword(email); authMessage('', `Password reset email sent to ${email}.`); }
+    catch (e) { authMessage(e.message); }
+  });
+  $('#sign-out').addEventListener('click', () => state.store.signOut().catch((e) => toast(e.message, true)));
+
+  $('#add-btn').addEventListener('click', () => openGameDialog());
+  $('#import-btn').addEventListener('click', openImport);
+
+  const setFilter = (f) => { state.filter = f; savePrefs(); renderAll(); };
+  $('#stats').addEventListener('click', (e) => { const b = e.target.closest('[data-filter]'); if (b) setFilter(b.dataset.filter); });
+  $('#status-tabs').addEventListener('click', (e) => { const b = e.target.closest('[data-filter]'); if (b) setFilter(b.dataset.filter); });
+
+  $('#search').addEventListener('input', (e) => { state.search = e.target.value; renderGames(); });
+  $('#sort').addEventListener('change', (e) => { state.sort = e.target.value; savePrefs(); renderGames(); });
+  $$('.view-toggle button').forEach((b) => b.addEventListener('click', () => { state.view = b.dataset.view; savePrefs(); renderGames(); }));
+
+  const openFromEvent = (e) => {
+    const quick = e.target.closest('[data-quick]');
+    if (quick) { e.stopPropagation(); quickStatus(quick.dataset.id, quick.dataset.quick); return; }
+    const item = e.target.closest('[data-id]');
+    if (item) openGameDialog(state.games.find((g) => g.id === item.dataset.id));
+  };
+  $('#games').addEventListener('click', openFromEvent);
+  $('#games').addEventListener('keydown', (e) => {
+    if ((e.key === 'Enter' || e.key === ' ') && e.target.classList.contains('card')) { e.preventDefault(); openFromEvent(e); }
+  });
+  $('#empty').addEventListener('click', (e) => {
+    const a = e.target.closest('[data-action]');
+    if (a) (a.dataset.action === 'import' ? openImport() : openGameDialog());
+  });
+
+  $('#game-form').addEventListener('submit', onGameSubmit);
+  $('#delete-game').addEventListener('click', onDeleteGame);
+  $('#f-title').addEventListener('input', onTitleInput);
+  $('#f-appid').addEventListener('input', updatePreview);
+  $('#f-cover').addEventListener('change', updatePreview);
+  $('#f-status').addEventListener('change', () => {
+    if ($('#f-status').value === 'completed' && !$('#f-finished').value) $('#f-finished').value = today();
+    if ($('#f-status').value === 'playing' && !$('#f-started').value) $('#f-started').value = today();
+  });
+
+  $('#import-list').addEventListener('change', (e) => { if (e.target.type === 'checkbox') updateImportSummary(); });
+  $('#import-all').addEventListener('change', (e) => { $$('#import-list input[type=checkbox]').forEach((b) => (b.checked = e.target.checked)); updateImportSummary(); });
+  $('#import-confirm').addEventListener('click', onImportConfirm);
+
+  $$('dialog [data-close]').forEach((b) => b.addEventListener('click', () => b.closest('dialog').close()));
+  $$('dialog').forEach((d) => d.addEventListener('click', (e) => { if (e.target === d) d.close(); }));
+}
+
+// ------------------------------------------------------------
+// Boot
+// ------------------------------------------------------------
+async function main() {
+  show('boot');
+  try {
+    state.store = await createStore();
+  } catch (e) {
+    $('#boot').innerHTML = `<p class="form-error">Couldn't start: ${esc(e.message)}</p>`;
+    return;
+  }
+
+  $('#local-banner').hidden = state.store.mode !== 'local';
+  $('#google-wrap').hidden = !state.store.supportsGoogle;
+  $('#sort').value = state.sort;
+  bindEvents();
+  setAuthMode('signin');
+
+  // Achievement data loads in parallel with auth
+  loadAchievementSummaries().then((res) => {
+    state.ach = res.games;
+    state.achMeta = res;
+    fillDatalist();
+    renderAchSource();
+    if (state.user) renderAll();
+  });
+
+  state.store.onAuth((user) => {
+    if (state.unsubscribeGames) { state.unsubscribeGames(); state.unsubscribeGames = null; }
+    state.user = user;
+    state.games = [];
+    renderUser();
+    if (!user) { setAuthMode('signin'); show('auth'); return; }
+    show('app');
+    renderAchSource();
+    renderAll();
+    state.unsubscribeGames = state.store.subscribe(
+      (games) => { state.games = games; renderAll(); },
+      (err) => toast(err.message, true)
+    );
+  });
+}
+
+main();
