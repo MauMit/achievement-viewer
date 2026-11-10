@@ -1,8 +1,13 @@
-name: Scheduled or Manual Trigger
+name: Full Refresh (all games)
 
+# Re-fetches names, icons, rarity and hidden achievements for EVERY game.
+# This takes about 1.5 hours, so it only runs when started by hand
+# (Actions tab > Full Refresh (all games) > Run workflow).
+#
+# It used to run every day, which made GitHub pause Actions on this fork.
+# Day-to-day updates now come from the "Update Achievement Data (on push)"
+# workflow on the user branch, which only processes games the watcher changed.
 on:
-  schedule:
-    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,4 +17,4 @@ jobs:
     uses: ./.github/workflows/fetch-game-data.yml
     secrets: inherit
     with:
-      trigger_source: ${{ github.event_name == 'schedule' && 'scheduled' || 'manual' }}
+      trigger_source: manual

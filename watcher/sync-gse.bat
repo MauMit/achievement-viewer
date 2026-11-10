@@ -115,6 +115,14 @@ git commit -m "Sync GSE and Goldberg achievements"
 if errorlevel 1 goto ERROR
 
 echo.
+echo Getting any game data GitHub Actions added meanwhile...
+git pull --rebase --autostash origin user
+if errorlevel 1 (
+    git rebase --abort >nul 2>&1
+    goto ERROR
+)
+
+echo.
 echo Uploading to GitHub...
 git push origin user
 if errorlevel 1 goto ERROR

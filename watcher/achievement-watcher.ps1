@@ -196,7 +196,12 @@ function Start-GitSync {
 
         git diff --cached --quiet
 
-        if ($LASTEXITCODE -eq 0) {
+        $HasStagedChanges = ($LASTEXITCODE -ne 0)
+
+        # Commits left over from an earlier failed push still need uploading
+        $Unpushed = [int](git rev-list --count "origin/user..user" 2>$null)
+
+        if (-not $HasStagedChanges -and $Unpushed -eq 0) {
 
             Write-Log "No achievement changes need to be uploaded."
 
@@ -204,27 +209,53 @@ function Start-GitSync {
         }
 
 
+        if ($HasStagedChanges) {
+
+            # ------------------------------------------------
+            # Display changes
+            # ------------------------------------------------
+
+            Write-Log "Changes detected:"
+
+            git status --short
+
+
+            # ------------------------------------------------
+            # Commit
+            # ------------------------------------------------
+
+            $Timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
+
+            Write-Log "Creating Git commit..."
+
+            git commit -m "Sync achievements - $Timestamp"
+
+            if ($LASTEXITCODE -ne 0) {
+                throw "Git commit failed."
+            }
+        }
+        else {
+
+            Write-Log "Uploading $Unpushed earlier commit(s) that weren't pushed yet..."
+        }
+
+
         # ----------------------------------------------------
-        # Display changes
+        # Pull first
         # ----------------------------------------------------
+        # After each push, GitHub Actions commits updated game data
+        # ("Update game data [skip ci]") to the user branch. Pull it in
+        # before pushing, or the next push is rejected as out of date.
+        # The bot only touches game-info.json / game-data.json and this
+        # script only touches achievements.json, so a rebase is safe.
 
-        Write-Log "Changes detected:"
+        Write-Log "Pulling latest user branch from GitHub..."
 
-        git status --short
-
-
-        # ----------------------------------------------------
-        # Commit
-        # ----------------------------------------------------
-
-        $Timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
-
-        Write-Log "Creating Git commit..."
-
-        git commit -m "Sync achievements - $Timestamp"
+        git pull --rebase --autostash origin user
 
         if ($LASTEXITCODE -ne 0) {
-            throw "Git commit failed."
+            git rebase --abort *> $null
+            throw "git pull failed. Your commit is kept locally; it will be pushed with the next change."
         }
 
 
